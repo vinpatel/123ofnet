@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Download every archived capture of a domain from the Wayback Machine.
-# Usage: ./scripts/fetch-wayback.sh 123of.net [from_year] [to_year]
+# Usage: ./scripts/fetch-wayback.sh 123ofnet.com [from_year] [to_year]
 # Output: archive/raw/<timestamp>/<path>  (raw, unmodified "id_" captures)
 set -euo pipefail
 

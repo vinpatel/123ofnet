@@ -1,4 +1,4 @@
-# DESIGN.md — 123of.net
+# DESIGN.md — 123ofnet.com
 
 The rule: **it must look like 1999.** Modern only where the visitor can't see it
 (performance, accessibility, security, machine-readability).

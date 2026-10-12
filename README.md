@@ -1,4 +1,4 @@
-# 123of.net
+# 123ofnet.com
 
 > Est. 1999. Back online in 2026.
 
@@ -12,12 +12,12 @@ screen.
 - **For AI agents/contributors:** [AGENTS.md](AGENTS.md)
 
 ## Stack
-- Static site: Eleventy → GitHub Pages (`123of.net`)
-- Dynamic bits: Cloudflare Worker (`api.123of.net`) + D1 + Claude API
+- Static site: Eleventy → GitHub Pages (`123ofnet.com`)
+- Dynamic bits: Cloudflare Worker (`api.123ofnet.com`) + D1 + Claude API
 
 ## Recover the original
 ```bash
-./scripts/fetch-wayback.sh 123of.net
+./scripts/fetch-wayback.sh 123ofnet.com
 ```
 
 *Best viewed in Netscape Navigator 4.0 at 800x600.* 🚧

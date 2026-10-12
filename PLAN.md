@@ -1,4 +1,4 @@
-# 123of.net — Revival Plan
+# 123ofnet.com — Revival Plan
 
 > First built in 1999 by Vin Patel. Domain re-acquired October 2026.
 > Goal: bring it back **looking exactly like 1999**, but **useful in the AI era**.
@@ -12,7 +12,7 @@ directories, webrings, guestbooks and friends' link pages. In 2026 most of the
 web is AI-generated sludge, search results are summarised by models, and people
 miss the feeling of a **real person's homepage**.
 
-**123of.net comes back as two things at once:**
+**123ofnet.com comes back as two things at once:**
 
 1. **A time capsule.** The original 1999 site, restored pixel-for-pixel
    (frames/tables, GIFs, marquee, hit counter, "best viewed in 800x600").
@@ -26,11 +26,11 @@ miss the feeling of a **real person's homepage**.
      about the directory, recommends sites, and explains the web's history.
    - **Guestbook that comes back alive:** sign the guestbook like 1999.
      Optional AI-written "reply from the webmaster" (clearly labelled).
-   - **Webring 2.0:** join the 123of.net ring. Each member site gets a
+   - **Webring 2.0:** join the 123ofnet.com ring. Each member site gets a
      prev/next/random bar and gets listed in the directory.
    - **Machine-readable for AI agents:** `llms.txt`, JSON feed of the directory,
      and later an MCP endpoint, so AI assistants can cite and recommend
-     123of.net links. Ties directly into AEO (answer-engine optimisation) work at
+     123ofnet.com links. Ties directly into AEO (answer-engine optimisation) work at
      aeorank.dev — this site becomes a live showcase of AEO done right.
 
 **Positioning line:** *"The web, before it got weird. Rebuilt for after."*
@@ -39,7 +39,7 @@ miss the feeling of a **real person's homepage**.
 
 ## 2. Why it can succeed now
 
-| Trend (2026) | How 123of.net rides it |
+| Trend (2026) | How 123ofnet.com rides it |
 |---|---|
 | Nostalgia for Web 1.0 / "small web", neocities, indieweb | Authentic 1999 site with a real 1999 origin story (not a pastiche) |
 | Distrust of AI-generated content | Human-curated, every link verified by a person |
@@ -52,7 +52,7 @@ miss the feeling of a **real person's homepage**.
   on Hacker News (Show HN), r/webdev, r/nostalgia, X/Bluesky, LinkedIn.
 - Before/after: Wayback screenshot vs revived site.
 - Invite indie makers to submit sites → each one shares their "I'm on the
-  123of.net ring" badge → backlinks and traffic loop.
+  123ofnet.com ring" badge → backlinks and traffic loop.
 - Monthly "Top 10 of the Net" email/RSS (yes, RSS — very on-brand).
 
 **Possible revenue (optional, later):** "Featured site of the week" slots,
@@ -67,9 +67,9 @@ No banner-ad spam — that kills the vibe.
 
 | Piece | Host | Why |
 |---|---|---|
-| Static site (all pages, directory, archive) | **GitHub Pages** + custom domain `123of.net` | Free, HTTPS, git history = site history |
+| Static site (all pages, directory, archive) | **GitHub Pages** + custom domain `123ofnet.com` | Free, HTTPS, git history = site history |
 | Build | **Eleventy (11ty)** via GitHub Actions | Outputs plain hand-written-style HTML; content lives in Markdown/JSON |
-| AI webmaster chat, guestbook, hit counter, webring API | **Cloudflare Worker** + D1 (SQLite) + KV at `api.123of.net` | GitHub Pages can't hold secrets or store data; Worker free tier is plenty |
+| AI webmaster chat, guestbook, hit counter, webring API | **Cloudflare Worker** + D1 (SQLite) + KV at `api.123ofnet.com` | GitHub Pages can't hold secrets or store data; Worker free tier is plenty |
 | AI model | Claude API (`claude-haiku-5-5` for chat — cheap and fast) | Key lives only in the Worker as a secret |
 | Spam protection | Cloudflare Turnstile on guestbook/submit forms | Guestbooks were spam magnets in 1999 too |
 
@@ -82,7 +82,7 @@ archived entries.
 ## 4. Phases
 
 ### Phase 0 — Recover the original (blocked on Wayback Machine being up)
-- [ ] Confirm exact original URL(s) (`123of.net`, `www.123of.net`, any old host)
+- [ ] Confirm exact original URL(s) (`123ofnet.com`, `www.123ofnet.com`, any old host)
 - [ ] Run `scripts/fetch-wayback.sh` to pull every 1999–2005 snapshot
 - [ ] Save raw captures into `archive/raw/` (untouched, never edited)
 - [ ] Screenshot each original page into `archive/screenshots/`
@@ -93,11 +93,11 @@ archived entries.
 - [ ] Rebuild every original page as static HTML under `site/1999/`
 - [ ] Strip Wayback toolbar/rewrites, restore original asset paths
 - [ ] Keep original GIFs, colours, fonts, table layouts exactly
-- [ ] Add a small, dismissible "You are viewing 123of.net as it was in 1999" banner
+- [ ] Add a small, dismissible "You are viewing 123ofnet.com as it was in 1999" banner
 
 ### Phase 2 — Modern site, retro skin (`/`)
 - [ ] Set up repo `vinpatel/123ofnet`, Eleventy, GitHub Actions → Pages
-- [ ] `CNAME` = `123of.net`, DNS A/AAAA records → GitHub Pages, enforce HTTPS
+- [ ] `CNAME` = `123ofnet.com`, DNS A/AAAA records → GitHub Pages, enforce HTTPS
 - [ ] Homepage in the 1999 look with new sections: Directory, Webring,
       Guestbook, Webmaster chat, "The 1999 site"
 - [ ] Directory data in `src/_data/directory.json` (human-curated)
@@ -115,13 +115,13 @@ archived entries.
 - [ ] Launch post + Show HN + socials
 - [ ] Monthly "Top 10 of the Net" RSS/email
 - [ ] MCP endpoint so AI agents can query the directory
-- [ ] Track AEO results (are AI assistants citing 123of.net?) via aeorank.dev
+- [ ] Track AEO results (are AI assistants citing 123ofnet.com?) via aeorank.dev
 
 ---
 
 ## 5. Open questions for Vin
 1. What was the 1999 site about? (personal homepage, links directory, tips, fan site?)
 2. Any original files on old backups?
-3. Exact original URL — was it always `123of.net`, or hosted elsewhere first?
+3. Exact original URL — was it always `123ofnet.com`, or hosted elsewhere first?
 4. OK to use Cloudflare for DNS + Worker? (recommended)
 5. Should the AI webmaster speak "as Vin, 1999 edition" or as a separate character?

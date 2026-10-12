@@ -1,6 +1,6 @@
 # AGENTS.md — instructions for AI coding agents
 
-This repo revives **123of.net**, a personal website first built in 1999.
+This repo revives **123ofnet.com**, a personal website first built in 1999.
 Read `PLAN.md` (what & why) and `DESIGN.md` (how it must look) before changing anything.
 
 ## Project layout
@@ -13,7 +13,7 @@ src/                  Eleventy source for the modern-but-retro site.
   _data/directory.json  Human-curated link directory (the core content).
   _includes/            Layouts and partials.
   assets/retro/         GIFs, buttons, counter digits.
-worker/               Cloudflare Worker (api.123of.net): counter, guestbook, chat, webring.
+worker/               Cloudflare Worker (api.123ofnet.com): counter, guestbook, chat, webring.
 scripts/              Utility scripts (e.g. fetch-wayback.sh).
 ```
 
@@ -51,7 +51,7 @@ cd worker && npx wrangler deploy   # deploy Worker (ask first)
 - Ground the chat on `directory.json` and the site's pages. It must not claim
   to browse the web or make up links.
 - Rate-limit per IP, cap `max_tokens`, and use Turnstile on write endpoints.
-- Persona: the friendly 1999 webmaster of 123of.net. Plain, warm, a bit nostalgic,
+- Persona: the friendly 1999 webmaster of 123ofnet.com. Plain, warm, a bit nostalgic,
   and honest that it is a bot.
 
 ## Git
