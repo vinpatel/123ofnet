@@ -1,0 +1,131 @@
+/* 123of.net — 1999 look, modern underneath. See DESIGN.md.
+   Placeholder palette (1999 defaults) until the original captures are recovered. */
+
+:root {
+  --bg: #000066;
+  --paper: #ffffff;
+  --text: #000000;
+  --link: #0000ee;
+  --visited: #551a8b;
+  --head: #000080;
+  --accent: #ffff00;
+  --silver: #c0c0c0;
+}
+
+html { background: var(--bg); }
+body {
+  margin: 0;
+  padding: 12px 8px;
+  /* tiled starfield, the 1999 way, without an image file */
+  background:
+    radial-gradient(1px 1px at 10px 20px, #fff 99%, transparent),
+    radial-gradient(1px 1px at 60px 70px, #ffff99 99%, transparent),
+    radial-gradient(1px 1px at 90px 30px, #fff 99%, transparent),
+    radial-gradient(1px 1px at 30px 90px, #99ccff 99%, transparent),
+    var(--bg);
+  background-size: 120px 120px;
+  color: var(--text);
+  font: 16px/1.4 "Times New Roman", Times, serif;
+}
+
+a { color: var(--link); }
+a:visited { color: var(--visited); }
+a:hover { color: #ff0000; }
+
+.skip { position: absolute; left: -9999px; }
+.skip:focus { left: 8px; top: 8px; background: var(--accent); padding: 4px; z-index: 9; }
+
+.page {
+  max-width: 760px;
+  margin: 0 auto;
+  background: var(--paper);
+  border: 3px outset var(--silver);
+}
+
+.masthead {
+  background: var(--head);
+  color: var(--accent);
+  text-align: center;
+  padding: 10px 8px 6px;
+  border-bottom: 3px ridge var(--silver);
+}
+.masthead p { margin: 0; }
+.logo { font: bold 44px/1 "Arial Black", Impact, Arial, sans-serif; letter-spacing: 2px; }
+.logo a, .logo a:visited { color: var(--accent); text-decoration: none; text-shadow: 3px 3px 0 #ff0000; }
+.tagline { font: italic 15px Georgia, serif; color: #ffffff; margin-top: 6px !important; }
+
+.marquee {
+  background: #000000;
+  color: #00ff00;
+  font: bold 13px "Courier New", monospace;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: 3px 0;
+}
+.marquee span { display: inline-block; padding-left: 100%; animation: scroll 22s linear infinite; }
+@keyframes scroll { to { transform: translateX(-100%); } }
+
+.layout { display: grid; grid-template-columns: 150px 1fr; }
+
+.sidebar {
+  background: var(--silver);
+  border-right: 2px groove #808080;
+  padding: 8px;
+  font: 14px Verdana, Arial, sans-serif;
+}
+.nav-title { background: var(--head); color: #fff; font-weight: bold; text-align: center; margin: 0 0 6px; padding: 2px; font-size: 12px; }
+.sidebar ul { list-style: none; margin: 0; padding: 0; }
+.sidebar li { margin: 0 0 6px; }
+.sidebar li::before { content: "\00bb "; color: #800000; }
+
+.content { padding: 10px 16px 16px; min-width: 0; }
+.content h1 { font: bold 26px Arial, sans-serif; color: #800000; margin: 4px 0 8px; }
+.content h2 { font: bold 19px Arial, sans-serif; color: var(--head); border-bottom: 2px solid var(--head); margin: 18px 0 8px; }
+
+hr { border: 0; border-top: 2px groove var(--silver); margin: 12px 0; }
+
+.small { font-size: 12px; }
+.center { text-align: center; }
+
+.new {
+  color: #ff0000; font: bold 10px Arial, sans-serif;
+  animation: blink 1s steps(1) infinite;
+}
+@keyframes blink { 50% { visibility: hidden; } }
+
+.construction {
+  border: 2px solid #000;
+  background: repeating-linear-gradient(-45deg, #ffcc00 0 14px, #000 14px 28px);
+  padding: 6px;
+  margin: 12px 0;
+}
+.construction p { background: #ffcc00; margin: 0; padding: 6px 10px; text-align: center; font: bold 15px Arial, sans-serif; }
+
+.box { border: 2px inset var(--silver); background: #ffffcc; padding: 8px 12px; margin: 10px 0; }
+
+table.retro { border-collapse: separate; border: 2px outset var(--silver); width: 100%; font-size: 15px; }
+table.retro th { background: var(--head); color: #fff; text-align: left; padding: 3px 6px; }
+table.retro td { border: 1px inset var(--silver); padding: 4px 6px; vertical-align: top; }
+
+.window { border: 2px outset var(--silver); background: var(--silver); margin: 12px 0; font: 13px Tahoma, Arial, sans-serif; }
+.window .titlebar { background: linear-gradient(90deg, #000080, #1084d0); color: #fff; font-weight: bold; padding: 3px 6px; }
+.window .body { background: #fff; border: 2px inset var(--silver); margin: 4px; padding: 8px; min-height: 60px; }
+
+.footer { text-align: center; padding: 0 10px 10px; font: 14px "Times New Roman", serif; }
+.counter { display: inline-block; background: #000; border: 2px inset var(--silver); padding: 1px; vertical-align: middle; }
+.counter span { display: inline-block; width: 14px; background: #111; color: #33ff33; font: bold 16px "Courier New", monospace; margin: 0 1px; }
+.webring-bar { background: #ffffcc; border: 1px dashed #808080; padding: 4px; }
+
+@media (max-width: 640px) {
+  body { padding: 0; }
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { border-right: 0; border-bottom: 2px groove #808080; }
+  .sidebar ul { display: flex; flex-wrap: wrap; gap: 4px 14px; }
+  .sidebar hr, .sidebar .small { display: none; }
+  .logo { font-size: 34px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee span, .new { animation: none; }
+  .marquee span { padding-left: 8px; }
+}

@@ -1,0 +1,11 @@
+{
+  "note": "Human-curated only. Every URL must be checked by a person before it is added. See AGENTS.md.",
+  "categories": [
+    { "name": "Computers & Internet", "slug": "computers", "blurb": "Tools, tutorials and the people who build the web", "links": [] },
+    { "name": "Small Web & Homepages", "slug": "homepages", "blurb": "Personal sites made by real humans", "links": [] },
+    { "name": "AI, Explained Simply", "slug": "ai", "blurb": "Plain-English guides to the new machines", "links": [] },
+    { "name": "Fun & Games", "slug": "fun", "blurb": "Toys, puzzles and time-wasters", "links": [] },
+    { "name": "Web History", "slug": "history", "blurb": "Museums and archives of the old net", "links": [] },
+    { "name": "Learn Something", "slug": "learn", "blurb": "Free courses, references and how-tos", "links": [] }
+  ]
+}
