@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><!-- #BeginTemplate "/Templates/template.dwt" -->
+<HEAD>
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>MOVIES ARTICLES @123ofnet.com</TITLE>
+<!-- #EndEditable --> 
+<META content="text/html; charset=windows-874" http-equiv=Content-Type>
+<META 
+content="your easy solution to the internet world and developing ecommerce solutions " 
+name=description>
+<STYLE type=text/css><!--
+.nav1 {COLOR: #0000ff; FONT-FAMILY:arial, verdana, helvetica; FONT-SIZE: 7pt}
+.nav {COLOR: #ffffff; FONT-FAMILY: arial, verdana, helvetica; FONT-SIZE: 9pt}
+-->
+</STYLE>
+<STYLE type=text/css>A.internet {
+	COLOR: white; FONT-FAMILY: Courier; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 10pt; TEXT-DECORATION: none
+}
+.red {
+	BACKGROUND-COLOR: #d60027
+}
+.black {
+	BACKGROUND-COLOR: black
+}
+.headlines {
+	COLOR: #0033cc; FONT-FAMILY: Geneva, Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 9pt; TEXT-DECORATION: none
+}
+.upperlinks {  background-color: #3366FF; color: #FFFF00; text-decoration: none; filter: DropShadow(Color=ffffff, OffX=4 OffY=4, Positive=2); font-size: x-small}
+</STYLE>
+<meta name="keywords" content="123ofnet,123ofnet.com,IRC,irc,free,free email,email,news,medicine,business,finance,computers,movies,music,education,electronics,weather,humor,editor,articles,stock,developer,chat,messageboards,forums,greetings,egreetings,postcards,classifieds,advertise,quotes,rock,pop,jazz,live help,cgi,scripts installation,banner,design,web design,web solutions,java,linux">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_initTimelines() {
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    document.MM_Time = new Array(2);
+    document.MM_Time[0] = new Array(0);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0].lastFrame = 0;
+    document.MM_Time[1] = new Array(0);
+    document.MM_Time["Timeline2"] = document.MM_Time[1];
+    document.MM_Time[1].MM_Name = "Timeline2";
+    document.MM_Time[1].fps = 15;
+    document.MM_Time[1].lastFrame = 0;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+</HEAD>
+<BODY aLink=#000099 bgColor=#ffffff link=#000099 vLink=#000099 text="#3333FF" onLoad="MM_preloadImages('pictures/banner1.gif','pictures/email.gif','pictures/chat.gif','pictures/dev.gif','pictures/classifieds.gif','pictures/findfriend.gif','pictures/greeting.gif')">
+<span class="music"></span> 
+<table align=center border=0 cellpadding=0 cellspacing=0 width="720" height="140">
+  <tbody> 
+  <tr> 
+    <td width="0" height="0" align="left" valign="top" bgcolor="#FFFFFF"> 
+      <div align="left"><a href="http://www.123ofnet.com"><img src="pictures/big_community.gif" width="200" height="50" border="0"></a><br>
+        <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://members.123ofnet.net">Make 
+        A Website For Free Today</a></b></font></div>
+    <td width="468" height="58" align="left" valign="top"> <IMG SRC="http://service.bfast.com/bfast/serve?bfmid=1921220&siteid=35120916&bfpage=music" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=1921220&siteid=35120916&bfpage=music" TARGET="_top"><IMG SRC="http://im.800.com/befree/music-for-you_468.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT="800.COM"></A>
+ 
+      <div align="left"></div>
+    </tr>
+  <tr bgcolor="#FFFFFF" align="left" valign="top"> 
+    <td colspan="2" height="58"> 
+      <table bgcolor=#FFFFCC cellspacing=0 border=0 width="720" height="0" cellpadding="0" align="center" bordercolor="#FFFFCC">
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="20" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://www.123ofnet.com">Home</a> 
+              |<a href="http://123ofnet.com/horoscope.shtml">Horoscope</a><br>
+              <a href="http://123ofnet.com/news.shtml">News</a> | <a href="http://members.123ofnet.net">Community</a></b></font></div>
+          </td>
+          <td height="20" width="497" bgcolor="#FFFFFF" align="center" valign="top" border="2" bordercolor="#FFFFFF"> 
+            <table width="500" border="1" bordercolor="#FFFF00" cellspacing="0" cellpadding="0" align="center">
+              <tr bgcolor="#3366FF"> 
+                <td> 
+                  <div align="center"><a href="http://123ofnet.mail.everyone.net"><img src="pictures/email1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="http://123ofnet.mail.everyone.net" class="upperlinks"><b>Email</b></a></span> 
+                    <a href="/chat.shtml"><img src="pictures/chat1.jpg" width="20" height="22" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="/chat.shtml" class="upperlinks">Chat 
+                    </a></b></span><a href="http://www.123ofnet.com/php/vbulletin/"><img src="pictures/chat1.gif" width="20" height="21" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://www.123ofnet.com/php/vbulletin/" class="upperlinks">Forums 
+                    </a></b></span><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet"><img src="pictures/greetings1.jpg" width="20" height="20" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet" class="upperlinks">Greetings 
+                    </a></b></span><b class="upperlinks"><a href="/developer.shtml"><img src="pictures/dev1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="/developer.shtml" class="upperlinks">Developer 
+                    </a></span></b><b><span class="upperlinks"><a href="http://www.123ofnet.com/cgi-bin/classifieds/classifieds.cgi" class="upperlinks"><img src="pictures/classifieds1.jpg" width="25" height="20" align="absmiddle" border="0">Classifieds</a> 
+                    </span></b></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="20"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/movies.shtml">Movies</a> | <a href="http://www.123ofnet.com/php/vbulletin/">Forums</a><br>
+              <a href="http://123ofnet.com/music.shtml">Music</a> | <a href="http://123ofnet.com/electronics.shtml">Electronics</a></b></font></div>
+          </td>
+        </tr>
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="0" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <p align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://123ofnet.com/medicine.shtml">Medicine</a> 
+              | <a href="http://www.alternativeconnections.com/index.htm?AssociateID=214640&amp;amp;MID=275541">Dating</a> 
+              <a href="http://123ofnet.com/business.shtml">Business</a> | <a href="http://123ofnet.com/career.shtml">Career</a> 
+              <a href="http://123ofnet.com/computers.shtml">Computers</a></b></font></p>
+          </td>
+<FORM method=GET action=http://www.google.com/custom target=_blank>
+          <td height="0" width="497" bgcolor="#FFFFCC" bordercolor="#FFFFCC" nowrap> 
+            <div align="center"> 
+              <input type=text name=q size=15 maxlength=255 value="">
+              <input type=submit name=sa value="Search">
+              <input type=hidden name=cof value="AH:center;AWFID:746c3cd377ee36d3;">
+              <input type=hidden name=domains value="123ofnet.com">
+              <font color="#FFFF00"><font color="#FF0033"> </font></font><font color="#FFFF00"><font color="#FF0033"> 
+              <input type=radio name=sitesearch value="" checked>
+              <font size="1" color="#000099">Search WWW 
+              <input type=radio name=sitesearch value="123ofnet.com">
+              Search 123ofnet.com</font></font></font> </div>
+          </td>
+</FORM>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="0"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/weather.shtml">Weather</a> | <a href="http://123ofnet.com/more_humour.shtml">Humor<br>
+              </a> <a href="http://123ofnet.com/editor.shtml">Editor</a> | <a href="http://epinions-123ofnet.epinions.com/">Opinions</a><br>
+              <a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet">eGreetings 
+              </a></b></font></div>
+          </td>
+        </tr></table>
+    </tr>
+<tr bgcolor="#CCFFCC"> 
+    <td align=left colspan=2 height=2 valign=center nowrap><font color=#ff0033 
+      face="Verdana, Arial, Helvetica, sans-serif" size=1> <marquee><b><font color="#000066">123ofnet.com</font></b><font color="#000066"> 
+      -</font> <font color="#000066">An easy solution to the Net !!!&nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;A site by three enterprising students &nbsp;&nbsp; 
+      &nbsp; &nbsp;&nbsp; &nbsp;Site ICQ # 94652174 &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; 
+      Site IRC #123ofnet</font><font color=#ffffff>&nbsp;</font></marquee></font></td>
+  </tr>
+  </tbody> 
+</table>
+<div align="left"><!-- #BeginEditable "main" --> 
+<table width="720" border="0" align="center" height="99" cellpadding="0" cellspacing="0">
+  <tr align="left" valign="top"> 
+    <td height="0"> 
+      <table width="719" border="0" cellpadding="0" cellspacing="0">
+        <tr bgcolor="#FF6666"> 
+          <td height="6"> 
+            <div align="center"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><b>Movies 
+              Articles</b></font></div>
+          </td>
+        </tr>
+        <tr bgcolor="#FFCCCC"> 
+          <td height="4"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.123ofnet.com/php/vbulletin/">Discuss 
+            on 123ofnet Forums</a> | <a href="chat.shtml">Chat on 123ofnet chat 
+            #movies</a></font> </td>
+        </tr>
+        <tr bgcolor="#FFFFFF"> 
+          <td><a name="newsitem979958192,41116,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>The story of a Princess : Zubeidaa</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+jay &nbsp;  jay@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/zub.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">The story of the film is set in the early 1950s. Zubeidaa is the only daughter of filmmaker Suleman Seth (Amrish Puri). Unknown to her father, Zubeidaa acts in a film 'Banjaran'. When her father learns of this, he forbids her from pursuing a film career and hastily arranges for her to marry Mehboob Alam, the son of his childhood friend, without consulting Zubeidaa.<br><br>Soon after they are wedded, Zubeidaa and Mehboob have a son, Riyaz. Tragedy strikes when due to a misunderstanding between the two families, Mehboob is forced to divorce Zubeidaa and the shocked girl retreats into a shell.<br><br>Zubeidaa's life undergoes a sea change when she is introduced to Maharaja Vijayendra Singh (Manoj Bajpai) at a polo match by a family friend, Rose (Lilette Dubey). The Maharaja is besotted by Zubeidaa's beauty and invites her to a celebration ball. At the ball, he shocks Zubeidaa by proposing to her.<br><br>A hesitant Zubeidaa eventually succumbs to his charms and entrusting her son, Riyaz, to her mother's (Surekha Sikri-Rege) care, she accompanies the Maharaja to Fatehpur as his second wife. In Fatehpur, she meets Mandira (Rekha), the Maharaja's first wife.<br><br>For the rest of the story see the movie you will love it....<br><br>On the whole, ZUBEIDAA is a must-see for lovers of sensible cinema and those who appreciate great performances. At the box-office, the film should do very well at select theatres of 'A' class centres, though it will not set the box-office on fire at the small centres.<br></font> 
+<a name="newsitem979403377,27625,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Farz</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+jay &nbsp;  jay@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/farz.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">This is one movie you should not waste your time for.<br><br>The story is as follows:<br><br>ACP Karan (Sunny Deol) is alone in the world and, therefore, has a no-holds-barred approach towards life. He believes in eliminating the disease of crime from its roots and obviously does it in the end. <br><br>On the other hand, his partner, ACP Arjun Singh (Om Puri), is a family man, content to lead a risk free professional life. He suffers from an acute fear psychosis because his best friend (Dara Singh), also a cop, lost his life in the line of duty just a few days before retirement. This fear is further accentuated by Arjun Singh's love for his daughter (Preity Zinta as Kajal).<br><br>Karan and Arjun Singh are constantly at logger heads, a scenario further aggravated by Kajal falling in love with Karan and his daredevil attitude. Arjun Singh, for obvious reasons, is totally averse to this as he is not very keen to see his daughter as a young widow.<br><br> Karan, always on the lookout for challenges, offers to take on the responsibility of bringing the dreaded underworld don Gawa Firozi (Jackie Shroff) and his brother, Sikander (Mukesh Tiwari), to book. In the process, to Arjun Singh's dismay, Karan presents Kajal as an eyewitness to nail Sikander for murder charges. Despite Arjun Singh's protests, the headstrong streak in Kajal makes her defy her father and agree to depose against Sikander before the court of law.<br><br>Sikander is arrested, infuriating Gawa Firozi, who wants his brother out at any cost. He hatches a plan for Sikander's escape but Karan outsmarts him and in the process, Sikander is killed and Gawa is arrested. Karan is promoted to the post of DCP due to this brave act.<br><br>Karan and Kajal are now leading a blissful life, totally oblivious of the fact that Gawa Firozi is plotting revenge.<br><br>I have seen the movie and have a really bad review about it. So do not see it rather have a good three hours sleep.</font> 
+<a name="newsitem979014015,55809,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u> Bharat Shah hospitalised</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/still1.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Bharat Shah was admitted to JJ Hospital after he complained of a severe chest pain. He is being kept under observation.<br><br>Late in the night, the Crime Branch raided the Versova offices of B4U, a TV channel promoted by Shah and his Opera House offices from where he runs his gems empire.<br><br>Meanwhile, the shooting of Sanjay Bhansali's Devdas at Filmcity was cancelled after the arrest of Shah.<br><br>Trade Guide Editor Taran Adarsh said "The industry is shocked. People in general are shocked since he is the leading film financier. Shah is also the leading distributor in the Bombay area, so the implications on economics are tremendous"<br><br>With Shah's arrest, the fate of 20 films hangs in balance. Approximately, 45 crores have been invested in Rajkumar Santoshi's Lajja & Sanjay Bhansali's Devdas. <br><br><br></font> 
+<a name="newsitem978488275,1162,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>looks Hollow ? - Hollowman</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+jay &nbsp;  jay@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/hollowman.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">The thought of human invisibility has intrigued man for centuries. This fascinating subject has been explored by acclaimed motion picture director, Paul Verhoeven ('Basic Instinct', 'Starship Troopers', 'Total Recall', Robo Cop') in his new suspense thriller, 'Hollow Man'.<br><br>In this film, the fertile mind of Verhoeven gives us Sebastian Cane (Kevin Bacon), a highly gifted scientist, who has developed a serum that induces complete invisibily. His remarkable transformation results in unimaginable power which suffocates his sense of morality, leading to a furious and frightening conclusion. <br><br>'Hollow Man' spotlights this brilliant, arrogant, but charismatic scientist, who leads a top-secret U. S. government research project which has vowed to unlock the secret of invisibility. <br>When the formula works successfully on animals, an ecstatic Caine recklessly disobeys Pentagon orders by experimenting on himself.<br><br>Unfortunately, the dangerous experiment goes terribly wrong when the procedure cannot be reversed. Caine, the 'hollow man', and his chief lieutenants, Linda McKay (Elisabeth Shue) and Matt Kensington (Josh Brolin), frantically attempt to counteract the effect. But the invisible Caine, fueled by latent megalomaniac tendencies, quickly becomes intoxicated with his new found powers. <br><br>The secret laboratory becomes a house divided, as the scientists realise that their suddenly omnipotent leader percieves them as a threat to his very existence.<br></font> 
+<a name="newsitem978487884,90286,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Raju Chacha</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+jay &nbsp;  jay@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/rajuchacha.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">'Raju Chacha' is a fun movie made especially for the kiddies. Though inspired by music legend 'Sounds of Music', the movie reflects shades of animated wonder 'Lion King'. <br><br>The movie revolves around Siddanth Rai (Rishi Kapoor), a rich architect who lives in a palatial house with his with three naughty children, a butler and a dog Casper. Siddhanth's attempts at getting a suitable governess for his children are rendered useless, as the kids harass and chase them all away. Then arrives Anna (Kajol), an orphan, who arrives as their new governess. The terrible trio try their tricks on her too but get a dose of their own medicine this time. But they soon accept defeat and become friends with Anna. <br><br>Enter Shekhar (Ajay Devgan), a small-time thief, who poses as Siddanth's long lost brother. At the behest of the children, he disguises himself their `Chacha'. Meanwhile, Shekhar gets mesmerised by Anna's simplicity, the very first time he sets his eyes on her. Over time, Shekhar wins over Anna's affection and they decide to tie the knot. But just when they are about to marry, the truth about Shekhar is revealed. <br><br>He is arrested and a disillusioned Anna decides to go back to the orphanage. That's when the usual 'kahani mein twist' happens. What happens next and what devious plans the uncles come up with is what `Raju Chacha' is all about. <br><br></font> 
+<a name="newsitem977590613,73550,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Charlies Angles</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+jay &nbsp;  jay@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/charliesangles.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Reclusive millionaire Charles Townsend (voiced by John Forsythe) recruits Alex (Lucy Liu), Natalie (Cameron Diaz), and Dylan (Drew Barrymore) to form a well-trained, high-tech, private investigations unit. <br><br>The girls are retained by Knox Technologies, headed by Eric Knox (Sam Rockwell), to track down stolen plans which would enable global positioning systems to isolate the precise location of anyone on Earth using wireless communications &#8211; technology believed to be in the hands of Knox&#8217;s competitors, Red Star Systems (run by Roger Corwin, played by Tim Curry). <br><br>Aided by Townsend&#8217;s assistant Bosley (Bill Murray), Charlie&#8217;s &#8220;Angels&#8221; infiltrate Red Star Systems, beginning an investigation which reveals many hidden agendas, and sheds light on a dark chapter from Charlie&#8217;s past&#8230;<br><br></font> 
+<a name="newsitem977589976,93601,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Champion or not???</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+jay &nbsp;  jay@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/champion.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">S.S.B. Films' CHAMPION, directed by Padam Kumar, is a tale about a man who has a quest, a dream to be the best. The film centres around four main characters, namely Rajveer Singh (Sunny Deol), a simpleton from a village in Punjab, whose sole dream in life is to become a super-cop and wipe off all crime.<br><br>After training, he gets his first posting at Mumbai for a special assignment. Bubbling with enthusiasm, on arrival, he is shocked to find that his job is to protect a nine-year-old boy, Abbas (Abhishek Sharma). A bodyguard, after all the rigorous training to eliminate hardcore criminals!<br><br>Abbas is the sole heir to millions of riches left to him by his parents (Deepak Parashar-Padmini Kapila), who have expired in a plane crash. The only threat to Abbas's life is Nazir (Rahul Dev), who has a personal vendetta because of which he venomously stalks the innocent child.<br><br>Abbas's only guardian is Sapna (Manisha Koirala), a vivacious lady and a successful model who is close to Abbas and his family. Rajveer and Abbas hate each other from the word go. Rajveer dislikes this naughty spoilt rich brat for being the cause of his shattered dream of becoming a super-cop, whereas Abbas hates Rajveer for curtailing his freedom to do things as he pleases.<br><br>From here starts a very interesting love-hate relationship filled with fun and laughter, only to culminate into Rajveer and Sapna falling in love and Abbas and Rajveer developing a relationship of understanding by the end of the day where Rajveer is ready to risk everything to protect Abbas from Nazir, the only danger in Abbas's life.<br><br> By this time Nazir has made several chilling attempts to assassinate Abbas. The only way to get Abbas out of danger is by eliminating Nazir.<br><br>CHAMPION is, to an extent, inspired by the Kevin Costner starrer THE BODYGUARD. The only difference being, the English film revolved around a bodyguard and a singer, while CHAMPION tells the story of a cop out to protect a kid from a stalker.<br><br>The initial reels of CHAMPION are devoted to establishing the key characters in the film. The focus is on light moments and songs and the outcome is mediocre. But it is the second half that catches the viewer unaware.<br><br>The stalker's evil designs of assassinating the kid are very well executed and it is these chilling moments that are the mainstay of this enterprise. Director Padam Kumar has treated these sequences with utmost care and the result is an edge-of-the-seat thriller which keeps you hooked to the goings-on till the last frame.<br><br>There are several sequences which remain etched in your memory even after the show has ended, notable among them being:<br>* Sunny confronting Rahul Dev in the mental asylum and the fight that follows,<br>* Rahul Dev entering the kid's home in the middle of the night and wrecking havoc and<br>* The climax of the film, the fight to finish.<br><br> However, CHAMPION has its share of weaknesses too:<br>* One, the characterisation of Rahul Dev seems half-baked. His leading a dual life in a mental asylum seems far-fetched.<br>* Two, the film tends to drag slightly towards the middle of the second half [portions in the hospital]. Trimming them is essential.<br>* Three, the film lacks a hit musical score to compliment the tense moments. Barring two songs that have been promoted well &#8211; 'Ek Ladki Jiski Aankhen Ye Kehti Hai' and 'Hai Aisa Champion Kahan' &#8211; the remaining songs, though lavish in picturisation, do not arouse curiosity.<br><br>Director Padam Kumar surprises you with his command over the script and techinique. Despite being his first film, Padam has handled the complex of scenes with sensitivity. As a writer, he has not given too many lines to Rahul Dev, but worked hard on his look and expressions.<br><br>The film scores in the technical department. Cinematography (S. Thiru) is brilliant. The lighting in the night scenes, mainly those involving Rahul Dev, deserves special mention. The background score (Adesh Shrivastav) is outstanding. In fact, the score plays a major role in elevating every sequence of the film. Action (Tinu Verma) is first-rate. Dialogues (Sanjay Masoom) are well worded.<br><br> Sunny breathes fire in a role that fits him like a glove. He looks dashing and performs his scenes with maturity. He has been cast in a role that the masses love to see him in.<br><br>Rahul Dev's performance can be best described in one word &#8211; excellent. This newcomer has screen presence, delivers the right expressions and has a flawless dialogue delivery.<br><br>Master Abhishek Sharma manages to hold on despite two powerful performers. Manisha Koirala looks very glamorous and acts ably.<br><br>On the whole, CHAMPION is a well-made action flick that has all it takes to be appreciated by those starved for good entertainment. However, a film of this stature deserved to be publicised better to reap a rich harvest at the box-office window.</font> 
+<a name="newsitem976681528,5167,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>MAMI International Film Festival</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+bhavin &nbsp;  bhavin@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/madhuri.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">MF Husain brushes aside most conventions of commercial cinema with Gaja Gamini. Like his paintings, the film is visually enchanting, but open to subjective interpretation.<br><br>By and large, the masses will be confused, indeed confounded, by the new kind of cinema that Gaja Gamini presents. Besides coming to terms with a novel, totally non-linear narrative format, one has to be well-versed in ancient arts, shlokas and literature to comprehend the film. The film's ambiguous presentation left me a bit bemused and befuddled at many places, too. <br><br>The story of womankind through the ages, Gaja Gamini shows her in various manifestations &#8212; a woman from Pandharpur, Kalidas's Shakuntala, Leonardo Da Vinci's Mona Lisa, Premchand's Nirmala, Manto's Sindhu, Abhisarika yearning for her lover, an earthy Noorbibi, a blind singer Sangeeta and a contemporary Monica. <br><br>Filmed in surreal set pieces, with a format akin to a dance ballet, time and spatial coordinates are willfully tossed aside here &#8212; Kalidas and a scientist meet to debate over soch and khoj. Madhuri plays the manifestation of a poet's imagination, the inspiration of a painter, Kamdev's desire and much more &#8212; yet she challenges definition. <br><br>Mysterious, multi-faceted, majestic. But the film says that the archetypal aspect about woman, whatever forms she assumes, is that she caries a gathree (burden), passing it on from one generation to another. Simultaneously, she also continues wearing the anklet. Thus she is a blend of everyday chores and extraordinary art, evolving with each generation. The film ends with the woman ready to take on the new millenium<br></font> 
+<a name="newsitem976069345,56148,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>REVIEW OF CHORI CHORI....The movie revolves around a bar dancer Madhoo whose mind... </u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/still.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Chori Chori Chupke Chupke is a unique thriller for the whole family from Abbas-Mustan. Unique because there is no crime committed, no villain, no vamp, not even a single negative character in the film!<br><br>It is the story of three main protagonists Raj, Priya & Madhoo. It is the love story of three people, which ends not in tragedy but in the totality of the relationships. It is a love story colored with the bloom of youth and melodious music that succeeds in arousing your curiosity and keeps you in suspense till the very last scene!<br><br>Chori Chori Chupke Chupke is that of a bar dancer named Madhoo (Preity Zinta). Her mind is full of money, money, money all the time. Salman Khan is married to Rani Mukherjee. They are left a will which states that unless the couple has a baby, they can't claim the property. But they find out that Rani can't conceive. That's when Salman Khan decides to ask Madhoo to be the surrogate mother. Of course, she agrees<br><br>Salman Khan plays Raj Malhotra, the scion of a rich industrialist family, who is adored by all his near and dear ones.<br><br> Rani Mukherjee plays Priya, the girl who comes from an extremely rich family. She is very sweet natured and adjusting. For Priya, her family comes first, and their happiness means everything to her.<br><br>Amrish Puri is Kailashnath Malhotra, Raj's grandfather. He adores his grandson while Raj simply worships the old man. Dilip Tahil is Ranjit Malhotra. He is Raj's father but behaves more like his friend. Totally involved in his business, for him work is worship. <br><br>Farida Jalal is Raj's most loving mother.<br><br>Prem Chopra is Dr. Balraj Chopra, the most trusted friend and advisor of the Malhotra family and is their family doctor. <br><br>Johny Lever is Pappu Bhai. Brought up like a son of the family, he has friends in high places and is great at making things work with just one phone call! <br><br><br></font> 
+<a name="newsitem975895703,35498,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Pearl Harbor : The Movie </u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+jay &nbsp;  jay@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/pearlharbor.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Hotshot pilots Rafe and Danny (longtime friends) join the Navy and are swept up in the events leading to America&#8217;s involvement in World War II. <br><br>Rafe finds himself on-loan to a beleaguered British military, fighting the air war over Europe. Danny is assigned to Pearl Harbor, Hawaii shortly before the installation is attacked by Japanese forces. <br><br>Fate&#8230;and a nurse named Evelyn (with whom both are romantically entwined)&#8230;ultimately reunite the friends -- who join legendary Colonel Jimmy Dolittle&#8217;s fabled low-altitude bombing run: a dizzying but pivotal 30 seconds over wartime Tokyo. <br></font> 
+</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr align="left" valign="top"> 
+    <td height="0"> 
+      <div align="center"><a href="http://www.commission-junction.com/track/track.dll?AID=1155750&PID=539103&URL=http%3A%2F%2Fwww%2Efreeyankee%2Ecom" target="_top">
+<img src="http://www.commission-junction.com/banners/tracker.exe?PID=539103&AID=1155750&banner=1155750%2Egif" width="468" height="60" alt="Win a New Computer, Palm VII or Cash!" border="0"></a></div>
+    </td>
+  </tr>
+</table>
+<!-- #EndEditable --> </div>
+<table width="720" border="0" align="center" cellpadding="0" cellspacing="0" height="84">
+  <tr bgcolor="#FFFFFF"> 
+    <td height="24" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><a href="http://123ofnet.com/advertise.shtml"><font color="#000099" size="1"><br>
+          ADVERTISE</font></a><font color="#000099" size="1"> | <a href="http://123ofnet.com/aboutus.shtml">ABOUT 
+          US</a> | <a href="http://123ofnet.com/developer.shtml">SERVICES</a> 
+          | <a href="http://123ofnet.com/support.shtml">SUPPORT</a> | <a href="http://123ofnet.com/faq.shtml">FAQ's</a> 
+          | <a href="http://123ofnet.com/privacypolicy.shtml">PRIVACY POLICY</a></font></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="45" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><font size="2"> <img src="http://www.123ofnet.com/pictures/itechlogo.gif" align="absmiddle"> 
+          123ofnet.com<br>
+          <br>
+          </font><IMG SRC="http://service.bfast.com/bfast/serve?bfmid=1307357&siteid=34385023&bfpage=1" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=1307357&siteid=34385023&bfpage=1" TARGET="_top"><IMG SRC="http://www.gator.com/images/banners/gator_form2_468x60.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT="Gator fills out forms and remembers passwords!"></A>
+</p>
+        </div>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+</BODY>
+<!-- #EndTemplate --></HTML>

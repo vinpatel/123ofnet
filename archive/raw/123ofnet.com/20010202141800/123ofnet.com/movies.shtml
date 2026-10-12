@@ -1,0 +1,469 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><!-- #BeginTemplate "/Templates/template.dwt" -->
+<HEAD>
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>MOVIES @ 123ofnet.com</TITLE>
+<!-- #EndEditable --> 
+<META content="text/html; charset=windows-874" http-equiv=Content-Type>
+<META 
+content="your easy solution to the internet world and developing ecommerce solutions " 
+name=description>
+<STYLE type=text/css><!--
+.nav1 {COLOR: #0000ff; FONT-FAMILY:arial, verdana, helvetica; FONT-SIZE: 7pt}
+.nav {COLOR: #ffffff; FONT-FAMILY: arial, verdana, helvetica; FONT-SIZE: 9pt}
+-->
+</STYLE>
+<STYLE type=text/css>A.internet {
+	COLOR: white; FONT-FAMILY: Courier; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 10pt; TEXT-DECORATION: none
+}
+.red {
+	BACKGROUND-COLOR: #d60027
+}
+.black {
+	BACKGROUND-COLOR: black
+}
+.headlines {
+	COLOR: #0033cc; FONT-FAMILY: Geneva, Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 9pt; TEXT-DECORATION: none
+}
+.upperlinks {  background-color: #3366FF; color: #FFFF00; text-decoration: none; filter: DropShadow(Color=ffffff, OffX=4 OffY=4, Positive=2); font-size: x-small}
+</STYLE>
+<meta name="keywords" content="123ofnet,123ofnet.com,IRC,irc,free,free email,email,news,medicine,business,finance,computers,movies,music,education,electronics,weather,humor,editor,articles,stock,developer,chat,messageboards,forums,greetings,egreetings,postcards,classifieds,advertise,quotes,rock,pop,jazz,live help,cgi,scripts installation,banner,design,web design,web solutions,java,linux">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_initTimelines() {
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    document.MM_Time = new Array(2);
+    document.MM_Time[0] = new Array(0);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0].lastFrame = 0;
+    document.MM_Time[1] = new Array(0);
+    document.MM_Time["Timeline2"] = document.MM_Time[1];
+    document.MM_Time[1].MM_Name = "Timeline2";
+    document.MM_Time[1].fps = 15;
+    document.MM_Time[1].lastFrame = 0;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+</HEAD>
+<BODY aLink=#000099 bgColor=#ffffff link=#000099 vLink=#000099 text="#3333FF" onLoad="MM_preloadImages('pictures/banner1.gif','pictures/email.gif','pictures/chat.gif','pictures/dev.gif','pictures/classifieds.gif','pictures/findfriend.gif','pictures/greeting.gif')">
+<span class="music"></span> 
+<table align=center border=0 cellpadding=0 cellspacing=0 width="720" height="140">
+  <tbody> 
+  <tr> 
+    <td width="0" height="0" align="left" valign="top" bgcolor="#FFFFFF"> 
+      <div align="left"><a href="http://www.123ofnet.com"><img src="pictures/big_community.gif" width="200" height="50" border="0"></a><br>
+        <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://members.123ofnet.net">Make 
+        A Website For Free Today</a></b></font></div>
+    <td width="468" height="58" align="left" valign="top"> <IMG SRC="http://service.bfast.com/bfast/serve?bfmid=20904140&siteid=35120919&bfpage=pop" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=20904140&siteid=35120919&bfpage=pop" TARGET="_top"><IMG SRC="http://www.bmgmusicservice.com/partner/images/banners/headphones_468.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT=""></A> 
+      <div align="left"></div>
+    </tr>
+  <tr bgcolor="#FFFFFF" align="left" valign="top"> 
+    <td colspan="2" height="58"> 
+      <table bgcolor=#FFFFCC cellspacing=0 border=0 width="720" height="0" cellpadding="0" align="center" bordercolor="#FFFFCC">
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="20" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://www.123ofnet.com">Home</a> 
+              |<a href="http://123ofnet.com/horoscope.shtml">Horoscope</a><br>
+              <a href="http://123ofnet.com/news.shtml">News</a> | <a href="http://members.123ofnet.net">Community</a></b></font></div>
+          </td>
+          <td height="20" width="497" bgcolor="#FFFFFF" align="center" valign="top" border="2" bordercolor="#FFFFFF"> 
+            <table width="500" border="1" bordercolor="#FFFF00" cellspacing="0" cellpadding="0" align="center">
+              <tr bgcolor="#3366FF"> 
+                <td> 
+                  <div align="center"><a href="http://123ofnet.mail.everyone.net"><img src="pictures/email1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="http://123ofnet.mail.everyone.net" class="upperlinks"><b>Email</b></a></span> 
+                    <a href="/chat.shtml"><img src="pictures/chat1.jpg" width="20" height="22" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="/chat.shtml" class="upperlinks">Chat 
+                    </a></b></span><a href="http://www.123ofnet.com/php/vbulletin/"><img src="pictures/chat1.gif" width="20" height="21" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://www.123ofnet.com/php/vbulletin/" class="upperlinks">Forums 
+                    </a></b></span><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet"><img src="pictures/greetings1.jpg" width="20" height="20" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet" class="upperlinks">Greetings 
+                    </a></b></span><b class="upperlinks"><a href="/developer.shtml"><img src="pictures/dev1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="/developer.shtml" class="upperlinks">Developer 
+                    </a></span></b><b><span class="upperlinks"><a href="http://www.123ofnet.com/cgi-bin/classifieds/classifieds.cgi" class="upperlinks"><img src="pictures/classifieds1.jpg" width="25" height="20" align="absmiddle" border="0">Classifieds</a> 
+                    </span></b></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="20"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/movies.shtml">Movies</a> | <a href="http://www.123ofnet.com/php/vbulletin/">Forums</a><br>
+              <a href="http://123ofnet.com/music.shtml">Music</a> | <a href="http://123ofnet.com/electronics.shtml">Electronics</a></b></font></div>
+          </td>
+        </tr>
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="0" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <p align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://123ofnet.com/medicine.shtml">Medicine</a> 
+              | <a href="http://www.alternativeconnections.com/index.htm?AssociateID=214640&amp;amp;MID=275541">Dating</a> 
+              <a href="http://123ofnet.com/business.shtml">Business</a> | <a href="http://123ofnet.com/career.shtml">Career</a> 
+              <a href="http://123ofnet.com/computers.shtml">Computers</a></b></font></p>
+          </td>
+<FORM method=GET action=http://www.google.com/custom target=_blank>
+          <td height="0" width="497" bgcolor="#FFFFCC" bordercolor="#FFFFCC" nowrap> 
+            <div align="center"> 
+              <input type=text name=q size=15 maxlength=255 value="">
+              <input type=submit name=sa value="Search">
+              <input type=hidden name=cof value="AH:center;AWFID:746c3cd377ee36d3;">
+              <input type=hidden name=domains value="123ofnet.com">
+              <font color="#FFFF00"><font color="#FF0033"> </font></font><font color="#FFFF00"><font color="#FF0033"> 
+              <input type=radio name=sitesearch value="" checked>
+              <font size="1" color="#000099">Search WWW 
+              <input type=radio name=sitesearch value="123ofnet.com">
+              Search 123ofnet.com</font></font></font> </div>
+          </td>
+</FORM>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="0"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/weather.shtml">Weather</a> | <a href="http://123ofnet.com/more_humour.shtml">Humor<br>
+              </a> <a href="http://123ofnet.com/editor.shtml">Editor</a> | <a href="http://epinions-123ofnet.epinions.com/">Opinions</a><br>
+              <a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet">eGreetings 
+              </a></b></font></div>
+          </td>
+        </tr></table>
+    </tr>
+<tr bgcolor="#CCFFCC"> 
+    <td align=left colspan=2 height=2 valign=center nowrap><font color=#ff0033 
+      face="Verdana, Arial, Helvetica, sans-serif" size=1> <marquee><b><font color="#000066">123ofnet.com</font></b><font color="#000066"> 
+      -</font> <font color="#000066">An easy solution to the Net !!!&nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;A site by three enterprising students &nbsp;&nbsp; 
+      &nbsp; &nbsp;&nbsp; &nbsp;Site ICQ # 94652174 &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; 
+      Site IRC #123ofnet</font><font color=#ffffff>&nbsp;</font></marquee></font></td>
+  </tr>
+  </tbody> 
+</table>
+<div align="left"><!-- #BeginEditable "main" --> 
+<table width="720" border="0" align="center" height="99">
+  <tr> 
+    <td height="576" align="left" valign="top" rowspan="8"> 
+      <table width="462" border="0" cellspacing="0" cellpadding="0" height="23">
+        <tr bgcolor="#FFCC33"> 
+          <td colspan="2"> 
+            <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b>Movies 
+              Masala</b></font></div>
+          </td>
+        </tr>
+        <tr> 
+          <td colspan="2"> 
+            <script language="JavaScript"
+src="http://www.moreover.com/cgi-local/page?movies@123ofnet.com+jspage">
+</script>
+          </td>
+        </tr>
+        <tr bgcolor="#FF6666"> 
+          <td colspan="2"> 
+            <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b>Movies 
+              Categories</b></font></div>
+          </td>
+        </tr>
+        <tr> 
+          <td rowspan="14" bgcolor="#FFFFFF" width="231"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Arts/Performing_Arts/Acting/Actors_and_Actresses/"><img src="pictures/JP3.JPG" width="144" height="119" align="left" border="0">Actor 
+            and Actresses<br>
+            </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Awards/">Awards<br>
+            </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Contests/">Contests<br>
+            </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/DVD/">DVD's</a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Arts/Movies/Filmmaking/"><br>
+            FlimMaking</a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Genres/"><br>
+            Genres</a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Multimedia/"><br>
+            Multimedia<br>
+            </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Business/Industries/Arts_and_Entertainment/Film,_Video_and_Television_Production/"><img src="pictures/toystory2_dvd.gif" width="143" height="122" align="left" border="0">Production<br>
+            </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Reviews/">Reviews</a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Arts/Movies/Scripts/"><br>
+            Scripts<br>
+            </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Showtimes/">Showtimes</a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Arts/Movies/Studios/"><br>
+            Studios<br>
+            </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Theaters/">Theatres<br>
+            </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Trivia/">Trivia</a></font></td>
+          <td rowspan="14" bgcolor="#FFFFFF" width="231"> 
+            <p><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Adult/Arts/Movies/"><img src="pictures/braveheart_war_1995.jpg" width="116" height="93" align="left" border="0">Adults<br>
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Chats_and_Forums/">Chats 
+              and Forums<br>
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Filmmaking/Directing/Directors/">Directors<br>
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Film_Festivals/">Flim 
+              Festivals<br>
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Education/Film_Schools/">Flim 
+              Schools</a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Home_Video/"><br>
+              Home Video<br>
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/News_and_Media/Previews/"><img src="pictures/PATRIOT2.JPG" width="115" height="124" align="left" border="0">Previews<br>
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Release_Schedules/">Release 
+              <br>
+              Schedules</a><br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Screenwriting/">Screen 
+              Writing<br>
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Scripts/">Series<br>
+              </a><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Soundtracks/">Soundtrack<br>
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Performing_Arts/Stunts/">Stunts 
+              </a></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/News_and_Media/Previews/Trailers/"><br>
+              Trailers</a></font><font size="2" face="Arial, Helvetica, sans-serif"></font><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Scripts/"><br>
+              </a></font></p>
+          </td>
+        </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr> </tr>
+        <tr bgcolor="#99CCFF"> 
+          <td colspan="2"> 
+            <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b>Classic 
+              Movies Section</b></font></div>
+          </td>
+        </tr>
+        <tr bgcolor="#FFFFFF"> 
+          <td colspan="2" height="14"><a name="newsitem972791039,19624,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Sound Of Music</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+bhavin &nbsp;  bhavin@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/soundofmusic.jpg"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">It is the best made movie of the previous century<br>If you haven't already seen the greatest film ever made (which happens to be "The Sound of Music") you've probably been living in a locked basement for 35 years. The music is wonderful, the script is funny and touching, and the acting is among the best ever (especially since it stars the greatest performer of all time, Julie Andrews) Go see it now! It even made the "AFI's 100 Greatest Films" list. (it got #55, but should be #1!) <br></font> 
+</td>
+        </tr>
+        <tr bgcolor="#CCFFCC"> 
+          <td colspan="2" height="5"> 
+            <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b>Editors</b></font></div>
+          </td>
+        </tr>
+        <tr bgcolor="#FFFFFF"> 
+          <td colspan="2" height="3"><font face="Arial, Helvetica, sans-serif" size="2">Bhavin 
+            , Vishal</font></td>
+        </tr>
+        <tr bgcolor="#FFFFFF"> 
+          <td colspan="2">&nbsp;</td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+    </td>
+    <td height="576" align="left" valign="top" rowspan="8" width="250"> 
+      <table width="249" border="0" cellspacing="0" cellpadding="0">
+        <tr bgcolor="#CCCCFF"> 
+          <td> 
+            <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b>Movies 
+              Reviews</b></font></div>
+          </td>
+        </tr>
+        <tr align="left" valign="top" bgcolor="#FFFFFF"> 
+          <td height="38"><a name="newsitem979014015,55809,"></a>
+<p align="left"> <strong><font color="#ff0000"><DefaultCategory></font></strong><img border="0" src="http://www.123ofnet.com/pictures/newspro/still1.jpg" width="70" height="50" align="left">&nbsp;
+<font size="2" color="#0000FF" face="Arial"><u><a href="http://www.123ofnet.com/more_movies.shtml#newsitem979014015,55809,"> Bharat Shah hospitalised</a></u> <a href="http://www.123ofnet.com/more_movies.shtml">
+</a> </font> <strong> 
+  <font size="4"><u>&nbsp;</u></font></strong><font color="#FF9900" size="1"><br>
+Posted&nbsp; &nbsp; by&nbsp; varma</font><a name="newsitem978488275,1162,"></a>
+<p align="left"> <strong><font color="#ff0000"><DefaultCategory></font></strong><img border="0" src="http://www.123ofnet.com/pictures/newspro/hollowman.jpg" width="70" height="50" align="left">&nbsp;
+<font size="2" color="#0000FF" face="Arial"><u><a href="http://www.123ofnet.com/more_movies.shtml#newsitem978488275,1162,">looks Hollow ? - Hollowman</a></u> <a href="http://www.123ofnet.com/more_movies.shtml">
+</a> </font> <strong> 
+  <font size="4"><u>&nbsp;</u></font></strong><font color="#FF9900" size="1"><br>
+Posted&nbsp; &nbsp; by&nbsp; jay</font><a name="newsitem978487884,90286,"></a>
+<p align="left"> <strong><font color="#ff0000"><DefaultCategory></font></strong><img border="0" src="http://www.123ofnet.com/pictures/newspro/rajuchacha.jpg" width="70" height="50" align="left">&nbsp;
+<font size="2" color="#0000FF" face="Arial"><u><a href="http://www.123ofnet.com/more_movies.shtml#newsitem978487884,90286,">Raju Chacha</a></u> <a href="http://www.123ofnet.com/more_movies.shtml">
+</a> </font> <strong> 
+  <font size="4"><u>&nbsp;</u></font></strong><font color="#FF9900" size="1"><br>
+Posted&nbsp; &nbsp; by&nbsp; jay</font><a name="newsitem977590613,73550,"></a>
+<p align="left"> <strong><font color="#ff0000"><DefaultCategory></font></strong><img border="0" src="http://www.123ofnet.com/pictures/newspro/charliesangles.jpg" width="70" height="50" align="left">&nbsp;
+<font size="2" color="#0000FF" face="Arial"><u><a href="http://www.123ofnet.com/more_movies.shtml#newsitem977590613,73550,">Charlies Angles</a></u> <a href="http://www.123ofnet.com/more_movies.shtml">
+</a> </font> <strong> 
+  <font size="4"><u>&nbsp;</u></font></strong><font color="#FF9900" size="1"><br>
+Posted&nbsp; &nbsp; by&nbsp; jay</font><a name="newsitem977589976,93601,"></a>
+<p align="left"> <strong><font color="#ff0000"><DefaultCategory></font></strong><img border="0" src="http://www.123ofnet.com/pictures/newspro/champion.jpg" width="70" height="50" align="left">&nbsp;
+<font size="2" color="#0000FF" face="Arial"><u><a href="http://www.123ofnet.com/more_movies.shtml#newsitem977589976,93601,">Champion or not???</a></u> <a href="http://www.123ofnet.com/more_movies.shtml">
+</a> </font> <strong> 
+  <font size="4"><u>&nbsp;</u></font></strong><font color="#FF9900" size="1"><br>
+Posted&nbsp; &nbsp; by&nbsp; jay</font><br>
+            <font size="2" face="Arial, Helvetica, sans-serif"> <a href="http://www.123ofnet.com/php/vbulletin/">Discuss 
+            on 123ofnet Forums</a> | <a href="chat.shtml">Chat on 123ofnet chat 
+            #movies</a> </font></td>
+        </tr>
+        <tr align="left" valign="top" bgcolor="#FFFF66"> 
+          <td height="7"> 
+            <div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif">Reuter 
+              NEWS</font></b></div>
+          </td>
+        </tr>
+        <tr align="left" valign="top" bgcolor="#FFFFFF"> 
+          <td height="8">
+            <div align="center">
+              <script language="JavaScript" src="http://dynamic.isyndicate.com/newsphoto/reuters.newsphoto.entertainment/123ofnet/photo.js"></script>
+            </div>
+          </td>
+        </tr>
+        <tr align="left" valign="top" bgcolor="#FFCCCC"> 
+          <td height="8"> 
+            <div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif">Other 
+              Categories</font></b></div>
+          </td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td height="156"><font size="2" face="Arial, Helvetica, sans-serif"><a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Business/Industries/Arts_and_Entertainment/Film,_Video_and_Television_Production/">Business</a><br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Characters/">Characters</a> 
+            <br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Cultures_and_Groups/">Cultures 
+            and Groups</a><br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Databases/">Databases</a> 
+            <br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Education/">Education</a> 
+            <br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Memorabilia/">Memorabilia</a> 
+            <br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/News_and_Media/">News 
+            and Media<br>
+            </a> <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Organizations/">Organizations</a> 
+            <br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Personal_Pages/">Personal 
+            Pages</a> <br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Quotations/">Quotations</a> 
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Release_Schedules/"> 
+            </a> <br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Shopping/Entertainment/Recordings/Videos/">Shopping</a> 
+            <br>
+            <a 
+                              href="http://123ofnet.hypermart.net/cgi-bin/odp/index.cgi?/Arts/Movies/Theory_and_Criticism/">Theory 
+            and Criticism</a> </font></td>
+        </tr>
+        <tr align="left" valign="top" bgcolor="#99FFFF"> 
+          <td height="4"> 
+            <div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif">Related 
+              Newsgroups:</font></b> </div>
+          </td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td height="49"><font size="2" face="Arial, Helvetica, sans-serif">Usenet 
+            rec.arts.movies.current-films - <small><a 
+                                href="news:rec.arts.movies.current-films">news:</a> 
+            - <a 
+                                href="http://www.deja.com/dnquery.xp?search=word&amp;svcclass=dncurrent&amp;showsort=date&amp;ST=QS&amp;query=~g%20rec.arts.movies.current-films">Deja<br>
+            </a></small>Usenet rec.arts.movies.misc - <small><a 
+                                href="news:rec.arts.movies.misc">news:</a> - <a 
+                                href="http://www.deja.com/dnquery.xp?search=word&amp;svcclass=dncurrent&amp;showsort=date&amp;ST=QS&amp;query=~g%20rec.arts.movies.misc">Deja<br>
+            </a></small>Usenet rec.arts.movies.past-films - <small><a 
+                                href="news:rec.arts.movies.past-films">news:</a> 
+            - <a 
+                                href="http://www.deja.com/dnquery.xp?search=word&amp;svcclass=dncurrent&amp;showsort=date&amp;ST=QS&amp;query=~g%20rec.arts.movies.past-films">Deja</a></small></font></td>
+        </tr>
+        <tr align="left" valign="top" bgcolor="#FF99FF"> 
+          <td height="3"> 
+            <div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif">"Movies"&nbsp;search&nbsp;on:&nbsp;</font></b></div>
+          </td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td height="39"><small><a 
+                              href="http://www.alltheweb.com/cgi-bin/search?type=all&amp;query=movies"><font size="2" face="Arial, Helvetica, sans-serif">All 
+            the Web</font></a><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;- 
+            <a 
+                              href="http://www.altavista.com/cgi-bin/query?q=movies">AltaVista</a>&nbsp;- 
+            <a 
+                              href="http://www.deja.com/=dnc/dnquery.xp?QRY=movies&amp;ST=MS&amp;svcclass=dnserver&amp;DBS=1">Deja</a>&nbsp;- 
+            <a 
+                              href="http://service.bfast.com/bfast/click?siteid=31291691&amp;bfpage=safesearch&amp;bfmid=27253343&amp;q=%22Movies%22&amp;safe=on&amp;sa=Go">Google</a>&nbsp;- 
+            <a 
+                              href="http://hotbot.lycos.com/?MT=movies&amp;SM=MC&amp;DV=0&amp;LG=any&amp;DC=10&amp;DE=2">HotBot</a>&nbsp;- 
+            <a 
+                              href="http://www.infoseek.com/Titles?qt=movies">Infoseek</a>&nbsp;- 
+            <a 
+                              href="http://www.lycos.com/srch/?lpv=1&amp;loc=searchhp&amp;query=movies">Lycos</a>&nbsp;- 
+            <a 
+                              href="http://www.northernlight.com/nlquery.fcg?qr=movies">Northern 
+            Light</a>&nbsp;- <a 
+                              href="http://search.yahoo.com/bin/search?p=movies">Yahoo</a> 
+            </font> </small></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td height="2"> 
+            <div align="center"><a href="http://www.amazon.com/exec/obidos/redirect?tag=123ofnet08&path=subst/video/sellers/amazon-top-100-dvd.html"><font size="2" face="Arial, Helvetica, sans-serif"><img src="pictures/amazon_dvd_80x80.gif" width="80" height="80" border="0"><br>
+              Amazon.com 100 Hot DVDs</font></a> </div>
+          </td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td height="2">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr> </tr>
+</table>
+<p align="center"><FORM ACTION="http://service.bfast.com/bfast/click/mid1476905" >
+<INPUT TYPE="hidden" NAME="siteid" VALUE="32210756" >
+<INPUT TYPE="hidden" NAME="bfpage" VALUE="searchbox">
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="468" HEIGHT="60">
+<TR><TD HEIGHT="23" WIDTH="468" COLSPAN=3 ALIGN="LEFT" VALIGN="TOP" BGCOLOR="#006633">
+<A HREF="http://service.bfast.com/bfast/click/mid1476905?siteid=32210756&bfpage=home" TARGET="_top"><IMG SRC="http://coverage.cnet.com/Affiliates/Befree/shop468x60/cnetshop99-1a.gif" BORDER="0" HEIGHT="23" WIDTH="468" ALT="Compare prices on more than 100,000 products!"></A></TD></TR>
+<TR><TD HEIGHT="37" WIDTH="34" ALIGN="RIGHT" VALIGN="BOTTOM" BGCOLOR="#FFCC00">
+<IMG SRC="http://coverage.cnet.com/Affiliates/Befree/shop468x60/cnetshop99-2.gif" BORDER="0" HEIGHT="34" WIDTH="62" ALT="Search our product directory."></TD>
+<TD HEIGHT="37" WIDTH="270" ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#FFCC00">
+<input type="text" name="qt" SIZE="18">&nbsp;<INPUT TYPE="SUBMIT" VALUE="Search"></TD>
+<TD HEIGHT="37" WIDTH="164" ALIGN="RIGHT" VALIGN="BOTTOM" BGCOLOR="#FFCC00">
+<A HREF="http://service.bfast.com/bfast/click/mid1476905?siteid=32210756&bfpage=home"><IMG SRC="http://coverage.cnet.com/Affiliates/Befree/shop468x60/cnetshop99-3.gif" BORDER="0" HEIGHT="34" WIDTH="159" ALT="CNET Shopper. Click here."></A>
+</TD></TR></TABLE></FORM><IMG SRC="http://service.bfast.com/bfast/serve/mid1476905?siteid=32210756&bfpage=home" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+</p>
+<!-- #EndEditable --> </div>
+<table width="720" border="0" align="center" cellpadding="0" cellspacing="0" height="84">
+  <tr bgcolor="#FFFFFF"> 
+    <td height="24" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><a href="http://123ofnet.com/advertise.shtml"><font color="#000099" size="1"><br>
+          ADVERTISE</font></a><font color="#000099" size="1"> | <a href="http://123ofnet.com/aboutus.shtml">ABOUT 
+          US</a> | <a href="http://123ofnet.com/developer.shtml">SERVICES</a> 
+          | <a href="http://123ofnet.com/support.shtml">SUPPORT</a> | <a href="http://123ofnet.com/faq.shtml">FAQ's</a> 
+          | <a href="http://123ofnet.com/privacypolicy.shtml">PRIVACY POLICY</a></font></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="45" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><font size="2"> <img src="http://www.123ofnet.com/pictures/itechlogo.gif" align="absmiddle"> 
+          123ofnet.com<br>
+          <br>
+          </font><!-- BEGIN Be Free Tag  (c) Copyright 1997-2000 Be Free, Inc. All rights reserved.-->
+<IFRAME SRC="http://ads.bfast.com/ad/frame?bfmid=26993801&siteid=34385065&size=468x60&space=9623095" WIDTH="468" HEIGHT="60" NORESIZE SCROLLING="no" FRAMEBORDER="0" MARGINHEIGHT="0" MARGINWIDTH="0">
+<script language="JavaScript" src ="http://ads.bfast.com/ad/script?bfmid=26993801&siteid=34385065&size=468x60&space=9623095">
+</script>
+<noscript>
+<A HREF="http://ads.bfast.com/ad/click?bfmid=26993801&siteid=34385065&size=468x60&space=9623095" TARGET="_top">
+<IMG SRC="http://ads.bfast.com/ad/serve?bfmid=26993801&siteid=34385065&size=468x60&space=9623095" BORDER="0" WIDTH="468" HEIGHT="60"></A>
+</noscript>
+</IFRAME><!-- END Be Free Tag-->
+</p>
+        </div>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+</BODY>
+<!-- #EndTemplate --></HTML>

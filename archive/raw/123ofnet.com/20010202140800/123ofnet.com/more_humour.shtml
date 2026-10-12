@@ -1,0 +1,470 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><!-- #BeginTemplate "/Templates/template.dwt" -->
+<HEAD>
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>Jokes @ 123ofnet.com</TITLE>
+<!-- #EndEditable --> 
+<META content="text/html; charset=windows-874" http-equiv=Content-Type>
+<META 
+content="your easy solution to the internet world and developing ecommerce solutions " 
+name=description>
+<STYLE type=text/css><!--
+.nav1 {COLOR: #0000ff; FONT-FAMILY:arial, verdana, helvetica; FONT-SIZE: 7pt}
+.nav {COLOR: #ffffff; FONT-FAMILY: arial, verdana, helvetica; FONT-SIZE: 9pt}
+-->
+</STYLE>
+<STYLE type=text/css>A.internet {
+	COLOR: white; FONT-FAMILY: Courier; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 10pt; TEXT-DECORATION: none
+}
+.red {
+	BACKGROUND-COLOR: #d60027
+}
+.black {
+	BACKGROUND-COLOR: black
+}
+.headlines {
+	COLOR: #0033cc; FONT-FAMILY: Geneva, Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 9pt; TEXT-DECORATION: none
+}
+.upperlinks {  background-color: #3366FF; color: #FFFF00; text-decoration: none; filter: DropShadow(Color=ffffff, OffX=4 OffY=4, Positive=2); font-size: x-small}
+</STYLE>
+<meta name="keywords" content="123ofnet,123ofnet.com,IRC,irc,free,free email,email,news,medicine,business,finance,computers,movies,music,education,electronics,weather,humor,editor,articles,stock,developer,chat,messageboards,forums,greetings,egreetings,postcards,classifieds,advertise,quotes,rock,pop,jazz,live help,cgi,scripts installation,banner,design,web design,web solutions,java,linux">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_initTimelines() {
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    document.MM_Time = new Array(2);
+    document.MM_Time[0] = new Array(0);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0].lastFrame = 0;
+    document.MM_Time[1] = new Array(0);
+    document.MM_Time["Timeline2"] = document.MM_Time[1];
+    document.MM_Time[1].MM_Name = "Timeline2";
+    document.MM_Time[1].fps = 15;
+    document.MM_Time[1].lastFrame = 0;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+</HEAD>
+<BODY aLink=#000099 bgColor=#ffffff link=#000099 vLink=#000099 text="#3333FF" onLoad="MM_preloadImages('pictures/banner1.gif','pictures/email.gif','pictures/chat.gif','pictures/dev.gif','pictures/classifieds.gif','pictures/findfriend.gif','pictures/greeting.gif')">
+<span class="music"></span> 
+<table align=center border=0 cellpadding=0 cellspacing=0 width="720" height="140">
+  <tbody> 
+  <tr> 
+    <td width="0" height="0" align="left" valign="top" bgcolor="#FFFFFF"> 
+      <div align="left"><a href="http://www.123ofnet.com"><img src="pictures/big_community.gif" width="200" height="50" border="0"></a><br>
+        <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://members.123ofnet.net">Make 
+        A Website For Free Today</a></b></font></div>
+    <td width="468" height="58" align="left" valign="top"> <IMG SRC="http://service.bfast.com/bfast/serve?bfmid=14524098&siteid=34385047&bfpage=other" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=14524098&siteid=34385047&bfpage=other" TARGET="_top"><IMG SRC="http://www.xdrive.com/affiliates/befree/banners/X_banner2.3.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT=""></A>
+ 
+      <div align="left"></div>
+    </tr>
+  <tr bgcolor="#FFFFFF" align="left" valign="top"> 
+    <td colspan="2" height="58"> 
+      <table bgcolor=#FFFFCC cellspacing=0 border=0 width="720" height="0" cellpadding="0" align="center" bordercolor="#FFFFCC">
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="20" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://www.123ofnet.com">Home</a> 
+              |<a href="http://123ofnet.com/horoscope.shtml">Horoscope</a><br>
+              <a href="http://123ofnet.com/news.shtml">News</a> | <a href="http://members.123ofnet.net">Community</a></b></font></div>
+          </td>
+          <td height="20" width="497" bgcolor="#FFFFFF" align="center" valign="top" border="2" bordercolor="#FFFFFF"> 
+            <table width="500" border="1" bordercolor="#FFFF00" cellspacing="0" cellpadding="0" align="center">
+              <tr bgcolor="#3366FF"> 
+                <td> 
+                  <div align="center"><a href="http://123ofnet.mail.everyone.net"><img src="pictures/email1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="http://123ofnet.mail.everyone.net" class="upperlinks"><b>Email</b></a></span> 
+                    <a href="/chat.shtml"><img src="pictures/chat1.jpg" width="20" height="22" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="/chat.shtml" class="upperlinks">Chat 
+                    </a></b></span><a href="http://www.123ofnet.com/php/vbulletin/"><img src="pictures/chat1.gif" width="20" height="21" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://www.123ofnet.com/php/vbulletin/" class="upperlinks">Forums 
+                    </a></b></span><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet"><img src="pictures/greetings1.jpg" width="20" height="20" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet" class="upperlinks">Greetings 
+                    </a></b></span><b class="upperlinks"><a href="/developer.shtml"><img src="pictures/dev1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="/developer.shtml" class="upperlinks">Developer 
+                    </a></span></b><b><span class="upperlinks"><a href="http://www.123ofnet.com/cgi-bin/classifieds/classifieds.cgi" class="upperlinks"><img src="pictures/classifieds1.jpg" width="25" height="20" align="absmiddle" border="0">Classifieds</a> 
+                    </span></b></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="20"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/movies.shtml">Movies</a> | <a href="http://www.123ofnet.com/php/vbulletin/">Forums</a><br>
+              <a href="http://123ofnet.com/music.shtml">Music</a> | <a href="http://123ofnet.com/electronics.shtml">Electronics</a></b></font></div>
+          </td>
+        </tr>
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="0" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <p align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://123ofnet.com/medicine.shtml">Medicine</a> 
+              | <a href="http://www.alternativeconnections.com/index.htm?AssociateID=214640&amp;amp;MID=275541">Dating</a> 
+              <a href="http://123ofnet.com/business.shtml">Business</a> | <a href="http://123ofnet.com/career.shtml">Career</a> 
+              <a href="http://123ofnet.com/computers.shtml">Computers</a></b></font></p>
+          </td>
+<FORM method=GET action=http://www.google.com/custom target=_blank>
+          <td height="0" width="497" bgcolor="#FFFFCC" bordercolor="#FFFFCC" nowrap> 
+            <div align="center"> 
+              <input type=text name=q size=15 maxlength=255 value="">
+              <input type=submit name=sa value="Search">
+              <input type=hidden name=cof value="AH:center;AWFID:746c3cd377ee36d3;">
+              <input type=hidden name=domains value="123ofnet.com">
+              <font color="#FFFF00"><font color="#FF0033"> </font></font><font color="#FFFF00"><font color="#FF0033"> 
+              <input type=radio name=sitesearch value="" checked>
+              <font size="1" color="#000099">Search WWW 
+              <input type=radio name=sitesearch value="123ofnet.com">
+              Search 123ofnet.com</font></font></font> </div>
+          </td>
+</FORM>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="0"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/weather.shtml">Weather</a> | <a href="http://123ofnet.com/more_humour.shtml">Humor<br>
+              </a> <a href="http://123ofnet.com/editor.shtml">Editor</a> | <a href="http://epinions-123ofnet.epinions.com/">Opinions</a><br>
+              <a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet">eGreetings 
+              </a></b></font></div>
+          </td>
+        </tr></table>
+    </tr>
+<tr bgcolor="#CCFFCC"> 
+    <td align=left colspan=2 height=2 valign=center nowrap><font color=#ff0033 
+      face="Verdana, Arial, Helvetica, sans-serif" size=1> <marquee><b><font color="#000066">123ofnet.com</font></b><font color="#000066"> 
+      -</font> <font color="#000066">An easy solution to the Net !!!&nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;A site by three enterprising students &nbsp;&nbsp; 
+      &nbsp; &nbsp;&nbsp; &nbsp;Site ICQ # 94652174 &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; 
+      Site IRC #123ofnet</font><font color=#ffffff>&nbsp;</font></marquee></font></td>
+  </tr>
+  </tbody> 
+</table>
+<div align="left"><!-- #BeginEditable "main" --> 
+<table width="720" border="0" align="center" height="99">
+  <tr align="left" valign="top"> 
+    <td height="0"> 
+      <table width="719" border="0" cellspacing="0" cellpadding="0">
+        <tr align="left" valign="top" bgcolor="#FFFFFF"> 
+          <td height="5" width="473"> 
+            <table width="473" border="0" cellpadding="0" cellspacing="0">
+              <tr align="left" valign="top" bgcolor="#CCFFCC"> 
+                <td colspan="2" height="5"> 
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b>Humor 
+                    Categories</b></font></div>
+                </td>
+              </tr>
+              <tr> 
+                <td width="265"><font face="Arial, Helvetica, sans-serif" size="1"><a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Advice/">Advice</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Animals/">Animals</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Archives/">Archives</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Audio_and_Video_Clips/">Audio 
+                  and Video Clips</a> <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Bizarre/">Blizarre</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Regional/Europe/United_Kingdom/Recreation_and_Sports/Humour/">British</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Cartoons/">Cartoons</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Celebrities/">Celebrities<br>
+                  </a> <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Clean_Jokes/">Clean 
+                  Jokes</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Arts/Performing_Arts/Comedy/Comedians/">Comedians<br>
+                  </a> <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Computer_Humor/">Computer 
+                  Humor</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Directories/">Directories</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Education/">Education</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Computers/Internet/E-mail/Electronic_Postcards/Humor/">Electronic 
+                  Postcards</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Food_and_Drink/">Food 
+                  and Drink</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Gardening_Humor/">Gardening 
+                  Humor</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Insults/">Insults</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Interactive/">Interactive</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Business/Investing/Humor/">Investing</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Job-Related/">Job-Related</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Jokes/">Jokes</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Laws/">Laws</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Link_Pages/">Link 
+                  Pages</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Magazines/">Magazines</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Mailing_Lists/">Mailing 
+                  Lists</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Medical/">Medical</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Health/Mental_Health/Humor/">Mental 
+                  Health</a></font></td>
+                <td width="208"><font face="Arial, Helvetica, sans-serif" size="1"><a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Musical/">Musical</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/News/Satire/">News</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Parenting/">Parenting</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Parodies/">Parodies</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Personal_Pages/">Personal 
+                  Pages</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Society/Philosophy/Humor/">Philosophy</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Poetry/">Poetry</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Society/Politics/Political_Humor/">Political 
+                  Humor</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Pranks/">Pranks</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Science/Social_Sciences/Psychology/Personality/Myers-Briggs_and_Keirsey/Humor/">Psychology</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Quotations/">Quotations</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Regional/">Regional</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Relationships/">Relationships</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Society/Religion_and_Spirituality/Humor/">Religion</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Satire/">Satire</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Science/">Science</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Sports/">Sports</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Arts/Performing_Arts/Comedy/Comedians/Stand_Up/">Stand 
+                  Up</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Stories/">Stories</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Subcultures/">Subcultures</a> 
+                  <br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Tasteless_Jokes/">Tasteless 
+                  Jokes</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Arts/Television/Programs/Comedy/">Television 
+                  Comedy</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Society/Urban_Legends/">Urban 
+                  Legends</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Useless_Pages/">Useless 
+                  Pages</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Weird_Graphics/">Weird 
+                  Graphics</a><br>
+                  <a 
+                              href="http://www.123ofnet.com/cgi-bin/odp/index.cgi?/Recreation/Humor/Wordplay/">Wordplay</a> 
+                  </font></td>
+              </tr>
+              <tr bgcolor="#FFCCFF"> 
+                <td colspan="2" height="3" align="left" valign="top"> 
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b>Daily 
+                    Comic Strip </b></font></div>
+                </td>
+              </tr>
+              <tr bgcolor="#FFFFFF"> 
+                <td colspan="2" height="3" align="left" valign="top"> 
+                  <script language="JavaScript" src="http://dynamic.isyndicate.com/123ofnet/dr_tech.comicstrips.zw/zw.js"></script>
+                </td>
+              </tr>
+              <tr bgcolor="#FFFFFF"> 
+                <td colspan="2" height="2" align="left" valign="top"> 
+                  <div align="center">
+                    <script language="JavaScript" src="http://dynamic.isyndicate.com/123ofnet/zeeks.dailyfun.zw/zw.js"></script>
+                  </div>
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="2" height="2" align="left" bgcolor="#FFCCCC" valign="top"> 
+                  <div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif">Related 
+                    Newsgroups</font></b></div>
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="2" height="35" align="left" bgcolor="#FFFFFF" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">Usenet 
+                  rec.humor - <small><a 
+                                href="news:rec.humor">news:</a> - <a 
+                                href="http://www.deja.com/dnquery.xp?search=word&amp;svcclass=dncurrent&amp;showsort=date&amp;ST=QS&amp;query=~g%20rec.humor">Deja<br>
+                  </a></small>Usenet rec.humor.oracle - <small><a 
+                                href="news:rec.humor.oracle">news:</a> - <a 
+                                href="http://www.deja.com/dnquery.xp?search=word&amp;svcclass=dncurrent&amp;showsort=date&amp;ST=QS&amp;query=~g%20rec.humor.oracle">Deja<br>
+                  </a></small>Usenet rec.humor.oracle.d - <small><a 
+                                href="news:rec.humor.oracle.d">news:</a> - <a 
+                                href="http://www.deja.com/dnquery.xp?search=word&amp;svcclass=dncurrent&amp;showsort=date&amp;ST=QS&amp;query=~g%20rec.humor.oracle.d">Deja<br>
+                  </a></small>Usenet rec.humor.funny - <small><a 
+                                href="news:rec.humor.funny">news:</a> - <a 
+                                href="http://www.deja.com/dnquery.xp?search=word&amp;svcclass=dncurrent&amp;showsort=date&amp;ST=QS&amp;query=~g%20rec.humor.funny">Deja</a></small></font></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#CCCCFF" height="2" colspan="2" align="left" valign="top"> 
+                  <div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif">More 
+                    Search</font></b></div>
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="2" height="40" align="left" bgcolor="#FFFFFF" valign="top"><small><a 
+                              href="http://www.alltheweb.com/cgi-bin/search?type=all&amp;query=humor"><font size="2" face="Arial, Helvetica, sans-serif">All 
+                  the Web</font></a><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;- 
+                  <a 
+                              href="http://www.altavista.com/cgi-bin/query?q=humor">AltaVista</a>&nbsp;- 
+                  <a 
+                              href="http://www.deja.com/=dnc/dnquery.xp?QRY=humor&amp;ST=MS&amp;svcclass=dnserver&amp;DBS=1">Deja</a>&nbsp;- 
+                  <a 
+                              href="http://service.bfast.com/bfast/click?siteid=31291691&amp;bfpage=safesearch&amp;bfmid=27253343&amp;q=%22Humor%22&amp;safe=on&amp;sa=Go">Google</a>&nbsp;- 
+                  <a 
+                              href="http://hotbot.lycos.com/?MT=humor&amp;SM=MC&amp;DV=0&amp;LG=any&amp;DC=10&amp;DE=2">HotBot</a>&nbsp;- 
+                  <a 
+                              href="http://www.infoseek.com/Titles?qt=humor">Infoseek</a>&nbsp;- 
+                  <a 
+                              href="http://www.lycos.com/srch/?lpv=1&amp;loc=searchhp&amp;query=humor">Lycos</a>&nbsp;- 
+                  <a 
+                              href="http://www.northernlight.com/nlquery.fcg?qr=humor">Northern 
+                  Light</a>&nbsp;- <a 
+                              href="http://search.yahoo.com/bin/search?p=humor">Yahoo</a> 
+                  </font> </small></td>
+              </tr>
+            </table>
+          </td>
+          <td height="5" width="246"> 
+            <table width="246" border="0" cellpadding="0" cellspacing="0">
+              <tr align="left" valign="top" bgcolor="#FFFF66"> 
+                <td colspan="2" height="7"> 
+                  <div align="center"><font color="#FF0000"><b><font color="#0000CC" face="Arial, Helvetica, sans-serif" size="2">Jokes</font></b></font></div>
+                </td>
+              </tr>
+              <tr align="left" valign="top" bgcolor="#FFCCFF"> 
+                <td height="5" colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"><a href="chat.shtml"><font size="1">Chat 
+                  on 123ofnet chat #jokes</font></a></font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td colspan="2"> 
+                  <p><a name="newsitem977312580,13711,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>A Farmer's Will</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/laugh.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">TO MY WIFE:<br>My overdraft at the bank. Maybe she can explain it. <br><br>TO MY BANKER:<br>My soul. He has the mortgage on it anyway. <br><br>TO MY NEIGHBOR:<br>My clown suit. He'll need it if he continues to farm as he has in the past. <br><br>TO THE ASCS:<br>My grain bin. I was planning to let them take it next year anyway. <br><br>TO THE FARM ADVISOR:<br>50 bushels of corn to see if he can hit the market. I never did. <br><br>TO THE JUNK MAN:<br>All my machinery. He's had his eye on it for years. <br><br>TO MY UNDERTAKER:<br>A special request. I want six implement and fertilizer dealers for my pallbearers. They're used to carrying me. <br><br>TO THE WEATHERMAN:<br>Rain, sleet, and snow for the funeral please. No sense having good weather now. <br><br>TO THE GRAVEDIGGER:<br>Don't bother. The hole I'm in should be big enough. <br><br>TO THE MONUMENT MAKER:<br>For the epitaph: "Here lies a farmer who has now properly assumed all of his obligations." <br></font> 
+<a name="newsitem976068994,12545,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Dear God: </u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/laugh.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">In Sunday School they told us what you do. Who does it when you are on vacation? <br><br>How did you know you were God? <br><br>I read the Bible. What does begat mean? Nobody will tell me.<br>Love, Allison <br><br>On Halloween I am going to wear a Devil's costume, is that all right with you? <br><br>Are you really invisible or is that just a trick? <br><br>Is it true my father won't get into Heaven if he uses his bowling words in the house? <br><br>Did you mean for giraffe to look like that or was it an accident? <br><br>Who draws the lines around the countries? <br><br>Do animals get to use you too or is there someone else for them? <br><br>I went to this wedding and they kissed right in the church ... is that okay? <br><br>I like the Lords Prayer the best of all. Did you have to write it a lot or did you get it right the first time? I have to write everything I ever write over again. <br><br>God, it's okay that you made different religions but don't you get mixed up sometimes? <br><br>Did they really talk that fancy in Bible times? <br><br>I would like to know why all the things you said are in red? <br><br>Is Reverend Coe a friend of yours or do you just know him through the business? <br><br>Did you really mean do unto others as they do unto you, because if you did then I'm going to fix my brother. <br><br>My grandpa says you were around when he was a little boy. How far back DO you go? <br><br>I know all about where babies come from. I think. From inside mommies and daddies put them there. Where are they before that? Do you have them in Heaven? How do they get down here? Do you have to take care of them all first? Please answer all my questions...I always think of you.<br>Yours Truly, Susan <br><br>Thank you for the baby brother but what I prayed for was a puppy. <br><br>Please put another holiday between Christmas and Easter. There is nothing good in there now. <br><br>Why is Sunday School on Sunday? I thought it was suppose to be our day of rest. <br><br>I wish you would not make it so easy for people to come apart. I had 3 stitches and a shot. <br><br>If we come back as something, please don't let me be Jennifer Horton, because I hate her. Thank You. Love, Denise <br><br>Please send Dennis Clark to a different camp this year. <br><br>Maybe Cain and Abel would not kill each other so much if they had their own rooms. It works with my brother. <br><br>I want to be just like my Daddy when I get big but not with so much hair all over. <br><br>I keep waiting for Spring but it never comes yet. Please don't forget. <br><br>I think the stapler is on of your greatest inventions. <br><br>I bet it is very hard for you to love all of everybody in the whole world. There are only 4 people in our family and I can never do it. <br><br>Of all the people who work for you, I like Peter and John the best. <br><br>My brother told me about being born but it sure doesn't sound right. <br><br>If you watch in church on Sunday, I will show you my new shoes. <br><br>I like the story about Chanuka the best of all of them. You really made up some good ones!! <br><br>I would like to live for 900 years like the guy in the bible. <br><br>We read Thomas Edison made light. But in Sunday school they said you did it. So, I bet he stole your idea. <br><br>If you would of let the dinasour not exstinct we would not have a country...I think you did the right thing. <br><br>It is great the way you always get the stars in the Right places. <br><br><br>--------------------------------------------------------------------------------<br><br></font> 
+<a name="newsitem975353937,61845,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Florida Chad</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/laugh.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Disclaimer: It appears as though Democrats have seen fit to apply gender to "chads". You know, those small pieces that are supposed to be punched out when a voter makes a selection. Female gender has been set because a chad can be"pregnant". Be that as it may, the following is in no way an endorsement of referring to "chads" as female by this author. That decision has already been made by the self-appointed Court of Democrats. <br><br>Here are the rules set forth in the Court of Democrats as to how "chads" are interpreted. <br><br><br>A "Pregnant" chad:<br>No husband is grounds for an immediate abortion with this type of "loose" chad. The chad's unborn child must be removed for the health of the Nation, not to mention Gore's reputation. <br><br>A "Hanging" chad:<br>A valid form of execution still in use today. The sentence of death by hanging has been handed down by Democrats in calling this a "hanging" chad. It is perfectly legal to put a rope around a "hanging" chad and "hang em high" until they call out for Gore. <br><br>A "Dangling" chad:<br>When a chad is found "dangling", then just push her the rest of the way off the cliff. This chad is considered just another "bimbo" glad to sacrifice herself for Gore. <br><br>The "Swinging" chad:<br>This chad is a frequent visitor to bars. She drinks too much and is a real "swinger". This chad was most likely intoxicated on election day and therefore her vote must have been for Gore. <br><br>The "Hinging" chad:<br>This chad has opened the door for her date, but has second thoughts about the guy. Now, she is not sure if he is really the man for her or not.  Since this chad has swung the hinges open on her door, she should go ahead with the date. After all, in four years she can dump Gore. <br><br>The "Dented" chad:<br>This chad has "dented" feelings and has been deeply hurt. She was so emotional over Gore that she forgot what she was supposed to do.  It is felt that this chad meant to "fall" for him in a big way, but was too upset at the time. Consider this chad to have completely "fallen" for Gore. <br><br>The "Dimpled" chad:<br>This chad has those famous Shirley Temple "dimples". Democrats feel that any chad this cute must have voted for Gore. <br><br>The "Single" chad:<br>This chad is the only one left on the card.  We know that all "single" chads find Gore irresistible.  So, she must be a form of "reverse" voting where the "single" chad remaining is a total commitment to Gore. <br><br>The "Voter Intent" chad:<br>This chad has extra sensory perception, can transfer thoughts to others and she is a member of MENSA. She has not removed herself from the card because she has "intended" to vote for Gore by transferring her thoughts to the person counting the ballot. <br><br>The "Laying on the floor" chad:<br>Chads have been seen laying on the floor in various compromising positions. It is assumed that all those chads on the floor must be for Gore. </font> 
+<a name="newsitem975353856,71163,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Excise Florida! NOW</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/laugh.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">WASHINGTON D.C. - Following an emergency meeting Wednesday morning, Congress unanimously voted to excise Florida from the United States of America. <br><br>The move was a reaction to the confusion and irregularities in the state's voting numbers that have totally disrupted the 2000 Presidential election. <br><br>"This is the last straw," said Utah senator Orin Hatch. "First Elian Gonzales, now this." <br><br>Several congressmen told reporters the decision has been a long time in coming. <br><br>"We're all pretty much sick of Florida," said representative Barney Frank. "They've been a constant embarrassment for too long now." Added Frank, "They had Dan Marino for a while, but what have they done lately? Oh that's right, screw up our entire democracy. I forgot." <br><br>In a speech on the Senate floor, Massachusetts senator Ted Kennedy commented that the loss of Florida's sizable elderly population will free up billions of dollars in social security funds. "These are valuable funds which can now be redirected toward national defense. We can finally rebuild our demoralized, weakened military," said the Senator to roaring applause. <br><br>As a result of the Florida screw-up, the House and Senate decreed a new election will take place in early December. This time, ballots in each state will be tabulated by robots. "It is clear that our human vote-counting system is too inherently flawed," said Speaker of the House Dennis Hastert. "The presence of these new, superior robot mast- err, I mean - tabulators will ensure 100% accuracy." <br><br>"Remember," said Hastert, "every vote counts, especially if it's counted by robots." <br><br>Dynamiting will begin along the Florida border next Wednesday, after which the state will be completely geographically separated from the United States. <br><br>"After that, they're on their own," said Hastert. "I hope they sink<br></font> 
+<a name="newsitem974955600,70717,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>White Hair</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/laugh.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">One day, a little girl was sitting and watching her mother do the dishes at the kitchen sink. She suddenly noticed that her mother had several strands of white hair sticking out in contrast on her brunette head. <br><br>She looked at her mother and inquisitively asked, "Why are some of your hairs white, Mom?" <br><br>Her mother replied, "Well, every time that you do something wrong and make me cry or unhappy, one of my hairs turns white." <br><br>The little girl thought about this revelation for a while, and then said, "Momma, how come ALL of Grandma's hairs are white?" <br></font> 
+</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <p align="center"><IMG SRC="http://service.bfast.com/bfast/serve?bfmid=26370742&siteid=35224554&bfpage=automatic_rotation" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=26370742&siteid=35224554&bfpage=automatic_rotation" TARGET="_top"><IMG SRC="http://www.clubmom.com/images/affiliate/toystoo5_468_12k.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT="Click here for your free ClubMom membership"></A>
+</p>
+    </td>
+  </tr>
+</table>
+<!-- #EndEditable --> </div>
+<table width="720" border="0" align="center" cellpadding="0" cellspacing="0" height="84">
+  <tr bgcolor="#FFFFFF"> 
+    <td height="24" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><a href="http://123ofnet.com/advertise.shtml"><font color="#000099" size="1"><br>
+          ADVERTISE</font></a><font color="#000099" size="1"> | <a href="http://123ofnet.com/aboutus.shtml">ABOUT 
+          US</a> | <a href="http://123ofnet.com/developer.shtml">SERVICES</a> 
+          | <a href="http://123ofnet.com/support.shtml">SUPPORT</a> | <a href="http://123ofnet.com/faq.shtml">FAQ's</a> 
+          | <a href="http://123ofnet.com/privacypolicy.shtml">PRIVACY POLICY</a></font></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="45" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><font size="2"> <img src="http://www.123ofnet.com/pictures/itechlogo.gif" align="absmiddle"> 
+          123ofnet.com<br>
+          <br>
+          </font><IMG SRC="http://service.bfast.com/bfast/serve?bfmid=1307357&siteid=34385023&bfpage=1" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=1307357&siteid=34385023&bfpage=1" TARGET="_top"><IMG SRC="http://www.gator.com/images/banners/gator_form2_468x60.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT="Gator fills out forms and remembers passwords!"></A>
+</p>
+        </div>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+</BODY>
+<!-- #EndTemplate --></HTML>

@@ -1,0 +1,186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><!-- #BeginTemplate "/Templates/template.dwt" -->
+<HEAD>
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>123ofnet.com-An Easy Solution To The NET !!!</TITLE>
+<!-- #EndEditable --> 
+<META content="text/html; charset=windows-874" http-equiv=Content-Type>
+<META 
+content="your easy solution to the internet world and developing ecommerce solutions " 
+name=description>
+<STYLE type=text/css><!--
+.nav1 {COLOR: #0000ff; FONT-FAMILY:arial, verdana, helvetica; FONT-SIZE: 7pt}
+.nav {COLOR: #ffffff; FONT-FAMILY: arial, verdana, helvetica; FONT-SIZE: 9pt}
+-->
+</STYLE>
+<STYLE type=text/css>A.internet {
+	COLOR: white; FONT-FAMILY: Courier; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 10pt; TEXT-DECORATION: none
+}
+.red {
+	BACKGROUND-COLOR: #d60027
+}
+.black {
+	BACKGROUND-COLOR: black
+}
+.headlines {
+	COLOR: #0033cc; FONT-FAMILY: Geneva, Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 9pt; TEXT-DECORATION: none
+}
+.upperlinks {  background-color: #3366FF; color: #FFFF00; text-decoration: none; filter: DropShadow(Color=ffffff, OffX=4 OffY=4, Positive=2); font-size: x-small}
+</STYLE>
+<meta name="keywords" content="123ofnet,123ofnet.com,IRC,irc,free,free email,email,news,medicine,business,finance,computers,movies,music,education,electronics,weather,humor,editor,articles,stock,developer,chat,messageboards,forums,greetings,egreetings,postcards,classifieds,advertise,quotes,rock,pop,jazz,live help,cgi,scripts installation,banner,design,web design,web solutions,java,linux">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_initTimelines() {
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    document.MM_Time = new Array(2);
+    document.MM_Time[0] = new Array(0);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0].lastFrame = 0;
+    document.MM_Time[1] = new Array(0);
+    document.MM_Time["Timeline2"] = document.MM_Time[1];
+    document.MM_Time[1].MM_Name = "Timeline2";
+    document.MM_Time[1].fps = 15;
+    document.MM_Time[1].lastFrame = 0;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+</HEAD>
+<BODY aLink=#000099 bgColor=#ffffff link=#000099 vLink=#000099 text="#3333FF" onLoad="MM_preloadImages('pictures/banner1.gif','pictures/email.gif','pictures/chat.gif','pictures/dev.gif','pictures/classifieds.gif','pictures/findfriend.gif','pictures/greeting.gif')">
+<span class="music"></span> 
+<table align=center border=0 cellpadding=0 cellspacing=0 width="720" height="140">
+  <tbody> 
+  <tr> 
+    <td width="0" height="0" align="left" valign="top" bgcolor="#FFFFFF"> 
+      <div align="left"><a href="http://www.123ofnet.com"><img src="pictures/big_community.gif" width="200" height="50" border="0"></a><br>
+        <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://members.123ofnet.net">Make 
+        A Website For Free Today</a></b></font></div>
+    <td width="468" height="58" align="left" valign="top"> <a href="http://www.commission-junction.com/track/track.dll?AID=822724&PID=539103&URL=http%3A%2F%2Fwww%2Eyes%2Dits%2Dfree%2Ecom" target="_top">
+<img src="http://www.commission-junction.com/banners/tracker.exe?PID=539103&AID=822724&banner=822724%2Egif" width="468" height="60" alt="Yes-Its-Free.com" border="0"></a> 
+      <div align="left"></div>
+    </tr>
+  <tr bgcolor="#FFFFFF" align="left" valign="top"> 
+    <td colspan="2" height="58"> 
+      <table bgcolor=#FFFFCC cellspacing=0 border=0 width="720" height="0" cellpadding="0" align="center" bordercolor="#FFFFCC">
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="20" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://www.123ofnet.com">Home</a> 
+              |<a href="http://123ofnet.com/horoscope.shtml">Horoscope</a><br>
+              <a href="http://123ofnet.com/news.shtml">News</a> | <a href="http://members.123ofnet.net">Community</a></b></font></div>
+          </td>
+          <td height="20" width="497" bgcolor="#FFFFFF" align="center" valign="top" border="2" bordercolor="#FFFFFF"> 
+            <table width="500" border="1" bordercolor="#FFFF00" cellspacing="0" cellpadding="0" align="center">
+              <tr bgcolor="#3366FF"> 
+                <td> 
+                  <div align="center"><a href="http://123ofnet.mail.everyone.net"><img src="pictures/email1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="http://123ofnet.mail.everyone.net" class="upperlinks"><b>Email</b></a></span> 
+                    <a href="/chat.shtml"><img src="pictures/chat1.jpg" width="20" height="22" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="/chat.shtml" class="upperlinks">Chat 
+                    </a></b></span><a href="http://www.123ofnet.com/php/vbulletin/"><img src="pictures/chat1.gif" width="20" height="21" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://www.123ofnet.com/php/vbulletin/" class="upperlinks">Forums 
+                    </a></b></span><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet"><img src="pictures/greetings1.jpg" width="20" height="20" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet" class="upperlinks">Greetings 
+                    </a></b></span><b class="upperlinks"><a href="/developer.shtml"><img src="pictures/dev1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="/developer.shtml" class="upperlinks">Developer 
+                    </a></span></b><b><span class="upperlinks"><a href="http://www.123ofnet.com/cgi-bin/classifieds/classifieds.cgi" class="upperlinks"><img src="pictures/classifieds1.jpg" width="25" height="20" align="absmiddle" border="0">Classifieds</a> 
+                    </span></b></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="20"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/movies.shtml">Movies</a> | <a href="http://www.123ofnet.com/php/vbulletin/">Forums</a><br>
+              <a href="http://123ofnet.com/music.shtml">Music</a> | <a href="http://123ofnet.com/electronics.shtml">Electronics</a></b></font></div>
+          </td>
+        </tr>
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="0" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <p align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://123ofnet.com/medicine.shtml">Medicine</a> 
+              | <a href="http://www.alternativeconnections.com/index.htm?AssociateID=214640&amp;amp;MID=275541">Dating</a> 
+              <a href="http://123ofnet.com/business.shtml">Business</a> | <a href="http://123ofnet.com/career.shtml">Career</a> 
+              <a href="http://123ofnet.com/computers.shtml">Computers</a></b></font></p>
+          </td>
+<FORM method=GET action=http://www.google.com/custom target=_blank>
+          <td height="0" width="497" bgcolor="#FFFFCC" bordercolor="#FFFFCC" nowrap> 
+            <div align="center"> 
+              <input type=text name=q size=15 maxlength=255 value="">
+              <input type=submit name=sa value="Search">
+              <input type=hidden name=cof value="AH:center;AWFID:746c3cd377ee36d3;">
+              <input type=hidden name=domains value="123ofnet.com">
+              <font color="#FFFF00"><font color="#FF0033"> </font></font><font color="#FFFF00"><font color="#FF0033"> 
+              <input type=radio name=sitesearch value="" checked>
+              <font size="1" color="#000099">Search WWW 
+              <input type=radio name=sitesearch value="123ofnet.com">
+              Search 123ofnet.com</font></font></font> </div>
+          </td>
+</FORM>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="0"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/weather.shtml">Weather</a> | <a href="http://123ofnet.com/more_humour.shtml">Humor<br>
+              </a> <a href="http://123ofnet.com/editor.shtml">Editor</a> | <a href="http://epinions-123ofnet.epinions.com/">Opinions</a><br>
+              <a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet">eGreetings 
+              </a></b></font></div>
+          </td>
+        </tr></table>
+    </tr>
+<tr bgcolor="#CCFFCC"> 
+    <td align=left colspan=2 height=2 valign=center nowrap><font color=#ff0033 
+      face="Verdana, Arial, Helvetica, sans-serif" size=1> <marquee><b><font color="#000066">123ofnet.com</font></b><font color="#000066"> 
+      -</font> <font color="#000066">An easy solution to the Net !!!&nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;A site by three enterprising students &nbsp;&nbsp; 
+      &nbsp; &nbsp;&nbsp; &nbsp;Site ICQ # 94652174 &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; 
+      Site IRC #123ofnet</font><font color=#ffffff>&nbsp;</font></marquee></font></td>
+  </tr>
+  </tbody> 
+</table>
+<div align="left"><!-- #BeginEditable "main" --> 
+<table width="720" border="0" align="center" height="99">
+  <tr align="left" valign="top"> 
+    <td height="288"> 
+      <div align="center"><applet MAYSCRIPT width=440 height=460 code=Nutricalc.class>
+<param name='Codebase' value=http://216.247.238.16/nutrition/ent>
+</applet></div>
+    </td>
+  </tr>
+</table>
+<!-- #EndEditable --> </div>
+<table width="720" border="0" align="center" cellpadding="0" cellspacing="0" height="84">
+  <tr bgcolor="#FFFFFF"> 
+    <td height="24" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><a href="http://123ofnet.com/advertise.shtml"><font color="#000099" size="1"><br>
+          ADVERTISE</font></a><font color="#000099" size="1"> | <a href="http://123ofnet.com/aboutus.shtml">ABOUT 
+          US</a> | <a href="http://123ofnet.com/developer.shtml">SERVICES</a> 
+          | <a href="http://123ofnet.com/support.shtml">SUPPORT</a> | <a href="http://123ofnet.com/faq.shtml">FAQ's</a> 
+          | <a href="http://123ofnet.com/privacypolicy.shtml">PRIVACY POLICY</a></font></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="45" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><font size="2"> <img src="http://www.123ofnet.com/pictures/itechlogo.gif" align="absmiddle"> 
+          123ofnet.com<br>
+          <br>
+          </font><IMG SRC="http://service.bfast.com/bfast/serve?bfmid=28508703&siteid=34385068&bfpage=time" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=28508703&siteid=34385068&bfpage=time" TARGET="_top"><IMG SRC="http://image.pathfinder.com/affiliate/creatives/time/banner22.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT=""></A>
+</p>
+        </div>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+</BODY>
+<!-- #EndTemplate --></HTML>

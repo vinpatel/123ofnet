@@ -1,0 +1,269 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><!-- #BeginTemplate "/Templates/template.dwt" -->
+<HEAD>
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>MORE BUSINESS NEWS @ 123ofnet.com</TITLE>
+<!-- #EndEditable --> 
+<META content="text/html; charset=windows-874" http-equiv=Content-Type>
+<META 
+content="your easy solution to the internet world and developing ecommerce solutions " 
+name=description>
+<STYLE type=text/css><!--
+.nav1 {COLOR: #0000ff; FONT-FAMILY:arial, verdana, helvetica; FONT-SIZE: 7pt}
+.nav {COLOR: #ffffff; FONT-FAMILY: arial, verdana, helvetica; FONT-SIZE: 9pt}
+-->
+</STYLE>
+<STYLE type=text/css>A.internet {
+	COLOR: white; FONT-FAMILY: Courier; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 10pt; TEXT-DECORATION: none
+}
+.red {
+	BACKGROUND-COLOR: #d60027
+}
+.black {
+	BACKGROUND-COLOR: black
+}
+.headlines {
+	COLOR: #0033cc; FONT-FAMILY: Geneva, Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 9pt; TEXT-DECORATION: none
+}
+.upperlinks {  background-color: #3366FF; color: #FFFF00; text-decoration: none; filter: DropShadow(Color=ffffff, OffX=4 OffY=4, Positive=2); font-size: x-small}
+</STYLE>
+<meta name="keywords" content="123ofnet,123ofnet.com,IRC,irc,free,free email,email,news,medicine,business,finance,computers,movies,music,education,electronics,weather,humor,editor,articles,stock,developer,chat,messageboards,forums,greetings,egreetings,postcards,classifieds,advertise,quotes,rock,pop,jazz,live help,cgi,scripts installation,banner,design,web design,web solutions,java,linux">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_initTimelines() {
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    document.MM_Time = new Array(2);
+    document.MM_Time[0] = new Array(0);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0].lastFrame = 0;
+    document.MM_Time[1] = new Array(0);
+    document.MM_Time["Timeline2"] = document.MM_Time[1];
+    document.MM_Time[1].MM_Name = "Timeline2";
+    document.MM_Time[1].fps = 15;
+    document.MM_Time[1].lastFrame = 0;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+</HEAD>
+<BODY aLink=#000099 bgColor=#ffffff link=#000099 vLink=#000099 text="#3333FF" onLoad="MM_preloadImages('pictures/banner1.gif','pictures/email.gif','pictures/chat.gif','pictures/dev.gif','pictures/classifieds.gif','pictures/findfriend.gif','pictures/greeting.gif')">
+<span class="music"></span> 
+<table align=center border=0 cellpadding=0 cellspacing=0 width="720" height="140">
+  <tbody> 
+  <tr> 
+    <td width="0" height="0" align="left" valign="top" bgcolor="#FFFFFF"> 
+      <div align="left"><a href="http://www.123ofnet.com"><img src="pictures/big_community.gif" width="200" height="50" border="0"></a><br>
+        <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://members.123ofnet.net">Make 
+        A Website For Free Today</a></b></font></div>
+    <td width="468" height="58" align="left" valign="top"> <IMG SRC="http://service.bfast.com/bfast/serve?bfmid=20904140&siteid=35120919&bfpage=pop" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=20904140&siteid=35120919&bfpage=pop" TARGET="_top"><IMG SRC="http://www.bmgmusicservice.com/partner/images/banners/headphones_468.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT=""></A> 
+      <div align="left"></div>
+    </tr>
+  <tr bgcolor="#FFFFFF" align="left" valign="top"> 
+    <td colspan="2" height="58"> 
+      <table bgcolor=#FFFFCC cellspacing=0 border=0 width="720" height="0" cellpadding="0" align="center" bordercolor="#FFFFCC">
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="20" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://www.123ofnet.com">Home</a> 
+              |<a href="http://123ofnet.com/horoscope.shtml">Horoscope</a><br>
+              <a href="http://123ofnet.com/news.shtml">News</a> | <a href="http://members.123ofnet.net">Community</a></b></font></div>
+          </td>
+          <td height="20" width="497" bgcolor="#FFFFFF" align="center" valign="top" border="2" bordercolor="#FFFFFF"> 
+            <table width="500" border="1" bordercolor="#FFFF00" cellspacing="0" cellpadding="0" align="center">
+              <tr bgcolor="#3366FF"> 
+                <td> 
+                  <div align="center"><a href="http://123ofnet.mail.everyone.net"><img src="pictures/email1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="http://123ofnet.mail.everyone.net" class="upperlinks"><b>Email</b></a></span> 
+                    <a href="/chat.shtml"><img src="pictures/chat1.jpg" width="20" height="22" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="/chat.shtml" class="upperlinks">Chat 
+                    </a></b></span><a href="http://www.123ofnet.com/php/vbulletin/"><img src="pictures/chat1.gif" width="20" height="21" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://www.123ofnet.com/php/vbulletin/" class="upperlinks">Forums 
+                    </a></b></span><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet"><img src="pictures/greetings1.jpg" width="20" height="20" align="absmiddle" border="0"></a><span class="upperlinks"><b><a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet" class="upperlinks">Greetings 
+                    </a></b></span><b class="upperlinks"><a href="/developer.shtml"><img src="pictures/dev1.jpg" width="20" height="19" align="absmiddle" border="0"></a><span class="upperlinks"><a href="/developer.shtml" class="upperlinks">Developer 
+                    </a></span></b><b><span class="upperlinks"><a href="http://www.123ofnet.com/cgi-bin/classifieds/classifieds.cgi" class="upperlinks"><img src="pictures/classifieds1.jpg" width="25" height="20" align="absmiddle" border="0">Classifieds</a> 
+                    </span></b></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="20"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/movies.shtml">Movies</a> | <a href="http://www.123ofnet.com/php/vbulletin/">Forums</a><br>
+              <a href="http://123ofnet.com/music.shtml">Music</a> | <a href="http://123ofnet.com/electronics.shtml">Electronics</a></b></font></div>
+          </td>
+        </tr>
+        <tr valign=top bgcolor="#FFFFFF"> 
+          <td height="0" width="111" align="left" valign="top" bgcolor="#FFFFCC"> 
+            <p align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b><a href="http://123ofnet.com/medicine.shtml">Medicine</a> 
+              | <a href="http://www.alternativeconnections.com/index.htm?AssociateID=214640&amp;amp;MID=275541">Dating</a> 
+              <a href="http://123ofnet.com/business.shtml">Business</a> | <a href="http://123ofnet.com/career.shtml">Career</a> 
+              <a href="http://123ofnet.com/computers.shtml">Computers</a></b></font></p>
+          </td>
+<FORM method=GET action=http://www.google.com/custom target=_blank>
+          <td height="0" width="497" bgcolor="#FFFFCC" bordercolor="#FFFFCC" nowrap> 
+            <div align="center"> 
+              <input type=text name=q size=15 maxlength=255 value="">
+              <input type=submit name=sa value="Search">
+              <input type=hidden name=cof value="AH:center;AWFID:746c3cd377ee36d3;">
+              <input type=hidden name=domains value="123ofnet.com">
+              <font color="#FFFF00"><font color="#FF0033"> </font></font><font color="#FFFF00"><font color="#FF0033"> 
+              <input type=radio name=sitesearch value="" checked>
+              <font size="1" color="#000099">Search WWW 
+              <input type=radio name=sitesearch value="123ofnet.com">
+              Search 123ofnet.com</font></font></font> </div>
+          </td>
+</FORM>
+          <td width="112" align="left" bgcolor="#FFFFCC" height="0"> 
+            <div align="center"><font size="1" face="Arial, Helvetica, sans-serif" color="#000099"><b> 
+              <a href="http://123ofnet.com/weather.shtml">Weather</a> | <a href="http://123ofnet.com/more_humour.shtml">Humor<br>
+              </a> <a href="http://123ofnet.com/editor.shtml">Editor</a> | <a href="http://epinions-123ofnet.epinions.com/">Opinions</a><br>
+              <a href="http://cards.123greetings.com/cgi-bin/cards/sendcard.pl?log=_123ofnet">eGreetings 
+              </a></b></font></div>
+          </td>
+        </tr></table>
+    </tr>
+<tr bgcolor="#CCFFCC"> 
+    <td align=left colspan=2 height=2 valign=center nowrap><font color=#ff0033 
+      face="Verdana, Arial, Helvetica, sans-serif" size=1> <marquee><b><font color="#000066">123ofnet.com</font></b><font color="#000066"> 
+      -</font> <font color="#000066">An easy solution to the Net !!!&nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;A site by three enterprising students &nbsp;&nbsp; 
+      &nbsp; &nbsp;&nbsp; &nbsp;Site ICQ # 94652174 &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; 
+      Site IRC #123ofnet</font><font color=#ffffff>&nbsp;</font></marquee></font></td>
+  </tr>
+  </tbody> 
+</table>
+<div align="left"><!-- #BeginEditable "main" --> 
+<table width="720" border="0" align="center" height="99">
+  <tr align="left" valign="top"> 
+    <td height="0"> 
+      <table width="713" border="0" cellpadding="0" cellspacing="0">
+        <tr bgcolor="#FFCCFF"> 
+          <td height="3"> 
+            <div align="center"><b><font size="2" face="Arial, Helvetica, sans-serif">Business 
+              Articles</font></b></div>
+          </td>
+        </tr>
+        <tr bgcolor="#CCFFFF"> 
+          <td height="5"><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.123ofnet.com/php/vbulletin/">Discuss 
+            on 123ofnet Forums</a> | <a href="chat.shtml">Chat on 123ofnet chat 
+            #business </a></font></td>
+        </tr>
+        <tr> 
+          <td><a name="newsitem983940128,8678,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u><p><a href="http://www.idg.net/ic_467405_1794_9-10000.html">THE BEST OF OLD</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2"></font> 
+<a name="newsitem977312786,74508,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>US trade deficit shoots up to $33.2b</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">WASHINGTON <br>THE US' trade deficit stayed close to an all-time high in October at $33.2 billion as imports of crude climbed to the highest level on record. The deficits with China and Japan also set records, propelled higher by a flood of Christmas toys and autos. <br><br>The Commerce Department on Tuesday reported that the October deficit was down a slight 1.6 per cent from September's $33.7 billion, the biggest imbalance in history. <br><br>So far this year, the trade deficit is running at an annual rate of $363 billion, far above of last year's record of $265 billion. Trade has continued to be the major blot on America's economic performance as the appetite for imports far outstrips US export sales. <br><br>Critics of President Clinton's trade policies argue that the Administration's insistence of pursuing open-market agreements with other countries has left US workers vulnerable to unfair competition from low-wage foreign factories. <br><br>In recent years, this argument has been overshadowed by the economy's remarkable domestic performance, which pushed the unemployment rate to a three-decade low. <br><br>However, the unemployment rate is expected to slowly rise over the next year under the impact of previous interest rate increases by the Federal Reserve. Some analysts believe this will spawn greater demands for Congress to erect protectionist barriers to keep foreign goods out of the country. <br><br>The Clinton Administration argues that in an era of increasing globalisation, America has no choice but to push for trade liberalisation, which benefits US consumers and opens foreign markets for American exporters. <br><br>For October, US exports of goods and services slipped 1.5 per cent to $91.2 billion, the second consecutive monthly decline. <br><br>Imports, which had set a record the previous month, slipped a slight 1.6 per cent in October to $124.4 billion, the second-highest level on record. <br><br>The high level of imports reflected a continued surge in America's foreign oil bill. Imports of crude petroleum hit an all-time high of $8.5 billion in October as the volume of barrels shipped climbed 8.7 per cent. The price per barrel slipped slightly to $28.62 in October, down from a 10-year high of $28.98 in September. <br><br>America's deficit with China rose 4 per cent in October to $9.1 billion, a record, as the world's most populous country remained on track to surpass Japan this year as the nation with the largest trade surplus with the United States. <br><br>The big increase in October reflected higher shipments of toys and games as retailers stocked their shelves for the holiday season. <br><br>The deficit with Japan also hit a record-high in October of $68.5 billion, a sharp 38.1 per cent increase over the September level. <br><br>This gain reflected a big jump in imports of Japanese autos and toys. The small drop in exports in October still left total export sales up by 13.4 per cent in the first 10 months of this year with total overseas sales of $789 billion. <br><br>US Trade Representative Charlene Barshefsky has predicted exports will top $1 trillion this year for the first time in history. <br><br>Imports so far this year are up an even larger 19.9 per cent at $1.19 trillion through October. The decline in exports in October reflected a 3.3 per cent drop in overseas sales of farm products, which dipped to $4 billion. <br><br>Shipments of corn, wheat and animal feeds all declined. Exports of chemicals, computer chips, industrial engines, telecommunications equipment and commercial airplanes were all down, but overseas sales of American autos and parts registered a small 1 per cent gain to $6.7 billion. - AP <br></font> 
+<a name="newsitem976071247,41126,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Nasdaq posts highest ever 10% gain</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">NEW YORK <br>WALL Street had its first rush of euphoria in months on Tuesday, with the Nasdaq composite posting its biggest one-day advance ever amid optimism that the federal reserve will cut interest rates. Blue-chip stocks also soared, carrying the Dow Jones Industrials up more than 338 points. <br><br>The Nasdaq rose 274.05 points to 2,889.80, or 10.4 per cent. It was the Nasdaq's highest one-day percentage and point gains ever. <br><br>Some market analysts interpreted the buying spree as a signal that Wall Street might actually have reached a bottom after months of earnings-driven selling. <br><br>"This rally will stick. The market won't go straight up again, but I think the worst is behind us," said Bill Barker, an investment consultant with Dain Rauscher. "There's still nervousness out there, so we may get some pullback as the day progresses, but it won't be as severe as we've seen." <br><br>The Dow picked up 3.2 per cent, rising 338.62 points to 10,898.72, its third-largest one-day point gain. <br><br>The Standard & Poor's 500 index was up 51.57 points at 1,376.54, a 3.9 per cent increase. <br><br>Much of the day's gains occurred after federal reserve chairman Alan Greenspan indicated at a banking conference that he was concerned about the nation's slowing economic growth. <br><br>But investors had already begun the day optimistic that the presidential deadlock was close to being resolved and pleased with news that Nokia expects strong sales and revenues next year. <br><br>Nokia's announcement gave investors further reason to buy following months of selling based on bad earnings reports. Nokia rose $5.50 to $49.88. <br><br>Stocks really surged after Greenspan expressed concern about the effects higher energy costs and tightening credit are having on businesses and consumers' willingness to spend. <br><br>Analysts said the chairman's statement makes it very likely the Fed would relax its stance against cutting rates when it meets on December 19. That raises the possibility of an interest rate cut early next year. <br><br>The Fed boosted rates half a dozen times between summer 1999 and summer 2000 because of concerns the economy was growing too rapidly and becoming vulnerable to inflation. <br><br>"When you have a market that's been as repressed as this, you set up this kind of coil-spring syndrome. You get some good news and that's all it takes," said Larry Wachtel, a market analyst with Prudential Securities. "You got clarification on the president, you had Greenspan making his speech, and that's all you needed to snap back." <br><br>Indeed, after weeks of selling off stocks on earnings worries compounded by the election limbo, investors were buying with gusto on Tuesday. <br><br>J P Morgan boosted blue-chips, rising $13.13 to $151.63. Shares of Minnesota Mining & Manufacturing were up $11.63 at $116.63, an 11 per cent gain, after announcing it had named W James McNerney Jr, the head of General Electric's aircraft engines division who was passed over for GE's top job, to be its next chairman and chief executive. <br><br>Tech stocks, which have been among the most battered in recent weeks, also shot up. Microsoft rose $3.44 to $59.88; Sun Microsystems climbed $12.88 to $91.75, a 16 per cent gain. <br><br>But investors were still punishing stocks that warned of disappointing earnings. Shares of 3Com tumbled $3.34 to $10.01, a 25 per cent drop, after the supplier of broadband equipment warned of soft quarterly results. <br><br>Wall Street also shunned pharmaceutical and energy-related stocks, which had been viewed as safe havens during the market's volatility. Drug maker Merck fell $2.25 to $89.75; Exelon fell $2.28 to $63.01. <br><br>"During the bad times, when most of the market was getting killed, drugs and utilities were on the 'high' list," said Wachtel, the Prudential analyst. "If I'm going to bargain hunt, I'm not going to look at these stocks." <br><br>Advancing issues outnumbered decliners more than 2-to-1 on the New York Stock Exchange, where volume came to 1.38 billion shares, well ahead of the 1.1 billion reported at the same point Monday. <br><br></font> 
+<a name="newsitem975639096,70393,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>World goods trade increases 14% in 2000</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default,gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">GENEVA <br>HIGH demand in North America and Asia helped increase world goods trade by 14 per cent in the first nine months of 2000 and should produce at least 10 per cent growth over the whole year, according to the World Trade Organization. <br><br>The WTO's annual International Trade Statistics report said the 2000 figure would be double the 5 per cent overall growth in the value of merchandise trade last year. <br><br>Oil-exporting countries achieved above-average growth as prices have spiked, it said. Russia alone saw exports rise by almost 50 per cent in value in the first nine months of 2000. <br><br>Meanwhile, China's exports and imports have risen by a third and Asia's as a whole by about a quarter. <br><br>"On the assumption that real trade growth is losing some of its steam in the second half but is still growing on a seasonally adjusted basis, the real growth of world merchandise exports should exceed some 10 per cent," the 215-page study said. <br><br>It predicted that growth would fall to 7 per cent in 2001, but did not elaborate on the reasons. <br><br>Michael Finger, the WTO's acting director of economics and research development, said the 2000 figures showed that Western Europe and Latin America are picking up speed and joining the United States and Asia as major engines of economic growth. <br><br>"The United States is still a locomotive force, but it is no longer alone. Now we have several locomotives," he told a press conference. <br><br>Western Europe's figures, however, are being affected by the strength of the dollar against the euro. In dollar terms, exports grew by 3.5 per cent, but in euros they grew by 18 per cent. Imports were up 6 per cent in dollars but 21 per cent in euros. <br><br>Detailed figures for last year showed that international trade in goods was worth $5.47 trillion - up 3.5 per cent in terms of volume and 5 per cent in terms of value. <br><br>"World imports of office and telecom equipment rose by 10 per cent to nearly $770 billion," it said. "A sharp rise in the sales of semiconductors and mobile phones contributed to this dynamic growth." <br><br>More than half of all expansion was due to the increase in imports and exports in the United States, the report said. US imports accounted for 18.5 per cent of the world total, a "historically unprecedented level". <br><br>US exports made up 12.4 per cent of the global total. While the country's imports rose by 12 per cent in value terms, exports only grew by 2 per cent, pushing up the US trade deficit. <br><br>Developing countries increased their share of the world export market, accounting for 27.5 per cent of goods exports in 1999. <br><br>However, Eastern Europe experienced an overall fall in imports and exports, even though gross domestic product rose by almost 2 per cent, the report said. <br><br>Russia's financial crisis in 1998 led to a fall in exports for countries which traditionally rely on the Russian market, it added. However, four countries - Hungary, Estonia, Georgia and Azerbaijan - have recorded an average increase in exports of more than 10 per cent annually since 1995. <br><br>Exports and imports from Western Europe were unchanged in dollar terms in 1999, but rose by 4 per cent in local currencies, the report added. <br><br>Worldwide trade in services last year totaled $1.35 trillion - up 1.5 per cent from 1998. The report offered no prediction for this year's performance in that area, but noted that it varies widely from year to year. <br><br>The growth in transport and travel services outstripped that in other sectors. "The principal factor behind the lackluster growth of (other services) would appear to be the decline in construction services as well as a marked deceleration in the growth of royalties and licence fees," the study said. Transport and travel services were the best performers. - AP <br></font> 
+<a name="newsitem975350967,20534,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Rs 10,000 crore 'just a figure': Baijal</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Economictimes.Com Bureau <br>NEW DELHI <br>THE GOVERNMENT on Monday proved right what the whole world suspected all along -- that there is little logic in the figures that are part of the budget every year. <br><br>Speaking at the India Economic Summit, Department of Disinvestment secretary Pradeep Baijal said, "The figure (of Rs 10,000 crore) against disinvestment was an entry. It could not have been 0, so it had to be something 1, 2, 10 or 20." <br><br>Coming from the man in the thick of the action, this was no light observation. Though he did continue in an optimistic vein and said that next year should bring in a better performance from the much talked about divestment of public sector enterprises. <br><br>Speaking to an audience, which according to Baijal himself, consisted of "potential buyers" to his "salesman", the disinvestment secretary blamed administrative inaction for the delays in divestment, rather than the usual scapegoat of lack of political will. <br><br>But when asked to cite examples, he could only emphasise that political will has made possible whatever has happened so far. <br><br>In the context of valuation of PSUs at the time of sale, Baijal cited the example of Wipro and Infosys while stating that assets did not matter as much as share prices did. <br><br>He was responding to an observation by Shell chairman Vikram Mehta that deciding whether to value the company before putting it in the market was a major dilemma while deciding on disinvestment. <br><br>The other dilemmas, according to Mehta: whether disinvestment is a political or a commercial process and whether the PSU should be restructured before privatisation or after. <br><br>A five-pronged approach to divestment came from Frenchman Jacques Attali, president, PlanetNet Finance, who has had extensive experience in the divestment process in Eastern Europe. <br><br>His prescription advised moving after forming the basic legislations such as banking and accounting in place, forming a list of companies which are to be privatised and preparing them within a time limit, putting financial instruments in place before moving and lastly, having global social policies in place to counter the social effects of privatisation. <br></font> 
+<a name="newsitem974955600,35125,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>How Fear Destroys Trading Profits</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Because fear is an important and a regular feature of markets, it is important that traders learn how to cope properly with it. The main problem is that the mental habits (i.e. the fundamental sub-conscious thought patterns) which normally cope with fear, are inappropriate when it comes to coping with financial markets. There are three such habits which need to be addressed. Each of these three patterns exist to some degree in any individual, but it is probable that one pattern will be more dominant than the others. The patterns are: <br><br>The minimisation of fear. <br>The protection of the self-image. <br>The protection of personal space. <br>In essence, every item of information perceived by an individual will automatically be compared with these three imperatives. If expectations do not match events, then the automatic response will be one of fear. This is then followed by a secondary response, people who normally seek to minimise fear will feel the fear more acutely, those who seek to protect their self image will respond to fear by projecting a hostile attitude and those who seek to protect their personal space will respond to fear by becoming angry. <br><br>The minimisation of fear <br><br>A person whose behaviour is dominated by the need to minimise fear will tend to search for, and concentrate on, potential threats. The greatest threat to a trader&#8217;s well being is, quite obviously, the loss of capital. There is therefore a natural tendency to try to avoid losses and the fact that losses are not always avoidable serves only to emphasise the dangers. The inbuilt habit of trying to avoid mistakes has two deleterious side effects. <br><br>First, if the market begins to move against a trader, there will be a natural tendency to look only at information which justifies the original view. This will delay the decision to cut the loss making position. Losses may therefore be greater as a result. <br>Second, if the market moves in favour of the trader, there will be a tendency to look only at that information which confirms that the market may retrace its steps back to the trader&#8217;s starting level. This will accelerate the decision to take the profit. Profits will therefore be smaller as a result. Overall, the fear of making losses only ensure that returns are biased downwards. <br>In addition to a mediocre trading performance, the habit of focusing one&#8217;s attention on potential threats also uses up valuable energy. As a result, very little energy is left over to learn new strategies and tactics. Indeed, when naked fear does break through, as it inevitably does, the individual is likely to freeze up completely. The subconscious is unable to cope with the emotion because it has become used to avoiding it. <br><br>Fearful individuals do not make natural traders. One part of the solution is (eventually!) to learn that the world is not necessarily as dangerous as childhood experiences have evidenced. The other, more immediate, part of the solution is to adopt trading practices which automatically reduce the individual&#8217;s exposure to fear. Where possible, such practices should incorporate the use of price objectives. <br><br>The protection of the self-image <br><br>A person whose behaviour is controlled by the need to protect a particular self image will focus his attention on obtaining the approval of others. Feelings of low self esteem are generated when this approval is not forthcoming for some reason. However, the &#8216;gift&#8217; of approval may be either real or imaginary: It is possible to feel that approval is in some way withheld, even when the approval is in fact forthcoming, and at extremes, it is possible to feel that approval would not be forthcoming if anyone knew &#8216;the truth&#8217;. As a result, it is possible to suffer from feelings of low self esteem even if no one else is actually involved. <br><br>This unfortunate situation arises because, in the case of western culture at least, we are trained from childhood not to make mistakes. It doesn&#8217;t matter whether we are rewarded for avoiding mistakes or punished for making them, the result is the same. We end up being afraid to make mistakes and the instinctive drive of inquisitiveness is suppressed. Different people respond in different ways, of course, so not everybody will avoid trying anything new (otherwise there would be no progress!). But those individuals who, for whatever reason, have been exposed to the fear of ignominy during childhood will inevitably regard any mistake as being intrinsically unacceptable simply because it is a &#8216;mistake&#8217;. <br><br>Individuals who are particularly energised by the need to protect their self image are likely to experience acute feelings of low self esteem when losses are incurred. The basic lesson to be learnt, of course, is that making a loss does not automatically &#8216;devalue&#8217; the essential worth of an individual as a human being. However, it is a lesson which is difficult to learn, given the power of childhood programming. The only practical solution is to direct attention away from the need to make every trade a success and direct it instead towards the need to make the whole activity of trading a success. <br><br>The protection of personal space <br><br>Individuals who seek to protect their personal space will tend to have strong mental ego boundaries and will try to obtain control over anything that may influence their lives. This mental attitude is classified into two, namely the part which is non-threatening and which can therefore be assumed to be &#8216;unchanging&#8217;, and the part which is active and which is therefore threatening. Having made this distinction, it is then possible to direct the necessary mental and physical resources towards the control of the potential threat; and where possible, of course, this control will be exerted directly. <br><br>Obviously the degree to which this strategy could be successful will depend on an individual&#8217;s ability to distinguish between the threatening and the non-threatening. The ability is usually developed during the process of learning by mistakes. Each successive mistake heightens awareness of the need to exert control over actual and potential threats. However, the strategy also depends on the extent to which circumstances are found to be threatening in the first place. There is a world of difference between knowing that one person in a crowd might throw a stone at you and knowing that everyone in a crowd is going to throw stones at you. In the former case, the process of separating the threatening from the non-threatening is both possible and useful. In the latter case, however, the process is irrelevant. <br><br>Financial markets are, in a sense, like the second example. If the trader uses the simple assumption that the structure of the market is unchanging for the period during which the trade is in place, then losses will present themselves as strong information &#8216;shocks&#8217;. The trader will automatically focus attention on the cause of the shock and will subconsciously recognise the situation as being uncontrollable. Not surprisingly, the emotional response will be one of anger and frustration. The lesson which will eventually be absorbed by the process of learning by these sorts of mistakes will be that trading should be avoided! <br><br>People with a strong predilection towards protecting their personal space and who, therefore, subconsciously assume that they can exert some degree of control over price movements cannot automatically become successful traders. They will have to understand that financial markets do not necessarily behave according to desires and that their instinct towards control has to be directed internally rather than externally. <br><br>Conclusion <br><br>The simple point to be made therefore, is that the mental habits which are usually developed to cope with fear, and which broadly involve strategies to minimise fear, to protect a self image and to protect personal space usually militate against successful trading. This is simply because the habits are not suited to financial markets. Since everybody has one or more of these particular mental habits to some degree, it follows that most people are not going to become an automatic success at trading. Losses are likely to be large, stress will be high and (when it is experienced over a sustained period of time) will use up vital energy resources and cause illness and the associated emotions are likely to be negative and unfulfilling. It is important, therefore, to look at ways to resolve these problems.<br><br><br>By<br>Tony Plummer<br>(Tony Plummer, a graduate of the London School of Economics is an active trader in the U.K. financial markets. He is a director of Hambros Bank Ltd. in London, where he is responsible for bond and currency trading.) taken from<p><a href="http://http://www.walletwatch.com/sathyamnew/NewsView.asp?NewsID=46350&amp;NewsBullet=0">www.walletwatch.com</a></p><br><br> <br></font> 
+<a name="newsitem974571212,40286,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Fiat, GM may weigh Daewoo break-up </u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">LONDON <br>A POSSIBLE break-up of Daewoo Motor, the debt-laden South Korean carmaker, has been raised at top level meetings between US car giant General Motors and Fiat, the Financial Times reported on Friday. <br><br>The Financial Times said the break-up of Daewoo could lead to a revised bid from the US and Italian automotive groups. <br><br>The two had originally proposed a joint bid for Daewoo, which was put to the Korean firm's creditors in June, but the creditors opted instead for a bid from Ford, which the US car firm later abandoned. <br><br>Rick Wagoner, chief executive of GM, was understood to have discussed a prospective deal during talks with Roberto Testore, the head of Fiat Auto, at GM's headquarters in Detroit. GM was said to be interested in an offer for selected Daewoo plants and assets rather than bidding for it as a going concern. <br><br>The FT quoted a source familiar with the talks as saying: "Now that Daewoo has been placed in court receivership, the bidders believe they can get assets out with protection from the creditors." <br><br>Daewoo's creditors cut off funding from the company forcing it into bankruptcy earlier this month, after its union rejected a demand to cut 3,500 jobs<br>source economictimes.com</font> 
+<a name="newsitem974437200,14170,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Bayer's growth undermined by raw material costs</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+bhavin &nbsp;  bhavin@123ofnet.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/bayer.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Bayer, the German chemical and pharmaceutical company, reported strong growth in its healthcare and agrochemicals sales on Thursday. However, the chemicals division was hit by the high cost of raw materials, which affected the overall result. <br><br>Bayer repeated its prediction of double-digit increases in sales and operating income for the full year. Operating profit on continuing operations for the three months rose by 11.7 per cent to E724m ($621m), before exceptionals, falling short of analysts' forecasts. <br><br>Sales on continuing operations rose 22.7 per cent to E7.433bn, slightly above forecasts, but the share price reacted negatively, falling by 3.41 per cent to E49.5 at 1400 GMT. <br><br>Growth is being fuelled by the healthcare segment, especially the pharmaceuticals business. <br><br>Analysts say Bayer now has one of the most exciting products pipelines as a result of significant investments in biotechnology alliances. Bayer has drug discovery collaborations with Millennium, the US genomics company and, Lion Bioscience of Germany. <br><br>The healthcare and agriculture divisions increased operating incomes by 40 and 13 per cent respectively during the first three quarters, buoyed also by favourable shifts in the exchange rate. <br><br>However, while polymers and chemicals continue to be hit by the sharp increase in the cost of raw materials, and saw only modest earnings growth of 4 per cent and 3 per cent respectively. <br><br>"We are confident that the squeeze on margins that has resulted from higher raw material costs can be largely reversed in the coming months," Bayer said.<br><br></font> 
+<a name="newsitem974265245,63693,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>At last...a rally on Wall Street</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">Wall Street mirrored BSE for a change. Its bounce back time folks. Whether this rally will sustain, we would have to wait and see. For the time being its good news. Nasdaq registered its 10th- largest percentage gain ever after six sessions of downfall in a row after Vodafone Group PLC  reported solid earnings.<br><br>With Tuesday` s gain, the Nasdaq  has moved back above the psychological 3,000 level, which it fell below on Monday for the first time in over a year. The tech-laced Nasdaq zoomed ahead by 171.52 points, or 5.78%  to close at 3,138.24. Intel, IBM and Microsoft pushed Dow Jones industrial average higher at 10,681.06, a gain of 163.81 points. The broader Standard & Poor rose 31.69 points   to 1,382.95. <br><br>Besides the tech stocks, the Dow was aided by Wal-Mart Stores and Home Depot. Wal-Mart` s third-quarter profits rose 5.8%, matching Wall Street forecasts, on a 13% increase in revenue. Home Depot`s third-quarter earnings rose 12%, meeting lowered estimates.  <br><br>Another positive sign was Goldman Sachs` Abby Joseph Cohen who said stocks are a good buy now. Cohen added that S&P 500 index is about 15%undervalued. To add to this Merrill Lynch`s chief U.S. strategist, Christine Callies, advised investors buy stocks as equities are likely to outperform bonds and cash over at least the next three to six months. Fresh economic data showed that US retail sales rose 0.1% to $273.2bn in October. This is against economists` expectations of a drop of 0.1%. Cisco Systems rose by $2.75 to $53.13 after Credit Suisse First Boston reiterated its "strong buy" rating and $87 price target.<br><br><br>Among the Indian stocks on the Wall Street Infy ended at $127.25, up $6.12. Sify has also gained $1.06 to close at $9.19. Wipro ended at $56, up $3. Rediff marginally gained to end at $5.12. Silverline closed at $13.06, a gain of $1.19. ICICI Bank and ICICI were both up at $6.25 and $9.31 respectively.  VSNL was the only Indian stock to end negative at $8.88, a marginal drop of $0.13.<br><br>source indiainfoline.com<br><br> <br></font> 
+<a name="newsitem974013203,23192,"></a>
+<p align="left">
+<strong><font color="#ff0000"><DefaultCategory><font size="4"><u>Dell Shares Plunge on Scaled-Back Revenue Outlook</u></font></font> <font size="4"><u>&nbsp;<br>
+</u></font> </strong><font color="#000080" face="Arial" size="1">Posted  by&nbsp; 
+varma &nbsp;  love4vishal@rediffmail.com</font><small><br>
+</small><img border="0" src="http://www.123ofnet.com/pictures/newspro/default.gif"><br>
+  <font face="Arial, Helvetica, sans-serif" size="2">taken from dowjones.com<br><br>Dell Computer Corp. shares plunged Friday after the personal-computer giant, which has struggled this year to meet growth targets, warned that revenue next year will rise more slowly than analysts had expected. <br><br>After posting third-quarter results late Thursday that matched reduced expectations, Dell executives said during a teleconference that they expect revenue growth of 20% next year, down from the company's earlier estimate of 30%. <br><br>The company's revenue forecast for the next fiscal year is a sharp decline from the 27% projected growth rate this year, and lower than most analysts had expected after the company's warning last month. <br><br>Several brokerages, including Morgan Stanley Dean Witter, CIBC World Markets and Bank of America Securities, followed the Round Rock, Texas, concern's remarks by lowering their investment ratings. <br><br>Dell (DELL) shares fell $5.37, or 19%, to $23 at 4 p.m. EST on the Nasdaq Stock Market. Ahead of Friday's drop, Dell shares had fallen 44% this year. <br><br>Gillian Munson, a Morgan Stanley analyst, cut her rating on Dell's stock to 'neutral' from 'outperform.' In a research note, Ms. Munson said that 'after falling short of targets or revising guidance in four of the last five quarters, we think it will take time [for Dell] to regain investor confidence.' <br><br>Analysts attributed the slower growth to a number of factors, including improvements by competitors, pricing pressures and the maturation of the desktop PC market. Some also warned that Dell may suffer as it tries to lessen its reliance on the desktop market, which currently accounts for nearly half of the company's sales. <br><br>'Dell needs to quickly decrease its reliance on desktop revenues and establish a presence as an enterprise supplier,' Kevin McCarthy, an analyst with Credit Suisse First Boston, said Friday in a research note. 'A successful transition will take time and money and could lead to further revenue and earnings shortfalls.' <br><br>For the third quarter ended Oct. 27, Dell said net income jumped 40% to $674 million, or 25 cents a diluted share, from $483 million, or 18 cents a share, a year earlier. The results matched the estimate of Wall Street analysts, according to First Call/Thomson Financial. <br><br>Revenue rose to $8.26 billion from $6.78 billion a year earlier. <br><br>Last month, Dell warned that third-quarter revenue would fall short of Wall Street's projections due to slower gains in Europe, U.S. government sales and lower-than-expected sales to Internet companies. It also shaved its earnings outlook for the fourth quarter. <br><br>In a conference call, Chief Executive Officer Michael S. Dell declined to say how the consumer-spending slowdown that has hit retailers may affect the company's fourth-quarter results. He said the company is comfortable with Wall Street's outlook for earnings per share of 92 cents for the final period, which ends Feb. 2, 2001. <br><br>Amid investor concerns about Dell's projection of slower sales growth next year, some market watchers questioned whether the PC maker is willing to shift its business strategy quickly enough and invest enough to fit the changing times. <br><br>Dell has been long lauded as a paradigm of efficiency because of its low expenses and success selling directly to consumers. But Dell's cost advantage has been reduced because rivals have copied its indirect sales model; and it is no longer able to grow at two to three times the industry average without sacrificing profits. <br></font> 
+</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- #EndEditable --> </div>
+<table width="720" border="0" align="center" cellpadding="0" cellspacing="0" height="84">
+  <tr bgcolor="#FFFFFF"> 
+    <td height="24" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><a href="http://123ofnet.com/advertise.shtml"><font color="#000099" size="1"><br>
+          ADVERTISE</font></a><font color="#000099" size="1"> | <a href="http://123ofnet.com/aboutus.shtml">ABOUT 
+          US</a> | <a href="http://123ofnet.com/developer.shtml">SERVICES</a> 
+          | <a href="http://123ofnet.com/support.shtml">SUPPORT</a> | <a href="http://123ofnet.com/faq.shtml">FAQ's</a> 
+          | <a href="http://123ofnet.com/privacypolicy.shtml">PRIVACY POLICY</a></font></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="45" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><font size="2"> <img src="http://www.123ofnet.com/pictures/itechlogo.gif" align="absmiddle"> 
+          123ofnet.com<br>
+          <br>
+          </font>
+<p><a href="http://www.mailbaroda.com"><img border="0" src="http://www.123ofnet.com/pictures/ads/mailbaroda.jpg"></a></p>
+</p>
+        </div>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+</BODY>
+<!-- #EndTemplate --></HTML>
