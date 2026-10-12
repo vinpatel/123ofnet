@@ -16,13 +16,16 @@
   and a DMOZ-style category directory. Sister site: MAILBARODA.COM.
 - Team (from the 2000 Credits page): Bhavin D. Patel (Webmaster), plus two partners
   (programmer, marketing). Only Vin is named on the new site until the partners agree.
-- 123ofcomputers.com: capture list still pending (Wayback Machine overloaded).
+- 123ofnet.hypermart.net: 224 captures (2001–2004), the free-host site before the .com launch on 1 Nov 2000.
+- 123ofnet.net: 113 captures (2001–2002), the free webspace service (members, signup, user sites). Not downloaded yet.
+- 123ofcomputers.com: no captures and not registered. Waiting on Vin for the exact name or address.
 
 ## Phase 0: Recover the original
 - [x] Find captures (domain is **123ofnet.com**, not 123of.net)
 - [~] Download raw HTML/images → `archive/raw/123ofnet.com/` (in progress, archive is slow)
 - [~] Screenshot every page → `archive/screenshots/123ofnet.com/` (in progress)
-- [ ] 123ofcomputers.com captures + screenshots → blend anything useful into the design
+- [x] 123ofnet.hypermart.net: 126 files + 16 screenshots, shown on /1999/
+- [ ] 123ofcomputers.com: confirm the address with Vin
 - [ ] Recover original logo GIFs if any were archived
 
 ## Phase 1: Money site v1 (static, GitHub Pages)
