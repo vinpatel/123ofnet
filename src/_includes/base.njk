@@ -3,53 +3,57 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if title %}{{ title }} - {% endif %}{{ site.title }}</title>
-<meta name="description" content="{{ description or site.tagline }}">
+<title>{% if title %}{{ title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.tagline }}{% endif %}</title>
+<meta name="description" content="{{ description or site.description }}">
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 <link rel="stylesheet" href="/assets/retro.css">
 <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt">
+<meta property="og:title" content="{{ title or site.title }}">
+<meta property="og:description" content="{{ description or site.description }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","name":"{{ site.title }}","url":"{{ site.url }}","description":"{{ site.tagline }}","foundingDate":"{{ site.established }}","author":{"@type":"Person","name":"{{ site.webmaster }}"}}
+{"@context":"https://schema.org","@type":"WebSite","name":"{{ site.title }}","url":"{{ site.url }}","description":"{{ site.description }}","foundingDate":"{{ site.established }}","potentialAction":{"@type":"SearchAction","target":"{{ site.url }}/directory/?q={query}","query-input":"required name=query"}}
 </script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <div class="page">
-  <header class="masthead">
-    <p class="logo"><a href="/">123ofnet.com</a></p>
-    <p class="tagline">{{ site.tagline }}</p>
+
+  <header class="topbar">
+    <a class="logo" href="/">123<span>of</span>net<small>.com</small></a>
+    <form class="search" action="/directory/" method="get" role="search">
+      <label for="q" class="sr">Search AI tools</label>
+      <input id="q" name="q" type="search" placeholder="What do you want to do with AI?">
+      <button type="submit">Search</button>
+    </form>
   </header>
 
-  <div class="marquee" aria-hidden="true"><span>*** Welcome back! 123ofnet.com is ONLINE again after 20+ years *** Sign the guestbook *** Join the webring *** Best viewed in Netscape Navigator at 800x600 ***</span></div>
+  <nav class="navstrip" aria-label="Main">
+    <a href="/">Home</a> |
+    <a href="/directory/">AI Directory</a> |
+    {% for cat in directory.categories %}<a href="/directory/{{ cat.slug }}/">{{ cat.name }}</a> | {% endfor %}
+    <a href="/tools/">Free AI Tools</a> |
+    <a href="/submit/"><b>Get Listed</b></a>
+  </nav>
 
-  <div class="layout">
-    <nav class="sidebar" aria-label="Main">
-      <p class="nav-title">NAVIGATION</p>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/directory/">The Directory</a> <span class="new">NEW!</span></li>
-        <li><a href="/1999/">The 1999 Site</a></li>
-        <li><a href="/guestbook/">Guestbook</a></li>
-        <li><a href="/webring/">Webring</a></li>
-        <li><a href="/webmaster/">Ask the Webmaster</a></li>
-      </ul>
-      <hr>
-      <p class="small">Best viewed in<br><b>Netscape Navigator 4.0</b><br>at 800x600</p>
-    </nav>
+  <p class="strap"><span><b>123ofnet.com</b> - {{ site.tagline }}</span> <span class="strap-r">Est. {{ site.established }} by three enterprising students</span></p>
 
-    <main id="main" class="content">
-      {{ content | safe }}
-    </main>
-  </div>
+  <main id="main">
+    {{ content | safe }}
+  </main>
 
-  <footer class="footer">
-    <hr>
-    <p class="counter-line">You are visitor number
-      <span class="counter" aria-label="{{ site.hits }} visitors">{% for d in (site.hits | string).padStart(7, "0").split("") %}<span>{{ d }}</span>{% endfor %}</span>
+  <footer class="footbar">
+    <p>
+      <a href="/advertise/">ADVERTISE</a> |
+      <a href="/about/">ABOUT US</a> |
+      <a href="/submit/">GET LISTED</a> |
+      <a href="/faq/">FAQ's</a> |
+      <a href="/privacy/">PRIVACY POLICY</a> |
+      <a href="/1999/">THE ORIGINAL SITE</a>
     </p>
-    <p class="small">&copy; {{ site.established }}&ndash;{{ "" | year }} {{ site.webmaster }} &middot; Last updated: {{ site.lastUpdated }}</p>
-    <p class="webring-bar">[ <a href="/webring/">&lt;&lt; Prev</a> | <a href="/webring/">Random</a> | <a href="/webring/">List Sites</a> | <a href="/webring/">Next &gt;&gt;</a> ]<br><span class="small">This site is a member of the 123ofnet.com Webring</span></p>
   </footer>
+  <p class="copy">&copy; {{ site.established }}&ndash;{{ "" | year }} 123ofnet.com &middot; Last updated: {{ site.lastUpdated }}</p>
 </div>
+<script src="/assets/search.js" defer></script>
 </body>
 </html>

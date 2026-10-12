@@ -1,0 +1,42 @@
+---
+layout: base.njk
+title: Get your AI tool listed
+description: "List your AI tool on 123ofnet.com. Free review, $49 Fast Track, or Featured placement at the top of your category."
+permalink: /submit/
+---
+<div class="content">
+  <h1>Get your <em>AI tool</em> listed</h1>
+  <p>People come to 123ofnet.com to find the right AI tool for a job. Get yours in front of them.
+  Every listing is checked by a person, so being listed here means something.</p>
+
+  <table class="plans">
+    <tr><th>Free</th><th>Fast Track</th><th>Featured</th></tr>
+    <tr>
+      <td><span class="price">$0</span></td>
+      <td><span class="price">{{ site.prices.fastTrack }}</span><br><span class="small">one time</span></td>
+      <td><span class="price">{{ site.prices.featured }}</span><br><span class="small">cancel any time</span></td>
+    </tr>
+    <tr>
+      <td class="feat">&check; Human review<br>&check; Listed in 1 category<br>&#9203; Queue: about 4&ndash;6 weeks</td>
+      <td class="feat">&check; Reviewed &amp; listed <b>within 48 hours</b><br>&check; Listed in 1 category<br>&check; "Listed on 123ofnet" badge for your site<br>&check; Permanent listing</td>
+      <td class="feat">&check; Everything in Fast Track<br>&check; <b>Top of your category page</b><br>&check; Homepage "What's NEW" box<br>&check; Mention in {{ site.newsletter.name }}<br>&check; FEATURED tag</td>
+    </tr>
+    <tr>
+      <td><a class="btn" href="mailto:{{ site.contactEmail }}?subject=Free%20listing%3A%20&body=Tool%20name%3A%0AURL%3A%0AWhat%20it%20does%20(one%20line)%3A%0ACategory%3A">Submit free</a></td>
+      <td>{% set plan = "fastTrack" %}{% set label = "Fast Track " + site.prices.fastTrack %}{% include "paybtn.njk" %}</td>
+      <td>{% set plan = "featured" %}{% set label = "Go Featured" %}{% include "paybtn.njk" %}</td>
+    </tr>
+  </table>
+
+  <h2>The rules</h2>
+  <ul>
+    <li>The tool must work, and the website must say clearly what it does and what it costs.</li>
+    <li>No scams, no adult content, nothing that harms people. Paying does not skip review.</li>
+    <li>If we can't list your paid submission, you get a full refund.</li>
+  </ul>
+
+  <h2>Your badge</h2>
+  <p>Listed tools can add this retro button to their site:</p>
+  <p><a class="badge88" href="{{ site.url }}"><b>123ofnet</b>LISTED TOOL</a></p>
+  <pre class="note small" style="white-space:pre-wrap">&lt;a href="{{ site.url }}"&gt;&lt;img src="{{ site.url }}/assets/badge-88x31.svg" width="88" height="31" alt="Listed on 123ofnet.com"&gt;&lt;/a&gt;</pre>
+</div>

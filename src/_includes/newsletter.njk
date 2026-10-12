@@ -1,0 +1,9 @@
+{%- if site.newsletter.action -%}
+<form class="mini" action="{{ site.newsletter.action }}" method="post">
+  <label for="nl-email-{{ page.url | slugify }}" class="sr">Email address</label>
+  <input id="nl-email-{{ page.url | slugify }}" type="email" name="email" placeholder="your@email.com" required>
+  <button type="submit">Subscribe</button>
+</form>
+{%- else -%}
+<p><a class="btn" href="mailto:{{ site.contactEmail }}?subject=Subscribe%20to%20123ofnet%20Weekly">Subscribe</a></p>
+{%- endif -%}

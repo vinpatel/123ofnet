@@ -1,9 +1,28 @@
 {
   "title": "123ofnet.com",
   "url": "https://123ofnet.com",
-  "tagline": "The web, before it got weird. Rebuilt for after.",
-  "established": 1999,
+  "tagline": "An easy solution to AI !!!",
+  "taglineOriginal": "An easy solution to the Net !!!",
+  "description": "123ofnet.com finds the right AI tool for any job. A hand-checked directory of AI tools for normal people and small businesses, since 2000.",
+  "established": 2000,
   "webmaster": "Vin Patel",
   "lastUpdated": "October 12, 2026",
-  "hits": 1999
+
+  "contactEmail": "hello@123ofnet.com",
+
+  "stripe": {
+    "fastTrack": "",
+    "featured": "",
+    "pro": ""
+  },
+  "prices": {
+    "fastTrack": "$49",
+    "featured": "$149/mo",
+    "pro": "$9/mo"
+  },
+
+  "newsletter": {
+    "action": "",
+    "name": "123ofnet Weekly"
+  }
 }

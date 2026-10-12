@@ -1,6 +1,6 @@
-# DESIGN.md — 123ofnet.com
+# DESIGN.md: 123ofnet.com
 
-The rule: **it must look like 1999.** Modern only where the visitor can't see it
+The rule: **it must look like the 2001 site.** Modern only where the visitor can't see it
 (performance, accessibility, security, machine-readability).
 
 ---
@@ -11,63 +11,44 @@ The original site (Wayback Machine captures in `archive/raw/` and screenshots in
 `archive/screenshots/`) is the design spec. When this file and the original
 disagree, **the original wins**. Update this file once Phase 0 is done.
 
-### Original site inventory (fill in after Phase 0)
-| Page | Original URL | Capture date | Notes (colours, GIFs, layout) |
-|---|---|---|---|
-| Home | | | |
-| | | | |
+### The real 2001 design (from archive/raw/123ofnet.com, Feb 2001)
+- **Top bar** `#3366FF` with the logo and the search box ("Search WWW / Search 123ofnet.com")
+- **Link strip** in light blue: `Home | News | Horoscope | Career | Medicine | ...`
+- **Tagline strip** `#FF9900`: "123ofnet.com - An easy solution to the Net !!! ... A site by three enterprising students"
+- **3 columns**: left = What's NEW + topic boxes, centre = News + DMOZ-style Categories grid, right = Email login, Newsletter, Polls, Career, "Our Other SITES"
+- **Box title bars** (bold blue Verdana text, centred) in pastel colours:
+  `#FFCC99` peach, `#CCFFCC` mint, `#CCCCFF` lilac, `#FF99FF` pink, `#FFFF99` lemon, `#99CCFF` sky, `#FFFFCC` cream.
+  Strong bars with yellow text: `#FF6633` (News), `#0099FF` (Categories), `#66CC99` (Quotes), `#FF6699` (Weather)
+- **Headings** in Impact-style blue with a pink accent ("The TEAM @ 123ofnet.com")
+- **Footer**: orange bar `ADVERTISE | ABOUT US | SERVICES | SUPPORT | FAQ's | PRIVACY POLICY`
+- **Fonts**: Verdana/Arial for UI, Times for article text, Impact for big headings
 
-### Original palette (fill in from captures)
-| Use | Hex | Notes |
-|---|---|---|
-| Page background | `TBD` | (bgcolor / tiled background image?) |
-| Text | `TBD` | |
-| Link | `TBD` | 1999 default was `#0000EE` |
-| Visited link | `TBD` | 1999 default was `#551A8B` |
-| Active link | `TBD` | |
-
-Until captures exist, use the **1999 defaults** below as placeholders.
+These are implemented in `src/assets/retro.css` as CSS variables.
 
 ---
 
-## 2. The 1999 look (placeholder defaults)
+## 2. The look in one sentence
+A 2001 Indian web portal: busy but organised, pastel title bars, blue underlined links, everything one click away.
+Keep that **energy and layout**, but make it **easy to use** in 2026: big search box first, clear prices, works on phones.
 
-- **Layout:** `<table>`-style layout, fixed ~760px wide centred (fits 800x600),
-  left nav column ~150px, content column. (Use CSS grid that *looks* like
-  tables; see section 4.)
-- **Fonts:** `Times New Roman` body, `Arial`/`Verdana` for nav,
-  `Comic Sans MS` only if the original used it. Headings via `<font size>`
-  look: big, bold, sometimes coloured.
-- **Colours:** web-safe palette (multiples of `#33`). Default links
-  `#0000EE` / visited `#551A8B`, underlined.
-- **Graphics:** animated GIFs (under construction, email envelope, NEW!),
-  `<hr>` with bevel, 88x31 buttons, tiled background, hit counter with
-  odometer digits.
-- **Furniture:** "Best viewed in Netscape Navigator 4 at 800x600", "Last
-  updated:", webring bar, guestbook link, "Sign my guestbook!", marquee
-  (sparingly).
-- **No:** rounded corners, drop shadows, gradients-from-2020, hero images,
-  sans-serif minimalism, cookie banners, modal popups, dark mode by default.
+## 3. Modern features in the 2001 skin
 
-## 3. Modern features in a retro skin
-
-| Feature | 1999 disguise |
+| Feature | 2001 disguise |
 |---|---|
-| AI Webmaster chat | Grey Win98-style window titled "Chat with the Webmaster", or an ICQ/AIM buddy window. Typing shows "Webmaster is typing..." |
-| Guestbook | Classic guestbook table: Name / Homepage / Comments / Date |
-| Directory | Yahoo-1999 category lists: **Bold Category** (count) then sub-links |
-| Webring | Bar at page bottom: `[<< Prev] [Random] [List] [Next >>]` |
-| Hit counter | Odometer digit images, real count from the Worker |
-| "Human-picked" badge | 88x31 pixel button |
-| Submit a site | Plain `<form>` with grey bevelled inputs |
+| AI tool search | The 2001 top-bar search box, now the main entry point |
+| AI Directory | DMOZ-style "Categories" grid: **Bold Category** (count) then sub-links |
+| Featured listings | Lemon box with an orange border and a pink FEATURED tag |
+| Pricing | Bevelled table with blue headers and big Impact prices |
+| Free AI tools (Phase 2) | Pastel title-bar boxes, like the 2001 Email / eGreetings boxes |
+| Badge for listed tools | 88x31 button in the 123ofnet colours |
 
-Label anything AI-generated clearly, e.g. "🤖 Webmaster-bot says:".
+Label anything AI-generated, paid ("FEATURED") or affiliate ("(aff)") clearly.
 
 ## 4. Invisible modern rules (do not skip)
 
 - **Semantic HTML underneath.** Use real `<nav>`, `<main>`, `<h1>`; don't use
   layout tables or `<font>`. Copy the *look* with CSS. The only exception is
-  `/1999/`, which keeps the original markup untouched.
+  original archive files, which are never edited.
 - **Mobile:** below 800px the side nav stacks on top and nothing scrolls
   sideways. It should still feel retro, just not broken.
 - **Accessibility:** WCAG AA contrast (adjust the palette slightly if the
@@ -81,8 +62,7 @@ Label anything AI-generated clearly, e.g. "🤖 Webmaster-bot says:".
 
 ## 5. Assets
 
-- Original assets: `site/1999/` (never modified) and copies reused in
-  `src/assets/retro/`.
-- New retro assets must match 1999 constraints: GIF/PNG-8, web-safe colours,
+- Original assets: `archive/raw/` (never modified); copies to reuse go in `src/assets/retro/`.
+- New retro assets must match 2001 constraints: GIF/PNG-8, web-safe colours,
   pixel fonts, no anti-aliased gradients.
-- Fonts: system fonts only (they existed in 1999 too).
+- Fonts: system fonts only (they existed in 2001 too).

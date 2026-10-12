@@ -1,0 +1,23 @@
+---
+layout: base.njk
+pagination:
+  data: directory.categories
+  size: 1
+  alias: cat
+permalink: "/directory/{{ cat.slug }}/"
+eleventyComputed:
+  title: "Best AI tools for {{ cat.name }}"
+  description: "Hand-checked AI tools for {{ cat.name | lower }}: {{ cat.blurb | lower }}."
+---
+<div class="content">
+  <p class="small"><a href="/">Home</a> &raquo; <a href="/directory/">AI Directory</a> &raquo; {{ cat.name }}</p>
+  <h1>Best <em>AI tools</em> for {{ cat.name }}</h1>
+  <p>{{ cat.blurb }}. {{ cat.links | length }} tools, each checked by a person.</p>
+  <section style="border-top:4px solid {{ cat.color }}">
+    {% for l in cat.links | sort(true, false, "featured") %}{% include "listing.njk" %}{% endfor %}
+  </section>
+  <p class="note">Your AI tool belongs in <b>{{ cat.name }}</b>? <a href="/submit/">Get listed</a>. Featured spots go at the top of this page.</p>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"ItemList","name":"Best AI tools for {{ cat.name }}","itemListElement":[{% for l in cat.links %}{"@type":"ListItem","position":{{ loop.index }},"item":{"@type":"SoftwareApplication","name":"{{ l.title }}","url":"{{ l.url }}","description":"{{ l.note }}","applicationCategory":"{{ cat.name }}"}}{% if not loop.last %},{% endif %}{% endfor %}]}
+  </script>
+</div>

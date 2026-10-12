@@ -1,16 +1,17 @@
 # AGENTS.md — instructions for AI coding agents
 
-This repo revives **123ofnet.com**, a personal website first built in 1999.
-Read `PLAN.md` (what & why) and `DESIGN.md` (how it must look) before changing anything.
+This repo revives **123ofnet.com**, a web portal first built in 2000 and now rebuilt as a money-making AI tools portal.
+Read `BUSINESS.md` (how it makes money), `PLAN.md` (build checklist) and `DESIGN.md` (how it must look) before changing anything.
 
 ## Project layout
 
 ```
 archive/raw/          Raw Wayback captures. READ-ONLY. Never edit or reformat.
 archive/screenshots/  Screenshots of original pages (the visual spec).
-site/1999/            Faithful restoration of the original site (static HTML).
 src/                  Eleventy source for the modern-but-retro site.
-  _data/directory.json  Human-curated link directory (the core content).
+  _data/directory.json  Human-curated AI tool directory (the core product).
+  _data/site.json       Prices, Stripe Payment Links, newsletter form, contact email.
+  _data/museum.js       Lists archived screenshots for the /1999/ page.
   _includes/            Layouts and partials.
   assets/retro/         GIFs, buttons, counter digits.
 worker/               Cloudflare Worker (api.123ofnet.com): counter, guestbook, chat, webring.
@@ -29,10 +30,9 @@ cd worker && npx wrangler deploy   # deploy Worker (ask first)
 
 ## Hard rules
 
-1. **It must look like 1999.** Follow `DESIGN.md`. No modern UI styling
+1. **It must look like the 2001 site.** Follow `DESIGN.md`. No modern UI styling
    (rounded cards, shadows, hero sections, Tailwind look-alike design).
-2. **Never modify `archive/raw/`.** `site/1999/` changes only to remove Wayback
-   artefacts or fix broken asset paths, and must stay faithful to the original.
+2. **Never modify `archive/raw/` or `archive/screenshots/`.** They are the historical record.
 3. **Static first.** Every page must work with the Worker down and with JS off.
    Dynamic features progressively enhance.
 4. **No secrets in this repo.** The Claude API key and Turnstile secret live in
@@ -51,7 +51,7 @@ cd worker && npx wrangler deploy   # deploy Worker (ask first)
 - Ground the chat on `directory.json` and the site's pages. It must not claim
   to browse the web or make up links.
 - Rate-limit per IP, cap `max_tokens`, and use Turnstile on write endpoints.
-- Persona: the friendly 1999 webmaster of 123ofnet.com. Plain, warm, a bit nostalgic,
+- Persona: the friendly 2001 webmaster of 123ofnet.com. Plain, warm, a bit nostalgic,
   and honest that it is a bot.
 
 ## Git
@@ -62,7 +62,7 @@ cd worker && npx wrangler deploy   # deploy Worker (ask first)
 
 ## Definition of done for any page
 
-- [ ] Matches the original/1999 look (compare with `archive/screenshots/`)
+- [ ] Matches the 2001 look (compare with `archive/screenshots/`)
 - [ ] Works on a 375px-wide phone and at 800x600
 - [ ] Works with JS disabled
 - [ ] Passes HTML validation, alt text present, contrast AA

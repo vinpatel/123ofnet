@@ -4,16 +4,19 @@ eleventyExcludeFromCollections: true
 ---
 # 123ofnet.com
 
-> {{ site.tagline }} A personal homepage first built in 1999 by {{ site.webmaster }}, revived in 2026 as a human-curated directory of good, human-made websites.
+> {{ site.description }}
 
-Every link in the directory is picked and checked by a person.
+123ofnet.com is a web portal first built in 2000 ("An easy solution to the Net !!!") and revived in 2026 as "An easy solution to AI !!!". Every tool in the directory is checked by a person. Featured listings are marked as paid.
 
-## Pages
-- [Home]({{ site.url }}/): About 123ofnet.com and what's new
-- [The Directory]({{ site.url }}/directory/): Human-curated links by category
-- [The 1999 Site]({{ site.url }}/1999/): The original 1999 version, restored from archives
-- [Webring]({{ site.url }}/webring/): Ring of human-made personal sites
-
-## Directory categories
-{% for cat in directory.categories %}- {{ cat.name }}: {{ cat.blurb }} ({{ cat.links | length }} links)
+## Directory
+- [All AI tools]({{ site.url }}/directory/)
+{% for cat in directory.categories %}- [Best AI tools for {{ cat.name }}]({{ site.url }}/directory/{{ cat.slug }}/): {{ cat.blurb }}
 {% endfor %}
+## Tools by category
+{% for cat in directory.categories %}
+### {{ cat.name }}
+{% for l in cat.links %}- [{{ l.title }}]({{ l.url }}): {{ l.note }}
+{% endfor %}{% endfor %}
+## About
+- [About 123ofnet.com]({{ site.url }}/about/)
+- [List an AI tool]({{ site.url }}/submit/)

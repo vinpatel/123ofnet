@@ -1,0 +1,5 @@
+{%- if site.stripe[plan] -%}
+<a class="btn hot" href="{{ site.stripe[plan] }}">{{ label }}</a>
+{%- else -%}
+<a class="btn hot" href="mailto:{{ site.contactEmail }}?subject={{ ('123ofnet ' + label) | urlencode }}">{{ label }}</a>
+{%- endif -%}
