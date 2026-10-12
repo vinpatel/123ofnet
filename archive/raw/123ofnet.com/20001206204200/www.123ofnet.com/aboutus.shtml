@@ -1,0 +1,342 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><!-- #BeginTemplate "/Templates/template.dwt" -->
+<HEAD>
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>ABOUT US @ 123ofnet.com</TITLE>
+<!-- #EndEditable --> 
+<META content="text/html; charset=windows-874" http-equiv=Content-Type>
+<META 
+content="your easy solution to the internet world and developing ecommerce solutions " 
+name=description>
+<STYLE type=text/css><!--
+.nav1 {COLOR: #0000ff; FONT-FAMILY:arial, verdana, helvetica; FONT-SIZE: 7pt}
+.nav {COLOR: #ffffff; FONT-FAMILY: arial, verdana, helvetica; FONT-SIZE: 9pt}
+-->
+</STYLE>
+<STYLE type=text/css>A.internet {
+	COLOR: white; FONT-FAMILY: Courier; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 10pt; TEXT-DECORATION: none
+}
+.red {
+	BACKGROUND-COLOR: #d60027
+}
+.black {
+	BACKGROUND-COLOR: black
+}
+.headlines {
+	COLOR: #0033cc; FONT-FAMILY: Geneva, Arial, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-WEIGHT: normal; LINE-HEIGHT: 9pt; TEXT-DECORATION: none
+}
+.upperlinks {  background-color: #3366FF; color: #FFFF00; text-decoration: none; filter: DropShadow(Color=ffffff, OffX=4 OffY=4, Positive=2); font-size: x-small}
+</STYLE>
+<meta name="keywords" content="123ofnet,123ofnet.com,IRC,irc,free,free email,email,news,medicine,business,finance,computers,movies,music,education,electronics,weather,humor,editor,articles,stock,developer,chat,messageboards,forums,greetings,egreetings,postcards,classifieds,advertise,quotes,rock,pop,jazz,live help,cgi,scripts installation,banner,design,web design,web solutions,java,linux">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+</HEAD>
+<BODY aLink=#000099 bgColor=#ffffff link=#000099 vLink=#000099 text="#3333FF" onLoad="MM_preloadImages('pictures/banner1.gif','pictures/email.gif','pictures/chat.gif','pictures/dev.gif','pictures/classifieds.gif','pictures/findfriend.gif','pictures/greeting.gif')">
+<span class="music"></span> 
+<table align=center border=0 cellpadding=0 cellspacing=0 width="720">
+  <tbody> 
+  <tr> 
+    <td width="34%" height="50" align="left" valign="top" bgcolor="#3366FF"> 
+      <table bgcolor=#326aff border=0 cellpadding=0 cellspacing=0 width=254>
+        <tbody> 
+        <tr> 
+          <td align=right valign=top width=11 height="14"><font color=#000000 
+            face="Verdana, Arial, Helvetica, sans-serif" size=1><img height=13 
+            src="pictures/skylightlefttop.gif" 
+            width=14> </font></td>
+          <td align=middle width=214 height="14"><font color=#b54aff 
+            face="Arial, Helvetica, sans-serif" size=1>.</font></td>
+          <td align=middle valign=top width=29 bgcolor="#3366FF" height="14" bordercolor="#CCCCCC"> 
+            <div align="right"><img height=10 
+            src="pictures/skylightrighttop.gif" 
+            width=10></div>
+          </td>
+        </tr>
+        <tr align=middle valign=top> 
+          <td colspan=3><a href="http://www.123ofnet.com"><img src="/pictures/banner1.gif" width="253" height="56" border="0"></a></td>
+        </tr>
+        </tbody> 
+      </table>
+    <td width="66%" height="50" align="left" valign="top"><IMG SRC="http://service.bfast.com/bfast/serve?bfmid=32130361&siteid=34420277&bfpage=home" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=32130361&siteid=34420277&bfpage=home" TARGET="_top"><IMG SRC="http://www.contest.com/images/affiliate/banner-general/contest_prizes.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT=""></A>
+
+  </tr>
+  <tr> 
+    <td bgcolor=#326aff valign=middle width="34%" height="73" align="left"> 
+      <center>
+        <br>
+        <FORM method=GET action=http://www.google.com/custom target=_blank>
+          <TABLE bgcolor=#FFFFFF cellspacing=0 border=0 width="242" height="0" cellpadding="0" align="center">
+            <tr valign=top bgcolor="#3366FF"> 
+              <td height="14"> 
+                <p align="center"> 
+                  <INPUT TYPE=text name=q size=20 maxlength=255 value="">
+                  <INPUT type=submit name=sa VALUE="Search">
+                  <INPUT type=hidden name=cof VALUE="AH:center;AWFID:746c3cd377ee36d3;">
+                  <input type=hidden name=domains value="123ofnet.com">
+                  <br>
+                  <font color="#FFFF00"> 
+                  <input type=radio name=sitesearch value="" checked>
+                  <font size="1">Search WWW 
+                  <input type=radio name=sitesearch value="123ofnet.com">
+                  Search 123ofnet.com</font></font> </p>
+                </td>
+      </tr>
+    </TABLE>
+</FORM>
+</center>
+    <td bgcolor=#326aff valign=middle width="66%" height="0" align="left"> 
+      <table border=0 cellpadding=0 cellspacing=0 height=0 width="100%">
+        <tbody> 
+        <tr valign=center> 
+          <td align=center bgcolor="#3366FF" width="17%" valign="top"> 
+            <div align="center"><img src="/pictures/email.gif" width="40" height="32"><br>
+              <span class="upperlinks"><b><a href="http://123ofnet.mail.everyone.net" class="upperlinks">Email</a> 
+              </b></span></div>
+          </td>
+          <td align=middle width="12%" valign="top"> 
+            <div align="center"><img src="/pictures/chat.gif" width="36" height="32"><br>
+              <span class="upperlinks"><b><a href="/chat.shtml" class="upperlinks">Chat</a> 
+              </b></span></div>
+          </td>
+          <td align=middle width="15%" valign="top"> 
+            <div align="center"><img src="/pictures/findfriend.gif" width="75" height="32"><br>
+              <span class="upperlinks"><b><a href="http://www.123ofnet.com/php/vbulletin/" class="upperlinks">Forums</a> 
+              </b></span></div>
+          </td>
+          <td align=middle width="18%" valign="top"> 
+            <div align="center"><img src="/pictures/greetings.gif" width="61" height="32"><br>
+              <span class="upperlinks"><b><a href="http://www.all-yours.net/program/start20?write6281598658" class="upperlinks">Greetings 
+              </a></b></span></div>
+          </td>
+          <td align=middle width="17%" valign="top"> 
+            <div align="center"><b class="upperlinks"><img src="/pictures/dev.gif" width="73" height="32"><br>
+              <span class="upperlinks"><a href="/developer.shtml" class="upperlinks">Developer</a> 
+              </span></b></div>
+          </td>
+          <td align=middle width="15%" valign="top"> 
+            <div align="center"><b><img src="/pictures/classifieds.gif" width="52" height="33"><br>
+              <span class="upperlinks"><a href="http://www.123ofnet.com/cgi-bin/classifieds/classifieds.cgi" class="upperlinks">Classifieds</a> 
+              </span></b></div>
+          </td>
+          <td align=middle bgcolor="#3366FF" width="6%">&nbsp;</td>
+        </tr>
+        </tbody> 
+      </table>
+    
+    <td bgcolor=#326aff colspan=2 valign=center width="0%" height="73">&nbsp; </td>
+  </tr>
+  <tr bgcolor="#a4bdff"> 
+    <td align=middle colspan=4 height=15> 
+      <div align="center"><font size="1" face="Arial, Helvetica, sans-serif"><b><a href="http://www.123ofnet.com">Home</a> 
+        | <a href="/news.shtml">News</a> | <a href="horoscope.shtml">Horoscope</a> 
+        | <a href="career.shtml">Career</a> | <a href="/medicine.shtml">Medicine</a> 
+        | <a href="business.shtml">Business</a> | <a href="/computers.shtml">Computers</a> 
+        | <a href="/movies.shtml">Movies</a> | <a href="/music.shtml">Music</a> 
+        | <a href="electronics.shtml">Electronics</a> | <a href="/weather.shtml">Weather</a> 
+        | <a href="/more_humour.shtml">Humor</a> | <a href="/editor.shtml">Editor</a> 
+        </b></font></div>
+    </td>
+  </tr>
+  <tr bgcolor="#FF9900"> 
+    <td align=left colspan=4 height=2 valign=center><font color=#ff0033 
+      face="Verdana, Arial, Helvetica, sans-serif" size=1> <marquee><b><font color="#FFFF00">123ofnet.com</font></b><font color=#ffcc00> 
+      -</font> <font color=#ffffff>An easy solution to the Net !!!&nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;A site by three enterprising students &nbsp;&nbsp; 
+      &nbsp; &nbsp;&nbsp; &nbsp;Site ICQ # 94652174 &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; 
+      Site IRC #123ofnet&nbsp;</font></marquee></font></td>
+  </tr>
+  </tbody> 
+</table>
+<!-- #BeginEditable "main" --> 
+<table width="720" border="0" align="center" height="99" cellpadding="0" cellspacing="0">
+  <tr align="left" valign="top"> 
+    <td height="288"> 
+      <div align="center"> 
+        <table border="0" width="440" cellpadding="0" cellspacing="0">
+          <tr> 
+            <td width="432"> 
+              <p align="center"><b><font color="#0000FF" face="Impact" size="5">Credits</font></b> 
+              <p align="center"><b><font color="#0000FF" face="Impact" size="5">The 
+                TEAM</font></b> <font size="5" color="#FF0066">@</font> <font face="Impact" size="5" color="#0000FF">123ofnet.com</font> 
+            </td>
+          </tr>
+          <tr> 
+            <td width="432" height="142"> 
+              <p><font color="#0000FF" face="Arial, Helvetica, sans-serif" size="2">This 
+                site started of with a small dream - to set up a portal that would 
+                help any one find &quot;anything&quot; on the net. For us it has 
+                been a learning experience that will be invaluable for the rest 
+                of our lives. We have tried to spend as little money as possible. 
+                Most of the facilities available on this site were taken for free 
+                from other web agencies. Our expenses other than the large phone 
+                bills were the domain registration charge of Rs 400=00. We have 
+                done our best to bring to you <font color="#FF0066">123ofnet.com 
+                </font>. Hope you like it.</font></p>
+              <p>&nbsp;</p>
+              <p><font color="#FF0066"><b>Our TEAM consists of </b></font><font color="#0000FF">:</font></p>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <hr align="center">
+      <div align="center"> 
+        <table border="0" width="440">
+          <tr> 
+            <td width="199"></td>
+            <td width="231"></td>
+          </tr>
+          <tr> 
+            <td width="199" height="57"></td>
+            <td width="231" height="57"><font color="#FF0000">Name :</font>&nbsp; 
+              Bhavin&nbsp; D. Patel 
+              <p><font color="#FF0000">Post&nbsp; :</font>&nbsp; Partner<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                ( Webmaster )</p>
+              <p><font color="#FF0000">e Mail:</font>&nbsp; <a href="mailto:bhavin@123ofnet.com">bhavin@123ofnet.com</a></p>
+            </td>
+          </tr>
+        </table>
+        
+      </div>
+      <hr align="center">
+      <table border="0" width="440" align="center">
+        <tr> 
+          <td width="219"></td>
+          <td width="211"></td>
+        </tr>
+        <tr> 
+          <td width="219"></td>
+          <td width="211"><font color="#FF0000">Name :</font>&nbsp; Jay&nbsp; 
+            J. Patel 
+            <p><font color="#FF0000">Post&nbsp; :</font>&nbsp; Partner<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+              ( Programmer )</p>
+            <p><font color="#FF0000">e Mail:</font> <a href="mailto:jay@123ofnet.com">jay@123ofnet.com</a>&nbsp;</p>
+            <p><font color="#FF0000">Home Page:</font> <a href="http://members.tripod.com/jjpatel79">http://members.tripod.com/jjpatel79</a> 
+          </td>
+        </tr>
+      </table>
+      <br>
+      <div align="center"> </div>
+      <hr align="center">
+      <table border="0" width="440" align="center">
+        <tr> 
+          <td width="199"></td>
+          <td width="231"></td>
+        </tr>
+        <tr> 
+          <td width="199"></td>
+          <td width="231"><font color="#FF0000">Name :</font>&nbsp; Vishal&nbsp; 
+            K. Varma 
+            <p><font color="#FF0000">Post&nbsp;&nbsp; :</font>&nbsp; Partner<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+              ( Marketing Manager ) </p>
+            <p><font color="#FF0000">e Mail :</font>&nbsp; <a href="mailto:vishalvarma@123ofnet.com">vishal@123ofnet.com</a> 
+          </td>
+        </tr>
+      </table>
+      <br>
+      <div align="center"> 
+        <hr align="center">
+        <table width="457" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td colspan="2"><font color="#0000FF" size="2" face="Arial, Helvetica, sans-serif">Along 
+              the way we have taken help and guidance from our parents and our 
+              friends. We would like to thank them all ,for without their support 
+              and inspiration this would not have been possible.</font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              <br>
+              We would like to take this opportunity to thank them for all their 
+              help.... </font></td>
+          </tr>
+          <tr> 
+            <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif"></font></td>
+          </tr>
+          <tr> 
+            <td width="202"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Dr. Jagdish Patel</font></td>
+            <td width="255"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Devanshu Mehta</font></td>
+          </tr>
+          <tr> 
+            <td width="202"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Mr Dilip H. Patel</font></td>
+            <td width="255"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Debojyoti Ray</font></td>
+          </tr>
+          <tr> 
+            <td width="202" height="7"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Mr. K. S. Varma</font></td>
+            <td width="255" height="7"><font face="Arial, Helvetica, sans-serif" size="2">&gt;&gt; 
+              Malay and Manuni</font></td>
+          </tr>
+          <tr> 
+            <td width="202"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Crosswords - Baroda</font></td>
+            <td width="255"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Vishal Sankhla</font></td>
+          </tr>
+          <tr> 
+            <td width="202"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Baroda Book Center - Baroda</font></td>
+            <td width="255"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Vivek Chibber</font></td>
+          </tr>
+          <tr> 
+            <td width="202"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              The Shoppe - Baroda</font></td>
+            <td width="255"><font size="2" face="Arial, Helvetica, sans-serif">&gt;&gt; 
+              Nirav Patel</font></td>
+          </tr>
+          <tr> 
+            <td colspan="2"> 
+              <div align="center"><font size="3"> 
+                <script language="javascript" src="http://www.livehelper.com/includes/livehelper.js"></script>
+                <script language="javascript">setIcon ("1011420", "Support", "MAINPAGE");</script>
+                </font></div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr align="left" valign="top"> 
+    <td height="0"> 
+      <div align="center"><IMG SRC="http://service.bfast.com/bfast/serve?bfmid=1921220&siteid=35120916&bfpage=music" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
+<A HREF="http://service.bfast.com/bfast/click?bfmid=1921220&siteid=35120916&bfpage=music" TARGET="_top"><IMG SRC="http://im.800.com/befree/music-for-you_468.gif" BORDER="0" WIDTH="468" HEIGHT="60" ALT="800.COM"></A>
+ </div>
+    </td>
+  </tr>
+</table>
+<!-- #EndEditable --> 
+<table width="720" border="0" align="center" cellpadding="0" cellspacing="0" height="84">
+  <tr bgcolor="#FF9900"> 
+    <td height="12" colspan="3" align="left" valign="top"> 
+      <div align="center"> 
+        <p><a href="/advertise.shtml"class="nav1">ADVERTISE</a> | <a href="/aboutus.shtml"class="nav1">ABOUT 
+          US</a> | <a href="/developer.shtml"class="nav1">SERVICES</a> | <a href="/support.shtml"class="nav1">SUPPORT</a> 
+          | <a href="/faq.shtml"class="nav1">FAQ's</a> | <a href="/privacypolicy.shtml"class="nav1">PRIVACY 
+          POLICY</a></p>
+      </div>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="70" colspan="3" align="left" valign="top"> 
+      <div align="center"><font size="2"> <img src="http://www.123ofnet.com/pictures/itechlogo.gif" align="absmiddle"> 
+        123ofnet.com<br>
+        <img src="pictures/amazon_asso.gif" width="130" height="60"> </font></div>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+</BODY>
+<!-- #EndTemplate --></HTML>
