@@ -1,11 +1,11 @@
-; DNS zone file for 123of.net -> GitHub Pages (vinpatel/123ofnet)
+; DNS zone file for 123ofnet.com -> GitHub Pages (vinpatel/123ofnet)
 ; Import this file at your DNS provider (Cloudflare: DNS > Records > Import and Export;
 ; GoDaddy: DNS > Import Zone File). Remove any old A/AAAA/CNAME records for @ and www first.
 ;
 ; If you use Cloudflare, set these records to "DNS only" (grey cloud), not proxied,
 ; so GitHub can issue the HTTPS certificate.
 
-$ORIGIN 123of.net.
+$ORIGIN 123ofnet.com.
 $TTL 3600
 
 ; Apex domain -> GitHub Pages (IPv4)
@@ -20,5 +20,5 @@ $TTL 3600
 @       IN  AAAA    2606:50c0:8002::153
 @       IN  AAAA    2606:50c0:8003::153
 
-; www -> GitHub Pages (redirects to 123of.net)
+; www -> GitHub Pages (redirects to 123ofnet.com)
 www     IN  CNAME   vinpatel.github.io.
