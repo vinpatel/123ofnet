@@ -66,4 +66,6 @@ cd worker && npx wrangler deploy   # deploy Worker (ask first)
 - [ ] Works on a 375px-wide phone and at 800x600
 - [ ] Works with JS disabled
 - [ ] Passes HTML validation, alt text present, contrast AA
-- [ ] Included in sitemap/llms.txt if public
+- [ ] Has a unique `title` (≤ 60 chars incl. " - 123ofnet.com") and `description` (70–160 chars) in front matter
+- [ ] Has `crumbs` front matter (breadcrumbs JSON-LD); use `noindex: true` for pages that shouldn't be indexed
+- [ ] Shows up in sitemap.xml and llms.txt if public (paginated templates need `addAllPagesToCollections: true`)

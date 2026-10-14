@@ -7,9 +7,7 @@
   "established": 2000,
   "webmaster": "Vin Patel",
   "lastUpdated": "October 12, 2026",
-
   "contactEmail": "hello@123ofnet.com",
-
   "stripe": {
     "fastTrack": "",
     "featured": "",
@@ -20,9 +18,9 @@
     "featured": "$149/mo",
     "pro": "$9/mo"
   },
-
   "newsletter": {
     "action": "",
     "name": "123ofnet Weekly"
-  }
+  },
+  "indexNowKey": "0f858fd56b58756264a1dcb27bf45d98"
 }

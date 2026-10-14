@@ -4,10 +4,12 @@ pagination:
   data: directory.categories
   size: 1
   alias: cat
+  addAllPagesToCollections: true
 permalink: "/directory/{{ cat.slug }}/"
 eleventyComputed:
-  title: "Best AI tools for {{ cat.name }}"
-  description: "Hand-checked AI tools for {{ cat.name | lower }}: {{ cat.blurb | lower }}."
+  title: "Best AI Tools for {{ cat.name | safe }} (2026)"
+  description: "The best AI tools for {{ cat.name | lower | safe }}, hand-checked by a person: {% for l in cat.links | batch(4) | first %}{{ l.title | safe }}{% if not loop.last %}, {% endif %}{% endfor %} and more. {{ cat.blurb | safe }}."
+  crumbs: [{name: "Home", url: "/"}, {name: "AI Directory", url: "/directory/"}, {name: "{{ cat.name | safe }}", url: "/directory/{{ cat.slug }}/"}]
 ---
 <div class="content">
   <p class="small"><a href="/">Home</a> &raquo; <a href="/directory/">AI Directory</a> &raquo; {{ cat.name }}</p>

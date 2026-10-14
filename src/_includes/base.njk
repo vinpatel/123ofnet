@@ -3,16 +3,35 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if title %}{{ title }} - {{ site.title }}{% else %}{{ site.title }} - {{ site.tagline }}{% endif %}</title>
-<meta name="description" content="{{ description or site.description }}">
-<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+{% set pageTitle = (title + " - " + site.title) if title else (site.title + " - " + site.tagline) %}
+{% set pageDesc = description or site.description %}
+<title>{{ pageTitle }}</title>
+<meta name="description" content="{{ pageDesc }}">
+{% if noindex %}<meta name="robots" content="noindex, follow">{% else %}<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">{% endif %}
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/retro.css">
 <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt">
-<meta property="og:title" content="{{ title or site.title }}">
-<meta property="og:description" content="{{ description or site.description }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ pageTitle }}">
+<meta property="og:description" content="{{ pageDesc }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="123ofnet.com - An easy solution to AI !!!">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ pageTitle }}">
+<meta name="twitter:description" content="{{ pageDesc }}">
+<meta name="twitter:image" content="{{ site.url }}/assets/og-image.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","name":"{{ site.title }}","url":"{{ site.url }}","description":"{{ site.description }}","foundingDate":"{{ site.established }}","potentialAction":{"@type":"SearchAction","target":"{{ site.url }}/directory/?q={query}","query-input":"required name=query"}}
+{"@context":"https://schema.org","@graph":[
+ {"@type":"Organization","@id":"{{ site.url }}/#org","name":"{{ site.title }}","url":"{{ site.url }}/","logo":"{{ site.url }}/assets/og-image.png","foundingDate":"{{ site.established }}","description":"{{ site.description }}","email":"{{ site.contactEmail }}"},
+ {"@type":"WebSite","@id":"{{ site.url }}/#website","name":"{{ site.title }}","url":"{{ site.url }}/","description":"{{ site.description }}","publisher":{"@id":"{{ site.url }}/#org"},"inLanguage":"en","potentialAction":{"@type":"SearchAction","target":"{{ site.url }}/directory/?q={query}","query-input":"required name=query"}},
+ {"@type":"WebPage","@id":"{{ site.url }}{{ page.url }}","url":"{{ site.url }}{{ page.url }}","name":{{ pageTitle | dump | safe }},"description":{{ pageDesc | dump | safe }},"isPartOf":{"@id":"{{ site.url }}/#website"},"dateModified":"{{ page.date | isoDate }}"}{% if crumbs %},
+ {"@type":"BreadcrumbList","itemListElement":[{% for c in crumbs %}{"@type":"ListItem","position":{{ loop.index }},"name":{{ c.name | dump | safe }},"item":"{{ site.url }}{{ c.url }}"}{% if not loop.last %},{% endif %}{% endfor %}]}{% endif %}
+]}
 </script>
 </head>
 <body>
