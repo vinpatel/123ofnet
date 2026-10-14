@@ -2,108 +2,748 @@
   "note": "Human-curated only. Every URL must be checked by a person before it is added. See AGENTS.md. 'featured' and 'aff' are set only for paid/affiliate entries.",
   "categories": [
     {
-      "name": "Chat & Assistants", "slug": "assistants", "color": "#FFCC99",
+      "name": "Chat & Assistants",
+      "slug": "assistants",
+      "color": "#FFCC99",
       "blurb": "Ask anything, get help with almost any task",
       "links": [
-        { "title": "ChatGPT", "url": "https://chatgpt.com", "note": "General AI assistant for writing, questions and ideas" },
-        { "title": "Claude", "url": "https://claude.ai", "note": "AI assistant that's strong at writing, analysis and long documents" },
-        { "title": "Gemini", "url": "https://gemini.google.com", "note": "Google's AI assistant, works with Gmail and Docs" },
-        { "title": "Microsoft Copilot", "url": "https://copilot.microsoft.com", "note": "Microsoft's AI assistant, built into Windows and Office" },
-        { "title": "Perplexity", "url": "https://www.perplexity.ai", "note": "AI search engine that shows its sources" }
+        {
+          "title": "ChatGPT",
+          "url": "https://chatgpt.com",
+          "note": "General AI assistant for writing, questions and ideas"
+        },
+        {
+          "title": "Claude",
+          "url": "https://claude.ai",
+          "note": "AI assistant that's strong at writing, analysis and long documents"
+        },
+        {
+          "title": "Gemini",
+          "url": "https://gemini.google.com",
+          "note": "Google's AI assistant, works with Gmail and Docs"
+        },
+        {
+          "title": "Microsoft Copilot",
+          "url": "https://copilot.microsoft.com",
+          "note": "Microsoft's AI assistant, built into Windows and Office"
+        },
+        {
+          "title": "Perplexity",
+          "url": "https://www.perplexity.ai",
+          "note": "AI search engine that shows its sources"
+        },
+        {
+          "title": "Meta AI",
+          "url": "https://www.meta.ai",
+          "note": "Meta's AI assistant, also inside WhatsApp, Instagram and Facebook"
+        },
+        {
+          "title": "Grok",
+          "url": "https://grok.com",
+          "note": "xAI's assistant, with access to posts on X"
+        },
+        {
+          "title": "Le Chat by Mistral",
+          "url": "https://chat.mistral.ai",
+          "note": "Fast AI assistant from France's Mistral AI"
+        },
+        {
+          "title": "DeepSeek",
+          "url": "https://chat.deepseek.com",
+          "note": "AI assistant that's strong at reasoning and maths"
+        },
+        {
+          "title": "Poe",
+          "url": "https://poe.com",
+          "note": "Use many different AI models in one app"
+        },
+        {
+          "title": "You.com",
+          "url": "https://you.com",
+          "note": "AI search and research assistant"
+        },
+        {
+          "title": "HuggingChat",
+          "url": "https://huggingface.co/chat/",
+          "note": "Free chat with open-source AI models"
+        }
       ]
     },
     {
-      "name": "Writing & Email", "slug": "writing", "color": "#CCFFCC",
+      "name": "Writing & Email",
+      "slug": "writing",
+      "color": "#CCFFCC",
       "blurb": "Emails, posts, essays and fixing your grammar",
       "links": [
-        { "title": "Grammarly", "url": "https://www.grammarly.com", "note": "Fixes grammar and tone as you type" },
-        { "title": "QuillBot", "url": "https://quillbot.com", "note": "Rewrite and paraphrase text" },
-        { "title": "Jasper", "url": "https://www.jasper.ai", "note": "AI writing for marketing teams" },
-        { "title": "Notion AI", "url": "https://www.notion.so", "note": "Notes and docs with an AI writer built in" }
+        {
+          "title": "Grammarly",
+          "url": "https://www.grammarly.com",
+          "note": "Fixes grammar and tone as you type"
+        },
+        {
+          "title": "QuillBot",
+          "url": "https://quillbot.com",
+          "note": "Rewrite and paraphrase text"
+        },
+        {
+          "title": "Jasper",
+          "url": "https://www.jasper.ai",
+          "note": "AI writing for marketing teams"
+        },
+        {
+          "title": "Notion AI",
+          "url": "https://www.notion.so",
+          "note": "Notes and docs with an AI writer built in"
+        },
+        {
+          "title": "Wordtune",
+          "url": "https://www.wordtune.com",
+          "note": "Rewrites your sentences to sound clearer"
+        },
+        {
+          "title": "Copy.ai",
+          "url": "https://www.copy.ai",
+          "note": "AI writing and workflows for sales and marketing"
+        },
+        {
+          "title": "Writesonic",
+          "url": "https://writesonic.com",
+          "note": "AI writer for blog posts and SEO content"
+        },
+        {
+          "title": "Hemingway Editor",
+          "url": "https://hemingwayapp.com",
+          "note": "Makes your writing bold and clear"
+        },
+        {
+          "title": "LanguageTool",
+          "url": "https://languagetool.org",
+          "note": "Grammar and spelling checker for 30+ languages"
+        },
+        {
+          "title": "DeepL Write",
+          "url": "https://www.deepl.com/write",
+          "note": "Polishes your writing in English, German and more"
+        },
+        {
+          "title": "Sudowrite",
+          "url": "https://sudowrite.com",
+          "note": "AI writing partner for fiction writers"
+        },
+        {
+          "title": "Superhuman",
+          "url": "https://superhuman.com",
+          "note": "Fast email app with AI writing and sorting"
+        },
+        {
+          "title": "ProWritingAid",
+          "url": "https://prowritingaid.com",
+          "note": "Grammar checker and style editor for long writing"
+        }
       ]
     },
     {
-      "name": "Career & Jobs", "slug": "career", "color": "#CCCCFF",
+      "name": "Career & Jobs",
+      "slug": "career",
+      "color": "#CCCCFF",
       "blurb": "Resumes, cover letters and interview practice",
       "links": [
-        { "title": "Teal", "url": "https://www.tealhq.com", "note": "Resume builder and job tracker" },
-        { "title": "Kickresume", "url": "https://www.kickresume.com", "note": "AI resume and cover letter writer" },
-        { "title": "Rezi", "url": "https://www.rezi.ai", "note": "Resumes made to get past applicant tracking systems" },
-        { "title": "Final Round AI", "url": "https://www.finalroundai.com", "note": "AI interview practice" }
+        {
+          "title": "Teal",
+          "url": "https://www.tealhq.com",
+          "note": "Resume builder and job tracker"
+        },
+        {
+          "title": "Kickresume",
+          "url": "https://www.kickresume.com",
+          "note": "AI resume and cover letter writer"
+        },
+        {
+          "title": "Rezi",
+          "url": "https://www.rezi.ai",
+          "note": "Resumes made to get past applicant tracking systems"
+        },
+        {
+          "title": "Final Round AI",
+          "url": "https://www.finalroundai.com",
+          "note": "AI interview practice"
+        },
+        {
+          "title": "Jobscan",
+          "url": "https://www.jobscan.co",
+          "note": "Compares your resume to a job ad and shows what's missing"
+        },
+        {
+          "title": "Enhancv",
+          "url": "https://enhancv.com",
+          "note": "Resume builder with AI suggestions"
+        },
+        {
+          "title": "Resume Worded",
+          "url": "https://resumeworded.com",
+          "note": "Scores your resume and LinkedIn profile"
+        },
+        {
+          "title": "Yoodli",
+          "url": "https://yoodli.ai",
+          "note": "AI speech coach for interviews and presentations"
+        },
+        {
+          "title": "Interview Warmup",
+          "url": "https://grow.google/certificates/interview-warmup/",
+          "note": "Google's free interview practice tool"
+        },
+        {
+          "title": "Careerflow",
+          "url": "https://www.careerflow.ai",
+          "note": "AI tools for job search and LinkedIn"
+        },
+        {
+          "title": "Huntr",
+          "url": "https://huntr.co",
+          "note": "Job application tracker with AI resume tools"
+        },
+        {
+          "title": "Simplify",
+          "url": "https://simplify.jobs",
+          "note": "Autofills job applications and finds roles"
+        }
       ]
     },
     {
-      "name": "Pictures & Design", "slug": "design", "color": "#FF99FF",
+      "name": "Pictures & Design",
+      "slug": "design",
+      "color": "#FF99FF",
       "blurb": "Make images, logos, edit photos",
       "links": [
-        { "title": "Canva", "url": "https://www.canva.com", "note": "Easy design for posts, flyers and slides, with AI tools" },
-        { "title": "Midjourney", "url": "https://www.midjourney.com", "note": "Makes artistic images from text" },
-        { "title": "Adobe Firefly", "url": "https://www.adobe.com/products/firefly.html", "note": "Adobe's image generator, safe for business use" },
-        { "title": "Ideogram", "url": "https://ideogram.ai", "note": "Image generator that's good at text inside images" },
-        { "title": "Photoroom", "url": "https://www.photoroom.com", "note": "Product photos and background removal" },
-        { "title": "remove.bg", "url": "https://www.remove.bg", "note": "Removes a photo's background in one click" }
+        {
+          "title": "Canva",
+          "url": "https://www.canva.com",
+          "note": "Easy design for posts, flyers and slides, with AI tools"
+        },
+        {
+          "title": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "note": "Makes artistic images from text"
+        },
+        {
+          "title": "Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly.html",
+          "note": "Adobe's image generator, safe for business use"
+        },
+        {
+          "title": "Ideogram",
+          "url": "https://ideogram.ai",
+          "note": "Image generator that's good at text inside images"
+        },
+        {
+          "title": "Photoroom",
+          "url": "https://www.photoroom.com",
+          "note": "Product photos and background removal"
+        },
+        {
+          "title": "remove.bg",
+          "url": "https://www.remove.bg",
+          "note": "Removes a photo's background in one click"
+        },
+        {
+          "title": "Leonardo",
+          "url": "https://leonardo.ai",
+          "note": "AI images and art with lots of style control"
+        },
+        {
+          "title": "Recraft",
+          "url": "https://www.recraft.ai",
+          "note": "AI for logos, icons and vector graphics"
+        },
+        {
+          "title": "Krea",
+          "url": "https://www.krea.ai",
+          "note": "Real-time AI image generation and upscaling"
+        },
+        {
+          "title": "Looka",
+          "url": "https://looka.com",
+          "note": "AI logo maker and brand kit"
+        },
+        {
+          "title": "Microsoft Designer",
+          "url": "https://designer.microsoft.com",
+          "note": "Free AI graphics for social posts and invites"
+        },
+        {
+          "title": "Clipdrop",
+          "url": "https://clipdrop.co",
+          "note": "Quick photo tools: remove objects, relight, upscale"
+        },
+        {
+          "title": "Picsart",
+          "url": "https://picsart.com",
+          "note": "Photo and video editor with AI tools"
+        },
+        {
+          "title": "Kittl",
+          "url": "https://www.kittl.com",
+          "note": "Design t-shirts, labels and posters with AI"
+        },
+        {
+          "title": "Let's Enhance",
+          "url": "https://letsenhance.io",
+          "note": "Makes small or blurry photos bigger and sharper"
+        }
       ]
     },
     {
-      "name": "Video & Audio", "slug": "video", "color": "#FFFF99",
+      "name": "Video & Audio",
+      "slug": "video",
+      "color": "#FFFF99",
       "blurb": "Edit video, make voices and music",
       "links": [
-        { "title": "Descript", "url": "https://www.descript.com", "note": "Edit video by editing the transcript" },
-        { "title": "Runway", "url": "https://runwayml.com", "note": "AI video generation and editing" },
-        { "title": "HeyGen", "url": "https://www.heygen.com", "note": "AI presenter videos and translation" },
-        { "title": "ElevenLabs", "url": "https://elevenlabs.io", "note": "Natural-sounding AI voices" },
-        { "title": "Suno", "url": "https://suno.com", "note": "Make songs from a text description" }
+        {
+          "title": "Descript",
+          "url": "https://www.descript.com",
+          "note": "Edit video by editing the transcript"
+        },
+        {
+          "title": "Runway",
+          "url": "https://runwayml.com",
+          "note": "AI video generation and editing"
+        },
+        {
+          "title": "HeyGen",
+          "url": "https://www.heygen.com",
+          "note": "AI presenter videos and translation"
+        },
+        {
+          "title": "ElevenLabs",
+          "url": "https://elevenlabs.io",
+          "note": "Natural-sounding AI voices"
+        },
+        {
+          "title": "Suno",
+          "url": "https://suno.com",
+          "note": "Make songs from a text description"
+        },
+        {
+          "title": "Synthesia",
+          "url": "https://www.synthesia.io",
+          "note": "Training and explainer videos with AI presenters"
+        },
+        {
+          "title": "CapCut",
+          "url": "https://www.capcut.com",
+          "note": "Free video editor with auto captions and AI effects"
+        },
+        {
+          "title": "Pika",
+          "url": "https://pika.art",
+          "note": "Make short videos from text or images"
+        },
+        {
+          "title": "Luma Dream Machine",
+          "url": "https://lumalabs.ai",
+          "note": "Realistic AI video from text or images"
+        },
+        {
+          "title": "Kling AI",
+          "url": "https://kling.ai",
+          "note": "AI video generation from text and images"
+        },
+        {
+          "title": "OpusClip",
+          "url": "https://www.opus.pro",
+          "note": "Turns long videos into short clips for social media"
+        },
+        {
+          "title": "VEED",
+          "url": "https://www.veed.io",
+          "note": "Online video editor with AI subtitles"
+        },
+        {
+          "title": "Udio",
+          "url": "https://www.udio.com",
+          "note": "Create music and songs with AI"
+        },
+        {
+          "title": "Adobe Podcast",
+          "url": "https://podcast.adobe.com",
+          "note": "Makes voice recordings sound studio-quality"
+        },
+        {
+          "title": "Murf",
+          "url": "https://murf.ai",
+          "note": "AI voiceovers for videos and presentations"
+        },
+        {
+          "title": "Krisp",
+          "url": "https://krisp.ai",
+          "note": "Removes background noise from calls"
+        }
       ]
     },
     {
-      "name": "Meetings & Work", "slug": "work", "color": "#99CCFF",
+      "name": "Meetings & Work",
+      "slug": "work",
+      "color": "#99CCFF",
       "blurb": "Notes, slides and automating boring tasks",
       "links": [
-        { "title": "Otter.ai", "url": "https://otter.ai", "note": "Meeting transcripts and summaries" },
-        { "title": "Fireflies.ai", "url": "https://www.fireflies.ai", "note": "Records and summarises calls" },
-        { "title": "Gamma", "url": "https://gamma.app", "note": "Make slide decks from a prompt" },
-        { "title": "Zapier", "url": "https://zapier.com", "note": "Connect apps and automate tasks, with AI steps" },
-        { "title": "Make", "url": "https://www.make.com", "note": "Visual automation builder" }
+        {
+          "title": "Otter.ai",
+          "url": "https://otter.ai",
+          "note": "Meeting transcripts and summaries"
+        },
+        {
+          "title": "Fireflies.ai",
+          "url": "https://www.fireflies.ai",
+          "note": "Records and summarises calls"
+        },
+        {
+          "title": "Gamma",
+          "url": "https://gamma.app",
+          "note": "Make slide decks from a prompt"
+        },
+        {
+          "title": "Zapier",
+          "url": "https://zapier.com",
+          "note": "Connect apps and automate tasks, with AI steps"
+        },
+        {
+          "title": "Make",
+          "url": "https://www.make.com",
+          "note": "Visual automation builder"
+        },
+        {
+          "title": "tl;dv",
+          "url": "https://tldv.io",
+          "note": "Records Zoom, Meet and Teams calls and writes notes"
+        },
+        {
+          "title": "Fathom",
+          "url": "https://www.fathom.ai",
+          "note": "Free AI meeting notetaker"
+        },
+        {
+          "title": "Granola",
+          "url": "https://www.granola.ai",
+          "note": "AI notepad that improves your own meeting notes"
+        },
+        {
+          "title": "Motion",
+          "url": "https://www.usemotion.com",
+          "note": "AI planner that schedules your tasks for you"
+        },
+        {
+          "title": "Reclaim",
+          "url": "https://reclaim.ai",
+          "note": "Smart calendar that protects time for tasks and habits"
+        },
+        {
+          "title": "Beautiful.ai",
+          "url": "https://www.beautiful.ai",
+          "note": "Presentations that design themselves"
+        },
+        {
+          "title": "ClickUp",
+          "url": "https://clickup.com",
+          "note": "Project management with an AI assistant"
+        },
+        {
+          "title": "Taskade",
+          "url": "https://www.taskade.com",
+          "note": "Tasks, notes and AI agents for teams"
+        },
+        {
+          "title": "Mem",
+          "url": "https://mem.ai",
+          "note": "AI notes app that organises itself"
+        }
       ]
     },
     {
-      "name": "Websites & Business", "slug": "business", "color": "#FFFFCC",
+      "name": "Websites & Business",
+      "slug": "business",
+      "color": "#FFFFCC",
       "blurb": "Build a website, answer customers, run the shop",
       "links": [
-        { "title": "Durable", "url": "https://www.durable.co", "note": "AI website builder for small businesses" },
-        { "title": "Framer", "url": "https://framer.com", "note": "Design and publish good-looking websites" },
-        { "title": "Typeform", "url": "https://www.typeform.com", "note": "Forms and surveys" },
-        { "title": "Tidio", "url": "https://www.tidio.com", "note": "Customer chat with an AI helper for small shops" },
-        { "title": "Intercom Fin", "url": "https://www.intercom.com/fin", "note": "AI customer support agent" }
+        {
+          "title": "Durable",
+          "url": "https://www.durable.co",
+          "note": "AI website builder for small businesses"
+        },
+        {
+          "title": "Framer",
+          "url": "https://framer.com",
+          "note": "Design and publish good-looking websites"
+        },
+        {
+          "title": "Typeform",
+          "url": "https://www.typeform.com",
+          "note": "Forms and surveys"
+        },
+        {
+          "title": "Tidio",
+          "url": "https://www.tidio.com",
+          "note": "Customer chat with an AI helper for small shops"
+        },
+        {
+          "title": "Intercom Fin",
+          "url": "https://www.intercom.com/fin",
+          "note": "AI customer support agent"
+        },
+        {
+          "title": "Wix",
+          "url": "https://www.wix.com",
+          "note": "Website builder with an AI site creator"
+        },
+        {
+          "title": "Squarespace",
+          "url": "https://www.squarespace.com",
+          "note": "Good-looking websites and online stores"
+        },
+        {
+          "title": "Hostinger AI Website Builder",
+          "url": "https://www.hostinger.com/ai-website-builder",
+          "note": "Low-cost AI website builder with hosting"
+        },
+        {
+          "title": "Shopify Magic",
+          "url": "https://www.shopify.com/magic",
+          "note": "AI tools built into Shopify stores"
+        },
+        {
+          "title": "Jotform",
+          "url": "https://www.jotform.com",
+          "note": "Online forms with AI agents"
+        },
+        {
+          "title": "Chatbase",
+          "url": "https://www.chatbase.co",
+          "note": "Build an AI support chatbot from your website"
+        },
+        {
+          "title": "Namelix",
+          "url": "https://namelix.com",
+          "note": "AI business name generator"
+        },
+        {
+          "title": "HubSpot AI",
+          "url": "https://www.hubspot.com/products/artificial-intelligence",
+          "note": "AI for marketing, sales and customer service"
+        }
       ]
     },
     {
-      "name": "Build Apps (No Code)", "slug": "build", "color": "#CCFFCC",
+      "name": "Build Apps (No Code)",
+      "slug": "build",
+      "color": "#CCFFCC",
       "blurb": "Describe an app and AI builds it",
       "links": [
-        { "title": "Lovable", "url": "https://lovable.dev", "note": "Build web apps by chatting" },
-        { "title": "Bolt", "url": "https://bolt.new", "note": "Prompt, run and deploy web apps in the browser" },
-        { "title": "v0", "url": "https://v0.app", "note": "Vercel's AI app and UI builder" },
-        { "title": "Replit", "url": "https://replit.com", "note": "Build and host apps with an AI agent" }
+        {
+          "title": "Lovable",
+          "url": "https://lovable.dev",
+          "note": "Build web apps by chatting"
+        },
+        {
+          "title": "Bolt",
+          "url": "https://bolt.new",
+          "note": "Prompt, run and deploy web apps in the browser"
+        },
+        {
+          "title": "v0",
+          "url": "https://v0.app",
+          "note": "Vercel's AI app and UI builder"
+        },
+        {
+          "title": "Replit",
+          "url": "https://replit.com",
+          "note": "Build and host apps with an AI agent"
+        },
+        {
+          "title": "Bubble",
+          "url": "https://bubble.io",
+          "note": "No-code platform for full web apps"
+        },
+        {
+          "title": "Glide",
+          "url": "https://www.glideapps.com",
+          "note": "Turn spreadsheets into apps"
+        },
+        {
+          "title": "Softr",
+          "url": "https://www.softr.io",
+          "note": "Build portals and internal tools without code"
+        },
+        {
+          "title": "Base44",
+          "url": "https://base44.com",
+          "note": "Build apps by describing them"
+        },
+        {
+          "title": "Firebase Studio",
+          "url": "https://firebase.studio",
+          "note": "Google's AI workspace for building apps"
+        },
+        {
+          "title": "Google AI Studio",
+          "url": "https://aistudio.google.com",
+          "note": "Try Gemini models and build AI apps"
+        },
+        {
+          "title": "Adalo",
+          "url": "https://www.adalo.com",
+          "note": "Build mobile apps without code"
+        },
+        {
+          "title": "FlutterFlow",
+          "url": "https://flutterflow.io",
+          "note": "Visual builder for mobile and web apps"
+        }
       ]
     },
     {
-      "name": "Developer", "slug": "developer", "color": "#CCCCFF",
+      "name": "Developer",
+      "slug": "developer",
+      "color": "#CCCCFF",
       "blurb": "AI tools for programmers",
       "links": [
-        { "title": "Cursor", "url": "https://cursor.com", "note": "AI code editor" },
-        { "title": "GitHub Copilot", "url": "https://github.com/features/copilot", "note": "AI pair programmer in your editor" }
+        {
+          "title": "Cursor",
+          "url": "https://cursor.com",
+          "note": "AI code editor"
+        },
+        {
+          "title": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "note": "AI pair programmer in your editor"
+        },
+        {
+          "title": "Claude Code",
+          "url": "https://claude.com/product/claude-code",
+          "note": "Anthropic's AI coding agent for the terminal and IDE"
+        },
+        {
+          "title": "OpenAI Codex",
+          "url": "https://openai.com/codex",
+          "note": "OpenAI's AI coding agent"
+        },
+        {
+          "title": "Gemini CLI",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "note": "Google's open-source AI agent for the terminal"
+        },
+        {
+          "title": "Amp",
+          "url": "https://ampcode.com",
+          "note": "AI coding agent from Sourcegraph"
+        },
+        {
+          "title": "Cline",
+          "url": "https://cline.bot",
+          "note": "Open-source AI coding agent for VS Code"
+        },
+        {
+          "title": "Aider",
+          "url": "https://aider.chat",
+          "note": "AI pair programming in your terminal"
+        },
+        {
+          "title": "Zed",
+          "url": "https://zed.dev",
+          "note": "Fast code editor with AI built in"
+        },
+        {
+          "title": "JetBrains AI",
+          "url": "https://www.jetbrains.com/ai/",
+          "note": "AI assistant for IntelliJ, PyCharm and other JetBrains IDEs"
+        },
+        {
+          "title": "Warp",
+          "url": "https://www.warp.dev",
+          "note": "AI-powered terminal"
+        },
+        {
+          "title": "CodeRabbit",
+          "url": "https://www.coderabbit.ai",
+          "note": "AI code reviews on pull requests"
+        }
       ]
     },
     {
-      "name": "Learning & Research", "slug": "learn", "color": "#FFCC99",
+      "name": "Learning & Research",
+      "slug": "learn",
+      "color": "#FFCC99",
       "blurb": "Study, research and learn new things",
       "links": [
-        { "title": "NotebookLM", "url": "https://notebooklm.google.com", "note": "Upload documents and ask questions about them" },
-        { "title": "Elicit", "url": "https://www.elicit.com", "note": "Finds and summarises research papers" },
-        { "title": "Consensus", "url": "https://consensus.app", "note": "Answers questions using scientific studies" },
-        { "title": "Khanmigo", "url": "https://www.khanmigo.ai", "note": "Khan Academy's AI tutor" },
-        { "title": "Duolingo", "url": "https://www.duolingo.com", "note": "Learn languages, with AI conversation practice" }
+        {
+          "title": "NotebookLM",
+          "url": "https://notebooklm.google.com",
+          "note": "Upload documents and ask questions about them"
+        },
+        {
+          "title": "Elicit",
+          "url": "https://www.elicit.com",
+          "note": "Finds and summarises research papers"
+        },
+        {
+          "title": "Consensus",
+          "url": "https://consensus.app",
+          "note": "Answers questions using scientific studies"
+        },
+        {
+          "title": "Khanmigo",
+          "url": "https://www.khanmigo.ai",
+          "note": "Khan Academy's AI tutor"
+        },
+        {
+          "title": "Duolingo",
+          "url": "https://www.duolingo.com",
+          "note": "Learn languages, with AI conversation practice"
+        },
+        {
+          "title": "Quizlet",
+          "url": "https://quizlet.com",
+          "note": "Flashcards and AI study help"
+        },
+        {
+          "title": "Brainly",
+          "url": "https://brainly.com",
+          "note": "Homework help with AI explanations"
+        },
+        {
+          "title": "Coursera",
+          "url": "https://www.coursera.org",
+          "note": "Online courses with an AI coach"
+        },
+        {
+          "title": "Speak",
+          "url": "https://www.speak.com",
+          "note": "Learn to speak a language with an AI tutor"
+        },
+        {
+          "title": "Scite",
+          "url": "https://scite.ai",
+          "note": "Shows how research papers have been cited"
+        },
+        {
+          "title": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org",
+          "note": "Free AI-powered search for research papers"
+        },
+        {
+          "title": "SciSpace",
+          "url": "https://scispace.com",
+          "note": "Read and understand research papers with AI"
+        },
+        {
+          "title": "Wolfram|Alpha",
+          "url": "https://www.wolframalpha.com",
+          "note": "Computes answers for maths, science and data"
+        },
+        {
+          "title": "Photomath",
+          "url": "https://photomath.com",
+          "note": "Snap a maths problem, see step-by-step solutions"
+        }
       ]
     }
   ]
