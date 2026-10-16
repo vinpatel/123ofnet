@@ -38,9 +38,9 @@ cd worker && npx wrangler deploy   # deploy Worker (ask first)
 4. **No secrets in this repo.** The Claude API key and Turnstile secret live in
    Worker secrets (`wrangler secret put`). GitHub Pages is public.
 5. **No frameworks on the frontend.** Vanilla JS only; no React/Vue/Tailwind.
-6. **Directory entries are human-curated.** Agents may propose entries in a PR,
-   but never auto-add links, and never invent URLs. Every URL must be verified
-   to resolve.
+6. **Directory entries must be verified.** Never invent URLs. Every new entry must pass
+   `python3 -I scripts/verify-tools.py candidates.json out.json` with status `ok`, `moved`
+   (use the final URL) or `blocked`. Quick picks in `guides.json` are chosen by a person.
 7. **Label AI output.** Anything model-generated shown to visitors is marked as such.
 8. **Accessibility & mobile** rules in `DESIGN.md` §4 are required, not optional.
 

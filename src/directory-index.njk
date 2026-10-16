@@ -1,25 +1,31 @@
 ---
 layout: base.njk
-title: "AI Tools Directory: Hand-Checked Picks"
-description: "A hand-checked directory of AI tools, sorted by what you want to do: writing, resumes, images, video, websites, meetings and more."
+title: "AI Tools Directory: Every Tool, Checked"
+description: "The biggest checked directory of AI tools, sorted by what you want to do: writing, resumes, images, video, websites, meetings and more."
 permalink: /directory/
 crumbs: [{name: "Home", url: "/"}, {name: "AI Directory", url: "/directory/"}]
 ---
 {% set total = directory.categories | totalLinks %}
 <div class="content">
   <h1>The <em>AI</em> Directory</h1>
-  <p>{{ total }} AI tools in {{ directory.categories | length }} categories. Every one is checked by a person. Type what you want to do:</p>
+  <p>{{ total }} AI tools in {{ directory.categories | length }} categories. Every one is checked to make sure it works. Type what you want to do:</p>
   <form action="/directory/" method="get" role="search" class="center">
-    <label for="dq" class="sr">Filter tools</label>
-    <input id="dq" name="q" type="search" data-filter placeholder="e.g. resume, video, logo" style="width:80%;padding:6px;border:2px inset #C0C0C0;font:16px Verdana,sans-serif">
+    <label for="dq" class="sr">Search all AI tools</label>
+    <input id="dq" name="q" type="search" data-search-all="/directory/search.json" placeholder="e.g. resume, video captions, logo" autocomplete="off" style="width:80%;padding:6px;border:2px inset #C0C0C0;font:16px Verdana,sans-serif">
   </form>
   <p class="small center" data-count aria-live="polite"></p>
+  <div data-results></div>
 
+  <div data-browse>
   {% for cat in directory.categories %}
-  <section data-cat>
-    <h2 id="{{ cat.slug }}" style="background:{{ cat.color }}"><a href="/directory/{{ cat.slug }}/" style="color:#000">{{ cat.name }}</a> <span class="small">({{ cat.links | length }})</span></h2>
-    {% for l in cat.links | sort(true, false, "featured") %}{% include "listing.njk" %}{% endfor %}
+  <section>
+    <h2 id="{{ cat.slug }}" style="background:{{ cat.color }}"><a href="/directory/{{ cat.slug }}/" style="color:#000">{{ cat.name }}</a> <span class="small">({{ cat.links | length }} tools)</span></h2>
+    <p>{{ guides[cat.slug].intro if guides[cat.slug] else cat.blurb }}</p>
+    {% if guides[cat.slug] %}<p class="small"><b>Quick picks:</b>
+      {% for p in guides[cat.slug].picks %}{% for l in cat.links %}{% if l.title == p.tool %}<a href="{{ l.url }}" rel="noopener">{{ l.title }}</a> ({{ p.need | lower }}){% endif %}{% endfor %}{% if not loop.last %} &middot; {% endif %}{% endfor %}</p>{% endif %}
+    <p><a class="btn" href="/directory/{{ cat.slug }}/">See all {{ cat.links | length }} {{ cat.name }} tools &raquo;</a></p>
   </section>
   {% endfor %}
+  </div>
   <p class="note">Made an AI tool? <a href="/submit/">Get it listed here &raquo;</a></p>
 </div>

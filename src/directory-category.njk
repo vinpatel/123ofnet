@@ -8,7 +8,7 @@ pagination:
 permalink: "/directory/{{ cat.slug }}/"
 eleventyComputed:
   title: "Best AI Tools for {{ cat.name | safe }} (2026)"
-  description: "The best AI tools for {{ cat.name | lower | safe }}, hand-checked by a person: {% for l in cat.links | batch(4) | first %}{{ l.title | safe }}{% if not loop.last %}, {% endif %}{% endfor %} and more. {{ cat.blurb | safe }}."
+  description: "The best AI tools for {{ cat.name | lower | safe }}, checked to make sure they work: {% for l in cat.links | batch(4) | first %}{{ l.title | safe }}{% if not loop.last %}, {% endif %}{% endfor %} and more. {{ cat.blurb | safe }}."
   crumbs: [{name: "Home", url: "/"}, {name: "AI Directory", url: "/directory/"}, {name: "{{ cat.name | safe }}", url: "/directory/{{ cat.slug }}/"}]
 ---
 <div class="content">
@@ -28,6 +28,9 @@ eleventyComputed:
   {% endif %}
 
   <h2>All {{ cat.links | length }} tools for {{ cat.name }}</h2>
+  <p class="center"><label for="cf" class="sr">Filter {{ cat.name }} tools</label>
+  <input id="cf" type="search" data-filter placeholder="Filter these {{ cat.links | length }} tools..." autocomplete="off" style="width:80%;padding:5px;border:2px inset #C0C0C0;font:15px Verdana,sans-serif"></p>
+  <p class="small center" data-count aria-live="polite"></p>
   <section style="border-top:4px solid {{ cat.color }}">
     {% for l in cat.links | sort(true, false, "featured") %}{% include "listing.njk" %}{% endfor %}
   </section>

@@ -7,6 +7,9 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("year", () => new Date().getFullYear());
   eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString().slice(0, 10));
+  // Compact search index for /directory/: [title, url, note, category slug, category name]
+  eleventyConfig.addFilter("searchIndex", (cats) =>
+    cats.flatMap((c) => c.links.map((l) => [l.title, l.url, l.note, c.slug, c.name])));
   eleventyConfig.addFilter("totalLinks", (cats) => cats.reduce((n, c) => n + c.links.length, 0));
 
   return {

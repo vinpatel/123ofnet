@@ -38,7 +38,9 @@
 - [ ] **Vin:** Stripe Payment Links → `src/_data/site.json` → `stripe.*`
 - [ ] **Vin:** newsletter (Buttondown) form action → `site.json` → `newsletter.action`
 - [ ] **Vin:** email for hello@123ofnet.com (GoDaddy email forwarding to your inbox)
-- [ ] Grow the directory to 100+ tools (human-checked) and add affiliate links where programs exist
+- [x] Grow the directory past 100 tools; how-to-choose guides on every category
+- [~] Grow to 200+ tools per category before launch (research agents + scripts/verify-tools.py + scripts/merge-tools.py)
+- [ ] Add affiliate links where programs exist
 - [ ] Launch post (Show HN, Reddit, X, LinkedIn) with before/after screenshots
 
 ## Phase 2: Free AI tools + Pro (Cloudflare Worker)

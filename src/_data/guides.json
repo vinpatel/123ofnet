@@ -209,7 +209,7 @@
   "learn": {
     "intro": "AI learning tools explain hard topics simply, help you study and practise, and find and summarise research. Used well, they're like a patient tutor that's always available.",
     "picks": [
-      { "need": "Asking questions about your own documents", "tool": "NotebookLM" },
+      { "need": "Asking questions about your own documents", "tool": "Gemini Notebook (NotebookLM)" },
       { "need": "Finding research papers", "tool": "Elicit" },
       { "need": "What the science says on a question", "tool": "Consensus" },
       { "need": "Flashcards and studying", "tool": "Quizlet" },
@@ -224,7 +224,7 @@
       "For languages, practise speaking out loud. Conversation practice builds confidence fastest."
     ],
     "faq": [
-      { "q": "What is the best AI tool for studying?", "a": "NotebookLM is great for studying your own notes and readings. Quizlet is good for flashcards, and Khanmigo works as a tutor for school subjects." },
+      { "q": "What is the best AI tool for studying?", "a": "Gemini Notebook (formerly NotebookLM) is great for studying your own notes and readings. Quizlet is good for flashcards, and Khanmigo works as a tutor for school subjects." },
       { "q": "Can AI find real research papers?", "a": "Yes. Elicit, Consensus, Semantic Scholar and Scite search real academic papers. Always open the paper itself before citing it." },
       { "q": "Is using AI for homework cheating?", "a": "It depends on the rules of your class. Using AI to explain ideas or quiz yourself is usually fine. Handing in AI-written work as your own usually isn't." }
     ]

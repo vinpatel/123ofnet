@@ -1,5 +1,5 @@
 {
-  "note": "Human-curated only. Every URL must be checked by a person before it is added. See AGENTS.md. 'featured' and 'aff' are set only for paid/affiliate entries.",
+  "note": "Every URL must pass scripts/verify-tools.py before it is added; quick picks in guides.json are chosen by a person. See AGENTS.md. 'featured' and 'aff' are set only for paid/affiliate entries.",
   "categories": [
     {
       "name": "Chat & Assistants",
@@ -92,7 +92,7 @@
         },
         {
           "title": "Notion AI",
-          "url": "https://www.notion.so",
+          "url": "https://www.notion.com",
           "note": "Notes and docs with an AI writer built in"
         },
         {
@@ -306,7 +306,7 @@
         },
         {
           "title": "Runway",
-          "url": "https://runwayml.com",
+          "url": "https://runway.com",
           "note": "AI video generation and editing"
         },
         {
@@ -467,7 +467,7 @@
       "links": [
         {
           "title": "Durable",
-          "url": "https://www.durable.co",
+          "url": "https://durable.com",
           "note": "AI website builder for small businesses"
         },
         {
@@ -486,8 +486,8 @@
           "note": "Customer chat with an AI helper for small shops"
         },
         {
-          "title": "Intercom Fin",
-          "url": "https://www.intercom.com/fin",
+          "title": "Fin by Intercom",
+          "url": "https://fin.ai",
           "note": "AI customer support agent"
         },
         {
@@ -675,7 +675,7 @@
       "blurb": "Study, research and learn new things",
       "links": [
         {
-          "title": "NotebookLM",
+          "title": "Gemini Notebook (NotebookLM)",
           "url": "https://notebooklm.google.com",
           "note": "Upload documents and ask questions about them"
         },

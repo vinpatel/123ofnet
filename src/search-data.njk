@@ -1,0 +1,5 @@
+---
+permalink: /directory/search.json
+eleventyExcludeFromCollections: true
+---
+{{ directory.categories | searchIndex | dump | safe }}
