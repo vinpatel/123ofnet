@@ -14,10 +14,40 @@ eleventyComputed:
 <div class="content">
   <p class="small"><a href="/">Home</a> &raquo; <a href="/directory/">AI Directory</a> &raquo; {{ cat.name }}</p>
   <h1>Best <em>AI tools</em> for {{ cat.name }}</h1>
-  <p>{{ cat.blurb }}. {{ cat.links | length }} tools, each checked by a person.</p>
+  {% set guide = guides[cat.slug] %}
+  <p>{{ guide.intro if guide else cat.blurb }}</p>
+
+  {% if guide %}
+  <h2>Quick picks</h2>
+  <table class="plans">
+    <tr><th>If you need...</th><th>Try</th></tr>
+    {% for p in guide.picks %}{% for l in cat.links %}{% if l.title == p.tool %}
+    <tr><td class="feat">{{ p.need }}</td><td class="feat"><a href="{{ l.url }}" rel="noopener">{{ l.title }}</a></td></tr>
+    {% endif %}{% endfor %}{% endfor %}
+  </table>
+  {% endif %}
+
+  <h2>All {{ cat.links | length }} tools for {{ cat.name }}</h2>
   <section style="border-top:4px solid {{ cat.color }}">
     {% for l in cat.links | sort(true, false, "featured") %}{% include "listing.njk" %}{% endfor %}
   </section>
+
+  {% if guide %}
+  <h2>How to choose an AI tool for {{ cat.name | lower }}</h2>
+  <ol>
+    {% for tip in guide.howTo %}<li>{{ tip }}</li>{% endfor %}
+  </ol>
+
+  <h2>Questions people ask</h2>
+  {% for f in guide.faq %}
+  <h3 style="font:bold 16px Verdana,Arial,sans-serif;margin:14px 0 4px">{{ f.q }}</h3>
+  <p style="margin:0 0 8px">{{ f.a }}</p>
+  {% endfor %}
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for f in guide.faq %}{"@type":"Question","name":{{ f.q | dump | safe }},"acceptedAnswer":{"@type":"Answer","text":{{ f.a | dump | safe }}}}{% if not loop.last %},{% endif %}{% endfor %}]}
+  </script>
+  {% endif %}
+
   <p class="note">Your AI tool belongs in <b>{{ cat.name }}</b>? <a href="/submit/">Get listed</a>. Featured spots go at the top of this page.</p>
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"ItemList","name":"Best AI tools for {{ cat.name }}","itemListElement":[{% for l in cat.links %}{"@type":"ListItem","position":{{ loop.index }},"item":{"@type":"SoftwareApplication","name":"{{ l.title }}","url":"{{ l.url }}","description":"{{ l.note }}","applicationCategory":"{{ cat.name }}"}}{% if not loop.last %},{% endif %}{% endfor %}]}

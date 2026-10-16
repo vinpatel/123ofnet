@@ -4,19 +4,25 @@ eleventyExcludeFromCollections: true
 ---
 # 123ofnet.com
 
-> {{ site.description }}
+> {{ site.description | safe }}
 
 123ofnet.com is a web portal first built in 2000 ("An easy solution to the Net !!!") and revived in 2026 as "An easy solution to AI !!!". Every tool in the directory is checked by a person. Featured listings are marked as paid.
 
 ## Directory
-- [All AI tools]({{ site.url }}/directory/)
-{% for cat in directory.categories %}- [Best AI tools for {{ cat.name }}]({{ site.url }}/directory/{{ cat.slug }}/): {{ cat.blurb }}
+- [All AI tools]({{ site.url | safe }}/directory/)
+{% for cat in directory.categories %}- [Best AI tools for {{ cat.name | safe }}]({{ site.url | safe }}/directory/{{ cat.slug | safe }}/): {{ cat.blurb | safe }}
 {% endfor %}
 ## Tools by category
 {% for cat in directory.categories %}
-### {{ cat.name }}
-{% for l in cat.links %}- [{{ l.title }}]({{ l.url }}): {{ l.note }}
+### {{ cat.name | safe }}
+{% if guides[cat.slug] %}{{ guides[cat.slug].intro | safe }}
+
+Quick picks:
+{% for p in guides[cat.slug].picks %}- {{ p.need | safe }}: {{ p.tool | safe }}
+{% endfor %}
+All tools:
+{% endif %}{% for l in cat.links %}- [{{ l.title | safe }}]({{ l.url | safe }}): {{ l.note | safe }}
 {% endfor %}{% endfor %}
 ## About
-- [About 123ofnet.com]({{ site.url }}/about/)
-- [List an AI tool]({{ site.url }}/submit/)
+- [About 123ofnet.com]({{ site.url | safe }}/about/)
+- [List an AI tool]({{ site.url | safe }}/submit/)
