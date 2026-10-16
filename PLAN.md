@@ -39,7 +39,8 @@
 - [ ] **Vin:** newsletter (Buttondown) form action → `site.json` → `newsletter.action`
 - [ ] **Vin:** email for hello@123ofnet.com (GoDaddy email forwarding to your inbox)
 - [x] Grow the directory past 100 tools; how-to-choose guides on every category
-- [~] Grow to 200+ tools per category before launch (research agents + scripts/verify-tools.py + scripts/merge-tools.py)
+- [x] 200+ tools in every category (2,635 total), each verified with scripts/verify-tools.py; verifier reports in archive/research/
+- [ ] Vin: decide whether to trim "platforms with AI features" (Calendly, Datadog, Loom, Teachable...) for an AI-first-only directory
 - [ ] Add affiliate links where programs exist
 - [ ] Launch post (Show HN, Reddit, X, LinkedIn) with before/after screenshots
 

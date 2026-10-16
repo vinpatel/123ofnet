@@ -1,0 +1,2868 @@
+[
+ {
+  "title": "10Web AI Website Builder",
+  "url": "https://10web.io",
+  "note": "Builds a WordPress website from a short description, with AI hosting and editing",
+  "final": "https://10web.io/",
+  "site_title": "Launch and Grow Your Business Online with 10Web",
+  "site_desc": "Unlock powerful tools for hosting, building, optimizing, and securing your site. Elevate your web presence with 10Web.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Webflow AI",
+  "url": "https://webflow.com/ai",
+  "note": "AI tools inside Webflow to generate pages, layouts and site content",
+  "final": "https://webflow.com/ai",
+  "site_title": "Webflow AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "GoDaddy Airo",
+  "url": "https://www.godaddy.com/airo",
+  "note": "GoDaddy's AI that sets up a website, logo and online store for a new business",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.godaddy.com/airo"
+ },
+ {
+  "title": "B12",
+  "url": "https://www.b12.io",
+  "note": "AI-generated professional websites with scheduling, invoicing and email tools",
+  "final": "https://www.b12.io/",
+  "site_title": "B12 | The easiest AI website builder",
+  "site_desc": "Build websites, online stores, and web apps by chatting with AI. Add logins, payments, and bookings just by asking. Start free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mixo",
+  "url": "https://www.mixo.io",
+  "note": "Generates a landing page for a business idea in seconds from a short description",
+  "final": "https://www.mixo.io/",
+  "site_title": "Mixo | AI Website Builder for Small Business",
+  "site_desc": "Create a professional business website in minutes with Mixo",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Relume",
+  "url": "https://www.relume.ai",
+  "note": "AI sitemap and wireframe generator for planning website structure",
+  "final": "https://www.relume.ai/",
+  "site_title": "Relume — Build a marketing site you’d actually publish",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Dorik",
+  "url": "https://dorik.com",
+  "note": "No-code website builder that generates sites and blogs with AI",
+  "final": "https://dorik.com/",
+  "site_title": "Dorik - AI Website Building Platform",
+  "site_desc": "Create your stunning website with ease using Dorik AI Website Builder. Benefit from user-friendly design tools, advanced business solutions, AI tools, and powerful SEO features. Start with Dorik for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Strikingly",
+  "url": "https://www.strikingly.com",
+  "note": "Simple one-page website builder with an AI site generator",
+  "final": "https://www.strikingly.com/",
+  "site_title": "How To Make a Website – Free Website Builder | Strikingly",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jimdo",
+  "url": "https://www.jimdo.com",
+  "note": "Website and online store builder that creates a site from a few questions",
+  "final": "https://www.jimdo.com/",
+  "site_title": "Bring Your Business Online | Websites & More – Jimdo",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Unicorn Platform",
+  "url": "https://unicornplatform.com",
+  "note": "Landing page and website builder with an AI site generator for startups",
+  "final": "https://unicornplatform.com/",
+  "site_title": "Unicorn Platform 🦄 AI Website Builder for Busy Founders",
+  "site_desc": "Easy to use AI-powered, drag-and-drop website, SAAS landing, directory, and blog builder for startups, mobile apps, and SaaS. 100% no code, no design skills needed.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Typedream",
+  "url": "https://typedream.com",
+  "note": "Notion-style website builder with AI for simple business sites",
+  "final": "https://typedream.com/",
+  "site_title": "Typedream: AI Website Builder",
+  "site_desc": "Create stunning landing pages with just 1 sentence with AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hocoos",
+  "url": "https://hocoos.com",
+  "note": "Builds a business website after you answer a few questions",
+  "final": "https://hocoos.com/",
+  "site_title": "Hocoos AI Website Builder - Create Your Website in 5 Minutes",
+  "site_desc": "Create professional websites in seconds with Hocoos AI website builder. Get all the sales and marketing tools to start & grow your online business now.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Appy Pie Website Builder",
+  "url": "https://www.appypie.com/website-builder",
+  "note": "AI website builder for small businesses with no coding needed",
+  "final": "https://www.appypie.com/website-builder",
+  "site_title": "Free Website Builder to Create Your Website Without Coding",
+  "site_desc": "Create a free website with Appy Pie's drag-and-drop website builder. No coding needed. Hosting, SEO tools, ecommerce, and custom domain included. Try free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Wegic",
+  "url": "https://wegic.ai",
+  "note": "Chat with an AI designer to build and update a website",
+  "final": "https://wegic.ai/",
+  "site_title": "Wegic: Create Custom Websites in Minutes | AI Website Builder",
+  "site_desc": "Build and launch your custom website with Wegic — no coding needed. Enjoy fast, stable hosting and a business-critical, SEO-ready AI website builder for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Readdy",
+  "url": "https://readdy.ai",
+  "note": "Describe a site in plain words and AI designs and publishes it",
+  "final": "https://readdy.ai/",
+  "site_title": "AI Website Builder | Create Functional Websites with Readdy",
+  "site_desc": "Create websites with AI and launch faster with Readdy, an AI-powered website builder with backend, templates, SEO and GEO tools, and hosting in one workflow.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Webwave",
+  "url": "https://webwave.me",
+  "note": "Drag-and-drop website builder with an AI site generator",
+  "final": "https://webwave.me/",
+  "site_title": "AI Website Builder. Create a Simple Website in 3 Minutes |WebWave",
+  "site_desc": "Create your website without coding. AI suggests templates, content and structure tailored to your brand. Perfect for small business and freelancer.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Leadpages",
+  "url": "https://www.leadpages.com",
+  "note": "Landing page builder with AI copy tools for collecting leads",
+  "final": "https://leadpages.com/",
+  "site_title": "The AI Landing Page Builder | Leadpages",
+  "site_desc": "Create high-converting landing pages with AI, templates, testing, analytics, and built-in marketing integrations. Launch faster with Leadpages.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Unbounce",
+  "url": "https://unbounce.com",
+  "note": "Landing page builder with AI copy and smart traffic optimization",
+  "final": "https://unbounce.com/",
+  "site_title": "The Best Landing Page Builder and CRO platform | Unbounce",
+  "site_desc": "Grow your leads and sales with Unbounce. Easily create, test, and optimize landing pages, and boost conversions using AI insights—start turning traffic into customers today!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Instapage",
+  "url": "https://instapage.com",
+  "note": "Landing page platform with AI content and ad-to-page personalization",
+  "final": "https://instapage.com/",
+  "site_title": "Best Landing Page Builder & Software - Create High-Converting Landing Pages | Instapage",
+  "site_desc": "Build high-converting landing pages with the best landing page creator and software. Drag-and-drop builder, 250+ templates, AI content, A/B testing, and personalization tools. Start your 14-day free trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Systeme.io",
+  "url": "https://systeme.io",
+  "note": "All-in-one funnels, email, courses and website tool for small businesses",
+  "final": "https://systeme.io/",
+  "site_title": "Systeme.io - The only tool you need to launch your online business",
+  "site_desc": "Systeme.io has all the tools you need to grow your online business. Click here to create your FREE account!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kajabi",
+  "url": "https://kajabi.com",
+  "note": "Platform to sell courses, coaching and memberships with AI creation tools",
+  "final": "https://www.kajabi.com/",
+  "site_title": "Turn What You Know Into What You’re Known For | Kajabi",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Podia",
+  "url": "https://www.podia.com",
+  "note": "Sell digital products, courses and memberships from one simple site",
+  "final": "https://www.podia.com/",
+  "site_title": "Podia: Courses, Community & Everything in One Place — Podia",
+  "site_desc": "Sell courses, host your community, and email your list from one place. 15,000+ creators, $900M+ earned. Try Podia free for 14 days.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Stan Store",
+  "url": "https://stan.store",
+  "note": "Link-in-bio storefront for creators to sell products and bookings",
+  "final": "https://stan.store/",
+  "site_title": "Stan - Your Creator Store",
+  "site_desc": "We work 1-on-1 with the Top Creators to monetize their business",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Beacons",
+  "url": "https://beacons.ai",
+  "note": "Link-in-bio, online store and media kit with AI tools for creators",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://beacons.ai/"
+ },
+ {
+  "title": "Linktree",
+  "url": "https://linktr.ee",
+  "note": "Link-in-bio page to share all your links and sell from one place",
+  "final": "https://linktr.ee/",
+  "site_title": "Link in bio tool: Everything you are, in one simple link | Linktree",
+  "site_desc": "Join 70M+ creators and sell, share & curate everything you do online. One bio link—your Linktree—brings it all together for your audience.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "BigCommerce",
+  "url": "https://www.bigcommerce.com",
+  "note": "E-commerce platform with built-in AI product description tools",
+  "final": "https://www.bigcommerce.com/",
+  "site_title": "Commerce built for momentum. | BigCommerce",
+  "site_desc": "Power modern buying experiences across brands, regions, and channels — all from a single, scalable foundation. Learn more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Ecwid",
+  "url": "https://www.ecwid.com",
+  "note": "Add an online store to any website or social page",
+  "final": "https://www.ecwid.com/",
+  "site_title": "#1 Ecommerce Shopping Cart & Online Store - Try Ecwid!",
+  "site_desc": "Launch your online store easily—no tech skills required. Build a brand-new ecommerce site or add an online store to your existing website. No transaction fees.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Square Online",
+  "url": "https://squareup.com/us/en/online-store",
+  "note": "Free online store builder tied to Square payments and AI tools",
+  "final": "https://squareup.com/us/en/online-store",
+  "site_title": "",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Rep AI",
+  "url": "https://www.hellorep.ai",
+  "note": "AI shopping assistant chatbot for Shopify stores",
+  "final": "https://www.hellorep.ai/",
+  "site_title": "AI Agentic Commerce Platform for Growth-Focused Brands | Rep AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Octane AI",
+  "url": "https://www.octaneai.com",
+  "note": "AI product quizzes and recommendations for online stores",
+  "final": "https://www.octaneai.com/",
+  "site_title": "AI quiz maker and analytics for Shopify brands | Octane AI",
+  "site_desc": "Describe what you want, let Phoenix build an on-brand quiz, and get rich data insights. The AI quiz maker and analytics for Shopify brands.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Rebuy",
+  "url": "https://www.rebuyengine.com",
+  "note": "AI-powered product recommendations and upsells for Shopify stores",
+  "final": "https://www.rebuyengine.com/",
+  "site_title": "Rebuy - Ecommerce Personalization Platform for Shopify",
+  "site_desc": "The world’s top brands use Rebuy’s personalization platform to fuel data-driven shopping experiences, win and keep more customers, and accelerate growth.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Klevu",
+  "url": "https://www.klevu.com",
+  "note": "AI search and product discovery for e-commerce sites",
+  "final": "https://www.klevu.com/",
+  "site_title": "Klevu is now Athos Commerce",
+  "site_desc": "Klevu has united with Searchspring and Intelligent Reach under Athos Commerce to transform ecommerce search, merchandising, and personalization.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Searchanise",
+  "url": "https://searchanise.io",
+  "note": "Smart product search and filters for online stores",
+  "final": "https://searchanise.io/",
+  "site_title": "🔍 Smart Site Search Engine for Ecommerce Stores - Searchanise",
+  "site_desc": "&#128200 Connect shoppers to products and minimize time to transaction with our site search, filter, & merchandising app. 7-day free trial. Lightning-fast support.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Nosto",
+  "url": "https://www.nosto.com",
+  "note": "AI personalization and product recommendations for online shops",
+  "final": "https://www.nosto.com/",
+  "site_title": "AI-powered ecommerce personalization | Nosto",
+  "site_desc": "Boost sales and loyalty with Nosto’s AI-powered ecommerce personalization, merchandising, and search tools.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hypotenuse AI",
+  "url": "https://www.hypotenuse.ai",
+  "note": "Writes product descriptions and e-commerce content in bulk",
+  "final": "https://www.hypotenuse.ai/",
+  "site_title": "AI-first PXM Platform for Ecommerce | Hypotenuse AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Describely",
+  "url": "https://describely.ai",
+  "note": "AI product descriptions and catalog content for online stores",
+  "final": "https://describely.ai/",
+  "site_title": "Product Content Generation Software for eCommerce",
+  "site_desc": "Generate, enrich, and optimize product descriptions at scale with AI. Trusted by e-commerce teams to create high-converting product content.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Vendasta",
+  "url": "https://www.vendasta.com",
+  "note": "Platform for agencies to sell and run marketing tools for local businesses",
+  "final": "https://www.vendasta.com/",
+  "site_title": "AI Workforce for Agencies & Local Business Partners | Vendasta",
+  "site_desc": "Empower local businesses with an all-in-one AI workforce. Scale your agency or franchise with automated fulfillment, marketing, and sales tools in one place.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zendesk AI",
+  "url": "https://www.zendesk.com/service/ai/",
+  "note": "AI agents and tools in Zendesk for customer support teams",
+  "final": "https://www.zendesk.com/service/ai/",
+  "site_title": "Zendesk AI for customer service and support",
+  "site_desc": "Zendesk AI helps customer service teams resolve requests faster with AI agents, Copilot, intelligent automation, and trusted knowledge in one platform.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Freshdesk",
+  "url": "https://www.freshworks.com/freshdesk/",
+  "note": "Helpdesk software with Freddy AI for customer support",
+  "final": "https://www.freshworks.com/freshdesk/",
+  "site_title": "AI-Powered Customer Service Software | Freshdesk | Freshworks",
+  "site_desc": "Boost agent productivity and deliver seamless customer experiences with Freshdesk, an AI-powered customer service solution with omnichannel ticketing and automated workflows.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Gorgias",
+  "url": "https://www.gorgias.com",
+  "note": "Customer support helpdesk with AI agent built for online stores",
+  "final": "https://www.gorgias.com/",
+  "site_title": "The Conversational AI platform for Ecommerce | Gorgias",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Help Scout",
+  "url": "https://www.helpscout.com",
+  "note": "Shared inbox and help center with AI answers for small teams",
+  "final": "https://www.helpscout.com/",
+  "site_title": "",
+  "site_desc": "Help Scout delivers all the powerful, intuitive features you need to deliver exceptional support at a fraction of the cost of other customer service platforms.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Front",
+  "url": "https://front.com",
+  "note": "Shared team inbox with AI tools for customer communication",
+  "final": "https://front.com/",
+  "site_title": "Front | Customer service platform, powered by AI",
+  "site_desc": "Deliver exceptional service with Front, the platform where support, sales, operations, and AI agents come together to resolve complex customer work.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Crisp",
+  "url": "https://crisp.chat",
+  "note": "Live chat and customer messaging with an AI chatbot",
+  "final": "https://crisp.chat/en/",
+  "site_title": "The AI Customer Support Platform for Every Business - Crisp",
+  "site_desc": "Crisp is the ultimate all-in-one AI-powered multichannel messaging platform that helps businesses connect instantly with their customers or leads who are waiting for support. With its quickly evolving set of tools, Crisp",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "LiveChat",
+  "url": "https://www.livechat.com",
+  "note": "Live chat software for websites with AI reply suggestions",
+  "final": "https://www.livechat.com/",
+  "site_title": "Live Chat Software with AI by Text | LiveChat.com",
+  "site_desc": "Text is live chat software for your website with an AI Agent that answers 24/7. Qualify leads and track sales from chats. Start your free 14-day trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Ada",
+  "url": "https://www.ada.cx",
+  "note": "AI customer service agent that resolves support questions automatically",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.ada.cx/"
+ },
+ {
+  "title": "Forethought",
+  "url": "https://forethought.ai",
+  "note": "AI agents that answer and route customer support tickets",
+  "final": "https://forethought.ai/",
+  "site_title": "The Customer Service AI Platform for Modern Support Teams",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kustomer",
+  "url": "https://www.kustomer.com",
+  "note": "AI-powered customer service CRM and helpdesk",
+  "final": "https://www.kustomer.com/",
+  "site_title": "AI Customer Service Platform & CRM | Kustomer",
+  "site_desc": "Deliver faster, personalized support with Kustomer's AI customer service CRM. Unify conversations, automate workflows, and power omnichannel CX in one platform.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Gladly",
+  "url": "https://www.gladly.ai",
+  "note": "Customer service platform with AI that handles conversations",
+  "final": "https://www.gladly.ai/",
+  "site_title": "Agentic commerce platform built for top brands | Gladly",
+  "site_desc": "Gladly brings agentic commerce to your site for premium ecommerce support. See how it works.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zoho Desk",
+  "url": "https://www.zoho.com/desk/",
+  "note": "Helpdesk software with the Zia AI assistant",
+  "final": "https://www.zoho.com/desk/",
+  "site_title": "AI customer service software for every business | Zoho Desk",
+  "site_desc": "Zoho Desk is a unified help desk platform built for the smoothest AI-human collaboration. Deliver world-class support at scale. Get a flexible free trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tawk.to",
+  "url": "https://www.tawk.to",
+  "note": "Free live chat for websites with an optional AI assistant",
+  "final": "https://www.tawk.to/",
+  "site_title": "tawk.to - Free Live Chat Software for Your Website",
+  "site_desc": "One free inbox for all your customer channels. Live chat, ticketing, knowledge base, AI assist, and CRM — all in one place. Trusted by 6M+ businesses.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Botpress",
+  "url": "https://botpress.com",
+  "note": "Build AI chatbots and agents for websites and messaging apps",
+  "final": "https://botpress.com/",
+  "site_title": "Botpress | The enterprise-grade AI agent platform for customer support",
+  "site_desc": "8c2ee6f11d97b9dc404de245cb019b677184d5a8efb0dd5f8c00902fa28ce2fb",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Voiceflow",
+  "url": "https://www.voiceflow.com",
+  "note": "Design and launch AI customer support agents",
+  "final": "https://www.voiceflow.com/",
+  "site_title": "Voiceflow | Enterprise Conversational AI Platform & Voice AI",
+  "site_desc": "Voiceflow is the AI agent platform for customer experience automation. Build, launch, and scale chat and voice AI agents for customer support and CX. Book a demo.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ManyChat",
+  "url": "https://manychat.com",
+  "note": "Automates Instagram, Facebook and WhatsApp chats with AI replies",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://manychat.com/"
+ },
+ {
+  "title": "Landbot",
+  "url": "https://landbot.io",
+  "note": "No-code chatbot builder for websites and WhatsApp",
+  "final": "https://landbot.io/",
+  "site_title": "AI Agent & Chatbot Builder for WhatsApp + Website | Landbot",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Chatfuel",
+  "url": "https://chatfuel.com",
+  "note": "AI chatbots for WhatsApp, Instagram and Facebook Messenger",
+  "final": "https://chatfuel.com/",
+  "site_title": "Chatfuel | AI Agent That Turns Every Chat Into a Sale",
+  "site_desc": "Chatfuel's AI agent replies, qualifies, books, and follows up on WhatsApp, Instagram, and Facebook — automatically. Official Meta Business Partner.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SiteGPT",
+  "url": "https://sitegpt.ai",
+  "note": "Train an AI chatbot on your website content to answer visitors",
+  "final": "https://sitegpt.ai/",
+  "site_title": "SiteGPT - Make AI your expert customer support agent",
+  "site_desc": "It's like having ChatGPT specifically for your products. Instantly answer your visitors' questions with a personalized chatbot trained on your website content.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "CustomGPT.ai",
+  "url": "https://customgpt.ai",
+  "note": "Build a business chatbot trained on your own documents and site",
+  "final": "https://customgpt.ai/",
+  "site_title": "CustomGPT.ai | Custom GPTs from Your Content for Business",
+  "site_desc": "CustomGPT.ai empowers businesses with custom GPTs—AI agents built from your content. Deliver exceptional customer experiences and maximize employee efficiency.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Dante AI",
+  "url": "https://www.dante-ai.com",
+  "note": "Create an AI chatbot trained on your content in minutes",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.dante-ai.com/"
+ },
+ {
+  "title": "DocsBot AI",
+  "url": "https://docsbot.ai",
+  "note": "AI chatbot trained on your docs to answer customer questions",
+  "final": "https://docsbot.ai/",
+  "site_title": "DocsBot - AI Agents for Business | AI Customer Support & Team Automation",
+  "site_desc": "Build AI agents that combine trusted knowledge with real actions for customers and teams across your business tools and workflows.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Chatling",
+  "url": "https://chatling.ai",
+  "note": "No-code AI chatbot builder for websites",
+  "final": "https://chatling.ai/",
+  "site_title": "AI Customer Service Agent for Web, WhatsApp, Instagram, Telegram, & Messenger | Chatling",
+  "site_desc": "Deploy AI agents that resolve customer questions instantly across your website, WhatsApp, and Instagram. Seamless human handoff, 80+ languages, no code. Free plan available.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Wonderchat",
+  "url": "https://wonderchat.io",
+  "note": "AI chatbot for your website trained on your own content",
+  "final": "https://wonderchat.io/",
+  "site_title": "Wonderchat: AI Customer Service Agents for Support & Sales",
+  "site_desc": "The all-in-one platform to build AI customer service and AI sales conversion agents. Deflect support tickets, qualify website visitors, and answer with confidence using AI trained on your content. Every response cites it",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Elfsight AI Chatbot",
+  "url": "https://elfsight.com/ai-chatbot-widget/",
+  "note": "Website widget that adds an AI chatbot trained on your site",
+  "final": "https://elfsight.com/ai-chatbot-widget/",
+  "site_title": "AI Chatbot Widget — Add AI Chatbot Assistant to Your Website! [FREE]",
+  "site_desc": "Create and add a powerful AI Chatbot Assistant widget to your website. Automate customer support, capture leads, and deliver instant, accurate answers—24/7.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Social Intents",
+  "url": "https://www.socialintents.com",
+  "note": "Live chat and AI chatbots that work inside Slack, Teams or Google Chat",
+  "final": "https://www.socialintents.com/",
+  "site_title": "AI Customer Support & Live Chat for Microsoft Teams, Slack & Google Chat",
+  "site_desc": "AI agents answer instantly, your team steps in when it matters. Website chat, WhatsApp, SMS, and email answered from Microsoft Teams, Slack, or Google Chat.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "eesel AI",
+  "url": "https://www.eesel.ai",
+  "note": "AI agent that answers support tickets using your help docs",
+  "final": "https://www.eesel.ai/",
+  "site_title": "eesel AI – Hire AI agents for customer service, content and more | eesel AI",
+  "site_desc": "Hire fully autonomous AI agents for customer service, content, and more. They live in your existing apps and are ready in minutes. Try free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sierra",
+  "url": "https://sierra.ai",
+  "note": "Conversational AI agents for customer service at brands",
+  "final": "https://sierra.ai/",
+  "site_title": "Better customer experiences | Sierra",
+  "site_desc": "Sierra helps businesses build better, more human customer experiences with AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Decagon",
+  "url": "https://decagon.ai",
+  "note": "AI customer support agents for businesses",
+  "final": "https://decagon.ai/",
+  "site_title": "Decagon | The AI concierge for every customer",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kore.ai",
+  "url": "https://kore.ai",
+  "note": "Enterprise AI agents for customer and employee service",
+  "final": "https://kore.ai/",
+  "site_title": "Enterprise Agentic AI Platform | Kore.ai",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Yellow.ai",
+  "url": "https://yellow.ai",
+  "note": "AI agents for customer service on chat, email and voice",
+  "final": "https://yellow.ai/",
+  "site_title": "AI Agents for CX and EX Automation - Yellow.ai",
+  "site_desc": "Enterprise AI agents powered by 15+ LLMs. Eliminates the trade-off between quality, cost and scale. Experience now.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Netomi",
+  "url": "https://www.netomi.com",
+  "note": "AI customer service agents for email, chat and messaging",
+  "final": "https://www.netomi.com/",
+  "site_title": "Netomi",
+  "site_desc": "Netomi powers intelligent experiences for the world",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Richpanel",
+  "url": "https://www.richpanel.com",
+  "note": "Customer support helpdesk with AI for e-commerce brands",
+  "final": "https://www.richpanel.com/",
+  "site_title": "Richpanel: AI-Powered Customer Service Platform for Ecommerce",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Siena AI",
+  "url": "https://www.siena.cx",
+  "note": "AI customer service agent for e-commerce brands",
+  "final": "https://www.siena.cx/",
+  "site_title": "Empathic AI Agents for commerce | Siena AI",
+  "site_desc": "Experience AI agents that combine empathy with automation for commerce. Provide personalized shopper support. Schedule a demo today!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Yuma AI",
+  "url": "https://yuma.ai",
+  "note": "AI agent that handles support tickets for Shopify stores",
+  "final": "https://yuma.ai/",
+  "site_title": "Yuma AI | Ecommerce AI for Support, Sales, Social & Chat",
+  "site_desc": "Automate ecommerce support, sales, social, and chat with AI agents that resolve tickets, grow revenue, and keep response times low without scaling headcount.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zowie",
+  "url": "https://getzowie.com",
+  "note": "AI customer service agent for e-commerce and retail",
+  "final": "https://getzowie.com/",
+  "site_title": "AI Agent Platform for Enterprise Customer Service - Zowie",
+  "site_desc": "The AI agent platform leading enterprises trust to run in production. Monos, InPost, Decathlon, and Payoneer - customer-facing AI that resolves, acts, and scales.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Re:amaze",
+  "url": "https://www.reamaze.com",
+  "note": "Helpdesk and live chat with AI for online stores",
+  "final": "https://www.reamaze.com/",
+  "site_title": "Re:amaze - AI-Powered Customer Service and AI Agent Platform Designed for eCommerce and Online Businesses",
+  "site_desc": "Re:amaze is Simple, Intuitive Customer Support Software. Support, Engage, and Convert Customers with Chat, Social, SMS, FAQ, and Email on a Single Platform. Everything you need to impress your customers.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Trengo",
+  "url": "https://trengo.com",
+  "note": "Omnichannel customer inbox with AI for WhatsApp, email and chat",
+  "final": "https://trengo.com/",
+  "site_title": "Customer engagement platform for seamless omnichannel communication",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Respond.io",
+  "url": "https://respond.io",
+  "note": "AI-powered customer conversation platform for WhatsApp and more",
+  "final": "https://respond.io/",
+  "site_title": "Respond.io | #1 AI-Powered Customer Conversation Platform",
+  "site_desc": "Trusted by 10,000+ B2C businesses to scale customer chats, calls & campaigns. Unify WhatsApp, TikTok, Instagram & Facebook in a team inbox with AI Agents on respond.io",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Wati",
+  "url": "https://www.wati.io",
+  "note": "WhatsApp business messaging with AI chatbot replies",
+  "final": "https://www.wati.io/",
+  "site_title": "Wati | #1 AI-powered customer engagement platform",
+  "site_desc": "AI-powered customer engagement platform turning WhatsApp, Instagram & Messenger into revenue. Trusted by 16,000+ businesses in 190+ countries.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Interakt",
+  "url": "https://www.interakt.shop",
+  "note": "WhatsApp business tool with chatbot and catalog features",
+  "final": "https://www.interakt.shop/",
+  "site_title": "Customer Engagement Simplified with WhatsApp Business Platform",
+  "site_desc": "Interakt helps businesses automate customer engagement with tools like WhatsApp automation, chatbots, and notifications. Streamline your communication and boost sales effortlessly.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Smith.ai",
+  "url": "https://smith.ai",
+  "note": "AI and human receptionists that answer calls and book appointments",
+  "final": "https://smith.ai/",
+  "site_title": "Smith.ai 24/7 AI Receptionists & Live Human Agents",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Goodcall",
+  "url": "https://www.goodcall.com",
+  "note": "AI phone agent that answers business calls around the clock",
+  "final": "https://www.goodcall.com/",
+  "site_title": "AI Answering Service & Receptionist for Small Business | Goodcall",
+  "site_desc": "Goodcall offers an AI answering service built on voice AI. Gabi builds and runs your virtual receptionist for businesses from small shops to large enterprises, including contact centers.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Rosie",
+  "url": "https://heyrosie.com",
+  "note": "AI phone answering service for small businesses",
+  "final": "https://heyrosie.com/",
+  "site_title": "Rosie AI Call Answering Service | 24/7 Phone Support From $49",
+  "site_desc": "Never miss another call with our AI-powered call answering service. 10x better than voicemail. 10x cheaper than a traditional phone answering service.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "My AI Front Desk",
+  "url": "https://www.myaifrontdesk.com",
+  "note": "AI receptionist that answers calls, texts and books appointments",
+  "final": "https://www.myaifrontdesk.com/",
+  "site_title": "AI Receptionist: 24/7 Answering & Booking | Frontdesk AI",
+  "site_desc": "Frontdesk's AI receptionist answers every call 24/7, qualifies leads, books appointments, and syncs your CRM across voice, text and chat. Start free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Synthflow",
+  "url": "https://synthflow.ai",
+  "note": "Build AI voice agents that handle phone calls for businesses",
+  "final": "https://synthflow.ai/",
+  "site_title": "AI Voice Agent Platform to Automate Your Phone Calls | Synthflow",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Bland AI",
+  "url": "https://www.bland.ai",
+  "note": "AI phone agents that make and answer calls for businesses",
+  "final": "https://www.bland.ai/",
+  "site_title": "Bland | Enterprise Voice AI Platform for Phone Agents",
+  "site_desc": "Build, deploy, and monitor AI voice agents that sound human. Self-hosted models, sub-second latency, and enterprise compliance.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Retell AI",
+  "url": "https://www.retellai.com",
+  "note": "Build AI voice agents for answering and making phone calls",
+  "final": "https://www.retellai.com/",
+  "site_title": "AI Voice Agents Platform to Automate Phone Calls | Retell AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Vapi",
+  "url": "https://vapi.ai",
+  "note": "Platform for building AI voice agents for phone calls",
+  "final": "https://vapi.ai/",
+  "site_title": "Vapi - Build Advanced Voice AI Agents",
+  "site_desc": "Build, test, and deploy advanced voice AI agents in minutes with Vapi. The platform for developers creating conversational voice AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Dialzara",
+  "url": "https://dialzara.com",
+  "note": "AI receptionist that answers calls and takes messages for small businesses",
+  "final": "https://dialzara.com/",
+  "site_title": "Best AI Receptionist Service - 24/7 Phone Support from $29 | Dialzara",
+  "site_desc": "Professional AI receptionist for small business that handles calls 24/7. Integrates with your business tools, books appointments, and qualifies leads. Get started for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Slang AI",
+  "url": "https://www.slang.ai",
+  "note": "AI phone assistant that answers calls and books tables for restaurants",
+  "final": "https://www.slang.ai/",
+  "site_title": "Slang AI | The AI Superhost for Restaurants",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Numa",
+  "url": "https://www.numa.com",
+  "note": "AI phone and text assistant for car dealerships",
+  "final": "https://numa.com/",
+  "site_title": "Numa | AI Operating System for Car Dealerships",
+  "site_desc": "Numa is the AI Operating System for Car Dealerships. 1,300+ rooftops run on Numa to answer every call, book appointments, and protect CSI in real time.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Upfirst",
+  "url": "https://upfirst.ai",
+  "note": "AI receptionist that answers calls for small businesses",
+  "final": "https://upfirst.ai/",
+  "site_title": "AI Answering Service & Virtual Receptionist | Upfirst",
+  "site_desc": "Never miss another call with the affordable AI answering service designed for small businesses.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sameday AI",
+  "url": "https://sameday.ai",
+  "note": "AI phone agent that answers calls and books jobs for home service businesses",
+  "final": "https://sameday.ai/",
+  "site_title": "Sameday - AI phone answering system for home services",
+  "site_desc": "Transform customer calls with our AI answering service. Maximize ROI, streamline operations, and schedule appointments with our superior AI phone agent.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Quo (formerly OpenPhone)",
+  "url": "https://www.quo.com",
+  "note": "Business phone system with AI call summaries and an AI agent",
+  "final": "https://www.quo.com/",
+  "site_title": "Quo - Shared Phone System for Small Businesses (formerly OpenPhone)",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Dialpad",
+  "url": "https://www.dialpad.com",
+  "note": "AI-powered business phone, messaging and contact center",
+  "final": "https://www.dialpad.com/",
+  "site_title": "Agentic AI-powered Contact Center & Communications | Dialpad",
+  "site_desc": "Dialpad's AI-native contact center and communications platform connects human agents with AI voice and digital agents for great CX at scale.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Aircall",
+  "url": "https://aircall.io",
+  "note": "Cloud business phone system with AI call insights",
+  "final": "https://aircall.io/",
+  "site_title": "AI-Powered Customer Communications Platform for SMBs & Enterprise | Aircall",
+  "site_desc": "AI-powered customer communications platform to unify channels, automate tasks, & provide insights. Integrate with CRM & helpdesk. 250+ integrations like Hubspot, Salesforce.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "RingCentral AI Receptionist",
+  "url": "https://www.ringcentral.com/ai-receptionist.html",
+  "note": "AI receptionist that answers and routes business calls",
+  "final": "https://www.ringcentral.com/ai-receptionist.html",
+  "site_title": "AI Receptionist: 24/7 Intelligent Virtual Answering Service",
+  "site_desc": "Transform your business with RingCentral's AI Receptionist: 24/7 call handling, intelligent routing, and natural conversations without a phone tree.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Podium",
+  "url": "https://www.podium.com",
+  "note": "AI employee for local businesses to answer leads, texts and reviews",
+  "final": "https://www.podium.com/",
+  "site_title": "Podium: AI Lead Generation & Lead Management Platform",
+  "site_desc": "AI-powered lead generation and management platform that helps you convert more leads and make more money.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Birdeye",
+  "url": "https://birdeye.com",
+  "note": "Reviews, listings and messaging platform with AI for local businesses",
+  "final": "https://birdeye.com/",
+  "site_title": "AI Coworkers for Multi-location Brands | Birdeye",
+  "site_desc": "Birdeye builds AI coworkers for multi-location brands. Jay, Myna and Robin win AI visibility, convert demand and keep experience consistent at every location.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Yext",
+  "url": "https://www.yext.com",
+  "note": "Manages business listings, reviews and search presence with AI",
+  "final": "https://www.yext.com/",
+  "site_title": "Yext | Enterprise Agentic Marketing Platform | Yext",
+  "site_desc": "Yext is the enterprise agentic marketing platform — intelligence, verified data, and distribution to win every discovery moment across AI and search.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "BrightLocal",
+  "url": "https://www.brightlocal.com",
+  "note": "Local SEO tools for listings, rankings and reviews",
+  "final": "https://www.brightlocal.com/",
+  "site_title": "BrightLocal - Local SEO Platform, Citations, Services, and APIs",
+  "site_desc": "Local marketing made simple. Join 15,000+ agencies and businesses using BrightLocal to rank higher, beat competitors, and grow revenue. Try for FREE.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Reputation",
+  "url": "https://reputation.com",
+  "note": "Online review and reputation management for businesses",
+  "final": "https://reputation.com/",
+  "site_title": "Reputation: The #1 AI-Powered Reputation Management Software",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Grade.us",
+  "url": "https://www.grade.us",
+  "note": "Review request and reputation management tool",
+  "final": "https://www.grade.us/home/",
+  "site_title": "Grade.us - the review management platform for marketing agencies",
+  "site_desc": "A review management approach that focuses on automation that saves time – and customization that lets you market and leverage our platform as an added service and value to your clients.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "NiceJob",
+  "url": "https://get.nicejob.com",
+  "note": "Gets more reviews and referrals for local service businesses",
+  "final": "https://get.nicejob.com/",
+  "site_title": "NiceJob: The #1 AI-Powered Reputation Marketing Software",
+  "site_desc": "NiceJob",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Trustpilot",
+  "url": "https://business.trustpilot.com",
+  "note": "Collect and respond to customer reviews with AI tools",
+  "final": "https://business.trustpilot.com/",
+  "site_title": "Build Trust & AI Visibility | Trustpilot Business",
+  "site_desc": "Build trust and get recommended by AI. Increase your brand’s AI visibility, earn customer trust, and accelerate business growth. Book a demo today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Yotpo",
+  "url": "https://www.yotpo.com",
+  "note": "Product reviews and loyalty programs for online stores",
+  "final": "https://www.yotpo.com/",
+  "site_title": "Yotpo: Loyalty, Reviews & AI Visibility For Ecommerce",
+  "site_desc": "Drive eCommerce growth with Yotpo. Build loyalty programs, collect reviews, and boost AI visibility to get found, earn trust, and turn shoppers into advocates.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Judge.me",
+  "url": "https://judge.me",
+  "note": "Product reviews app for Shopify and online stores",
+  "final": "https://judge.me/",
+  "site_title": "Judge.me | #1 Product Reviews App for Shopify",
+  "site_desc": "Judge.me helps you collect, showcase, and share product and store reviews with high-converting widgets and integrations. Build trust and boost sales.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Okendo",
+  "url": "https://www.okendo.io",
+  "note": "Customer reviews, quizzes and loyalty for e-commerce brands",
+  "final": "https://okendo.io/",
+  "site_title": "Okendo - Customer Marketing Platform",
+  "site_desc": "Unlock growth opportunities and increase customer loyalty with our comprehensive customer marketing platform. Showcase social proof, scale word-of-mouth, and drive conversions with Okendo.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Loox",
+  "url": "https://loox.app",
+  "note": "Photo and video product reviews for Shopify stores",
+  "final": "https://loox.app/",
+  "site_title": "Loox - Visual Reviews",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Senja",
+  "url": "https://senja.io",
+  "note": "Collect and share testimonials on your website",
+  "final": "https://senja.io/",
+  "site_title": "Senja - Collect, Manage and Share Testimonials",
+  "site_desc": "The easiest way to collect testimonials and add them to your website. Get started for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Testimonial.to",
+  "url": "https://testimonial.to",
+  "note": "Collect video and text testimonials from customers",
+  "final": "https://testimonial.to/",
+  "site_title": "Testimonial — Capture, measure & showcase customer love",
+  "site_desc": "The all-in-one platform to capture, measure, and showcase customer love — testimonials, case studies, NPS, and brand monitoring in one place.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Localo",
+  "url": "https://localo.com",
+  "note": "AI assistant for improving a Google Business Profile and local SEO",
+  "final": "https://localo.com/",
+  "site_title": "Localo: Local SEO Tools for Faster Local Search Optimization",
+  "site_desc": "Localo helps agencies, freelancers, and business owners automate building local businesses",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Merchynt",
+  "url": "https://www.merchynt.com",
+  "note": "AI tool that optimizes Google Business Profiles for local businesses",
+  "final": "https://www.merchynt.com/",
+  "site_title": "Google Business Profile Management & AI Local SEO Software",
+  "site_desc": "Automated Google Business Profile management and local SEO software. Rank higher on Google Maps and AI search — trusted by 13,000+ local businesses.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Semrush",
+  "url": "https://www.semrush.com",
+  "note": "SEO, keyword research and online marketing toolkit with AI features",
+  "final": "https://www.semrush.com/",
+  "site_title": "Semrush: Your Unfair Advantage for Growing Brand Visibility",
+  "site_desc": "Semrush is the leading platform to grow and measure brand visibility across AI search, SEO, PPC, social, and more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Ahrefs",
+  "url": "https://ahrefs.com",
+  "note": "SEO toolset for keywords, backlinks and site audits with AI tools",
+  "final": "https://ahrefs.com/",
+  "site_title": "Ahrefs—AI Marketing Platform Powered by Big Data",
+  "site_desc": "We help marketers drive visibility across AI search, SEO, content, and social – with the largest AI and search databases online.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Moz",
+  "url": "https://moz.com",
+  "note": "SEO software for keyword research, rankings and links",
+  "final": "https://moz.com/",
+  "site_title": "Moz - SEO Software for Smarter Marketing",
+  "site_desc": "Backed by the largest community of SEOs on the planet, Moz builds the tools that make SEO, content marketing, market research, digital PR, and local SEO easy. Start your free trial today!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SE Ranking",
+  "url": "https://seranking.com",
+  "note": "SEO platform for rank tracking, audits and AI search visibility",
+  "final": "https://seranking.com/",
+  "site_title": "SE Ranking — AI SEO Software That Gets Results",
+  "site_desc": "SE Ranking is a trusted AI SEO tool that pays for itself. Get accurate data, actionable insights, and automated reports. Powerful tools, simple execution.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Surfer",
+  "url": "https://surferseo.com",
+  "note": "Content optimization tool that helps pages rank in search",
+  "final": "https://surferseo.com/",
+  "site_title": "Positive Surfer - AI Visibility Platform for maximum organic growth",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Clearscope",
+  "url": "https://www.clearscope.io",
+  "note": "Content optimization for SEO and AI search",
+  "final": "https://www.clearscope.io/",
+  "site_title": "Clearscope | Get Discovered on Google & AI Search",
+  "site_desc": "Clearscope is the discoverability platform for a new era in search. Improve and monitor your discoverability in Google, ChatGPT & beyond.  Own your topical authority in your space and break through the blank page with be",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Frase",
+  "url": "https://www.frase.io",
+  "note": "SEO content research and optimization with AI",
+  "final": "https://www.frase.io/",
+  "site_title": "Frase — SEO & GEO Content Platform for AI Search",
+  "site_desc": "The content operating system for AI search. Frase writes and optimizes content that ranks on Google and gets cited by AI — SEO, GEO, and AEO in one loop.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "MarketMuse",
+  "url": "https://www.marketmuse.com",
+  "note": "AI content planning and SEO strategy tool",
+  "final": "https://www.marketmuse.com/",
+  "site_title": "AI Content Planning and Optimization Software - MarketMuse",
+  "site_desc": "Our AI-powered software tells you what content to write (and how much) to leverage your experience and rank higher where competitors are weak.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Ubersuggest",
+  "url": "https://neilpatel.com/ubersuggest/",
+  "note": "Simple keyword research and SEO tool for small businesses",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://neilpatel.com/ubersuggest/"
+ },
+ {
+  "title": "Mangools",
+  "url": "https://mangools.com",
+  "note": "Beginner-friendly SEO tools including KWFinder",
+  "final": "https://mangools.com/",
+  "site_title": "Affordable & Easy-to-Use SEO Tools | Mangools",
+  "site_desc": "Discover easy-to-rank keywords, track your rankings, uncover competitor gaps, find backlink opportunities, and boost SEO with a simple, powerful suite.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Alli AI",
+  "url": "https://www.alliai.com",
+  "note": "Automates on-page SEO changes across a website",
+  "final": "https://www.alliai.com/",
+  "site_title": "Alli AI – AI Search Visibility Platform & AEO/GEO/SEO Automation",
+  "site_desc": "Alli AI titles, schema, internal links, and machine readable structure 50+ Al crawlers and agents need, then deploys it across your whole portfolio without waiting on engineering.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SEO.ai",
+  "url": "https://seo.ai",
+  "note": "AI SEO assistant for writing and optimizing content",
+  "final": "https://seo.ai/",
+  "site_title": "AI SEO - done for you by an AI agent",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "NeuronWriter",
+  "url": "https://neuronwriter.com",
+  "note": "Content editor that helps optimize articles for search",
+  "final": "https://neuronwriter.com/",
+  "site_title": "NEURONwriter – AI Visibility, Rank on Google",
+  "site_desc": "Notice how Google & AI see your content, optimize it with NEURONwriter, and monitor your AI visibility over time. Trusted by 350,000+ users.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "RankIQ",
+  "url": "https://www.rankiq.com",
+  "note": "SEO tool for bloggers to find low-competition keywords",
+  "final": "https://www.rankiq.com/",
+  "site_title": "RankIQ - The SEO Toolset Tailored for Bloggers",
+  "site_desc": "Make post outlines in minutes, create content in half the time and get access to the lowest competition keywords in your niche.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Otterly.AI",
+  "url": "https://otterly.ai",
+  "note": "Tracks how your brand appears in ChatGPT and AI search answers",
+  "final": "https://otterly.ai/",
+  "site_title": "AI Search Monitoring Tool: Track ChatGPT, Perplexity & Google AIO",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Profound",
+  "url": "https://www.tryprofound.com",
+  "note": "Monitors brand visibility across AI answer engines",
+  "final": "https://www.tryprofound.com/",
+  "site_title": "Profound | The AI Platform to Power Your Marketing",
+  "site_desc": "Profound is the AI marketing platform built for the agentic era. See what your customers ask AI, deploy agents to act on it, and measure the results in a collaborative workbench",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Peec AI",
+  "url": "https://peec.ai",
+  "note": "Tracks brand mentions and rankings in AI search tools",
+  "final": "https://peec.ai/",
+  "site_title": "Peec AI - AI Search Analytics for Marketing Teams",
+  "site_desc": "Peec AI helps marketing teams analyze brand performance across ChatGPT, Perplexity, and Gemini. Track visibility, benchmark competitors, and optimize AI search presence.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Rank Math",
+  "url": "https://rankmath.com",
+  "note": "WordPress SEO plugin with AI content assistant",
+  "final": "https://rankmath.com/",
+  "site_title": "Rank Math - Best Free WordPress SEO Tools in 2026",
+  "site_desc": "Rank Math is a powerful WordPress SEO plugin that helps optimize your site, improve rankings, and drive more organic traffic. Get started for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Yoast SEO",
+  "url": "https://yoast.com",
+  "note": "WordPress SEO plugin with AI title and description suggestions",
+  "final": "https://yoast.com/",
+  "site_title": "SEO for everyone • Yoast",
+  "site_desc": "Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Google Business Profile",
+  "url": "https://business.google.com/us/business-profile/",
+  "note": "Free business listing on Google Search and Maps",
+  "final": "https://business.google.com/us/business-profile/",
+  "site_title": "Get Listed on Google - Google Business Profile",
+  "site_desc": "List your business on Google with a free Business Profile. Turn people who find you on Search & Maps into new customers.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Google Ads",
+  "url": "https://business.google.com/us/google-ads/",
+  "note": "Google's ad platform with AI-driven campaign tools",
+  "final": "https://business.google.com/us/google-ads/",
+  "site_title": "Reach Customers Across YouTube & Search - Google Ads",
+  "site_desc": "Grow your business by running Google Ads. Start your first campaign, get quality leads, and reach new customers on Google and YouTube.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Microsoft Advertising",
+  "url": "https://ads.microsoft.com",
+  "note": "Bing and Microsoft ads with Copilot campaign tools",
+  "final": "https://ads.microsoft.com/",
+  "site_title": "Start using search ads, display ads, online video and more | Microsoft Advertising",
+  "site_desc": "Reach customers searching on Microsoft, across the web, and on mobile devices with AI-powered advertising solutions.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "AdCreative.ai",
+  "url": "https://www.adcreative.ai",
+  "note": "Generates ad creatives and banners with AI",
+  "final": "https://www.adcreative.ai/",
+  "site_title": "AI Ad Creative Generator for High-Converting Ads | AdCreative.ai",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Madgicx",
+  "url": "https://madgicx.com",
+  "note": "AI tools to manage and optimize Meta ads",
+  "final": "https://madgicx.com/",
+  "site_title": "Madgicx | Agentic Meta Ads Management AI Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Birch",
+  "url": "https://bir.ch",
+  "note": "Automates Facebook, Google and TikTok ad management",
+  "final": "https://bir.ch/",
+  "site_title": "Birch (formerly Revealbot): AI-Assisted Ad Automation Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Pencil",
+  "url": "https://www.trypencil.com",
+  "note": "Generates and tests ad creatives with AI",
+  "final": "https://trypencil.com/",
+  "site_title": "Pencil — The AI Operating System for Marketing",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Smartly",
+  "url": "https://www.smartly.io",
+  "note": "AI-powered ad creation and campaign automation for brands",
+  "final": "https://www.smartly.io/",
+  "site_title": "Smartly | AI Advertising Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Albert",
+  "url": "https://albert.ai",
+  "note": "Autonomous AI that runs digital ad campaigns",
+  "final": "https://albert.ai/",
+  "site_title": "Artificial Intelligence Marketing - Albert",
+  "site_desc": "Artificial Intelligence Marketing Platform",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Optmyzr",
+  "url": "https://www.optmyzr.com",
+  "note": "PPC management and optimization tools for Google and Microsoft ads",
+  "final": "https://www.optmyzr.com/",
+  "site_title": "Optmyzr | PPC Management Software",
+  "site_desc": "Optmyzr helps advertisers speed up campaign optimization and see maximum value from their spend on Google Ads, Microsoft Ads, Amazon Ads, Meta Ads, LinkedIn Ads, and TikTok Ads.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Marpipe",
+  "url": "https://www.marpipe.com",
+  "note": "Creates and tests ad creative variations at scale",
+  "final": "https://www.marpipe.com/",
+  "site_title": "Marpipe | Control Your Catalog Ads",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Pipiads",
+  "url": "https://www.pipiads.com",
+  "note": "TikTok and Facebook ad library for researching competitor ads",
+  "final": "https://www.pipiads.com/",
+  "site_title": "Pipiads - #1 TikTok Adspy & Facebook Ad Spy & Ad Library Tool",
+  "site_desc": "Pipiads is the largest TikTok & Facebook(Meta) ad library, and the most powerful tiktok ad spy, facebook adspy, tiktok shop analytic tool. We provide most ad creatives, ad examples, winning dropshipping products, tiktok ",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Buffer",
+  "url": "https://buffer.com",
+  "note": "Schedule social posts with an AI assistant for ideas and rewrites",
+  "final": "https://buffer.com/",
+  "site_title": "Buffer: Social media management for everyone",
+  "site_desc": "Use Buffer to manage your social media so that you can create and share your content everywhere, consistently. Try our forever free plan or upgrade for more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hootsuite",
+  "url": "https://www.hootsuite.com",
+  "note": "Social media management with OwlyWriter AI for posts",
+  "final": "https://www.hootsuite.com/",
+  "site_title": "Social Media Marketing and Management Tool | Hootsuite",
+  "site_desc": "Hootsuite is a social media management tool that brings scheduling, content creation, analytics, and social listening to one place.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sprout Social",
+  "url": "https://sproutsocial.com",
+  "note": "Social media management, listening and analytics with AI",
+  "final": "https://sproutsocial.com/",
+  "site_title": "Sprout Social: Social Media Management Tool",
+  "site_desc": "Maximize your social ROI with Sprout Social, trusted by 30k+ brands. Power everything from publishing and engagement to analytics and influencer marketing. Try 30 days free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Later",
+  "url": "https://later.com",
+  "note": "Social media scheduler with AI captions for Instagram and TikTok",
+  "final": "https://later.com/",
+  "site_title": "Later: Influencer Marketing and Social Media Management",
+  "site_desc": "Influencer marketing built for creators and trusted by brands. Run campaigns, manage social media, and track performance with AI-powered insights.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Planable",
+  "url": "https://planable.io",
+  "note": "Social media planning and approval with AI writing help",
+  "final": "https://planable.io/",
+  "site_title": "Planable: collaboration-first social media management tool",
+  "site_desc": "Social media management to plan, approve, and schedule content, with analytics and social inbox in one place. Trusted by 7,000+ teams.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SocialBee",
+  "url": "https://socialbee.com",
+  "note": "Social media scheduler with an AI post generator",
+  "final": "https://socialbee.com/",
+  "site_title": "SocialBee | AI-Powered Social Media Management Tool",
+  "site_desc": "Manage, schedule, and grow your social media with SocialBee. All-in-one social media management software with AI tools, analytics, and a 14-day free trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Publer",
+  "url": "https://publer.com",
+  "note": "Schedule and manage social posts with AI assistance",
+  "final": "https://publer.com/",
+  "site_title": "Powerful Social Media Management & Scheduling Tools | Publer",
+  "site_desc": "Boost your social media strategy with Publer’s suite of tools. Manage multiple accounts, schedule posts, collaborate with your team, and analyze performance—all in one place.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Vista Social",
+  "url": "https://vistasocial.com",
+  "note": "Social media management with AI content and review tools",
+  "final": "https://vistasocial.com/",
+  "site_title": "Vista Social | AI-powered command center for social media",
+  "site_desc": "Expertly crafted social media management tools to help you exceed your goals",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Metricool",
+  "url": "https://metricool.com",
+  "note": "Social media scheduling and analytics with AI help",
+  "final": "https://metricool.com/",
+  "site_title": "METRICOOL ▷ Social Media Management Tool",
+  "site_desc": "Save time scheduling, analyzing, and managing your social media and ad content. Create your FREE account and grow your business presence.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sendible",
+  "url": "https://www.sendible.com",
+  "note": "Social media management for agencies with AI tools",
+  "final": "https://www.sendible.com/",
+  "site_title": "Sendible: Social Media Management Tool with Unlimited Users",
+  "site_desc": "We don",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Agorapulse",
+  "url": "https://www.agorapulse.com",
+  "note": "Social media management and inbox with AI features",
+  "final": "https://www.agorapulse.com/",
+  "site_title": "Social Media Management Software | Agorapulse",
+  "site_desc": "An easy to use Social Media Management Software that allows you to stay organized, save time, and easily manage your inbox, publishing, reporting, monitoring, and team collaboration tools.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Loomly",
+  "url": "https://www.loomly.com",
+  "note": "Social media calendar and post ideas for brands",
+  "final": "https://www.loomly.com/",
+  "site_title": "Social Media Management Platform | Loomly",
+  "site_desc": "Loomly is a social media management platform that empowers marketing teams to grow successful brands online through collaboration, publishing, & analytics.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Predis.ai",
+  "url": "https://predis.ai",
+  "note": "Generates social media posts, carousels and videos with AI",
+  "final": "https://predis.ai/",
+  "site_title": "Free AI Ad Generator - Create High-Converting Ads & Videos in Seconds",
+  "site_desc": "Create AI ads, video ads with our free AI ad generator. Use AI and turn text prompts into AI video ads.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Ocoya",
+  "url": "https://www.ocoya.com",
+  "note": "AI social media content creation and scheduling",
+  "final": "https://www.ocoya.com/",
+  "site_title": "Social media management. Using AI. | Ocoya",
+  "site_desc": "Your AI-powered hub for seamless social media scheduling and content creation. Elevate your digital presence with smart automation and creative tools.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "FeedHive",
+  "url": "https://www.feedhive.com",
+  "note": "AI social media scheduling and recycling tool",
+  "final": "https://www.feedhive.com/",
+  "site_title": "FeedHive | AI Social Media Management & Automation",
+  "site_desc": "Create, schedule, and automate social media posts with FeedHive. An AI social media management tool for founders and small teams, with AI agents and workflows.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Taplio",
+  "url": "https://taplio.com",
+  "note": "AI tool to write and schedule LinkedIn posts",
+  "final": "https://taplio.com/",
+  "site_title": "Taplio | AI tool to grow on LinkedIn in 10 min/day",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tweet Hunter",
+  "url": "https://tweethunter.io",
+  "note": "AI tool to write and schedule posts on X",
+  "final": "https://tweethunter.io/",
+  "site_title": "Tweet Hunter | Get More X Followers | Tweets, Threads, Scheduler, Analytics",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Postwise",
+  "url": "https://postwise.ai",
+  "note": "AI writing and scheduling for X and LinkedIn",
+  "final": "https://postwise.ai/",
+  "site_title": "Postwise | Turn Ideas Into Viral Posts in Seconds",
+  "site_desc": "Never face writer's block again. AI that transforms your thoughts into viral content for Twitter/X, LinkedIn, and Threads. Start your free trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ContentStudio",
+  "url": "https://contentstudio.io",
+  "note": "Social media content planning and publishing with AI",
+  "final": "https://contentstudio.io/",
+  "site_title": "ContentStudio: Unified Social Media Management Tool",
+  "site_desc": "AI social media manager that never sleeps. It knows your brand, creates and publishes on-brand content and learns what works. Review on run on autopilot.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Typefully",
+  "url": "https://typefully.com",
+  "note": "Write and schedule posts for X, LinkedIn and Threads",
+  "final": "https://typefully.com/",
+  "site_title": "Typefully: Best social media tool for creators & businesses",
+  "site_desc": "Create, schedule, and publish social media posts on X (Twitter), LinkedIn, Threads, Bluesky, and more. Grow faster with analytics, tools and automations.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tailwind",
+  "url": "https://www.tailwindapp.com",
+  "note": "Pinterest and Instagram marketing with AI post creation",
+  "final": "https://www.tailwindapp.com/",
+  "site_title": "Pinterest Growth Tool — Keyword Research, Pin Creator & Scheduler",
+  "site_desc": "Grow your Pinterest traffic with Tailwind. Find high-resonance keywords, auto-create Pins from your content, schedule at optimal times, and accelerate reach with Turbo. Free to start.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Lately",
+  "url": "https://www.lately.ai",
+  "note": "Turns long content into social posts with AI",
+  "final": "https://www.lately.ai/",
+  "site_title": "Home – Lately: Content Creation AI Assistant",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Simplified",
+  "url": "https://simplified.com",
+  "note": "AI marketing app for social posts, designs and scheduling",
+  "final": "https://simplified.com/",
+  "site_title": "Simplified | AI Agents for Marketing Workflows",
+  "site_desc": "AI agents for recurring marketing work. Start with Riley, your AI marketing agent, then add agents for launches, reports, and handoffs.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Holo",
+  "url": "https://tryholo.ai",
+  "note": "AI that creates on-brand social posts from your website",
+  "final": "https://tryholo.ai/",
+  "site_title": "",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Blaze",
+  "url": "https://www.blaze.ai",
+  "note": "AI marketing assistant that creates and schedules content for small businesses",
+  "final": "https://www.blaze.ai/",
+  "site_title": "Blaze | Marketing Done For You",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Planoly",
+  "url": "https://www.planoly.com",
+  "note": "Visual planner for Instagram, TikTok and Pinterest with AI captions",
+  "final": "https://www.planoly.com/",
+  "site_title": "Social Media Planner & Management Tool | Planoly",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Brand24",
+  "url": "https://brand24.com",
+  "note": "Monitors brand mentions online with AI sentiment analysis",
+  "final": "https://brand24.com/",
+  "site_title": "Brand24 - #1 AI Social Listening Tool",
+  "site_desc": "Get instant access to mentions & insights across social media, news, blogs, videos, forums, podcasts, reviews, and more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mention",
+  "url": "https://mention.com",
+  "note": "Media monitoring and social listening tool",
+  "final": "https://mention.com/en/",
+  "site_title": "Mention | Social listening & Media Monitoring tool",
+  "site_desc": "Get the all-in-one media monitoring software that lets you listen to your audience, publish outstanding posts and respond to your customers.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mailchimp",
+  "url": "https://mailchimp.com",
+  "note": "Email marketing with AI content and send-time tools",
+  "final": "https://mailchimp.com/",
+  "site_title": "Email & SMS Marketing Platform | Mailchimp",
+  "site_desc": "Utilize real-time user behavior data and artificial intelligence to convert more customers. Easy to use, get started for free!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Klaviyo",
+  "url": "https://www.klaviyo.com",
+  "note": "Email and SMS marketing for online stores with AI features",
+  "final": "https://www.klaviyo.com/",
+  "site_title": "Klaviyo: AI Email Marketing & SMS | B2C CRM",
+  "site_desc": "Klaviyo unifies AI-powered email marketing and SMS to drive growth, retention, and measurable results. Build personalized, omnichannel experiences across WhatsApp, ecommerce, and more with K:AI Agents.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Brevo",
+  "url": "https://www.brevo.com",
+  "note": "Email, SMS and CRM platform with AI tools for small businesses",
+  "final": "https://www.brevo.com/",
+  "site_title": "Brevo: Email & SMS Marketing, CRM & Automation Platform",
+  "site_desc": "Brevo is the most intuitive all-in-one customer engagement platform: email and SMS marketing, automation, CRM, live chat, and transactional email. Try it free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ActiveCampaign",
+  "url": "https://www.activecampaign.com",
+  "note": "Email marketing and automation with AI",
+  "final": "https://www.activecampaign.com/",
+  "site_title": "Marketing automation for any business | ActiveCampaign",
+  "site_desc": "Go beyond marketing automation with ActiveCampaign's autonomous marketing platform. Your team of AI agents handles email, SMS, WhatsApp and more for you, backed by billions of data points.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kit",
+  "url": "https://kit.com",
+  "note": "Email marketing for creators with landing pages and automations",
+  "final": "https://kit.com/",
+  "site_title": "Kit: The Platform for Creators - Email Marketing, Automation & Newsletters to Grow Your Business",
+  "site_desc": "Kit (formerly ConvertKit) is the creator-first email marketing and newsletter platform. Grow your audience, automate campaigns, and sell without burnout.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "MailerLite",
+  "url": "https://www.mailerlite.com",
+  "note": "Simple email marketing with AI writing help",
+  "final": "https://www.mailerlite.com/",
+  "site_title": "Create Email Marketing Your Audience Will Love - MailerLite",
+  "site_desc": "Digital marketing tools to grow your audience faster and drive revenue smarter. Backed by 24/7 award-winning support. Check it out now!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Constant Contact",
+  "url": "https://www.constantcontact.com",
+  "note": "Email marketing with AI content generator for small businesses",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.constantcontact.com/"
+ },
+ {
+  "title": "Omnisend",
+  "url": "https://www.omnisend.com",
+  "note": "Email and SMS marketing for e-commerce stores",
+  "final": "https://www.omnisend.com/",
+  "site_title": "",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "GetResponse",
+  "url": "https://www.getresponse.com",
+  "note": "Email marketing with AI email and course generators",
+  "final": "https://www.getresponse.com/",
+  "site_title": "Automation, Landing Pages and Email Marketing Platform",
+  "site_desc": "Unlock your revenue potential with GetResponse's marketing software. Automate sales, track revenue, and convert leads into loyal customers with ease.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "AWeber",
+  "url": "https://www.aweber.com",
+  "note": "Email marketing with AI writing assistant for small businesses",
+  "final": "https://www.aweber.com/",
+  "site_title": "AWeber | Email Marketing & More for Small Businesses",
+  "site_desc": "Looking for free email marketing software? Get started with AWeber for free today. Powerfully-simple email marketing.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Beehiiv",
+  "url": "https://www.beehiiv.com",
+  "note": "Newsletter platform with AI writing and growth tools",
+  "final": "https://www.beehiiv.com/",
+  "site_title": "Newsletter Platform: Create Newsletters and Websites - beehiiv",
+  "site_desc": "Create, grow, and monetize your newsletter with easy-to-use newsletter tools. Build email newsletters and websites without any coding.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Moosend",
+  "url": "https://moosend.com",
+  "note": "Email marketing and automation with AI features",
+  "final": "https://moosend.com/",
+  "site_title": "Email Marketing and Automation Platform | Moosend",
+  "site_desc": "Maximize your email marketing with Moosend. Reach your goals faster with A/B testing, powerful analytics, and intuitive campaign management.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Flodesk",
+  "url": "https://flodesk.com",
+  "note": "Email marketing with designed templates for small businesses",
+  "final": "https://flodesk.com/",
+  "site_title": "Email marketing that’s different by design",
+  "site_desc": "With uncompromising design and robust deliverability, Flodesk emails get seen 17% more than industry average.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Attentive",
+  "url": "https://www.attentive.com",
+  "note": "AI-powered SMS and email marketing for brands",
+  "final": "https://www.attentive.com/",
+  "site_title": "Attentive | AI-Powered SMS and Email Marketing Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Postscript",
+  "url": "https://postscript.io",
+  "note": "SMS marketing for Shopify stores with AI",
+  "final": "https://postscript.io/",
+  "site_title": "Postscript - AI retention marketing platform for SMS, RCS, Email and beyond",
+  "site_desc": "Engage with customers wherever they are. Postscript helps you build strong customer relationships across the entire buying experience. Start your free trial today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Drip",
+  "url": "https://www.drip.com",
+  "note": "Email marketing automation for e-commerce",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.drip.com/"
+ },
+ {
+  "title": "Sender",
+  "url": "https://www.sender.net",
+  "note": "Email and SMS marketing for small businesses",
+  "final": "https://www.sender.net/",
+  "site_title": "Sender – Email Marketing Platform for Growing Businesses",
+  "site_desc": "Email marketing, automation, transactional emails, 24/7 support — Sender is built for growing businesses. Free for 2,500 subscribers and 15,000 emails/month.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Lemlist",
+  "url": "https://www.lemlist.com",
+  "note": "Multichannel sales outreach with AI personalization",
+  "final": "https://www.lemlist.com/",
+  "site_title": "The only platform you need for outbound | lemlist",
+  "site_desc": "Know who to target and why now, find verified contacts, and engage across every channel from lemlist, your CRM, or your AI assistant.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Reply.io",
+  "url": "https://reply.io",
+  "note": "AI sales outreach and email sequences",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://reply.io/"
+ },
+ {
+  "title": "Gong",
+  "url": "https://www.gong.io",
+  "note": "Revenue AI that analyzes sales calls and deals",
+  "final": "https://www.gong.io/",
+  "site_title": "Gong - Revenue AI OS",
+  "site_desc": "Gong Revenue AI OS helps your entire GTM organization win. Drive growth with multimodal revenue signal processing, specialized AI agents, and purpose-built applications.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Outreach",
+  "url": "https://www.outreach.ai",
+  "note": "AI sales execution platform for sequences and deals",
+  "final": "https://www.outreach.ai/",
+  "site_title": "Agentic AI Platform for Revenue Teams | Outreach",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Salesloft",
+  "url": "https://www.salesloft.com",
+  "note": "Sales engagement platform with AI",
+  "final": "https://www.salesloft.com/",
+  "site_title": "The Leading Predictive Revenue System",
+  "site_desc": "Turn buyer signals into action with Salesloft's AI Predictive Revenue System. Learn how top revenue teams close deals faster and explore the platform.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "11x",
+  "url": "https://www.11x.ai",
+  "note": "AI sales workers that prospect and book meetings",
+  "final": "https://www.11x.ai/",
+  "site_title": "11x – AI Agents for Outbound, Inbound & Expansion",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Artisan",
+  "url": "https://www.artisan.co",
+  "note": "AI sales agent Ava that finds leads and sends outreach",
+  "final": "https://www.artisan.co/",
+  "site_title": "Boost Your Outbound Sales with an AI BDR from Artisan",
+  "site_desc": "Artisan automates your outbound with an all-in-one, AI-first platform powered by AI employees. Get better outbound sales results with an AI BDR.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Regie.ai",
+  "url": "https://www.regie.ai",
+  "note": "AI prospecting agents and sales content",
+  "final": "https://regie.ai/",
+  "site_title": "Regie.ai - The AI Sales Assistant for Sellers",
+  "site_desc": "AI agents that source, enrich, dial, and email from your own inbox, plus LinkedIn tasks. One workspace, $49/mo. Start free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Lavender",
+  "url": "https://www.lavender.ai",
+  "note": "AI email coach for writing better sales emails",
+  "final": "https://lavender.ai/",
+  "site_title": "Lavender - Your Magical AI Email Coach",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Salesforce Agentforce",
+  "url": "https://www.salesforce.com/agentforce/",
+  "note": "Salesforce's AI agents for sales, service and marketing",
+  "final": "https://www.salesforce.com/agentforce/?bc=OTH",
+  "site_title": "Agentforce: The AI Agent Platform | Salesforce",
+  "site_desc": "Build and customize autonomous AI agents to support your employees and customers 24/7, including full integration with the Salesforce ecosystem.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Pipedrive",
+  "url": "https://www.pipedrive.com",
+  "note": "Sales CRM with an AI sales assistant",
+  "final": "https://www.pipedrive.com/",
+  "site_title": "Sales CRM & Pipeline Management Software | Pipedrive",
+  "site_desc": "Pipedrive is the easy-to-use, #1 user-rated CRM tool. Get more qualified leads and grow your business with our sales CRM. Sign up for a 14-day free trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zoho CRM",
+  "url": "https://www.zoho.com/crm/",
+  "note": "CRM with Zia AI for small and growing businesses",
+  "final": "https://www.zoho.com/en-us/crm/",
+  "site_title": "Zoho CRM | Built-in AI Agents",
+  "site_desc": "Zoho CRM is the best CRM to grow with. Zoho CRM comes with built-in AI agents, advanced automation, powerful reporting capability, and integrates with more than 1,200 business apps.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Close",
+  "url": "https://www.close.com",
+  "note": "CRM for small sales teams with calling, email and AI",
+  "final": "https://close.com/",
+  "site_title": "Close CRM | The CRM That Does the Work",
+  "site_desc": "Close is the CRM with a built-in AI teammate that works with your team to call leads, qualify prospects, book meetings, and keep your CRM up to date automatically, so you can focus on selling.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Attio",
+  "url": "https://attio.com",
+  "note": "AI-native CRM that builds itself from your email and calendar",
+  "final": "https://attio.com/",
+  "site_title": "Attio: The CRM for agentic revenue",
+  "site_desc": "The system for revenue teams to build pipeline, accelerate deals, and grow accounts around the clock.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "folk",
+  "url": "https://www.folk.app",
+  "note": "Simple CRM with AI for relationships and outreach",
+  "final": "https://www.folk.app/",
+  "site_title": "The AI CRM for your entire sales motion",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Freshsales",
+  "url": "https://www.freshworks.com/crm/sales/",
+  "note": "Sales CRM with Freddy AI insights",
+  "final": "https://www.freshworks.com/crm/sales/",
+  "site_title": "Freshsales: Streamlined Sales CRM Solution | Freshworks",
+  "site_desc": "Freshsales is an AI-powered CRM to boost your sales efficiency. Effortlessly capture leads and close deals faster. Try for free!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Copper",
+  "url": "https://www.copper.com",
+  "note": "CRM built for Google Workspace users",
+  "final": "https://www.copper.com/",
+  "site_title": "CRM software company for service businesses | Copper CRM",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Capsule CRM",
+  "url": "https://capsulecrm.com",
+  "note": "Simple CRM with AI assistant for small businesses",
+  "final": "https://capsulecrm.com/",
+  "site_title": "CRM Made Simple | Capsule CRM",
+  "site_desc": "Simple yet powerful CRM. Join over 10,000 global businesses and discover an easier way to manage contacts, sales and grow lasting relationships.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Nutshell",
+  "url": "https://www.nutshell.com",
+  "note": "CRM and email marketing for small businesses",
+  "final": "https://www.nutshell.com/",
+  "site_title": "Powerful & Easy-to-Use CRM for Small Businesses | Nutshell",
+  "site_desc": "Nutshell provides an all-in-one growth software featuring CRM, email marketing, and contact management to help sales teams close more deals. Learn more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Keap",
+  "url": "https://keap.com",
+  "note": "CRM, sales and marketing automation for small businesses",
+  "final": "https://keap.com/",
+  "site_title": "Small Business CRM & Automation | Keap",
+  "site_desc": "Keap is the leading small business CRM and automation platform built exclusively to help small businesses save time and grow without the chaos.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "HighLevel",
+  "url": "https://www.gohighlevel.com",
+  "note": "All-in-one CRM, funnels and AI employee for agencies and local businesses",
+  "final": "https://www.gohighlevel.com/7232b6",
+  "site_title": "GoHighLevel - It's time to take your Agency to the Next Level",
+  "site_desc": "HighLevel is the all-in-one sales & marketing platform that agencies can white-label and resell to their clients!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Thryv",
+  "url": "https://www.thryv.com",
+  "note": "Small business software for CRM, marketing and reviews",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.thryv.com/"
+ },
+ {
+  "title": "Monday CRM",
+  "url": "https://monday.com/crm",
+  "note": "Customizable CRM with AI features",
+  "final": "https://monday.com/crm",
+  "site_title": "AI CRM Software | monday CRM - Revenue Execution Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Streak",
+  "url": "https://www.streak.com",
+  "note": "CRM that runs inside Gmail",
+  "final": "https://www.streak.com/",
+  "site_title": "Streak: Gmail CRM for High-Performing Teams",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Bigin by Zoho",
+  "url": "https://www.bigin.com",
+  "note": "Simple pipeline CRM for small businesses",
+  "final": "https://www.bigin.com/en-us/",
+  "site_title": "AI-Powered simple CRM for small businesses | Bigin by Zoho CRM",
+  "site_desc": "Manage leads, deals, emails, calls, and WhatsApp in one place, with meaningful AI built in. 50,000+ small businesses run on Bigin. Get started in minutes, for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jobber",
+  "url": "https://www.getjobber.com",
+  "note": "Software for home service businesses with an AI receptionist",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.getjobber.com/"
+ },
+ {
+  "title": "Housecall Pro",
+  "url": "https://www.housecallpro.com",
+  "note": "Field service software with AI for scheduling and invoicing",
+  "final": "https://www.housecallpro.com/",
+  "site_title": "Home Services Business Management Software - Housecall Pro",
+  "site_desc": "Housecall Pro is a top-rated software solution for home service businesses. Over 200,000 field service professionals trust Housecall Pro. Join them today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ServiceTitan",
+  "url": "https://www.servicetitan.com",
+  "note": "Software for trades businesses with AI tools",
+  "final": "https://www.servicetitan.com/",
+  "site_title": "ServiceTitan - Home and Commercial Software for the Trades",
+  "site_desc": "Our all-in-one software is built for home and commercial contractors to keep all their service visits and construction projects running smoothly.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Calendly",
+  "url": "https://calendly.com",
+  "note": "Online appointment scheduling for businesses",
+  "final": "https://calendly.com/",
+  "site_title": "Meeting Scheduling Software and AI Meeting Tools | Calendly",
+  "site_desc": "Calendly connects and simplifies all of the work around meetings, from scheduling, payments, and meeting prep to notetaking, contact management, and follow-up.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Vagaro",
+  "url": "https://www.vagaro.com",
+  "note": "Booking and business software for salons and spas",
+  "final": "https://www.vagaro.com/",
+  "site_title": "Book Your Next Salon, Spa, Or Fitness Appointment | Vagaro",
+  "site_desc": "Find your next salon, spa, or fitness professional. Read & post reviews. Schedule an online appointment 24/7 for haircuts, coloring, nail care, skin care, massage, makeup, personal trainers, yoga, Pilates and more!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fresha",
+  "url": "https://www.fresha.com",
+  "note": "Booking platform for salons, spas and wellness businesses",
+  "final": "https://www.fresha.com/",
+  "site_title": "Fresha - Instantly book salons and spas nearby",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mindbody",
+  "url": "https://www.mindbodyonline.com",
+  "note": "Booking and business software for fitness and wellness",
+  "final": "https://www.mindbodyonline.com/",
+  "site_title": "Best Fitness & Wellness Management Software | Mindbody",
+  "site_desc": "Fuel the growth of your business with Mindbody's all-in-one software-the only platform powered by 20+ years of experience in fitness, beauty, and wellness.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Boulevard",
+  "url": "https://www.joinblvd.com",
+  "note": "Booking and business software for salons and spas",
+  "final": "https://www.joinblvd.com/",
+  "site_title": "Boulevard | Booking and Scheduling Software for Salons, Spas, Medspas",
+  "site_desc": "See why Boulevard is the fastest-growing client experience platform. Boost bookings. Optimize your calendar. Automate marketing. Streamline payments. Maximize revenue.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Toast",
+  "url": "https://pos.toasttab.com",
+  "note": "Restaurant POS with AI tools for menus and marketing",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://pos.toasttab.com/"
+ },
+ {
+  "title": "Square",
+  "url": "https://squareup.com",
+  "note": "Payments and POS with AI tools for small businesses",
+  "final": "https://squareup.com/us/en",
+  "site_title": "",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Owner.com",
+  "url": "https://www.owner.com",
+  "note": "AI website, ordering and marketing for restaurants",
+  "final": "https://www.owner.com/",
+  "site_title": "Online Ordering and Restaurant Marketing System | Owner.com",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "BentoBox",
+  "url": "https://www.getbento.com",
+  "note": "Websites and online ordering for restaurants",
+  "final": "https://www.getbento.com/",
+  "site_title": "Restaurant Marketing & Commerce Platform | BentoBox",
+  "site_desc": "From website design to online ordering and reservations, BentoBox helps restaurants around the world create outstanding hospitality experiences for guests.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Popmenu",
+  "url": "https://get.popmenu.com",
+  "note": "Restaurant websites, ordering and AI phone answering",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://get.popmenu.com/"
+ },
+ {
+  "title": "QuickBooks",
+  "url": "https://quickbooks.intuit.com",
+  "note": "Accounting software with Intuit Assist AI for small businesses",
+  "status": "dead",
+  "code": "000",
+  "final": "https://quickbooks.intuit.com/"
+ },
+ {
+  "title": "Xero",
+  "url": "https://www.xero.com",
+  "note": "Online accounting software with AI help for small businesses",
+  "final": "https://www.xero.com/us/",
+  "site_title": "Accounting Software for Small Businesses | Xero US",
+  "site_desc": "Xero online accounting software for your business connects you to your bank, accountant, bookkeeper, and other business apps. Start a free trial today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "FreshBooks",
+  "url": "https://www.freshbooks.com",
+  "note": "Invoicing and accounting for small businesses",
+  "final": "https://www.freshbooks.com/",
+  "site_title": "Invoice and Accounting Software for Small Businesses - FreshBooks",
+  "site_desc": "The best cloud based small business accounting software. Send invoices, track time, manage receipts, expenses, and accept credit cards. Free 30-day trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Wave",
+  "url": "https://www.waveapps.com",
+  "note": "Free invoicing and accounting for small businesses",
+  "final": "https://www.waveapps.com/",
+  "site_title": "Wave: Small Business Software - Wave Financial",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zoho Books",
+  "url": "https://www.zoho.com/books/",
+  "note": "Online accounting software with AI for small businesses",
+  "final": "https://www.zoho.com/us/books/",
+  "site_title": "Powerful Accounting Software for Your Business | Zoho Books",
+  "site_desc": "Transform your accounting with Zoho Books, an online accounting software trusted by businesses & accountants worldwide. Invoicing | Payments | Banking | Tax | Reports | Inventory.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sage Accounting",
+  "url": "https://www.sage.com/en-us/accounting-software/",
+  "note": "Accounting software for small businesses with AI copilot",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.sage.com/en-us/accounting-software/"
+ },
+ {
+  "title": "Digits",
+  "url": "https://digits.com",
+  "note": "AI-powered accounting and bookkeeping for small businesses",
+  "final": "https://digits.com/",
+  "site_title": "Digits - AI-Native Accounting Software",
+  "site_desc": "Digits is AI-native accounting software with 24/7 automated bookkeeping, real-time financials, AI Bill Pay, and invoicing. Free trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Booke AI",
+  "url": "https://booke.ai",
+  "note": "AI bookkeeping automation that categorizes transactions",
+  "final": "https://booke.ai/",
+  "site_title": "AI Bookkeeper for QuickBooks & Xero | Booke AI",
+  "site_desc": "AI Bookkeeper by Booke AI works inside QuickBooks Online and Xero to review bank feeds, categorize transactions, match documents, prepare reconciliation.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Puzzle",
+  "url": "https://puzzle.io",
+  "note": "AI accounting software for startups",
+  "final": "https://puzzle.io/",
+  "site_title": "Puzzle: AI Accounting Software & Accounting Services",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zeni",
+  "url": "https://www.zeni.ai",
+  "note": "AI bookkeeping and finance team for startups",
+  "final": "https://www.zeni.ai/",
+  "site_title": "Zeni: #1 AI Bookkeeping & AI Accounting Software",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Docyt",
+  "url": "https://docyt.com",
+  "note": "AI-powered bookkeeping automation",
+  "final": "https://www.docyt.com/",
+  "site_title": "Docyt | AI-native ERP for Hotels, Restaurants, Retail and Franchises",
+  "site_desc": "Docyt is the AI-native ERP for hotels, restaurants, retail and franchises: payments, accounting and business intelligence in one system.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Truewind",
+  "url": "https://www.truewind.ai",
+  "note": "AI bookkeeping and finance for startups",
+  "final": "https://www.truewind.ai/",
+  "site_title": "Truewind Digital Accountant",
+  "site_desc": "Truewind AI agents convert source financial data into GL-ready entries, helping accounting teams close faster with stronger controls.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Dext",
+  "url": "https://dext.com",
+  "note": "Captures receipts and invoices and extracts data for bookkeeping",
+  "final": "https://dext.com/us",
+  "site_title": "Intelligent bookkeeping automation platform for small businesses and accounting & bookkeeping firms | Dext",
+  "site_desc": "Dext automates bookkeeping from invoice to payment, with AI at its core. Capture, process and pay in one platform, with 99%+ accuracy. Try free for 14 days.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Expensify",
+  "url": "https://www.expensify.com",
+  "note": "Expense reports and receipt scanning with AI",
+  "final": "https://www.expensify.com/",
+  "site_title": "Spend Management Software for Receipts & Expenses | Expensify",
+  "site_desc": "Expensify",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Ramp",
+  "url": "https://ramp.com",
+  "note": "Corporate cards and spend management with AI",
+  "final": "https://ramp.com/",
+  "site_title": "Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp",
+  "site_desc": "Make expense management easy with Ramp's spend management platform. Combine global corporate cards, travel, expenses and accounts payable to automate finance operations and improve efficiency.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Brex",
+  "url": "https://www.brex.com",
+  "note": "Corporate cards and spend management with AI",
+  "final": "https://www.brex.com/",
+  "site_title": "Brex: The Modern Finance Software Platform | Spend Smarter",
+  "site_desc": "Simplify expense management with Brex's finance platform. From company cards to banking, Brex helps you drive growth, automate processes, & earn more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Keeper",
+  "url": "https://www.keepertax.com",
+  "note": "Finds tax write-offs and files taxes for freelancers",
+  "final": "https://www.keepertax.com/",
+  "site_title": "Keeper - File Complex Taxes Confidently",
+  "site_desc": "Keeper combines cutting edge AI and a network of tax professionals to make your taxes effortless to complete.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Bonsai",
+  "url": "https://www.hellobonsai.com",
+  "note": "Contracts, invoices and client management for freelancers",
+  "final": "https://www.hellobonsai.com/",
+  "site_title": "Bonsai - Business management software",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "HoneyBook",
+  "url": "https://www.honeybook.com",
+  "note": "Client management, invoices and contracts with AI for small businesses",
+  "final": "https://www.honeybook.com/",
+  "site_title": "HoneyBook | AI-powered client relationship platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "LegalZoom",
+  "url": "https://www.legalzoom.com",
+  "note": "Business formation and legal documents online",
+  "final": "https://www.legalzoom.com/",
+  "site_title": "LegalZoom | Legal Solutions Trusted By Millions, Designed for You",
+  "site_desc": "LegalZoom has step-by-step tools and attorney guidance for your business and personal legal needs.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Rocket Lawyer",
+  "url": "https://www.rocketlawyer.com",
+  "note": "Online legal documents and attorney help for small businesses",
+  "final": "https://www.rocketlawyer.com/",
+  "site_title": "Rocket Lawyer: Free Legal Documents, Attorneys, Incorporations & Taxes | Rocket Lawyer",
+  "site_desc": "Rocket Lawyer makes the law affordable and simple. Create and sign legal documents online, get legal advice from attorneys, incorporate your business, and more!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Spellbook",
+  "url": "https://www.spellbook.com",
+  "note": "AI that drafts and reviews contracts in Word",
+  "final": "https://spellbook.com/",
+  "site_title": "AI Contract Review & Drafting | Spellbook",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Genie AI",
+  "url": "https://www.genieai.co",
+  "note": "AI legal assistant that drafts and reviews contracts",
+  "final": "https://www.genieai.co/",
+  "site_title": "GenieAI - AI Legal Assistant for Contracts & Documents",
+  "site_desc": "Draft, review, and negotiate legal documents with AI. Free legal templates, AI contract review, and legal research tools.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Docusign",
+  "url": "https://www.docusign.com",
+  "note": "Electronic signatures and AI contract management",
+  "final": "https://www.docusign.com/",
+  "site_title": "Docusign | #1 in Electronic Signature and Intelligent Agreement Management",
+  "site_desc": "Create, commit to, and manage your agreements all in one platform with Docusign IAM. Electronically sign for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "PandaDoc",
+  "url": "https://www.pandadoc.com",
+  "note": "Proposals, quotes and e-signatures with AI",
+  "status": "blocked",
+  "code": "429",
+  "final": "https://www.pandadoc.com/"
+ },
+ {
+  "title": "Termly",
+  "url": "https://termly.io",
+  "note": "Generates privacy policies, terms and cookie consent for websites",
+  "final": "https://termly.io/",
+  "site_title": "All-in-One Data Privacy Compliance Solution for Websites & Apps - Termly",
+  "site_desc": "Termly is your all-in-one compliance solution for data privacy laws worldwide. Privacy policy generator, cookie consent, terms, and more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Iubenda",
+  "url": "https://www.iubenda.com",
+  "note": "Privacy policy and cookie compliance generator for websites",
+  "final": "https://www.iubenda.com/en/",
+  "site_title": "Compliance Solutions for Websites, Apps and Organizations | iubenda",
+  "site_desc": "iubenda is your 360° compliance solution for global data privacy laws. Privacy policy generator, cookie consent management, ROPA, Terms and more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ZenBusiness",
+  "url": "https://www.zenbusiness.com",
+  "note": "Starts an LLC and helps run a small business",
+  "final": "https://www.zenbusiness.com/",
+  "site_title": "Build, Start and Grow Your Business with ZenBusiness",
+  "site_desc": "Confidently build and plan your business idea or start an LLC today for $0 plus state fees with personalized Velo® AI guidance and expert support.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tailor Brands",
+  "url": "https://www.tailorbrands.com",
+  "note": "AI logo, business formation and branding for new businesses",
+  "final": "https://www.tailorbrands.com/",
+  "site_title": "Set up, Manage & Grow Your Business with Tailor Brands",
+  "site_desc": "Get all the tools you need to build a successful business with Tailor Brands' guided business building platform.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Brandmark",
+  "url": "https://brandmark.io",
+  "note": "AI logo and brand identity generator",
+  "final": "https://brandmark.io/",
+  "site_title": "Brandmark Logo Maker - the most advanced AI logo design tool",
+  "site_desc": "Create a unique logo, business card and social media graphics in less than a minute. Build your brand identity with our generative AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Logo.com",
+  "url": "https://logo.com",
+  "note": "Free AI logo maker and brand kit",
+  "final": "https://logo.com/",
+  "site_title": "Free Logo Maker | Generate a Custom Logo Design | LOGO.com",
+  "site_desc": "LOGO.com is the #1 rated free logo maker. Use our logo generator to create unlimited logo designs, customize fonts, colors and icons, then download your logo free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Shopify Business Name Generator",
+  "url": "https://www.shopify.com/tools/business-name-generator",
+  "note": "Free tool that suggests business names and checks domains",
+  "final": "https://www.shopify.com/tools/business-name-generator",
+  "site_title": "Free Business Name Generator: No Sign-Up Required - Shopify",
+  "site_desc": "Generate business names with AI and instantly check domain name availability. Shopify’s AI business name generator will do the work of finding the perfect brand name for your business.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Atom",
+  "url": "https://www.atom.com",
+  "note": "Business name marketplace and naming contests (Atom)",
+  "final": "https://www.atom.com/",
+  "site_title": "Atom: The #1 Domain Marketplace - Names & Domains for Sale",
+  "site_desc": "Atom is your go-to marketplace for finding the perfect domain name. Explore a wide range of perfect names and purchase your dream domain instantly.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Namecheap Business Name Generator",
+  "url": "https://www.namecheap.com/domains/business-name-generator/",
+  "note": "Generates business name ideas and checks domain availability",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.namecheap.com/domains/business-name-generator/"
+ },
+ {
+  "title": "Fillout",
+  "url": "https://www.fillout.com",
+  "note": "Form builder with AI and integrations",
+  "final": "https://www.fillout.com/",
+  "site_title": "Fillout | Forms that do it all",
+  "site_desc": "Create powerful forms, surveys and quizzes your audience will answer. Store responses directly where you need them.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Paperform",
+  "url": "https://paperform.com",
+  "note": "Form builder for bookings, payments and quizzes",
+  "final": "https://paperform.com/",
+  "site_title": "Free Online Form Builder & Form Creator for SMBs in 2026 | Paperform",
+  "site_desc": "Create forms and surveys, take payments, automate workflows and send documents for signing, all from one easy, doc‑style form builder FOR FREE",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Formstack",
+  "url": "https://www.formstack.com",
+  "note": "Online forms and document automation",
+  "final": "https://www.formstack.com/",
+  "site_title": "Secure and Easy-to-use Forms, Docs & eSignatures | Formstack",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SurveyMonkey",
+  "url": "https://www.surveymonkey.com",
+  "note": "Online surveys with AI to build and analyze responses",
+  "final": "https://www.surveymonkey.com/",
+  "site_title": "SurveyMonkey: The World’s Most Popular Survey Platform",
+  "site_desc": "Easily create surveys and forms with AI and templates for employee and customer feedback, market research, event registrations and more. Get started free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Formaloo",
+  "url": "https://www.formaloo.com",
+  "note": "Forms and customer data with AI",
+  "final": "https://www.formaloo.com/",
+  "site_title": "Formaloo | Enterprise Operations Intelligence & Workflow Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Qualtrics",
+  "url": "https://www.qualtrics.com",
+  "note": "Survey and customer experience platform with AI",
+  "final": "https://www.qualtrics.com/",
+  "site_title": "Qualtrics XM AI: The Future of Experience Management - Qualtrics",
+  "site_desc": "Simulate customer and employee experiences before they happen, predict what comes next, and take intelligent action that drives better outcomes.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Microsoft Clarity",
+  "url": "https://clarity.microsoft.com",
+  "note": "Free heatmaps and session recordings with Copilot insights",
+  "final": "https://clarity.microsoft.com/",
+  "site_title": "Microsoft Clarity - Free Heatmaps & Session Recordings",
+  "site_desc": "Clarity is a free user behavior analytics tool that helps you understand how users are interacting with your website through session replays and heatmaps.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Elementor AI",
+  "url": "https://elementor.com/ai-page-builder/",
+  "note": "AI tools in Elementor for building WordPress sites",
+  "final": "https://elementor.com/ai-page-builder/",
+  "site_title": "AI tools for WordPress website creation | Elementor",
+  "site_desc": "Elementor’s AI website building features bring natively integrated AI tools to WordPress. Plan, design, generate content, and build professional websites faster than ever.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Divi AI",
+  "url": "https://www.elegantthemes.com/ai/",
+  "note": "AI tools in Divi for designing WordPress sites",
+  "final": "https://www.elegantthemes.com/ai/",
+  "site_title": "Divi AI - Powerful AI Tools For WordPress",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "WordPress.com AI Website Builder",
+  "url": "https://wordpress.com/ai-website-builder/",
+  "note": "Creates a WordPress.com website from a short description",
+  "final": "https://wordpress.com/ai-website-builder/",
+  "site_title": "AI Website Builder | Create a WordPress.com Site in Minutes",
+  "site_desc": "Prompt, customize, and launch a site in minutes with AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jetpack AI",
+  "url": "https://jetpack.com/ai/",
+  "note": "AI assistant inside WordPress for writing and editing site content",
+  "final": "https://jetpack.com/ai/",
+  "site_title": "Run your WordPress Site with Claude or ChatGPT | Jetpack AI",
+  "site_desc": "Ask Claude or ChatGPT for what you want changed on your WordPress site. One sentence can fix a typo, rewrite forty pages, or launch something new.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Teachable",
+  "url": "https://teachable.com",
+  "note": "Create and sell online courses with AI tools",
+  "final": "https://www.teachable.com/",
+  "site_title": "Teachable — Build & Sell Online Courses, Coaching, Memberships & More",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Thinkific",
+  "url": "https://www.thinkific.com",
+  "note": "Create and sell online courses and communities",
+  "final": "https://www.thinkific.com/",
+  "site_title": "Online Course Platform to Sell Courses and Communities | Thinkific",
+  "site_desc": "Build and sell online courses and communities with Thinkific, an all-in-one online course platform with a drag-and-drop builder, payments, and LMS tools.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Circle",
+  "url": "https://circle.so",
+  "note": "Community platform with courses and AI features",
+  "final": "https://circle.so/",
+  "site_title": "Circle | A new era for digital businesses",
+  "site_desc": "Build a home for your community, events, and courses — all under your own brand.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jungle Scout",
+  "url": "https://www.junglescout.com",
+  "note": "Amazon seller research and AI listing tools",
+  "final": "https://www.junglescout.com/",
+  "site_title": "Jungle Scout | Amazon Data for Brands, Retailers & Financial Services",
+  "site_desc": "Jungle Scout delivers unmatched Amazon intelligence—powering market trends, 1P/3P sales insights, and optimization for brands, retailers, and financial services.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Helium 10",
+  "url": "https://www.helium10.com",
+  "note": "Amazon and Walmart seller tools with AI listing builder",
+  "final": "https://www.helium10.com/",
+  "site_title": "Amazon, Walmart, and TikTok Shop Seller Tools | Helium 10",
+  "site_desc": "Helium 10 has the most comprehensive Amazon seller tools, Walmart seller tools, and TikTok Shop tools in the industry. Try our full software suite today!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Vendoo",
+  "url": "https://www.vendoo.co",
+  "note": "Lists items across resale marketplaces with AI",
+  "final": "https://www.vendoo.co/",
+  "site_title": "#1 Cross Listing Platform | Crosslist with Vendoo Today!",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mutiny",
+  "url": "https://www.mutinyhq.com",
+  "note": "Personalizes website content for B2B visitors with AI",
+  "final": "https://www.mutinyhq.com/",
+  "site_title": "Mutiny | The sales assistant built for customer-facing work",
+  "site_desc": "Be the one buyers remember. Join the frontier of how the best enterprise sales teams operate.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Qualified",
+  "url": "https://www.qualified.com",
+  "note": "AI SDR agent Piper that talks with website visitors",
+  "final": "https://www.qualified.com/",
+  "site_title": "Welcome to the era of agentic marketing",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Conversica",
+  "url": "https://www.conversica.com",
+  "note": "AI assistants that follow up with sales leads",
+  "final": "https://www.conversica.com/",
+  "site_title": "Conversica | The Conversation Company",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Olark",
+  "url": "https://www.olark.com",
+  "note": "Live chat for websites with AI chatbot",
+  "final": "https://www.olark.com/",
+  "site_title": "Olark — More than a chatbot. An AI agent that works your marketing funnel 24/7",
+  "site_desc": "Built for the marketer doing five jobs at once — Olark's AI agent answers questions, qualifies visitors, and knows exactly when to bring in a human. Trained on your own site in under a minute.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "HelpCrunch",
+  "url": "https://helpcrunch.com",
+  "note": "Live chat, helpdesk and AI chatbot for small businesses",
+  "final": "https://helpcrunch.com/",
+  "site_title": "Customer Communication Platform, Live Chat ＆ More | HelpCrunch",
+  "site_desc": "HelpCrunch offers live chat, chatbot, knowledge base, popups, and email marketing tools for building strong customer relationships.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Gist",
+  "url": "https://getgist.com",
+  "note": "Live chat, email and AI support for small businesses",
+  "final": "https://getgist.com/",
+  "site_title": "All-in-One Email Marketing Automation, Live Chat, & Help Desk Software",
+  "site_desc": "Gist is an all-in-one growth software that serves as a central source of truth through the entire customer journey. Get started for free!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kommunicate",
+  "url": "https://www.kommunicate.io",
+  "note": "AI chatbot and live chat for customer support",
+  "final": "https://www.kommunicate.io/",
+  "site_title": "AI-Powered Customer Service Automation Platform | Kommunicate",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Freshchat",
+  "url": "https://www.freshworks.com/live-chat-software/",
+  "note": "Messaging and AI chatbot for customer support",
+  "final": "https://www.freshworks.com/live-chat-software/",
+  "site_title": "Freshchat: Customer Messaging, Live Chat & Chatbots | Freshworks",
+  "site_desc": "Freshchat is an AI-powered omnichannel messaging platform. Experience live chat and chatbot solutions for smarter conversational support. Free trial!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hiver",
+  "url": "https://hiverhq.com",
+  "note": "Helpdesk inside Gmail with AI",
+  "final": "https://hiverhq.com/",
+  "site_title": "Hiver: Agentic Omnichannel Customer Service Platform",
+  "site_desc": "More than 10,000 teams use Hiver to tackle complex support across channels with AI, cross-team collaboration, ticketing, and workflows.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Missive",
+  "url": "https://missiveapp.com",
+  "note": "Shared team inbox and chat with AI",
+  "final": "https://missiveapp.com/",
+  "site_title": "Missive · Inbox collaboration for teams that run on email",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kayako",
+  "url": "https://kayako.com",
+  "note": "Customer service helpdesk with AI",
+  "final": "https://kayako.com/",
+  "site_title": "AI Help Desk and Customer Support Platform | Kayako",
+  "site_desc": "Automate 60% of support tickets with Kayako's AI-first customer support platform. Discover how companies save $500K yearly. Get your personalized demo today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Document360",
+  "url": "https://document360.com",
+  "note": "Knowledge base software with AI search and writing",
+  "final": "https://document360.com/",
+  "site_title": "Document360: AI Knowledge Base Software for Documentation",
+  "site_desc": "Start building intelligent documentation today with AI search, AI chatbot, and writing tools inside Document360, the knowledge base trusted by teams worldwide.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Helpjuice",
+  "url": "https://helpjuice.com",
+  "note": "Knowledge base software for customer support",
+  "final": "https://helpjuice.com/",
+  "site_title": "Knowledge Base Software – Helpjuice",
+  "site_desc": "Helpjuice: Knowledge Base Software trusted by 130,000+ users from Amazon, Hertz, Shipt. Streamline support, boost productivity. Start free 14-day trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Stonly",
+  "url": "https://stonly.com",
+  "note": "Interactive guides and AI answers for customer support",
+  "final": "https://stonly.com/",
+  "site_title": "Knowledge Management For Customer Service | Stonly",
+  "site_desc": "Create easy to follow explanations and guides. Improve customer success and reduce support cost",
+  "code": "200",
+  "status": "ok"
+ }
+]

@@ -1,0 +1,2702 @@
+[
+ {
+  "title": "Read AI",
+  "url": "https://www.read.ai",
+  "note": "Records meetings and sends summaries, action items and highlights",
+  "final": "https://www.read.ai/",
+  "site_title": "Meeting Summaries, Transcripts, AI Notetaker & Enterprise Search | read.ai",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Avoma",
+  "url": "https://www.avoma.com",
+  "note": "AI meeting assistant that records, transcribes and summarizes calls",
+  "final": "https://www.avoma.com/",
+  "site_title": "Avoma — AI Platform for Note-taking, Scheduling & Coaching",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sembly AI",
+  "url": "https://www.sembly.ai",
+  "note": "Transcribes and summarizes meetings across Zoom, Meet and Teams",
+  "final": "https://www.sembly.ai/",
+  "site_title": "Agentic AI for Professional Services | Sembly AI",
+  "site_desc": "Sembly — agentic AI platform for professional services. Build on-brand client documents and presentations from scratch. Try it free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "MeetGeek",
+  "url": "https://meetgeek.ai",
+  "note": "Automatically records, transcribes and summarizes video meetings",
+  "final": "https://meetgeek.ai/",
+  "site_title": "MeetGeek | AI Meeting Notetaker & Automation Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jamie",
+  "url": "https://www.meetjamie.ai",
+  "note": "Bot-free meeting notes for in-person and online meetings",
+  "final": "https://www.meetjamie.ai/",
+  "site_title": "Jamie - The Meeting Intelligence Platform You Can Trust",
+  "site_desc": "The meeting intelligence platform you can trust. Jamie turns every meeting into knowledge you can act on, with no bot on the call, data hosted in the EU, ISO 27001 and GDPR.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Bluedot",
+  "url": "https://www.bluedothq.com",
+  "note": "Records meetings without a bot and writes notes and emails",
+  "final": "https://www.bluedothq.com/",
+  "site_title": "Bluedot AI Note Taker | Bot-Free & Privacy-First",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Circleback",
+  "url": "https://circleback.ai",
+  "note": "Writes meeting notes and action items, and automates follow-ups",
+  "final": "https://circleback.ai/",
+  "site_title": "Circleback - AI Notetaker, Automations, and Company Brain",
+  "site_desc": "Turn every conversation into clear meeting notes, action items, and searchable company knowledge. Circleback records and transcribes virtual and in-person meetings in 100+ languages, with support for Zoom, Google Meet, M",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Notta",
+  "url": "https://www.notta.ai",
+  "note": "Transcribes meetings and audio files and creates summaries",
+  "final": "https://www.notta.ai/en/",
+  "site_title": "AI Note Taker | Free AI Meeting Transcription",
+  "site_desc": "Notta is an AI note taker that transcribes, summarizes, and generates action plans from your meetings, interviews, or recordings. Try it for free now!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tactiq",
+  "url": "https://tactiq.io",
+  "note": "Live transcripts and AI summaries for Google Meet, Zoom and Teams",
+  "final": "https://tactiq.io/",
+  "site_title": "Tactiq: AI Note Taker for Google Meet, Zoom & Teams",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fellow",
+  "url": "https://fellow.ai",
+  "note": "Meeting agendas, AI notes and action-item tracking for teams",
+  "final": "https://fellow.ai/",
+  "site_title": "Secure AI Meeting Assistant for Enterprise and Regulated Teams | Fellow",
+  "site_desc": "Fellow records, transcribes, and summarizes meetings for any team, with automatic action items and AI summaries. Enterprise security and compliance controls, and no AI training on your data.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Grain",
+  "url": "https://grain.com",
+  "note": "Records calls and turns them into notes, clips and CRM updates",
+  "final": "https://grain.com/",
+  "site_title": "Grain | The AI Notetaker Built for Growing Teams",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Gong",
+  "url": "https://www.gong.io",
+  "note": "Analyzes sales calls and emails to surface deal insights",
+  "final": "https://www.gong.io/",
+  "site_title": "Gong - Revenue AI OS",
+  "site_desc": "Gong Revenue AI OS helps your entire GTM organization win. Drive growth with multimodal revenue signal processing, specialized AI agents, and purpose-built applications.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Leexi",
+  "url": "https://www.leexi.ai",
+  "note": "AI notetaker that summarizes calls and fills in your CRM",
+  "final": "https://www.leexi.ai/en/",
+  "site_title": "More Than an AI Notetaker: The Secure Leexi AI Suite | Leexi - AI Notetaker",
+  "site_desc": "Leexi goes beyond AI notetaking: a secure AI suite to transcribe, summarize, and track your meetings. European hosting, GDPR and ISO 27001 compliant.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Laxis",
+  "url": "https://www.laxis.com",
+  "note": "AI note taker, voice keyboard and recording devices for meetings",
+  "final": "https://www.laxis.com/",
+  "site_title": "AI Note Taker, Voice Keyboard & AI Recording Devices | Laxis",
+  "site_desc": "Laxis combines an AI note taker, AI voice keyboard, and AI recording devices. Bot-free meeting notes in 100+ languages, trusted by 100,000+ professionals.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Rev",
+  "url": "https://www.rev.com",
+  "note": "Transcribes audio and video with AI or human transcribers",
+  "final": "https://www.rev.com/",
+  "site_title": "Investigative Intelligence & Legal Transcription Platform | Rev",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sonix",
+  "url": "https://sonix.ai",
+  "note": "Automatic transcription and translation of audio and video files",
+  "final": "https://sonix.ai/",
+  "site_title": "AI Transcription Software: 99% Accuracy in 54+ Languages | Sonix",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Trint",
+  "url": "https://trint.com",
+  "note": "Transcribes and edits audio and video content for teams",
+  "final": "https://trint.com/",
+  "site_title": "AI Transcription & Media Production Workflow | Trint",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Happy Scribe",
+  "url": "https://www.happyscribe.com",
+  "note": "Transcribes and subtitles audio and video in many languages",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.happyscribe.com/"
+ },
+ {
+  "title": "TurboScribe",
+  "url": "https://turboscribe.ai",
+  "note": "Transcribes long audio and video files into text quickly",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://turboscribe.ai/"
+ },
+ {
+  "title": "Transkriptor",
+  "url": "https://transkriptor.com",
+  "note": "Converts audio and meeting recordings into text and summaries",
+  "final": "https://transkriptor.com/",
+  "site_title": "Transcribe Audio to Text | Best AI Transcription Tool",
+  "site_desc": "Convert audio to text instantly with Transkriptor. AI-powered transcription for meetings, audio, and video in 100+ languages. Try it for free!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Speak AI",
+  "url": "https://speakai.co",
+  "note": "Transcribes and analyzes audio, video and text for insights",
+  "final": "https://speakai.co/",
+  "site_title": "Speak AI: Conversation Intelligence for Sales Acceleration",
+  "site_desc": "Transform every conversation into action: scored on your own methodology, turned into coaching, CRM updates, proposals, contracts. 300,000+ individuals and teams.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Plaud",
+  "url": "https://www.plaud.ai",
+  "note": "Wearable AI recorder that transcribes and summarizes conversations",
+  "final": "https://www.plaud.ai/",
+  "site_title": "Plaud.ai - The World's No.1 AI Note-taking Brand",
+  "site_desc": "The only AI note-taking platform that bridges in-person, phone calls, and online meetings into one workflow, trusted by 2.5 million+ users globally. Discover...",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Omi",
+  "url": "https://www.omi.me",
+  "note": "Wearable AI that captures conversations and makes notes",
+  "final": "https://www.omi.me/",
+  "site_title": "Omi AI - Wearable Notetaker Pendant That is Always Listening",
+  "site_desc": "Omi is a wearable AI pendant that captures your conversations, transcribes voice to notes, and automatically creates tasks and memories, so you never forget a thing.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Spinach",
+  "url": "https://www.spinach.ai",
+  "note": "AI meeting assistant that writes notes and updates project tools",
+  "final": "https://www.spinach.ai/",
+  "site_title": "Spinach AI",
+  "site_desc": "Spinach is an AI meeting assistant, which helps run your meeting, summarizes the conversation and automates post-meeting tasks. Spinach integrates with your existing tools and supports 100 languages.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Claap",
+  "url": "https://www.claap.io",
+  "note": "Records meetings and video messages with AI notes and CRM sync",
+  "final": "https://www.claap.io/",
+  "site_title": "Claap: turn sales conversations into AI-ready data",
+  "site_desc": "Record every sales conversation with or without a bot. Claap turns it into clean Meeting, Deal and Company data for your CRM and AI agents.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sybill",
+  "url": "https://www.sybill.ai",
+  "note": "Summarizes sales calls and drafts follow-up emails",
+  "final": "https://www.sybill.ai/",
+  "site_title": "Sybill: AI Sales Assistant for Revenue Teams",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Momentum",
+  "url": "https://www.momentum.io",
+  "note": "Captures customer call insights and pushes them to the CRM",
+  "final": "https://www.momentum.io/",
+  "site_title": "Momentum: AI Revenue Orchestration Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Attention",
+  "url": "https://www.attention.com",
+  "note": "AI assistant for sales calls that automates CRM updates",
+  "final": "https://attention.com/",
+  "site_title": "Attention | AI agents that learn from your best sales conversations",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jiminny",
+  "url": "https://jiminny.com",
+  "note": "Records and analyzes sales calls for coaching",
+  "final": "https://jiminny.com/",
+  "site_title": "Jiminny | Powerful Revenue & Sales Intelligence",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hedy AI",
+  "url": "https://www.hedy.ai",
+  "note": "Real-time meeting coach that suggests questions and summarizes",
+  "final": "https://www.hedy.ai/",
+  "site_title": "AI Meeting Assistant - Real-Time Coaching, No Bot | Hedy",
+  "site_desc": "AI meeting assistant that coaches you in real time, not after the meeting. No bot joins the call, and Hedy captures audio on your device.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Noota",
+  "url": "https://www.noota.io",
+  "note": "Records, transcribes and summarizes meetings and interviews",
+  "final": "https://www.noota.io/",
+  "site_title": "Boost Productivity and Hiring with AI Agents | Noota",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Shadow",
+  "url": "https://www.shadow.do",
+  "note": "Bot-free AI notetaker that drafts follow-up tasks",
+  "final": "https://www.shadow.do/",
+  "site_title": "Shadow: The AI Meeting Assistant Built for Your AI Agents",
+  "site_desc": "Shadow records every call on its own, without a bot, and keeps each meeting as Markdown you own, ready for Obsidian and your AI agents. Free to start.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Char (formerly Hyprnote)",
+  "url": "https://char.com",
+  "note": "Private AI notepad that transcribes meetings on your device",
+  "final": "https://char.com/",
+  "site_title": "Char — AI notepad that gets things done.",
+  "site_desc": "Char is an AI scratchpad that brings context from meetings, messages, calendars, files, and tools into one place, then helps turn it into action.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Meetily",
+  "url": "https://meetily.ai",
+  "note": "Open-source, local AI meeting notetaker and summarizer",
+  "final": "https://meetily.ai/",
+  "site_title": "Meetily (Meetly AI) - Privacy-First AI Meeting Assistant | Otter.ai & Granola Alternative",
+  "site_desc": "The most secure and privacy-focused AI meeting note taker. 100% local transcription. Pluggable AI summaries (local or BYOK). No meeting bots, works offline. GDPR & HIPAA compliant by design. Community Edition free, Pro f",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Votars",
+  "url": "https://votars.ai",
+  "note": "Multilingual AI meeting notes, transcription and translation",
+  "final": "https://votars.ai/en/",
+  "site_title": "Votars - Work smarter with AI",
+  "site_desc": "AI-Powered Multilingual Note-Taker & Meeting Assistant",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Scribbl",
+  "url": "https://scribbl.co",
+  "note": "Google Meet notetaker that writes AI summaries",
+  "final": "https://scribbl.co/",
+  "site_title": "Free AI Meeting Note Taker With No Bot · Scribbl",
+  "site_desc": "Free AI meeting note taker for Google Meet, Zoom and Teams, with no bot in the call. Notes go to ChatGPT and Claude so the work gets done. Rated 5.0 on Chrome.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Bubbles",
+  "url": "https://www.usebubbles.com",
+  "note": "Screen recording and AI meeting notes for async teams",
+  "final": "https://www.usebubbles.com/",
+  "site_title": "Bubbles - AI Meeting Note Taker & Screen Recorder",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Loom",
+  "url": "https://www.loom.com",
+  "note": "Record screen videos with AI titles, summaries and docs",
+  "final": "https://www.loom.com/",
+  "site_title": "Free screen recorder for Mac and PC | Loom",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Vidyard",
+  "url": "https://www.vidyard.com",
+  "note": "Video messaging for sales with AI scripts and avatars",
+  "final": "https://www.vidyard.com/",
+  "site_title": "Vidyard - Video Tools for Virtual Sales and Marketing Teams",
+  "site_desc": "Vidyard is an online video platform for business which allows you to increase leads, accelerate your pipeline and delight your customers. Learn more!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Audiopen",
+  "url": "https://audiopen.ai",
+  "note": "Turns rambling voice notes into clear written text",
+  "final": "https://www.audiopen.ai/",
+  "site_title": "AudioPen | Voice Notes to Polished Text, in Any Style",
+  "site_desc": "AudioPen turns messy voice notes into clearly written text, in any style you choose. Speech to text that rewrites what you say. Trusted by 200,000+ people.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Voicenotes",
+  "url": "https://voicenotes.com",
+  "note": "Records voice notes, transcribes them and answers questions",
+  "final": "https://voicenotes.com/",
+  "site_title": "Voicenotes - AI notetaker that works (magic) in the background",
+  "site_desc": "Voicenotes turns every meeting into perfect notes and instant answers, and works with every meeting app. You",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Letterly",
+  "url": "https://letterly.app",
+  "note": "Turns voice recordings into structured notes and text",
+  "final": "https://letterly.app/",
+  "site_title": "Letterly | Voice Dictation, AI Note Taker & Meeting Transcription",
+  "site_desc": "Turn speech into perfect text. For people who",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Wispr Flow",
+  "url": "https://wisprflow.ai",
+  "note": "Voice dictation that types clean text in any app",
+  "final": "https://wisprflow.ai/",
+  "site_title": "Wispr Flow | Voice to Text Dictation & AI Notetaker",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Superwhisper",
+  "url": "https://superwhisper.com",
+  "note": "Mac and iOS voice-to-text dictation with AI formatting",
+  "final": "https://superwhisper.com/",
+  "site_title": "Superwhisper — AI Voice to Text for macOS, Windows, iOS & Android",
+  "site_desc": "AI voice to text for macOS, Windows, iOS and Android. Dictate in any app, offline or in the cloud, in 100+ languages. SOC 2 Type II certified, HIPAA compliant.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Willow Voice",
+  "url": "https://willowvoice.com",
+  "note": "AI voice dictation that writes polished text anywhere",
+  "final": "https://willowvoice.com/",
+  "site_title": "AI Speech to Text Mac, Windows and iPhone Dictation Software | Willow",
+  "site_desc": "Fast, accurate voice dictation for emails, documents, Cursor, note-taking, and messaging. Turn speech to text seamlessly, edit automatically, and stay secure with privacy. Boost productivity with context-aware AI and cus",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Aqua Voice",
+  "url": "https://aquavoice.com",
+  "note": "Voice dictation app for writing text faster",
+  "final": "https://aquavoice.com/",
+  "site_title": "Aqua Voice - Fast and Accurate Voice Dictation",
+  "site_desc": "Fast, accurate, and private speech-to-text for Mac, Windows, iPhone, Android, and AI workflows.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "MacWhisper",
+  "url": "https://goodsnooze.gumroad.com/l/macwhisper",
+  "note": "Transcribes audio files on your Mac using local AI",
+  "final": "https://goodsnooze.gumroad.com/l/macwhisper",
+  "site_title": "🎙️ MacWhisper",
+  "site_desc": "Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper, Qwen as well as Nvidia Parakeet. With...",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zoom AI Companion",
+  "url": "https://www.zoom.com/en/products/ai-assistant/",
+  "note": "Zoom's built-in AI for meeting summaries and catch-up",
+  "final": "https://www.zoom.com/en/products/ai-assistant/",
+  "site_title": "Meet ZoomMate, your AI teammate | Zoom",
+  "site_desc": "ZoomMate analyzes, learns, and acts on your conversations to complete your work.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Pitch",
+  "url": "https://pitch.com",
+  "note": "Collaborative presentation software with AI deck generation",
+  "final": "https://pitch.com/",
+  "site_title": "The AI presentation workspace",
+  "site_desc": "Pitch is the collaborative presentation platform for teams that want to create, share, and deliver better work.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Plus AI",
+  "url": "https://plusai.com",
+  "note": "Creates and edits slides in Google Slides and PowerPoint",
+  "final": "https://plusai.com/",
+  "site_title": "Plus AI presentation maker | Stop making slides the old way",
+  "site_desc": "Plus is an AI assistant for PowerPoint and Slides that helps you create usable, results-oriented presentations.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Presentations.AI",
+  "url": "https://www.presentations.ai",
+  "note": "Generates presentation decks from a prompt",
+  "final": "https://www.presentations.ai/",
+  "site_title": "Presentations.AI - The AI Presentation Platform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SlidesAI",
+  "url": "https://www.slidesai.io",
+  "note": "Turns text into Google Slides presentations",
+  "final": "https://www.slidesai.io/",
+  "site_title": "SlidesAI | Turn Text, Docs & Prompts into Presentations in Seconds",
+  "site_desc": "Turn notes, documents, PDFs and prompts into professional presentations with SlidesAI. Works in Google Slides, PowerPoint, ChatGPT and web. Try Now",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Decktopus",
+  "url": "https://www.decktopus.com",
+  "note": "AI presentation maker with ready layouts",
+  "final": "https://www.decktopus.com/",
+  "site_title": "Decktopus AI | AI Presentation Maker, Coach & Analytics",
+  "site_desc": "AI presentation maker with built-in coaching and analytics. Create on-brand decks and carousels in minutes, rehearse with AI, track every view, and generate leads.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Prezi",
+  "url": "https://prezi.com",
+  "note": "Presentation tool with AI to generate zooming slides",
+  "final": "https://prezi.com/",
+  "site_title": "Prezi: the presentation platform built for what happens after you present",
+  "site_desc": "Prezi is an interactive presentation platform for educators, trainers, and teams. Bring the slides you have or describe what you're covering, run live polls and quizzes everyone joins from their phone, then share one lin",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "MagicSlides",
+  "url": "https://www.magicslides.app",
+  "note": "Creates presentations from a topic, text, PDF or YouTube link",
+  "final": "https://www.magicslides.app/",
+  "site_title": "AI PPT Maker & Presentation Slide Generator | MagicSlides",
+  "site_desc": "Create stunning AI presentations in seconds — free, no design skills needed, using AI PPT Maker. Trusted by 2.3M+ users. Supports 136+ languages. Try MagicSlides now.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Visme",
+  "url": "https://www.visme.co",
+  "note": "Makes presentations, infographics and documents with AI help",
+  "final": "https://www.visme.co/",
+  "site_title": "Visme: AI Presentation maker, Infographics, and One pager templates",
+  "site_desc": "Create professional presentations, interactive infographics, beautiful design and engaging videos, all in one place. Start using Visme today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Storydoc",
+  "url": "https://www.storydoc.com",
+  "note": "Builds interactive pitch decks and sales docs with AI",
+  "final": "https://www.storydoc.com/",
+  "site_title": "Storydoc | AI Presentation Maker & Business Docs That Stand Out",
+  "site_desc": "Storydoc helps you create interactive AI-powered presentations and business documents that drive results",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Chronicle",
+  "url": "https://chroniclehq.com",
+  "note": "AI-assisted tool for designing presentations",
+  "final": "https://chroniclehq.com/",
+  "site_title": "Chronicle: AI Presentation Maker for Professional Slides & AI PPT",
+  "site_desc": "Chronicle is the modern AI presentation software for creating professional, interactive AI PPT decks your audience will remember.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Alai",
+  "url": "https://getalai.com",
+  "note": "Generates and designs presentation slides from your notes",
+  "final": "https://getalai.com/",
+  "site_title": "Create Stunning Presentations with AI | Alai",
+  "site_desc": "Design and refine beautiful presentations instantly using Alai",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Napkin AI",
+  "url": "https://www.napkin.ai",
+  "note": "Turns text into diagrams, charts and visuals for slides",
+  "final": "https://www.napkin.ai/",
+  "site_title": "Napkin AI - Turn Text into AI Diagrams and Visuals",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Slidebean",
+  "url": "https://slidebean.com",
+  "note": "Pitch deck builder with AI design for startups",
+  "final": "https://slidebean.com/",
+  "site_title": "Slidebean: AI Pitch Deck Creator + Pitch Deck Design Agency",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SlideSpeak",
+  "url": "https://slidespeak.co",
+  "note": "Creates and summarizes PowerPoint presentations with AI",
+  "final": "https://slidespeak.co/",
+  "site_title": "SlideSpeak – Free AI Presentation Maker for PowerPoint",
+  "site_desc": "AI presentation maker for teams. Turn ideas and documents into professional PowerPoint slides in minutes. Native, editable .pptx export. Free to try.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Prezent",
+  "url": "https://www.prezent.ai",
+  "note": "Brand-compliant presentation creation for business teams",
+  "final": "https://www.prezent.ai/",
+  "site_title": "AI-Native Life Sciences Communications Partner | Prezent Vivo",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SlidesGPT",
+  "url": "https://slidesgpt.com",
+  "note": "Generates PowerPoint presentations from a prompt",
+  "final": "https://slidesgpt.com/",
+  "site_title": "The better AI PowerPoint Generator & AI PPT Maker | SlidesGPT",
+  "site_desc": "SlidesGPT is an AI PowerPoint Generator, AI Slideshow Maker, AI PPT Maker & AI presentation maker to generate PPTs, Google slides and PDFs",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "AiPPT",
+  "url": "https://www.aippt.com",
+  "note": "Generates presentation slides from topics or documents",
+  "final": "https://www.aippt.com/",
+  "site_title": "Free AI PPT Maker & Presentation Creator - AiPPT",
+  "site_desc": "Create polished presentations in minutes with an AI PowerPoint generator that turns ideas into professional slides.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Twistly",
+  "url": "https://twistly.ai",
+  "note": "PowerPoint add-in that creates slides with AI",
+  "final": "https://twistly.ai/",
+  "site_title": "AI Presentation Maker: Word & PDF Tables Stay Editable | Twistly",
+  "site_desc": "A real, editable .pptx — not pictures of slides. ✓ Approve the outline first ✓ PDF or Word up to 300 MB ✓ 38 languages ✓ 51 templates →",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Wonderslide",
+  "url": "https://wonderslide.com",
+  "note": "Redesigns rough slides into polished presentations",
+  "final": "https://wonderslide.com/",
+  "site_title": "Wonderslide — AI Presentation Maker",
+  "site_desc": "Describe your task, upload your materials — Wonderslide creates a structured, designed presentation in minutes. No PowerPoint, no designer, no waiting.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Slidesgo AI Presentation Maker",
+  "url": "https://slidesgo.com/ai-presentations",
+  "note": "Makes presentations from a prompt using Slidesgo templates",
+  "final": "https://slidesgo.com/ai/presentation-maker",
+  "site_title": "Free AI Presentation Maker | Slidesgo",
+  "site_desc": "Try for free our new AI Presentation Generator and create a customizable template in seconds. Explore beyond PowerPoint.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zoho Show",
+  "url": "https://www.zoho.com/show/",
+  "note": "Online presentation software with AI features",
+  "final": "https://www.zoho.com/show/",
+  "site_title": "Online Presentation Software | Create & Edit Slides Online - Zoho Show",
+  "site_desc": "Zoho Show is a free online presentation software that lets you create, collaborate, publish, and broadcast presentations from any device, quick and easy.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Genspark",
+  "url": "https://www.genspark.ai",
+  "note": "AI agent workspace that builds slides, sheets and research",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.genspark.ai/"
+ },
+ {
+  "title": "Manus",
+  "url": "https://manus.im",
+  "note": "General AI agent that completes multi-step work tasks",
+  "final": "https://manus.im/",
+  "site_title": "Manus: Hands On AI",
+  "site_desc": "Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Skywork",
+  "url": "https://skywork.ai",
+  "note": "AI agent that creates documents, slides and spreadsheets",
+  "final": "https://skywork.ai/",
+  "site_title": "Skywork︱The Originator of AI Workspace Agents",
+  "site_desc": "Skywork - Skywork turns simple input into multimodal content - docs, slides, sheets with deep research, podcasts & webpages. Perfect for analysts creating reports, educators designing slides, or parents making audiobooks",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kimi",
+  "url": "https://www.kimi.com",
+  "note": "AI assistant with slide and research generation features",
+  "final": "https://www.kimi.com/",
+  "site_title": "Kimi AI with K3 | Built for Agentic Coding & Knowledge Work",
+  "site_desc": "Try Kimi K3 to build playable multiplayer and 3D games, create consulting grade slides, and run parallel tasks with Swarm and Goal to get more work done.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Calendly",
+  "url": "https://calendly.com",
+  "note": "Scheduling links with AI help for booking meetings",
+  "final": "https://calendly.com/",
+  "site_title": "Meeting Scheduling Software and AI Meeting Tools | Calendly",
+  "site_desc": "Calendly connects and simplifies all of the work around meetings, from scheduling, payments, and meeting prep to notetaking, contact management, and follow-up.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Cal.com",
+  "url": "https://cal.com",
+  "note": "Open-source scheduling for booking meetings",
+  "final": "https://cal.com/",
+  "site_title": "Cal.com | Scheduling Software for Online Bookings",
+  "site_desc": "A fully customizable scheduling software for individuals, businesses taking calls and developers building scheduling platforms where users meet users.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Akiflow",
+  "url": "https://akiflow.com",
+  "note": "Collects tasks from your apps and time-blocks your calendar",
+  "final": "https://akiflow.com/",
+  "site_title": "Akiflow | Time-Blocking Digital Planner & Calendar",
+  "site_desc": "Akiflow brings tasks, calendars, and AI into one time-blocking planner, helping busy professionals plan focused days and follow through.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sunsama",
+  "url": "https://www.sunsama.com",
+  "note": "Daily planner that pulls tasks into a calm daily plan",
+  "final": "https://www.sunsama.com/",
+  "site_title": "Sunsama - Make work-life balance a reality.",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Morgen",
+  "url": "https://www.morgen.so",
+  "note": "Calendar and task planner with AI daily planning",
+  "final": "https://www.morgen.so/",
+  "site_title": "Morgen: AI Daily Planner for Calendars & Tasks",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Trevor AI",
+  "url": "https://www.trevorai.com",
+  "note": "Time-blocks your tasks into your calendar",
+  "final": "https://www.trevorai.com/",
+  "site_title": "Trevor AI: Start Your Day with a Plan",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Skej",
+  "url": "https://skej.com",
+  "note": "AI assistant that schedules meetings over email",
+  "final": "https://skej.com/",
+  "site_title": "Skej — AI Scheduling Assistants",
+  "site_desc": "Get a human-like assistant to book all your meetings for you or create your own. Free AI-powered booking links, calendar management, and more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Vimcal",
+  "url": "https://www.vimcal.com",
+  "note": "Fast calendar app built for people with many meetings",
+  "final": "https://www.vimcal.com/",
+  "site_title": "Vimcal | Fastest Calendar for People with Too Many Meetings",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Notion Calendar",
+  "url": "https://www.notion.com/product/calendar",
+  "note": "Calendar app connected to Notion docs and tasks",
+  "final": "https://www.notion.com/product/calendar",
+  "site_title": "Notion Calendar",
+  "site_desc": "Beautifully designed and fully integrated with Notion and Google Calendar.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Lindy",
+  "url": "https://www.lindy.ai",
+  "note": "Build AI agents that handle email, scheduling and work tasks",
+  "final": "https://www.lindy.ai/",
+  "site_title": "Lindy – The AI Teammate That Lets You Do More",
+  "site_desc": "Lindy is the AI employee that connects to all your tools, knows everything about your company, and does real work for the whole team.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SavvyCal",
+  "url": "https://savvycal.com",
+  "note": "Scheduling links that let people overlay their calendar",
+  "final": "https://savvycal.com/",
+  "site_title": "Scheduling Software Everyone Will Love · SavvyCal",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zcal",
+  "url": "https://zcal.co",
+  "note": "Free scheduling links and meeting booking",
+  "final": "https://zcal.co/",
+  "site_title": "zcal – Beautiful scheduling pages your clients will love",
+  "site_desc": "Create scheduling pages that capture your brand's look and feel. Sign up for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Doodle",
+  "url": "https://doodle.com",
+  "note": "Group meeting scheduling and booking pages",
+  "final": "https://doodle.com/en/",
+  "site_title": "Free online meeting scheduling tool | Doodle",
+  "site_desc": "Doodle is the fastest and easiest way to schedule anything — from meetings to the next great collaboration.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "TidyCal",
+  "url": "https://tidycal.com",
+  "note": "Simple booking pages for meetings",
+  "final": "https://tidycal.com/",
+  "site_title": "TidyCal | Simple calendar management and booking solution",
+  "site_desc": "The simplest way to manage your calendar and schedule. Simplify your bookings, auto-generate meeting URLs, and more. Trusted by 150,000+ people. Join now.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "YouCanBookMe",
+  "url": "https://youcanbook.me",
+  "note": "Online booking pages connected to your calendar",
+  "final": "https://youcanbook.me/",
+  "site_title": "Free Online Scheduling Tool - YouCanBookMe",
+  "site_desc": "Create the best booking experience for your customers with fully customizable online scheduling. Trusted by 1M+ users worldwide.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fantastical",
+  "url": "https://flexibits.com/fantastical",
+  "note": "Calendar and tasks app that understands natural language",
+  "final": "https://flexibits.com/fantastical",
+  "site_title": "Flexibits | Fantastical — The calendar and tasks app you won’t be able to live without.",
+  "site_desc": "Fantastical, the calendar app you won’t be able to live without. Quickly create new events and reminders with natural language input and more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Structured",
+  "url": "https://structured.app",
+  "note": "Visual daily planner with AI to plan your day",
+  "final": "https://structured.app/",
+  "site_title": "Structured — Daily Planner",
+  "site_desc": "Structured combines all your tasks, calendar events, and focus sessions in one beautifully designed timeline.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "FlowSavvy",
+  "url": "https://flowsavvy.app",
+  "note": "Auto-schedules tasks into your calendar",
+  "final": "https://flowsavvy.app/",
+  "site_title": "FlowSavvy: The AI Calendar that Plans Your Day",
+  "site_desc": "FlowSavvy auto-schedules your tasks and reschedules when plans change, so nothing falls through the cracks. Get started for free, no credit card required.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Howie",
+  "url": "https://howie.com",
+  "note": "AI assistant you cc on email to schedule meetings",
+  "final": "https://howie.com/",
+  "site_title": "Howie | AI Calendar Secretary for Email Scheduling",
+  "site_desc": "Howie is an AI calendar secretary for email, SMS, iMessage, Gmail, and Google Calendar. He books meetings, protects focus time, follows up, and handles reminders.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Blockit",
+  "url": "https://www.blockit.com",
+  "note": "AI scheduling agent that books meetings for you",
+  "final": "https://www.blockit.com/",
+  "site_title": "Blockit — the AI scheduling agent that understands your time",
+  "site_desc": "CC Blockit on any email or Slack thread and it negotiates the times, handles the time zones and sends the invite. Google and Outlook. 30-day free trial.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Martin",
+  "url": "https://www.trymartin.com",
+  "note": "AI personal assistant for calendar, email and reminders",
+  "final": "https://www.trymartin.com/",
+  "site_title": "Martin: Personal Assistant | Your AI like Jarvis (Try for Free)",
+  "site_desc": "Martin manages your calendar, inbox, SMS, phone calls, WhatApp, Slack, and more. Call, text, or email your AI assistant.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Asana",
+  "url": "https://asana.com",
+  "note": "Work management with AI teammates for projects and tasks",
+  "final": "https://asana.com/",
+  "site_title": "Work & Project Management for Human-Agent Teams • Asana",
+  "site_desc": "Work management software for teams and AI agents. Plan, automate, and execute critical workflows together.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "monday.com",
+  "url": "https://monday.com",
+  "note": "Work management platform with AI for tasks and workflows",
+  "final": "https://monday.com/",
+  "site_title": "The AI Workspace for People & Agents | monday.com",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Todoist",
+  "url": "https://www.todoist.com",
+  "note": "To-do list app with AI task suggestions",
+  "final": "https://www.todoist.com/",
+  "site_title": "Todoist | A To-Do List to Organize Your Work & Life",
+  "site_desc": "Trusted by 30 million people and teams. Todoist is the world",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "TickTick",
+  "url": "https://ticktick.com",
+  "note": "To-do list and calendar app with smart features",
+  "final": "https://ticktick.com/",
+  "site_title": "TickTick: A To-Do List and Calendar to keep you organized",
+  "site_desc": "TickTick: Your all-in-one productivity app. Manage tasks, calendars, habits, and more. Sync across all devices. Start for free!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Linear",
+  "url": "https://linear.app",
+  "note": "Issue tracking and project planning with AI features",
+  "final": "https://linear.app/",
+  "site_title": "Linear – The system for product development",
+  "site_desc": "Purpose-built for planning and building products with AI agents.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Wrike",
+  "url": "https://www.wrike.com",
+  "note": "Project management platform with AI work assistance",
+  "final": "https://www.wrike.com/",
+  "site_title": "AI-powered enterprise work management software | Wrike",
+  "site_desc": "Wrike is the trusted work delivery platform for people and AI. We help enterprises reach the outcome faster, without losing control of how work gets done.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Smartsheet",
+  "url": "https://www.smartsheet.com",
+  "note": "Spreadsheet-style work management with AI features",
+  "final": "https://www.smartsheet.com/",
+  "site_title": "Work Management Platform | Smartsheet",
+  "site_desc": "Personalize workflows, predict outcomes, and move faster with Smartsheet – a platform built for the way you work.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Airtable",
+  "url": "https://www.airtable.com",
+  "note": "Build apps and databases with built-in AI fields",
+  "final": "https://www.airtable.com/",
+  "site_title": "Airtable: Build Enterprise-ready AI Workflows, Apps & Agents | Airtable",
+  "site_desc": "500,000+ brands use Airtable to enable real-time collaboration, automate repetitive tasks & manual work, and streamline business processes in minutes. Join them.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Coda",
+  "url": "https://coda.io",
+  "note": "Docs that work like apps, with AI built in",
+  "final": "https://coda.io/",
+  "site_title": "Coda: Your all-in-one collaborative workspace.",
+  "site_desc": "Coda is an all-in-one platform that blends the flexibility of docs, structure of spreadsheets, power of applications, and intelligence of AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Trello",
+  "url": "https://trello.com",
+  "note": "Kanban boards with Atlassian AI features",
+  "final": "https://trello.com/",
+  "site_title": "Capture, organize, and tackle your to-dos from anywhere",
+  "site_desc": "Make the impossible, possible with Trello. The ultimate tool to boost your productivity. Escape the clutter and chaos—stay efficient with Inbox, Boards, and Planner from anywhere, even on mobile.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jira",
+  "url": "https://www.atlassian.com/software/jira",
+  "note": "Project and issue tracking with Atlassian AI",
+  "final": "https://www.atlassian.com/software/jira",
+  "site_title": "Jira | Project Management for the AI Era | Atlassian",
+  "site_desc": "Jira brings teams together to reach the next level of productivity with AI agents that orchestrate, plan, and track projects at scale.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Any.do",
+  "url": "https://www.any.do",
+  "note": "To-do list, planner and calendar with AI help",
+  "final": "https://www.any.do/",
+  "site_title": "A simple to do list for you and your team",
+  "site_desc": "A simple to do list app to manage your personal tasks, family projects, and team's work. Trusted by +40m people to stay organized and get more done.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Superlist",
+  "url": "https://www.superlist.com",
+  "note": "To-do lists and notes with AI to break down tasks",
+  "final": "https://www.superlist.com/",
+  "site_title": "Superlist — Task Management & To-Do List App for Work and Life",
+  "site_desc": "From the creators of Wunderlist — the all-in-one task management app for to-do lists, notes, and projects. AI-powered productivity that replaces 5 apps. Free to start, works on Mac, Web, iOS & Android.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tana",
+  "url": "https://tana.inc",
+  "note": "AI-native notes and outliner for knowledge work",
+  "final": "https://tana.inc/",
+  "site_title": "Tana - Do work in the meeting",
+  "site_desc": "Tana is an agentic meeting platform. Work gets done in the meeting, not after. Agents create documents, file issues, and update your context graph while you talk. And each meeting makes future meetings smarter.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Craft",
+  "url": "https://www.craft.do",
+  "note": "Docs and notes app with built-in AI assistant",
+  "final": "https://www.craft.do/",
+  "site_title": "Craft — Productivity App for Notes, Tasks, and Docs",
+  "site_desc": "A free notes and productivity app that follows you across all your devices. Premium features available.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Reflect",
+  "url": "https://reflect.app",
+  "note": "Networked note-taking app with AI assistant",
+  "final": "https://reflect.app/",
+  "site_title": "Reflect",
+  "site_desc": "Capture ideas, connect notes, and keep your files in Markdown. Reflect Open is open source and free on Mac, with paid apps for iPhone and iPad.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Capacities",
+  "url": "https://capacities.io",
+  "note": "Object-based note-taking studio with AI assistant",
+  "final": "https://capacities.io/",
+  "site_title": "A studio for your mind | Capacities",
+  "site_desc": "Capacities is a note-taking and knowledge management app that organizes your ideas as connected objects instead of files and folders. Available free on Mac, Windows, Linux, iOS, and Android.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Heptabase",
+  "url": "https://heptabase.com",
+  "note": "Visual note-taking on whiteboards for research and learning",
+  "final": "https://heptabase.com/",
+  "site_title": "Heptabase",
+  "site_desc": "Heptabase is an intelligent, visual knowledge base built for students, researchers, and lifelong learners.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Saner.AI",
+  "url": "https://www.saner.ai",
+  "note": "AI assistant for notes, tasks and email for people with ADHD",
+  "final": "https://www.saner.ai/",
+  "site_title": "Saner.AI - AI Personal Assistant for ADHD | Your Jarvis is here",
+  "site_desc": "Saner.AI is the first ADHD-friendly AI personal assistant for notes, email, and calendar. Just chat to search notes, manage emails, and schedule tasks. It proactively plans your day and checks in to help you stay on top ",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fabric",
+  "url": "https://fabric.so",
+  "note": "AI workspace that organizes your files, notes and links",
+  "final": "https://fabric.so/",
+  "site_title": "Fabric – the AI workspace that thinks with you",
+  "site_desc": "Write, make, collaborate, and publish – with a personal AI that knows your projects, files, and ideas. For thinkers, researchers, designers, and teams.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Recall",
+  "url": "https://www.recall.it",
+  "note": "Summarizes articles and videos into a personal knowledge base",
+  "final": "https://www.recall.it/",
+  "site_title": "Recall | AI Knowledge Base & Summarizer",
+  "site_desc": "Recall is an AI knowledge base and summarizer. Summarize YouTube videos, podcasts, PDFs and articles, then save and chat with ChatGPT, Claude, or Gemini.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Evernote",
+  "url": "https://evernote.com",
+  "note": "Note-taking app with AI search and editing",
+  "final": "https://evernote.com/",
+  "site_title": "Best Note Taking App - Organize Your Notes with Evernote",
+  "site_desc": "Our note taking app helps you capture and prioritize ideas, projects and to-do lists, so nothing falls through the cracks. Start your free trial today!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Microsoft OneNote",
+  "url": "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app",
+  "note": "Digital notebook with Copilot features",
+  "final": "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app",
+  "site_title": "Your request has been blocked. This could be due to several reasons.",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Goodnotes",
+  "url": "https://www.goodnotes.com",
+  "note": "Handwritten and typed notes app with AI tools",
+  "final": "https://www.goodnotes.com/",
+  "site_title": "Goodnotes | Notes Reimagined | Note-Taking App",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Notability",
+  "url": "https://notability.com",
+  "note": "Note-taking app with audio recording and AI summaries",
+  "final": "https://notability.com/",
+  "site_title": "Home | Notability",
+  "site_desc": "Notability turns handwritten notes, audio, and documents into AI-powered summaries, flashcards, and quizzes. Download for free today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "RemNote",
+  "url": "https://www.remnote.com",
+  "note": "Notes and flashcards with AI to study and remember",
+  "final": "https://www.remnote.com/",
+  "site_title": "Study Faster with AI Flashcards, Quizzes & Summaries",
+  "site_desc": "Upload PDFs, videos, or notes and instantly generate AI flashcards, quizzes, summaries, and explanations. Study smarter with RemNote.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "AFFiNE",
+  "url": "https://affine.pro",
+  "note": "Docs, whiteboards and databases with AI assistant",
+  "final": "https://affine.pro/",
+  "site_title": "AFFiNE — Open-Source Knowledge Base Software",
+  "site_desc": "AFFiNE combines docs, whiteboards, databases, and optional AI in one local-first workspace. MIT-licensed editor; self-host free for up to 10 seats per workspace.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mymind",
+  "url": "https://mymind.com",
+  "note": "Private place to save notes, images and links, sorted by AI",
+  "final": "https://mymind.com/",
+  "site_title": "mymind is the extension for your mind.",
+  "site_desc": "A private place to save your most precious notes, images, quotes and highlights. Enhanced with AI to help you remember without wasting time on categorizing & organizing.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Supermemory",
+  "url": "https://supermemory.ai",
+  "note": "Saves bookmarks and notes into a searchable AI memory",
+  "final": "https://supermemory.ai/",
+  "site_title": "supermemory — Memory and continual learning for agents",
+  "site_desc": "Agents need memory. supermemory is building the default engine for memory and continual learning for agents.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Khoj",
+  "url": "https://khoj.dev",
+  "note": "Open-source AI second brain that searches your notes",
+  "final": "https://khoj.dev/",
+  "site_title": "Khoj - AI for Humans",
+  "site_desc": "Khoj is an applied artificial intelligence company building safe, useful AI software for humans.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Readwise Reader",
+  "url": "https://readwise.io/read",
+  "note": "Read-later app with AI summaries and Q&A",
+  "final": "https://readwise.io/read",
+  "site_title": "Readwise Reader | The first read-it-later app built for power readers.",
+  "site_desc": "Save everything to one place to overcome content overload, search instantly, and highlight like a pro.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Glasp",
+  "url": "https://glasp.co",
+  "note": "Highlights web pages and summarizes YouTube videos",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://glasp.co/"
+ },
+ {
+  "title": "Elephas",
+  "url": "https://elephas.app",
+  "note": "AI assistant for Mac that works across your apps and files",
+  "final": "https://elephas.app/",
+  "site_title": "Elephas: Private AI for Your Documents | Mac now, Windows soon",
+  "site_desc": "Private AI for your own documents, for you or your team. Answers with sources. Your files stay stored on your computer. Mac now, Windows soon. Free for 7 days.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Slite",
+  "url": "https://slite.com",
+  "note": "Team knowledge base with AI answers",
+  "final": "https://slite.com/",
+  "site_title": "Slite | Self-maintaining AI knowledge base",
+  "site_desc": "Slite is the self-maintaining AI knowledge base that stays accurate. Verified by your team, synced with your tools, trusted by every agent.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Guru",
+  "url": "https://www.getguru.com",
+  "note": "AI enterprise search and verified company knowledge",
+  "final": "https://www.getguru.com/",
+  "site_title": "The Governed Knowledge Layer for Enterprise AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tettra",
+  "url": "https://tettra.com",
+  "note": "Internal knowledge base that answers team questions with AI",
+  "final": "https://tettra.com/",
+  "site_title": "Tettra | AI Internal Knowledge Base & Knowledge Management",
+  "site_desc": "Tettra is an AI-powered knowledge base and knowledge management software. Curate company information and get instant answers to your team's repetitive questions.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Document360",
+  "url": "https://document360.com",
+  "note": "Knowledge base software with AI search and writing",
+  "final": "https://document360.com/",
+  "site_title": "Document360: AI Knowledge Base Software for Documentation",
+  "site_desc": "Start building intelligent documentation today with AI search, AI chatbot, and writing tools inside Document360, the knowledge base trusted by teams worldwide.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Confluence",
+  "url": "https://www.atlassian.com/software/confluence",
+  "note": "Team wiki and documentation with Atlassian AI",
+  "final": "https://www.atlassian.com/software/confluence",
+  "site_title": "Confluence | AI Workspace for Knowledge & Collaboration",
+  "site_desc": "Confluence is your team workspace for creating and sharing knowledge. Use AI to draft, summarize, and find answers so projects move faster.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Nuclino",
+  "url": "https://www.nuclino.com",
+  "note": "Lightweight team wiki with AI assistant",
+  "final": "https://www.nuclino.com/",
+  "site_title": "Nuclino | Your team’s collective brain",
+  "site_desc": "A modern, simple, and blazingly fast way to collaborate – bring knowledge, docs, and projects together in one place.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Slab",
+  "url": "https://slab.com",
+  "note": "Team knowledge base with unified search",
+  "final": "https://slab.com/",
+  "site_title": "Slab - Knowledge Base & Wiki Software",
+  "site_desc": "Discover why our easy creation, organization, and numerous integrations, make us so popular with non-technical and tech-savvy teams alike.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Glean",
+  "url": "https://www.glean.com",
+  "note": "Enterprise AI search and assistant across company apps",
+  "final": "https://www.glean.com/",
+  "site_title": "Glean – Enterprise AI that Works | Agents, Assistant & Search",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Atlassian Rovo",
+  "url": "https://www.atlassian.com/software/rovo",
+  "note": "AI search, chat and agents across your work apps",
+  "final": "https://www.atlassian.com/software/rovo",
+  "site_title": "Rovo: Unlock organizational knowledge with GenAI | Atlassian",
+  "site_desc": "Rovo, Atlassian",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hebbia",
+  "url": "https://www.hebbia.com",
+  "note": "AI for analyzing large sets of financial and legal documents",
+  "final": "https://www.hebbia.com/",
+  "site_title": "Hebbia | AI built for the rigor of finance",
+  "site_desc": "The leading AI platform for finance, used by the world's leading asset managers, investment banks, law firms and Fortune 500 companies.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Onyx",
+  "url": "https://www.onyx.app",
+  "note": "Open-source AI search and chat over company documents",
+  "final": "https://onyx.app/",
+  "site_title": "AWS",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sana",
+  "url": "https://sana.ai",
+  "note": "AI agents and search for company knowledge",
+  "final": "https://sana.ai/",
+  "site_title": "Sana Agents",
+  "site_desc": "Chat, search, and interact with all your knowledge — even your meetings. Create your free account now.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Dust",
+  "url": "https://dust.tt",
+  "note": "Build custom AI agents connected to company data",
+  "final": "https://dust.tt/",
+  "site_title": "Dust - Multiplayer AI for human-agent collaboration",
+  "site_desc": "Dust connects your company knowledge, tools, and teams so you can create, share, and run agents across real workflows. Use different models for different tasks, with people in control.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Coveo",
+  "url": "https://www.coveo.com",
+  "note": "AI search and generative answers for enterprises",
+  "final": "https://www.coveo.com/en",
+  "site_title": "Coveo: AI-Search for Enterprises: The AI Relevance™ Platform",
+  "site_desc": "Generative search & relevant recommendations. The leading platform for GenAI, AI agents, commerce, customer service, workplace & website experiences.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Moveworks",
+  "url": "https://www.moveworks.com",
+  "note": "AI assistant for employee IT and HR support",
+  "final": "https://www.moveworks.com/",
+  "site_title": "Moveworks: The AI Assistant Platform That Gets Work Done",
+  "site_desc": "Moveworks is the AI Assistant platform for your entire workforce to find answers instantly and automate tasks end-to-end in seconds across every business app.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "GoLinks",
+  "url": "https://www.golinks.io",
+  "note": "Short links and AI search for company resources",
+  "final": "https://www.golinks.io/",
+  "site_title": "GoLinks® | Knowledge Discovery & Link Management Platform",
+  "site_desc": "GoLinks® revolutionizes information access & sharing through secure, intuitive short links called go/links. It’s knowledge discovery powered by generative AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Gemini for Google Workspace",
+  "url": "https://workspace.google.com/solutions/ai/",
+  "note": "AI built into Gmail, Docs, Sheets and Meet",
+  "final": "https://workspace.google.com/solutions/ai/",
+  "site_title": "AI Tools for Business | Google Workspace",
+  "site_desc": "Learn how Google Workspace brings powerful generative AI features to Gmail, Docs, Sheets and more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Slack AI",
+  "url": "https://slack.com/features/ai",
+  "note": "Summarizes channels and searches answers in Slack",
+  "final": "https://slack.com/features/ai",
+  "site_title": "Slack AI Features & AI Assistants | Slack",
+  "site_desc": "Boost productivity with Slack",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Miro",
+  "url": "https://miro.com",
+  "note": "Online whiteboard with AI for brainstorming and diagrams",
+  "final": "https://miro.com/",
+  "site_title": "AI Innovation Workspace | Miro",
+  "site_desc": "Speed up product development from ideation to launch. Align teams, break tool silos and ship what customers need in one AI-powered visual platform.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mural",
+  "url": "https://www.mural.co",
+  "note": "Visual collaboration whiteboard with AI features",
+  "final": "https://www.mural.co/",
+  "site_title": "AI-powered visual workspace for team collaboration | Mural",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "FigJam",
+  "url": "https://www.figma.com/figjam/",
+  "note": "Collaborative whiteboard with AI to sort and summarize",
+  "final": "https://www.figma.com/figjam/",
+  "site_title": "FigJam: The Online Collaborative Whiteboard for Teams",
+  "site_desc": "A visual collaborative whiteboard where teams can diagram, brainstorm, and organize ideas together.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Whimsical",
+  "url": "https://whimsical.com",
+  "note": "Flowcharts, mind maps and docs with AI generation",
+  "final": "https://whimsical.com/",
+  "site_title": "Whimsical — The whiteboard for product builders",
+  "site_desc": "Design and document implementation with diagrams. Shape UI with wireframes. Collaborate with your team and AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Lucid",
+  "url": "https://lucid.co",
+  "note": "Diagrams and visual collaboration with AI",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://lucid.co/"
+ },
+ {
+  "title": "Xmind",
+  "url": "https://xmind.com",
+  "note": "Mind mapping software with AI",
+  "final": "https://xmind.com/",
+  "site_title": "Xmind - Mind Map Maker & AI Brainstorming Tool",
+  "site_desc": "Create mind maps online or on desktop with Xmind. Brainstorm ideas, organize thoughts, use AI, templates, and visual structures to plan projects clearly.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mapify",
+  "url": "https://mapify.so",
+  "note": "Turns documents, videos and web pages into mind maps",
+  "final": "https://mapify.so/",
+  "site_title": "Mapify: AI Summarizer and Mind Map Generator for PDFs, Videos, and Webpages",
+  "site_desc": "Mapify helps you summarize PDFs, YouTube videos, webpages, and research papers into structured mind maps and actionable understanding.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "n8n",
+  "url": "https://n8n.io",
+  "note": "Workflow automation with AI agents, self-hostable",
+  "final": "https://n8n.io/",
+  "site_title": "AI Workflow Automation Platform - n8n",
+  "site_desc": "n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of code with the speed of no-code.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Bardeen",
+  "url": "https://www.bardeen.ai",
+  "note": "Browser automation for sales and repetitive web tasks",
+  "final": "https://www.bardeen.ai/",
+  "site_title": "Bardeen: Find and reach leads no one else can.",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Relay.app",
+  "url": "https://www.relay.app",
+  "note": "Workflow automation with AI steps and human approvals",
+  "final": "https://relay.app/",
+  "site_title": "Relay.app has shut down",
+  "site_desc": "Relay.app shut down in September 2026. All accounts, workflows and run history have been permanently deleted.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Gumloop",
+  "url": "https://www.gumloop.com",
+  "note": "No-code AI automation workflows and agents",
+  "final": "https://www.gumloop.com/",
+  "site_title": "Gumloop: Build AI agents for work",
+  "site_desc": "Gumloop is the multiplayer AI agent builder. Let anyone at your company build agents with any AI model, any integration while IT controls access.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Activepieces",
+  "url": "https://www.activepieces.com",
+  "note": "Open-source automation and AI agent builder",
+  "final": "https://www.activepieces.com/",
+  "site_title": "Activepieces: unify your team's AI",
+  "site_desc": "Chat, agents, flows, tables, and 760+ apps in one workspace, so your whole team works with AI in the tools they already use. Open source at the core.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Pipedream",
+  "url": "https://pipedream.com",
+  "note": "Connect APIs and AI to automate workflows",
+  "final": "https://pipedream.com/",
+  "site_title": "Pipedream — The integration layer for AI agents",
+  "site_desc": "Managed auth and 10,000+ tools across 3,000+ APIs for the agents you’re building — and a secure gateway for the AI tools your company uses.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Workato",
+  "url": "https://www.workato.com",
+  "note": "Enterprise automation and AI agent platform",
+  "final": "https://www.workato.com/",
+  "site_title": "Govern & Scale Enterprise AI on the #1 iPaaS | Workato",
+  "site_desc": "Workato connects apps, data, workflows, and AI agents on one enterprise platform to securely orchestrate, automate, and govern work.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tray.ai",
+  "url": "https://tray.ai",
+  "note": "AI-powered integration and automation platform",
+  "final": "https://tray.ai/",
+  "site_title": "Tray.ai — The AI-ready integration and automation platform",
+  "site_desc": "Tray.ai is the AI-native enterprise iPaaS for building AI agents, governing Model Context Protocol (MCP), and integrating 700+ apps — orchestration for data…",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Power Automate",
+  "url": "https://www.microsoft.com/en-us/power-platform/products/power-automate",
+  "note": "Microsoft's automation tool with Copilot",
+  "final": "https://www.microsoft.com/en-us/power-platform/products/power-automate",
+  "site_title": "Power Automate: Business Process Workflow Automation | Microsoft Power Platform",
+  "site_desc": "Automate workflows and business processes across apps, systems, and websites with Microsoft Power Automate using AI, digital, and robotic process automation.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "IFTTT",
+  "url": "https://ifttt.com",
+  "note": "Connects apps and devices with automated applets",
+  "final": "https://ifttt.com/",
+  "site_title": "Automate. Save time. Get more done. - IFTTT",
+  "site_desc": "IFTTT connects 1,000+ apps and automates them for free — no code needed. Connect Google, Webhooks, Discord, Telegram, Slack and more in minutes.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Integrately",
+  "url": "https://integrately.com",
+  "note": "One-click automations between apps",
+  "final": "https://integrately.com/",
+  "site_title": "20 Million+ Ready Automations For 1500+ Apps | Integrately",
+  "site_desc": "Non-Techie? Integrate your apps in 1 click. All you need to do is activate the automation. 42,000+ customers. Live chat support. Less expensive. Get started for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Pabbly Connect",
+  "url": "https://www.pabbly.com/connect/",
+  "note": "Automates workflows between apps",
+  "final": "https://www.pabbly.com/connect/",
+  "site_title": "Pabbly Connect - Automate All Your Integrations & Task",
+  "site_desc": "Try Pabbly Connect to share data between apps &amp; automate manual repetitive tasks in real-time. No Coding! All features in Basic Plan! Easy Integrations!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Albato",
+  "url": "https://albato.com",
+  "note": "No-code integration and automation platform",
+  "final": "https://albato.com/",
+  "site_title": "Embedded iPaaS for SaaS and AI-agents — White-Label Native Integrations | Albato",
+  "site_desc": "Add 1,000+ native integrations for your users and AI-agents with a white-label embedded iPaaS. No dev team needed. Compare pricing & features.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Relevance AI",
+  "url": "https://relevanceai.com",
+  "note": "Build and run AI agent teams for business tasks",
+  "final": "https://relevanceai.com/",
+  "site_title": "Specialist AI Agents for Every Task | Relevance AI",
+  "site_desc": "Deliver maximum ROI through optimized specialist agents. Build agents for sales, customer success, marketing and HR, and run millions of daily tasks on one platform.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Stack AI",
+  "url": "https://www.stackai.com",
+  "note": "No-code platform for building enterprise AI agents",
+  "final": "https://www.stackai.com/",
+  "site_title": "AI Agents for the Enterprise | StackAI",
+  "site_desc": "StackAI empowers enterprises to deploy AI Agents at scale. Build secure, compliant AI applications in minutes with our intuitive drag-and-drop no-code platform.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Text Blaze",
+  "url": "https://blaze.today",
+  "note": "Text snippets and templates with AI to automate typing",
+  "final": "https://blaze.today/",
+  "site_title": "Text Blaze: Snippets and Templates for Chrome",
+  "site_desc": "A powerful text expander Chrome extension. Optimize everything you type with auto text snippets, templates and macros.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Axiom.ai",
+  "url": "https://axiom.ai",
+  "note": "No-code browser automation bots",
+  "final": "https://axiom.ai/",
+  "site_title": "Browser automation & web scraping, no-code or code | axiom.ai",
+  "site_desc": "Automate any website with our no-code tool, our browser automation API, or by describing it to Claude. Axiom runs on our cloud or your machine.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Browse AI",
+  "url": "https://www.browse.ai",
+  "note": "Scrapes and monitors websites without code",
+  "final": "https://www.browse.ai/",
+  "site_title": "Scrape and Monitor Data from Any Website with No Code - Browse AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Browserflow",
+  "url": "https://browserflow.app",
+  "note": "Automates repetitive tasks in Chrome",
+  "final": "https://browserflow.app/",
+  "site_title": "Browserflow - Web Scraping & Web Automation",
+  "site_desc": "Automate your work on any website",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Browser Use",
+  "url": "https://browser-use.com",
+  "note": "AI agents that control a web browser to do tasks",
+  "final": "https://browser-use.com/",
+  "site_title": "Browser Use Agents & Browser Infrastructure | Browser Use",
+  "site_desc": "Browser Use is a simple remote browser for AI agents. Browser Use Agents finish the task; Browser Infrastructure gives AI startups and automation teams managed browsers built for protected sites through SDK, REST, or CDP",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Skyvern",
+  "url": "https://www.skyvern.com",
+  "note": "Automates browser workflows with AI",
+  "final": "https://www.skyvern.com/",
+  "site_title": "Skyvern — AI-Powered Browser Automation for Any Website",
+  "site_desc": "Skyvern automates browser workflows with AI. No brittle selectors, no maintenance. Automate logins, form fills, data extraction, and more across any website.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "HARPA AI",
+  "url": "https://harpa.ai",
+  "note": "Chrome extension for AI web automation and page summaries",
+  "final": "https://harpa.ai/",
+  "site_title": "HARPA AI Browser Agent | ChatGPT, Claude, Gemini, Perplexity",
+  "site_desc": "HARPA AI combines every AI in one Chrome extension: OpenAI GPT-5.4, Anthropic Claude 4.6, Google Gemini 3.1, Grok, Perplexity, DeepSeek. It automates your online work and saves time searching, writing, coding and summari",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Dia",
+  "url": "https://www.diabrowser.com",
+  "note": "Web browser with a built-in AI assistant",
+  "final": "https://www.diabrowser.com/",
+  "site_title": "Dia | The browser for better days at work.",
+  "site_desc": "Dia is the browser for better days at work. Get answers without having to ask, produce beautiful ready-to-share outputs, and stay focused in the best browser for your work day.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fellou",
+  "url": "https://fellou.ai",
+  "note": "Agentic browser that performs web tasks for you",
+  "final": "https://fellou.ai/",
+  "site_title": "Agentic AI Browser for Deep Search & Automation | Fellou",
+  "site_desc": "Browse, automate, and execute — Fellou is the world's first self-driving browser where AI doesn't just chat, it acts. Automate multi-step tasks across websites, analyze data, and get things done while you focus on what m",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Nanobrowser",
+  "url": "https://nanobrowser.ai",
+  "note": "Open-source AI web agent Chrome extension",
+  "final": "https://nanobrowser.ai/",
+  "site_title": "Nanobrowser - Open Source AI Web Agent",
+  "site_desc": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Opera Neon",
+  "url": "https://www.operaneon.com",
+  "note": "Agentic AI browser from Opera",
+  "final": "https://www.operaneon.com/",
+  "site_title": "Opera Neon. This browser is built to act. | Opera Neon",
+  "site_desc": "Opera Neon is an agentic browser that understands your intent, assists with tasks, and takes actions. It helps you move faster and get things done.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "MindStudio",
+  "url": "https://www.mindstudio.ai",
+  "note": "Build AI agents and automations without code",
+  "final": "https://www.mindstudio.ai/",
+  "site_title": "Build powerful AI agents | MindStudio",
+  "site_desc": "For yourself, your team, or your enterprise — no coding required. Design, build, and deploy AI agents with MindStudio.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Cassidy",
+  "url": "https://www.cassidyai.com",
+  "note": "AI assistants and automation trained on company knowledge",
+  "final": "https://www.cassidyai.com/",
+  "site_title": "Cassidy AI - Build AI Agents that handle your most complex work",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Microsoft Copilot Studio",
+  "url": "https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio",
+  "note": "Build custom AI agents for business",
+  "final": "https://www.microsoft.com/en-us/copilot/products/copilot-studio",
+  "site_title": "Microsoft Copilot Studio | Create AI Agents",
+  "site_desc": "Build AI agents with Microsoft Copilot Studio. Enhance your workflows with powerful AI bots and seamless Microsoft Copilot integrations.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Ema",
+  "url": "https://www.ema.ai",
+  "note": "Universal AI employee for enterprise workflows",
+  "final": "https://www.ema.ai/",
+  "site_title": "Ema - Universal AI Employee, AI Agents Tool for Enterprise",
+  "site_desc": "Ema, a Universal AI Employee, is the leading enterprise partner for building and deploying AI Agents across all roles and industries",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Twin",
+  "url": "https://twin.so",
+  "note": "AI agents that automate tasks in browsers and apps",
+  "final": "https://twin.so/",
+  "site_title": "Twin - AI Agents That Run Your Business",
+  "site_desc": "Describe the job once. Twin builds an AI agent that connects to your tools, browses the web when there",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Simular",
+  "url": "https://www.simular.ai",
+  "note": "AI agent that operates your computer to finish tasks",
+  "final": "https://www.simular.ai/",
+  "site_title": "Simular — The Autonomous Computer Company",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Highlight AI",
+  "url": "https://highlightai.com",
+  "note": "Desktop AI assistant that understands what is on your screen",
+  "final": "https://highlightai.com/",
+  "site_title": "Highlight AI | The AI That Works Everywhere You Do",
+  "site_desc": "Highlight is AI that captures what matters across your meetings, screen, and tools, then drafts the follow-ups where your work happens. Free to start.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Raycast",
+  "url": "https://www.raycast.com",
+  "note": "Mac launcher with AI chat and commands",
+  "final": "https://www.raycast.com/",
+  "site_title": "Raycast - Your shortcut to everything",
+  "site_desc": "A collection of powerful productivity tools all within an extendable launcher.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Shortwave",
+  "url": "https://www.shortwave.com",
+  "note": "AI email client for Gmail that summarizes and drafts",
+  "final": "https://www.shortwave.com/",
+  "site_title": "Shortwave — Automate your email with AI",
+  "site_desc": "Agentic AI that helps you organize, write, search, schedule, and more with just a prompt",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SaneBox",
+  "url": "https://www.sanebox.com",
+  "note": "Filters unimportant email out of your inbox",
+  "final": "https://www.sanebox.com/",
+  "site_title": "SaneBox | Email Management for Any Inbox",
+  "site_desc": "Cut your team's email management time in half & get started on the road to a cleaner inbox and more productive day with SaneBox. Start your free trial now!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Spark Mail",
+  "url": "https://sparkmailapp.com",
+  "note": "Email app with AI writing and smart inbox",
+  "final": "https://sparkmailapp.com/",
+  "site_title": "Spark Mail — Smart. Focused. Email.",
+  "site_desc": "Spark helps you take your inbox under control. Instantly see what’s important and quickly clean up the rest.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fyxer AI",
+  "url": "https://www.fyxer.com",
+  "note": "AI assistant that sorts email and drafts replies",
+  "final": "https://www.fyxer.com/",
+  "site_title": "Fyxer | Get ahead of your inbox",
+  "site_desc": "Fyxer is the email assistant that organizes your inbox, writes draft replies in your tone, and takes meeting notes.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Lavender",
+  "url": "https://www.lavender.ai",
+  "note": "AI email coach for writing better sales emails",
+  "final": "https://lavender.ai/",
+  "site_title": "Lavender - Your Magical AI Email Coach",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Missive",
+  "url": "https://missiveapp.com",
+  "note": "Shared team inbox and chat with AI",
+  "final": "https://missiveapp.com/",
+  "site_title": "Missive · Inbox collaboration for teams that run on email",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Gmelius",
+  "url": "https://gmelius.com",
+  "note": "Shared inboxes and AI email automation in Gmail",
+  "final": "https://gmelius.com/",
+  "site_title": "Gmelius — Your Team's AI-Powered Inbox for Gmail",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Canary Mail",
+  "url": "https://canarymail.io",
+  "note": "Secure email app with AI copilot",
+  "final": "https://canarymail.io/",
+  "site_title": "Canary Mail - The Best Email App With AI & Calendar",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "MailMaestro",
+  "url": "https://www.maestrolabs.com",
+  "note": "AI email assistant for Outlook and Gmail",
+  "final": "https://www.maestrolabs.com/",
+  "site_title": "Maestro Labs | AI tools for Outlook, Teams & Office",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Clean Email",
+  "url": "https://clean.email",
+  "note": "Cleans and organizes cluttered inboxes in bulk",
+  "final": "https://clean.email/",
+  "site_title": "Clean Email Inbox – Organize, Unsubscribe, Delete Emails Easily",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Inbox Zero",
+  "url": "https://www.getinboxzero.com",
+  "note": "Open-source AI email assistant to clean your inbox",
+  "final": "https://www.getinboxzero.com/",
+  "site_title": "Inbox Zero | Automate and clean your inbox",
+  "site_desc": "Your AI executive assistant to reach inbox zero fast. Automate emails, bulk unsubscribe, block cold emails, and analytics. Open-source",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jace",
+  "url": "https://jace.ai",
+  "note": "AI email assistant that drafts replies and manages inbox",
+  "final": "https://jace.ai/",
+  "site_title": "Jace AI | Your AI Executive Assistant",
+  "site_desc": "Jace drafts replies in your voice, organizes mail, schedules meetings, and turns chaos into calm-all before you even open your laptop",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Notion Mail",
+  "url": "https://www.notion.com/product/mail",
+  "note": "Email client that auto-labels and drafts with AI",
+  "final": "https://www.notion.com/product",
+  "site_title": "The AI workspace that works for you. | Notion",
+  "site_desc": "Build Custom Agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mailbutler",
+  "url": "https://www.mailbutler.io",
+  "note": "Email assistant for Gmail, Outlook and Apple Mail",
+  "final": "https://www.mailbutler.io/",
+  "site_title": "Mailbutler: Your inbox, smarter.",
+  "site_desc": "Mailbutler is the extension that adds powerful email productivity tools to your inbox. Start your free 14-day trial now!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Edison Mail",
+  "url": "https://www.edisonmail.com",
+  "note": "Email app with smart inbox features",
+  "final": "https://www.edisonmail.com/",
+  "site_title": "Edison Mail: the Multi-email App That Combines All Your Inboxes",
+  "site_desc": "The Edison Mail multi-email app allows you to easily manage all your email accounts from one place. It’s fast, secure and there are no ads. Download today!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Boomerang",
+  "url": "https://www.boomeranggmail.com",
+  "note": "Schedules emails and reminders in Gmail and Outlook",
+  "final": "https://www.boomeranggmail.com/",
+  "site_title": "Meeting scheduling and email reminders | Boomerang for Gmail",
+  "site_desc": "Boomerang adds integrated meeting scheduling and email productivity tools to your Gmail and Google Workspace accounts, helping you focus on what matters.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Cora",
+  "url": "https://cora.computer",
+  "note": "AI chief of staff that summarizes and drafts your email",
+  "final": "https://cora.computer/",
+  "site_title": "Give Cora your inbox. Take back your life.",
+  "site_desc": "Cora is your $150,000 chief of staff that only costs $20 per month. It screens your inbox, drafts responses in your voice, and briefs you on the rest twice daily.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Front",
+  "url": "https://front.com",
+  "note": "Shared inbox and customer operations with AI",
+  "final": "https://front.com/",
+  "site_title": "Front | Customer service platform, powered by AI",
+  "site_desc": "Deliver exceptional service with Front, the platform where support, sales, operations, and AI agents come together to resolve complex customer work.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hiver",
+  "url": "https://hiverhq.com",
+  "note": "Shared inbox in Gmail with AI features",
+  "final": "https://hiverhq.com/",
+  "site_title": "Hiver: Agentic Omnichannel Customer Service Platform",
+  "site_desc": "More than 10,000 teams use Hiver to tackle complex support across channels with AI, cross-team collaboration, ticketing, and workflows.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ChatPDF",
+  "url": "https://www.chatpdf.com",
+  "note": "Chat with PDF files and get answers with citations",
+  "final": "https://www.chatpdf.com/",
+  "site_title": "ChatPDF AI | Chat with any PDF | Free",
+  "site_desc": "ChatPDF brings ChatGPT-style intelligence and PDF AI technology together for smarter document understanding. Summarize, chat, and analyze.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "PDF.ai",
+  "url": "https://pdf.ai",
+  "note": "Ask questions about PDF documents",
+  "final": "https://pdf.ai/",
+  "site_title": "PDF.ai | Chat with PDFs & PDF API (parse, extract, split)",
+  "site_desc": "Chat with any PDF using AI: ask questions, get summaries, and find answers. Use our API to parse documents, extract data, and split PDFs in your own workflows.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Humata",
+  "url": "https://www.humata.ai",
+  "note": "Ask questions and get summaries from your files",
+  "final": "https://www.humata.ai/",
+  "site_title": "Humata: AI meets your knowledge base",
+  "site_desc": "Humata is an AI agent that turns your documents into a fast, intelligent knowledge base for instant analysis, insights, and answers.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "AskYourPDF",
+  "url": "https://askyourpdf.com",
+  "note": "Chat with PDFs and documents",
+  "final": "https://askyourpdf.com/",
+  "site_title": "AskYourPDF: AI Chatbot for Your Website & PDF AI Tools",
+  "site_desc": "Add an AI chatbot to your website, trained on your content. Auto fill PDF forms with our AI form filler, and chat with any PDF. Start free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ChatDOC",
+  "url": "https://chatdoc.com",
+  "note": "Chat with documents with sourced answers",
+  "final": "https://chatdoc.com/",
+  "site_title": "ChatDOC - AI Chat with PDF Documents",
+  "site_desc": "Dive into PDFs like never before with ChatDOC. Let AI summarize long documents, explain complex concepts, and find key information in seconds.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "UPDF",
+  "url": "https://updf.com",
+  "note": "PDF editor with an AI assistant to chat and summarize",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://updf.com/"
+ },
+ {
+  "title": "PopAi",
+  "url": "https://www.popai.pro",
+  "note": "Chat with documents and generate presentations",
+  "final": "https://www.popai.pro/",
+  "site_title": "AI Presentation Maker & PowerPoint Generator | PopAi",
+  "site_desc": "Create editable presentations from a prompt, PDF, Word file, PPTX, or webpage. Choose a template, refine your slides, and export to PPTX or PDF.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Docalysis",
+  "url": "https://docalysis.com",
+  "note": "Chat with PDF documents",
+  "final": "https://docalysis.com/",
+  "site_title": "Docalysis - AI chat with your PDF files!",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Anara",
+  "url": "https://anara.com",
+  "note": "Chat with and organize research papers and documents",
+  "final": "https://anara.com/",
+  "site_title": "Anara | AI Research Assistant with Source Citations",
+  "site_desc": "Anara is the AI workspace for research. Search your library and the web, then write with every claim cited to its source. 4× more accurate than general AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Smallpdf",
+  "url": "https://smallpdf.com",
+  "note": "PDF tools with AI summarizer and chat",
+  "final": "https://smallpdf.com/",
+  "site_title": "Smallpdf - A Free Solution to all your PDF Problems",
+  "site_desc": "Smallpdf - the platform that makes it super easy to convert and edit all your PDF files. Solving all your PDF problems in one place - and yes, free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "PDFgear",
+  "url": "https://www.pdfgear.com",
+  "note": "Free PDF editor with AI chat",
+  "final": "https://www.pdfgear.com/",
+  "site_title": "PDFgear - Free PDF Editor Software & Online tools",
+  "site_desc": "Edit PDF online or offline with PDFgear",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "PDFelement",
+  "url": "https://pdf.wondershare.com",
+  "note": "PDF editor with AI summarization and chat",
+  "final": "https://pdf.wondershare.com/",
+  "site_title": "Easy PDF Solution to Create, Convert, Edit PDF -Wondershare PDFelement",
+  "site_desc": "Wondershare PDFelement is a powerful yet easy-to-use PDF editor solution to create, edit, protect, and sign PDFs on desktop, mobile, and web.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Foxit PDF Editor",
+  "url": "https://www.foxit.com",
+  "note": "PDF editor with AI assistant",
+  "final": "https://www.foxit.com/",
+  "site_title": "PDF Software & Tools Tailored to Your Business | Foxit",
+  "site_desc": "Fast, secure PDF software trusted by businesses worldwide. Edit, convert, and eSign documents with Foxit’s affordable tools.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Nanonets",
+  "url": "https://nanonets.com",
+  "note": "Extracts data from invoices and documents with AI",
+  "final": "https://nanonets.com/",
+  "site_title": "Nanonets: AI Agents for Enterprise Data Processing",
+  "site_desc": "Nanonets automates messy manual processes including accounts payable, claims processing, order management, and more, and delivers clean data to systems of record like SAP, Salesforce, and more. Trusted by 10,000+ enterpr",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Docsumo",
+  "url": "https://www.docsumo.com",
+  "note": "Extracts data from business documents",
+  "final": "https://www.docsumo.com/",
+  "site_title": "Document AI Software | Docsumo",
+  "site_desc": "AI agents that extract and cross-check bank statements, settlement letters, ACORD forms and Medicaid packets. 95%+ AI Approved. Try 1,000 pages free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Rossum",
+  "url": "https://rossum.ai",
+  "note": "AI document processing for invoices and transactions",
+  "final": "https://rossum.ai/",
+  "site_title": "AI Document Processing For Transactional Workflows",
+  "site_desc": "Automate complex transactional workflows with Rossum’s AI document processing solution. Reduce manual tasks, increase accuracy, drive efficiency.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Parseur",
+  "url": "https://parseur.com",
+  "note": "Extracts data from emails and PDFs into spreadsheets",
+  "final": "https://parseur.com/",
+  "site_title": "AI data extraction software | Parseur®",
+  "site_desc": "Parseur is an AI data extraction software that helps you automate text extraction from PDFs, emails, and other documents. Instantly send extracted data to all your applications.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Docparser",
+  "url": "https://docparser.com",
+  "note": "Pulls data out of PDFs and scanned documents",
+  "final": "https://docparser.com/",
+  "site_title": "Docparser - Automate Data Extraction from PDFs and Documents",
+  "site_desc": "Docparser helps you extract important data from Word, PDF, CSV, XLS, TXT, XML, and image files. Send to Excel, Google Sheets, and 100s of apps.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Klippa",
+  "url": "https://www.klippa.com",
+  "note": "Document processing and OCR for business paperwork",
+  "final": "https://www.klippa.com/",
+  "site_title": "Doxis (ex-Klippa) - AI Oplossingen voor Documentautomatisering",
+  "site_desc": "Doxis biedt AI oplossingen voor geautomatiseerde documentverwerking die tijd besparen, kosten verlagen en fraude voorkomen voor bedrijven.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "LightPDF",
+  "url": "https://lightpdf.com",
+  "note": "Online PDF tools with AI chat",
+  "final": "https://lightpdf.com/",
+  "site_title": "AI-Powered Free Online PDF Editor, Converter & Reader - LightPDF",
+  "site_desc": "Powered by AI, LightPDF provides free cloud-based services to view, edit, convert, sign, annotate, merge, manage and share PDF easily and helps you solve all PDF problems.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Julius AI",
+  "url": "https://julius.ai",
+  "note": "Chat with your data to analyze it and make charts",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://julius.ai/"
+ },
+ {
+  "title": "Rows",
+  "url": "https://rows.com",
+  "note": "Spreadsheet with an AI analyst built in",
+  "final": "https://rows.com/product",
+  "site_title": "Rows - Your new AI Data Analyst",
+  "site_desc": "Use AI to analyze data from 50+ sources — PDFs, databases, analytics tools, and bank accounts. Only plain language. No code, SQL, or formulas.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "GPTExcel",
+  "url": "https://gptexcel.uk",
+  "note": "Generates formulas and scripts for Excel and Sheets",
+  "final": "https://gptexcel.uk/",
+  "site_title": "GPTExcel - AI Powered Excel Formula Generator",
+  "site_desc": "GPTExcel is an AI spreadsheet assistant. Upload Excel or CSV files, ask in plain English, and get formulas, pivot tables, charts, slide decks, and summaries.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Ajelix",
+  "url": "https://ajelix.com",
+  "note": "AI tools for Excel and Google Sheets formulas and reports",
+  "final": "https://ajelix.com/",
+  "site_title": "Agentic AI Chat For Work: AI Chatbot For Business That Works",
+  "site_desc": "Ajelix is the agentic AI chat for work that transforms data into actionable results. Trusted by 340,000+ digital professionals.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SheetAI",
+  "url": "https://www.sheetai.app",
+  "note": "AI functions inside Google Sheets",
+  "final": "https://www.sheetai.app/",
+  "site_title": "SheetAI — AI inside Google Sheets for text, images, video & music",
+  "site_desc": "Stop copy-pasting AI into spreadsheets. SheetAI runs bulk text AI and Replicate image, video, and music generation inside Google Sheets. Free with your own API key.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Numerous.ai",
+  "url": "https://numerous.ai",
+  "note": "ChatGPT-style AI functions for Sheets and Excel",
+  "final": "https://numerous.ai/",
+  "site_title": "Numerous.ai",
+  "site_desc": "An AI-powered spreadsheet plugin that brings ChatGPT to Google Sheets and Excel.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Akkio",
+  "url": "https://www.akkio.com",
+  "note": "AI data analysis and prediction for agencies",
+  "final": "https://www.akkio.com/",
+  "site_title": "The AI Workflow Automation Platform | Akkio",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Powerdrill",
+  "url": "https://powerdrill.ai",
+  "note": "AI data analysis and reports from your files",
+  "final": "https://powerdrill.ai/",
+  "site_title": "Powerdrill Bloom - Your AI Workspace with Memory",
+  "site_desc": "Your AI Workspace with Memory: smarter with every use. Your agents learn from every analysis.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Coefficient",
+  "url": "https://coefficient.io",
+  "note": "Syncs live business data into spreadsheets with AI",
+  "final": "https://coefficient.io/",
+  "site_title": "Coefficient: Data Connectors & AI Dashboards for Sheets & Excel",
+  "site_desc": "Connect Google Sheets & Excel to Salesforce, QuickBooks, Snowflake, and 100+ data sources. Build live analysis and dashboards with AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Shortcut",
+  "url": "https://shortcut.ai",
+  "note": "AI agent that works inside Excel spreadsheets",
+  "final": "https://shortcut.ai/",
+  "site_title": "Shortcut | Excel AI | The Best Way to Build and Edit Excel with AI",
+  "site_desc": "Shortcut is the superhuman AI agent for Excel. Automate spreadsheet tasks, generate formulas instantly, and build LBOs, DCFs, and 3-statement models in minutes. Save 10-15 hours per week on finance and spreadsheet work w",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Quadratic",
+  "url": "https://www.quadratichq.com",
+  "note": "AI spreadsheet with Python, SQL and charts",
+  "final": "https://www.quadratichq.com/",
+  "site_title": "Quadratic: The AI Spreadsheet",
+  "site_desc": "The AI spreadsheet that connects to your data and helps you understand it fast. Turn questions into fast, explainable, and shareable insights.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sourcetable",
+  "url": "https://sourcetable.com",
+  "note": "AI spreadsheet that analyzes and models data",
+  "final": "https://sourcetable.com/",
+  "site_title": "Sourcetable — AI Spreadsheet + AI Data Analyst + Excel AI",
+  "site_desc": "Sourcetable is the world's smartest spreadsheet. Use AI to analyze data, build financial models, generate Excel templates, graphs & reports.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Bricks",
+  "url": "https://www.thebricks.com",
+  "note": "AI spreadsheet and dashboard builder",
+  "final": "https://www.thebricks.com/",
+  "site_title": "Your AI Data Analyst to Create Dashboards and Reports | Bricks",
+  "site_desc": "Bricks is the easiest way to turn your CSV and Excel data into beautiful dashboards and reports in seconds with AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Equals",
+  "url": "https://equals.com",
+  "note": "Spreadsheet connected to live data with AI",
+  "final": "https://equals.com/",
+  "site_title": "Trusted AI analytics | Equals",
+  "site_desc": "AI for the numbers that can't be wrong. Build expert workbooks, trust every answer, and deploy them across your company.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hex",
+  "url": "https://hex.tech",
+  "note": "Collaborative data workspace with AI analysis",
+  "final": "https://hex.tech/",
+  "site_title": "Hex: The Analytics platform for humans and agents",
+  "site_desc": "Rethinking BI Conversational analytics and Context management for the agentic era.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ThoughtSpot",
+  "url": "https://www.thoughtspot.com",
+  "note": "AI analytics that answers questions about business data",
+  "final": "https://www.thoughtspot.com/",
+  "site_title": "ThoughtSpot Agentic Analytics Platform",
+  "site_desc": "Transform insights into action with the ThoughtSpot Agentic Analytics Platform—AI agents, automated insights, and embedded intelligence.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zoho Analytics",
+  "url": "https://www.zoho.com/analytics/",
+  "note": "BI and analytics with an AI assistant",
+  "final": "https://www.zoho.com/analytics/",
+  "site_title": "Data Analytics Software & AI-Powered BI Platform - Zoho Analytics",
+  "site_desc": "Connect 500+ apps, build dashboards, and get actionable insights instantly with Zoho Analytics, the award-winning business intelligence and data analytics software.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Graphy",
+  "url": "https://graphy.app",
+  "note": "Turns data into charts and insights with AI",
+  "final": "https://graphy.app/",
+  "site_title": "Graphy - Make Beautiful Graphs Online For Free with AI",
+  "site_desc": "Graphy enables anyone to become a skilled data storyteller, by radically simplifying the way data is presented and communicated.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fabi.ai",
+  "url": "https://www.fabi.ai",
+  "note": "AI data analysis platform for SQL and Python",
+  "final": "https://www.fabi.ai/",
+  "site_title": "Fabi.ai: AI-powered data analysis platform | SQL + Python + AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Columns",
+  "url": "https://columns.ai",
+  "note": "Data storytelling and charts with AI",
+  "final": "https://columns.ai/",
+  "site_title": "Columns AI: The End-to-End Data Automation Platform",
+  "site_desc": "Clean data, automate workflows, and build compelling visual stories with Columns AI. Discover Columns Drive, Flow, and Graph today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sigma Computing",
+  "url": "https://www.sigmacomputing.com",
+  "note": "Spreadsheet-style cloud analytics with AI",
+  "final": "https://www.sigmacomputing.com/",
+  "site_title": "The AI runtime for business | Sigma",
+  "site_desc": "Build and run AI apps, dashboards, and agents on governed warehouse data. Sigma lets every team build with chat, a spreadsheet, SQL, or Python.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Basedash",
+  "url": "https://www.basedash.com",
+  "note": "AI-native business intelligence dashboards",
+  "final": "https://www.basedash.com/",
+  "site_title": "Basedash | Analytics for the AI era",
+  "site_desc": "Self-serve BI, embedded analytics, ETL, managed warehouse, and a semantic layer. Basedash is everything you need for AI analytics, in one platform.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Text2SQL.ai",
+  "url": "https://www.text2sql.ai",
+  "note": "Turns plain English into SQL queries",
+  "final": "https://www.text2sql.ai/",
+  "site_title": "Text to SQL & AI Query Generator | Text2SQL.ai (Free to Try)",
+  "site_desc": "Transform your text into SQL with Text2SQL.ai – the leading AI Query Generator. Quickly generate queries for MySQL, PostgreSQL, Oracle, and more with ease. Try it for free!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "AI2sql",
+  "url": "https://ai2sql.io",
+  "note": "Generates SQL queries from plain language",
+  "final": "https://ai2sql.io/",
+  "site_title": "SQL Query Builder & Generator - AI Powered Database Assistant",
+  "site_desc": "AI SQL assistant that works on your real schema. Generate, explain, fix and optimize SQL, and let Claude, Cursor or ChatGPT query your database over MCP.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SQLAI.ai",
+  "url": "https://www.sqlai.ai",
+  "note": "Generates and explains SQL queries",
+  "final": "https://www.sqlai.ai/",
+  "site_title": "Generate SQL Queries in Seconds for Free - SQLAI.ai",
+  "site_desc": "Generate, optimize, validate, and explain SQL queries and much more with cutting-edge AI for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Chat2DB",
+  "url": "https://chat2db.ai",
+  "note": "AI SQL client for querying databases",
+  "final": "https://chat2db.ai/",
+  "site_title": "Chat2DB - AI Text2SQL Tool for Easy Database Management",
+  "site_desc": "Chat2DB is an AI-powered SQL client that transforms natural language into SQL queries. Supports MySQL, Redis, MongoDB, and enhances database management with Text2SQL and BI features.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "DataSquirrel",
+  "url": "https://datasquirrel.ai",
+  "note": "Automatically analyzes and visualizes spreadsheets",
+  "final": "https://datasquirrel.ai/",
+  "site_title": "DataSquirrel.ai - Data Analysis for Non-Tech Business Managers. Using AI but Secure.",
+  "site_desc": "DataSquirrel.ai: Data Analysis: Fast. Safe. AI. Guided. Plain English. No Formulas. No pivot tables. Auto-analyze. Auto-Intelligence. Auto-clean. Auto-chart. Share. API. Comment. Download. No ChatGPT upload of data. True",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tableau",
+  "url": "https://www.tableau.com",
+  "note": "Data visualization and analytics with AI",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.tableau.com/"
+ },
+ {
+  "title": "Microsoft Power BI",
+  "url": "https://www.microsoft.com/en-us/power-platform/products/power-bi",
+  "note": "Business analytics with Copilot",
+  "final": "https://www.microsoft.com/en-us/power-platform/products/power-bi",
+  "site_title": "Power BI - Data Visualization | Microsoft Power Platform",
+  "site_desc": "Microsoft Power BI is a business intelligence platform that helps you visualize data and infuse insights into your existing Microsoft 365 apps. Try it for free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Domo",
+  "url": "https://www.domo.com",
+  "note": "Business data platform with AI agents",
+  "final": "https://www.domo.com/",
+  "site_title": "Governed Data for AI Agents | Domo",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zenlytic",
+  "url": "https://www.zenlytic.com",
+  "note": "AI data analyst for business intelligence",
+  "final": "https://zenlytic.com/",
+  "site_title": "Zenlytic — The AI Data Analyst for Your Entire Org",
+  "site_desc": "Zero to governed in 59 minutes. Verifiable answers. Ready for the questions you didn’t anticipate.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Formulas HQ",
+  "url": "https://www.formulashq.com",
+  "note": "AI helpers for Excel and Google Sheets formulas",
+  "final": "https://formulashq.com/",
+  "site_title": "FormulasHQ — AI-Powered Excel Formulas, Scripts & Data Analysis",
+  "site_desc": "Generate Excel formulas, VBA macros, Python code, regex, and Salesforce formulas in plain English. Trusted by 99,000+ users. Start free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SheetGod",
+  "url": "https://www.boloforms.com/sheetgod/",
+  "note": "Generates Excel formulas and macros from text",
+  "final": "https://www.boloforms.com/sheetgod/",
+  "site_title": "Microsoft Excel Formulas Ai Powered Tool - Sheetgod",
+  "site_desc": "Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Genius Sheets",
+  "url": "https://geniussheets.us",
+  "note": "AI financial analysis in spreadsheets",
+  "final": "https://geniussheets.us/",
+  "site_title": "Custom Excel Reporting for Multi-Entity Finance Teams | Genius Sheets",
+  "site_desc": "Genius Sheets pulls live QuickBooks Online and Xero financials into Excel and Google Sheets. Consolidate every entity in one workbook, refreshed daily, with drill-down to the transaction.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Clay",
+  "url": "https://www.clay.com",
+  "note": "Enriches lead data and automates research with AI",
+  "final": "https://www.clay.com/",
+  "site_title": "Clay | Build systems to grow revenue",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Otio",
+  "url": "https://otio.ai",
+  "note": "AI research and writing workspace for documents and links",
+  "final": "https://otio.ai/",
+  "site_title": "Otio: AI research workspace for hundreds of sources",
+  "site_desc": "Keep PDFs, videos, and pages in one library. Chat across models with page-level citations. Your sources stay.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kroolo",
+  "url": "https://kroolo.com",
+  "note": "AI project management and docs for teams",
+  "final": "https://kroolo.com/",
+  "site_title": "Kroolo | The All-In-One AI Workspace for Work, Docs & Search",
+  "site_desc": "Replace 10+ apps with Kroolo. Unify your projects, goals, docs, and AI agents into one intelligent platform. Streamline your workflow and boost productivity.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hive",
+  "url": "https://hive.com",
+  "note": "Project management with AI features",
+  "final": "https://hive.com/",
+  "site_title": "The #1 Project Management Software For Teams | Hive",
+  "site_desc": "Use Hive",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Teamwork.com",
+  "url": "https://www.teamwork.com",
+  "note": "Client project management with AI",
+  "final": "https://www.teamwork.com/",
+  "site_title": "AI-Powered PSA Software Built for Profitability | Teamwork.com",
+  "site_desc": "Teamwork.com is the PSA platform that leverages AI to manage projects, optimize resources, forecast capacity, and give teams real-time visibility into performance and profitability.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zoho Projects",
+  "url": "https://www.zoho.com/projects/",
+  "note": "Project management software with AI",
+  "final": "https://www.zoho.com/projects/",
+  "site_title": "Zoho Projects: The Leading Project Management Software",
+  "site_desc": "Zoho Projects is a cloud-based project management tool that helps teams plan, track, collaborate, and achieve project goals. Try our online project management software for free!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Nifty",
+  "url": "https://niftypm.com",
+  "note": "Project management with AI project plans",
+  "final": "https://niftypm.com/",
+  "site_title": "Nifty™ | The Ultimate All-in-One Hub for Every Project",
+  "site_desc": "Nifty™—Your all-in-one AI-powered project management workspace. Effortlessly manage tasks, docs, chats, and automation for free! Upgrade anytime at just $7/mo",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Productboard",
+  "url": "https://www.productboard.com",
+  "note": "Product management with AI feedback analysis",
+  "final": "https://www.productboard.com/",
+  "site_title": "The Agentic Product Management System | Productboard",
+  "site_desc": "Productboard is the only comprehensive agentic product management system built for product makers. Understand customers, prioritize features, and ship the right thing.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Dovetail",
+  "url": "https://dovetail.com",
+  "note": "Analyzes customer interviews and feedback with AI",
+  "final": "https://dovetail.com/",
+  "site_title": "Dovetail | Customer Intelligence Platform",
+  "site_desc": "Dovetail is the leading customer intelligence platform. Assemble. Analyze. Act. Turn feedback into real-time insights that drive innovation and growth.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Webex AI Assistant",
+  "url": "https://www.webex.com/us/en/ai-assistant.html",
+  "note": "AI meeting summaries and assistance in Webex",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.webex.com/us/en/ai-assistant.html"
+ },
+ {
+  "title": "Rize",
+  "url": "https://rize.io",
+  "note": "Personal time tracker that helps you focus",
+  "final": "https://rize.io/",
+  "site_title": "Rize: Automatic Time Tracking for Agencies & Accounting Firms",
+  "site_desc": "Automatic, private time tracking your whole team will use. See client profitability, burn and capacity by client, with no timers or timesheets.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "PandaDoc",
+  "url": "https://www.pandadoc.com",
+  "note": "Creates proposals and contracts with AI and e-signatures",
+  "status": "blocked",
+  "code": "429",
+  "final": "https://www.pandadoc.com/"
+ },
+ {
+  "title": "Docusign IAM",
+  "url": "https://www.docusign.com",
+  "note": "E-signatures and AI agreement management",
+  "final": "https://www.docusign.com/",
+  "site_title": "Docusign | #1 in Electronic Signature and Intelligent Agreement Management",
+  "site_desc": "Create, commit to, and manage your agreements all in one platform with Docusign IAM. Electronically sign for free.",
+  "code": "200",
+  "status": "ok"
+ }
+]

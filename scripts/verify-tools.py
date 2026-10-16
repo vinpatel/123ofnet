@@ -16,8 +16,9 @@ from urllib.parse import urlparse
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140 Safari/537.36"
 PARKED = re.compile(r"domain (is )?for sale|buy this domain|this domain (name )?(is|may be) (for sale|available)|parked (free|domain)|"
-                    r"sedoparking|hugedomains|dan\.com|afternic|godaddy\.com/domainsearch|domain has expired|"
-                    r"account (has been )?suspended|coming soon - this domain", re.I)
+                    r"sedoparking|hugedomains|dan\.com|afternic|godaddy\.com/domainsearch|location\.href=\"/lander\"", re.I)
+# Only meaningful when they are what the page is about, so match title/description only
+PARKED_TITLE = re.compile(r"domain has expired|account (has been )?suspended|coming soon - this domain|^index of /|website is under construction", re.I)
 
 
 def root(host):
@@ -56,7 +57,8 @@ def check(item):
     desc = html.unescape(desc.group(1)).strip() if desc else ""
     out.update(final=final, site_title=title[:160], site_desc=desc[:220], code=code)
 
-    if PARKED.search(title + " " + desc + " " + body[:20000]):
+    tiny_shell = len(body) < 600 and not title and "lander" in body
+    if tiny_shell or PARKED.search(title + " " + desc + " " + body[:20000]) or PARKED_TITLE.search(title + " " + desc):
         out["status"] = "parked"
     elif root(urlparse(final).hostname) != root(urlparse(url).hostname):
         brand = norm(item["title"].split()[0]) if item["title"].split() else ""
