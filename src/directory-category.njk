@@ -27,9 +27,12 @@ eleventyComputed:
   </table>
   {% endif %}
 
-  <h2>All {{ cat.links | length }} tools for {{ cat.name }}</h2>
+  <h2 id="all">All {{ cat.links | length }} tools for {{ cat.name }}</h2>
   <p class="center"><label for="cf" class="sr">Filter {{ cat.name }} tools</label>
   <input id="cf" type="search" data-filter placeholder="Filter these {{ cat.links | length }} tools..." autocomplete="off" style="width:80%;padding:5px;border:2px inset #C0C0C0;font:15px Verdana,sans-serif"></p>
+  {% if guide and guide.chips %}<p class="chips center small">Show only:
+    {% for ch in guide.chips %}<a class="chip" href="?q={{ ch.q | urlencode }}#all" data-chip="{{ ch.q }}">{{ ch.label }}</a> {% endfor %}
+    <a class="chip" href="?#all" data-chip="">All</a></p>{% endif %}
   <p class="small center" data-count aria-live="polite"></p>
   <section style="border-top:4px solid {{ cat.color }}">
     {% for l in cat.links | sort(true, false, "featured") %}{% include "listing.njk" %}{% endfor %}

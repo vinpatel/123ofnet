@@ -5,11 +5,13 @@ export default function (eleventyConfig) {
   // Archived screenshots of the original site, shown on /1999/
   eleventyConfig.addPassthroughCopy({ "archive/screenshots": "1999/shots" });
 
+  eleventyConfig.addWatchTarget("data/");
+  eleventyConfig.addWatchTarget("lib/");
   eleventyConfig.addFilter("year", () => new Date().getFullYear());
   eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString().slice(0, 10));
   // Compact search index for /directory/: [title, url, note, category slug, category name]
   eleventyConfig.addFilter("searchIndex", (cats) =>
-    cats.flatMap((c) => c.links.map((l) => [l.title, l.url, l.note, c.slug, c.name])));
+    cats.flatMap((c) => c.links.map((l) => [l.title, l.url, l.note, c.slug, c.name, l.slug])));
   eleventyConfig.addFilter("totalLinks", (cats) => cats.reduce((n, c) => n + c.links.length, 0));
 
   return {

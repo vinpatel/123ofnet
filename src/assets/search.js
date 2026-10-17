@@ -20,6 +20,15 @@
     };
     if (q) local.value = q;
     local.addEventListener("input", runLocal);
+    document.querySelectorAll("[data-chip]").forEach(function (chip) {
+      chip.addEventListener("click", function (e) {
+        e.preventDefault();
+        local.value = chip.getAttribute("data-chip");
+        history.replaceState(null, "", local.value ? "?q=" + encodeURIComponent(local.value) + "#all" : location.pathname);
+        runLocal();
+        document.getElementById("all").scrollIntoView({ behavior: "smooth" });
+      });
+    });
     runLocal();
   }
 
@@ -44,7 +53,7 @@
         out.innerHTML = res.slice(0, 100).map(function (x) {
           var t = x.t;
           return '<div class="listing"><h3><a href="' + esc(t[1]) + '" rel="noopener">' + esc(t[0]) + '</a></h3><p>' + esc(t[2]) +
-            '</p><span class="url">' + esc(t[1].replace(/^https?:\/\/(www\.)?/, "")) + '</span> &middot; <a class="small" href="/directory/' + t[3] + '/">' + esc(t[4]) + '</a></div>';
+            '</p><span class="url">' + esc(t[1].replace(/^https?:\/\/(www\.)?/, "")) + '</span> &middot; <a class="small" href="/tool/' + t[5] + '/">Details</a> &middot; <a class="small" href="/directory/' + t[3] + '/">' + esc(t[4]) + '</a></div>';
         }).join("") + (res.length > 100 ? '<p class="small center">Showing the first 100. Add another word to narrow it down.</p>' : "");
       });
     };

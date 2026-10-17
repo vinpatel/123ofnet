@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Merge verified candidate tools into src/_data/directory.json.
+"""Merge verified candidate tools into data/directory.json.
 
 Usage: python3 -I scripts/merge-tools.py verified/<slug>.json [more files...]
 
@@ -11,7 +11,7 @@ category). Existing entries keep their position; new ones are appended.
 import json, os, re, sys
 from urllib.parse import urlparse, urlunparse
 
-DIR = os.path.join(os.path.dirname(__file__), "..", "src", "_data", "directory.json")
+DIR = os.path.join(os.path.dirname(__file__), "..", "data", "directory.json")
 ACCEPT = {"ok", "moved", "blocked"}
 
 

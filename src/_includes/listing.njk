@@ -1,5 +1,5 @@
-<div class="listing{% if l.featured %} featured{% endif %}" data-search="{{ (l.title + ' ' + l.note + ' ' + cat.name) | lower }}">
+<div class="listing{% if l.featured %} featured{% endif %}" data-search="{{ (l.title + ' ' + l.note) | lower }}">
   <h3><a href="{{ l.url }}" rel="noopener{% if l.aff %} sponsored{% endif %}">{{ l.title }}</a>{% if l.featured %} <span class="tag">FEATURED</span>{% endif %}{% if l.aff %} <span class="small">(aff)</span>{% endif %}</h3>
   <p>{{ l.note }}</p>
-  <span class="url">{{ l.url | replace("https://", "") | replace("www.", "") }}</span>
+  <span class="url">{{ l.url | replace("https://", "") | replace("www.", "") }}</span>{% if l.slug %} &middot; <a class="small" href="/tool/{{ l.slug }}/">Details &amp; alternatives</a>{% endif %}
 </div>

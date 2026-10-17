@@ -41,6 +41,8 @@
 - [x] Grow the directory past 100 tools; how-to-choose guides on every category
 - [x] 200+ tools in every category (2,635 total), each verified with scripts/verify-tools.py; verifier reports in archive/research/
 - [ ] Vin: decide whether to trim "platforms with AI features" (Calendly, Datadog, Loom, Teachable...) for an AI-first-only directory
+- [x] A page per tool (/tool/<slug>/): summary, the site's own description, 8 closest alternatives, how-to-choose tips
+- [x] Filter buttons on category pages; weekly link-check workflow opens a GitHub issue with tools that need a look
 - [ ] Add affiliate links where programs exist
 - [ ] Launch post (Show HN, Reddit, X, LinkedIn) with before/after screenshots
 

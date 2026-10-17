@@ -1,0 +1,1290 @@
+[
+ {
+  "title": "ChatGPT",
+  "url": "https://chatgpt.com",
+  "note": "General AI assistant for writing, questions and ideas",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://chatgpt.com/"
+ },
+ {
+  "title": "Claude",
+  "url": "https://claude.ai",
+  "note": "AI assistant that's strong at writing, analysis and long documents",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://claude.ai/"
+ },
+ {
+  "title": "Gemini",
+  "url": "https://gemini.google.com",
+  "note": "Google's AI assistant, works with Gmail and Docs",
+  "final": "https://gemini.google.com/",
+  "site_title": "",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Microsoft Copilot",
+  "url": "https://copilot.microsoft.com",
+  "note": "Microsoft's AI assistant, built into Windows and Office",
+  "final": "https://copilot.microsoft.com/",
+  "site_title": "Microsoft Copilot",
+  "site_desc": "Microsoft Copilot is AI built to help you get things done. Create, brainstorm, learn, and solve problems with AI chat that works across your day.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Perplexity",
+  "url": "https://www.perplexity.ai",
+  "note": "AI search engine that shows its sources",
+  "final": "https://www.perplexity.ai/",
+  "site_title": "Perplexity",
+  "site_desc": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Meta AI",
+  "url": "https://www.meta.ai",
+  "note": "Meta's AI assistant, also inside WhatsApp, Instagram and Facebook",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.meta.ai/"
+ },
+ {
+  "title": "Grok",
+  "url": "https://grok.com",
+  "note": "xAI's assistant, with access to posts on X",
+  "final": "https://grok.com/",
+  "site_title": "Grok",
+  "site_desc": "Grok is an AI assistant built by SpaceXSI. Chat, create images, write code, and get real-time answers from the web and X.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Le Chat by Mistral",
+  "url": "https://chat.mistral.ai",
+  "note": "Fast AI assistant from France's Mistral AI",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://chat.mistral.ai/"
+ },
+ {
+  "title": "DeepSeek",
+  "url": "https://chat.deepseek.com",
+  "note": "AI assistant that's strong at reasoning and maths",
+  "status": "blocked",
+  "code": "202",
+  "final": "https://chat.deepseek.com/"
+ },
+ {
+  "title": "Poe",
+  "url": "https://poe.com",
+  "note": "Use many different AI models in one app",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://poe.com/login?redirect_url=%2F"
+ },
+ {
+  "title": "You.com",
+  "url": "https://you.com",
+  "note": "AI search and research assistant",
+  "final": "https://you.com/",
+  "site_title": "The Leading Web Search APIs for AI | You.com",
+  "site_desc": "Skip the groundwork with our AI-ready Web Search APIs, delivering advanced search capabilities to power your next product.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "HuggingChat",
+  "url": "https://huggingface.co/chat/",
+  "note": "Free chat with open-source AI models",
+  "final": "https://huggingface.co/chat/",
+  "site_title": "HuggingChat - Chat with AI models",
+  "site_desc": "Making the community",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Grammarly",
+  "url": "https://www.grammarly.com",
+  "note": "Fixes grammar and tone as you type",
+  "final": "https://www.grammarly.com/",
+  "site_title": "Grammarly: Free AI Writing Assistance",
+  "site_desc": "Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "QuillBot",
+  "url": "https://quillbot.com",
+  "note": "Rewrite and paraphrase text",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://quillbot.com/"
+ },
+ {
+  "title": "Jasper",
+  "url": "https://www.jasper.ai",
+  "note": "AI writing for marketing teams",
+  "final": "https://www.jasper.ai/",
+  "site_title": "Put AI agents to work for marketing | Jasper",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Notion AI",
+  "url": "https://www.notion.so",
+  "note": "Notes and docs with an AI writer built in",
+  "final": "https://www.notion.com/",
+  "site_title": "The AI workspace that works for you. | Notion",
+  "site_desc": "Build Custom Agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.",
+  "code": "200",
+  "status": "moved"
+ },
+ {
+  "title": "Wordtune",
+  "url": "https://www.wordtune.com",
+  "note": "Rewrites your sentences to sound clearer",
+  "final": "https://www.wordtune.com/",
+  "site_title": "Wordtune — Express yourself with confidence",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Copy.ai",
+  "url": "https://www.copy.ai",
+  "note": "AI writing and workflows for sales and marketing",
+  "final": "https://www.copy.ai/",
+  "site_title": "Future proof your business with GTM AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Writesonic",
+  "url": "https://writesonic.com",
+  "note": "AI writer for blog posts and SEO content",
+  "final": "https://writesonic.com/",
+  "site_title": "Writesonic | The AI Search Growth Engine. Win Customers.",
+  "site_desc": "The AI Search Growth Engine. GEO, AEO, and AI visibility in one platform. Track 8 AI platforms, run the work, prove the lift. Trusted by Amazon, Unilever, Acer & NP Digital.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hemingway Editor",
+  "url": "https://hemingwayapp.com",
+  "note": "Makes your writing bold and clear",
+  "final": "https://hemingwayapp.com/",
+  "site_title": "Hemingway Editor",
+  "site_desc": "Hemingway Editor makes your writing bold and clear.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "LanguageTool",
+  "url": "https://languagetool.org",
+  "note": "Grammar and spelling checker for 30+ languages",
+  "final": "https://languagetool.org/",
+  "site_title": "Free AI Grammar Checker - LanguageTool",
+  "site_desc": "Instantly check grammar, punctuation, and spelling errors with LanguageTool's AI-powered grammar checker. Enhance your writing in over 30 languages with ease.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "DeepL Write",
+  "url": "https://www.deepl.com/write",
+  "note": "Polishes your writing in English, German and more",
+  "final": "https://www.deepl.com/en/write",
+  "site_title": "DeepL Write: AI-powered writing companion",
+  "site_desc": "DeepL Write is a tool that helps you perfect your writing. Write clearly, precisely, with ease, and without errors. Try for free now!",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Sudowrite",
+  "url": "https://sudowrite.com",
+  "note": "AI writing partner for fiction writers",
+  "final": "https://sudowrite.com/",
+  "site_title": "Sudowrite - Best AI Writing Partner for Fiction",
+  "site_desc": "Write your novel faster with the best AI tool for fiction. Start for free today and see why The New Yorker calls it \"a salvation\" for writers and why The New York Times, The Verge, and many more love Sudowrite.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Superhuman",
+  "url": "https://superhuman.com",
+  "note": "Fast email app with AI writing and sorting",
+  "final": "https://superhuman.com/",
+  "site_title": "Superhuman: Docs, Mail, and AI That Work Everywhere",
+  "site_desc": "Superhuman is the AI productivity suite that gives you superpowers everywhere you work. So you can be more creative, strategic, and impactful.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ProWritingAid",
+  "url": "https://prowritingaid.com",
+  "note": "Grammar checker and style editor for long writing",
+  "final": "https://prowritingaid.com/",
+  "site_title": "ProWritingAid | The Complete Toolkit for Storytellers",
+  "site_desc": "Plan, write, edit, and publish with the complete toolkit for storytellers. Build your craft, strengthen your writing habit, and finish your story.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Teal",
+  "url": "https://www.tealhq.com",
+  "note": "Resume builder and job tracker",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.tealhq.com/"
+ },
+ {
+  "title": "Kickresume",
+  "url": "https://www.kickresume.com",
+  "note": "AI resume and cover letter writer",
+  "final": "https://www.kickresume.com/en/",
+  "site_title": "Kickresume | Best Online Resume & Cover Letter Builder",
+  "site_desc": "Create your best resume yet. Online resume and cover letter builder used by 8,000,000 job seekers worldwide. Professional templates approved by recruiters.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Rezi",
+  "url": "https://www.rezi.ai",
+  "note": "Resumes made to get past applicant tracking systems",
+  "final": "https://www.rezi.ai/",
+  "site_title": "The #1 AI Resume Builder – Forbes' Top Pick. Trusted by 4.5M",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Final Round AI",
+  "url": "https://www.finalroundai.com",
+  "note": "AI interview practice",
+  "final": "https://www.finalroundai.com/",
+  "site_title": "Interview CoPilot™ & AI Interview Assistant | Final Round AI",
+  "site_desc": "Interview CoPilot™ is an AI interview assistant that gives real-time answers in live interviews. Prepare, perform, review. macOS and Windows.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jobscan",
+  "url": "https://www.jobscan.co",
+  "note": "Compares your resume to a job ad and shows what's missing",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.jobscan.co/"
+ },
+ {
+  "title": "Enhancv",
+  "url": "https://enhancv.com",
+  "note": "Resume builder with AI suggestions",
+  "final": "https://enhancv.com/",
+  "site_title": "Enhancv | Best ATS-Friendly Online Resume Builder",
+  "site_desc": "✓ Create a professional resume that results in interview callbacks with Enhancv's Resume Builder ✓ Premium & free templates ✓ Fill in your details & apply to jobs.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Resume Worded",
+  "url": "https://resumeworded.com",
+  "note": "Scores your resume and LinkedIn profile",
+  "final": "https://resumeworded.com/",
+  "site_title": "Resume Worded - Free instant feedback on your resume and LinkedIn profile",
+  "site_desc": "Our online resume and LinkedIn grader instantly scores your resume and LinkedIn profile and gives you detailed feedback on how to get more opportunities and interviews.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Yoodli",
+  "url": "https://yoodli.ai",
+  "note": "AI speech coach for interviews and presentations",
+  "final": "https://yoodli.ai/",
+  "site_title": "AI Platform for Human Skills | Yoodli",
+  "site_desc": "AI for sales enablement, partner training, and L&D. Practice pitches, demos & crucial conversations. Trusted by Google, Sandler, Korn Ferry + more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Interview Warmup",
+  "url": "https://grow.google/certificates/interview-warmup/",
+  "note": "Google's free interview practice tool",
+  "final": "https://grow.google/grow-your-career/articles/interview-tips/",
+  "site_title": "How to Prepare for an Interview | Grow with Google",
+  "site_desc": "Learn how to prepare for an interview with interview prep questions, tips and tactics and how to get started with AI-powered interview training.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Careerflow",
+  "url": "https://www.careerflow.ai",
+  "note": "AI tools for job search and LinkedIn",
+  "final": "https://www.careerflow.ai/",
+  "site_title": "Careerflow - Your Career Copilot | Powerful AI Job Search Tools",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Huntr",
+  "url": "https://huntr.co",
+  "note": "Job application tracker with AI resume tools",
+  "final": "https://huntr.co/",
+  "site_title": "Huntr: Job Application Tracker, AI Resume Builder, Tailored Resumes and More",
+  "site_desc": "Huntr helps you organize your job search, create tailored resumes and cover letters with AI and fill out job applications in one click.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Simplify",
+  "url": "https://simplify.jobs",
+  "note": "Autofills job applications and finds roles",
+  "final": "https://simplify.jobs/",
+  "site_title": "Simplify | AI Job Search Platform",
+  "site_desc": "Simplify is your personal AI talent agent for job seekers and an AI-native talent agency for companies. Get matched with jobs, tailor your resume, build your network, get introduced to recruiters, and track every opportu",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Canva",
+  "url": "https://www.canva.com",
+  "note": "Easy design for posts, flyers and slides, with AI tools",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.canva.com/"
+ },
+ {
+  "title": "Midjourney",
+  "url": "https://www.midjourney.com",
+  "note": "Makes artistic images from text",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.midjourney.com/"
+ },
+ {
+  "title": "Adobe Firefly",
+  "url": "https://www.adobe.com/products/firefly.html",
+  "note": "Adobe's image generator, safe for business use",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://www.adobe.com/products/firefly.html"
+ },
+ {
+  "title": "Ideogram",
+  "url": "https://ideogram.ai",
+  "note": "Image generator that's good at text inside images",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://ideogram.ai/"
+ },
+ {
+  "title": "Photoroom",
+  "url": "https://www.photoroom.com",
+  "note": "Product photos and background removal",
+  "final": "https://www.photoroom.com/",
+  "site_title": "AI-Powered Photo Editor and Listing Studio for Product Photography | Photoroom",
+  "site_desc": "AI-powered photo editing tool and listing studio for quick, professional-quality visuals tailored to e‑commerce businesses and social media creators. It helps automate image creation, format for multiple marketplaces, an",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "remove.bg",
+  "url": "https://www.remove.bg",
+  "note": "Removes a photo's background in one click",
+  "final": "https://www.remove.bg/",
+  "site_title": "Remove Background from Image for Free – remove.bg",
+  "site_desc": "Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Leonardo",
+  "url": "https://leonardo.ai",
+  "note": "AI images and art with lots of style control",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://leonardo.ai/"
+ },
+ {
+  "title": "Recraft",
+  "url": "https://www.recraft.ai",
+  "note": "AI for logos, icons and vector graphics",
+  "final": "https://www.recraft.ai/",
+  "site_title": "Recraft | AI for designers, creatives, sellers, and teams",
+  "site_desc": "Recraft is a top-ranked text-to-image model and design platform for photorealism, vector generation, custom styles, mockups, and more",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Krea",
+  "url": "https://www.krea.ai",
+  "note": "Real-time AI image generation and upscaling",
+  "final": "https://www.krea.ai/",
+  "site_title": "Krea",
+  "site_desc": "Krea is the world",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Looka",
+  "url": "https://looka.com",
+  "note": "AI logo maker and brand kit",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://looka.com/"
+ },
+ {
+  "title": "Microsoft Designer",
+  "url": "https://designer.microsoft.com",
+  "note": "Free AI graphics for social posts and invites",
+  "final": "https://designer.microsoft.com/",
+  "site_title": "Microsoft Designer - Stunning designs in a flash",
+  "site_desc": "A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more. Start with your idea and create something unique for you.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Clipdrop",
+  "url": "https://clipdrop.co",
+  "note": "Quick photo tools: remove objects, relight, upscale",
+  "final": "https://clipdrop.co/",
+  "site_title": "Create stunning visuals in seconds with AI.",
+  "site_desc": "Remove background, cleanup pictures, upscaling, Stable diffusion and more…",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Picsart",
+  "url": "https://picsart.com",
+  "note": "Photo and video editor with AI tools",
+  "final": "https://picsart.com/",
+  "site_title": "Picsart: The AI Creative Platform",
+  "site_desc": "Picsart is an all-in-one creative platform with a wide selection of free AI design tools. Create content fast with expert-crafted templates, built-in asset libraries, and generative AI tools.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kittl",
+  "url": "https://www.kittl.com",
+  "note": "Design t-shirts, labels and posters with AI",
+  "final": "https://www.kittl.com/",
+  "site_title": "Kittl | The AI-First Design Platform for Creators",
+  "site_desc": "Kittl is the AI design platform built for creativity. Create with top image gen models, pro editing tools, mockups, and curated assets — free to start.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Let's Enhance",
+  "url": "https://letsenhance.io",
+  "note": "Makes small or blurry photos bigger and sharper",
+  "final": "https://letsenhance.io/",
+  "site_title": "Let's Enhance: AI Image App to Upscale, Sharpen & Improve Quality Online | Try Free",
+  "site_desc": "Try our AI image & video tools: enhancer, upscaler, generator, editor. Online & API. Free to start.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Descript",
+  "url": "https://www.descript.com",
+  "note": "Edit video by editing the transcript",
+  "final": "https://www.descript.com/",
+  "site_title": "Descript: AI Video & Audio Text-based Editor — Try Free",
+  "site_desc": "Descript is the AI video and audio editor that makes editing as easy as editing text. Record, transcribe, edit, and publish in one tool. Try it free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Runway",
+  "url": "https://runwayml.com",
+  "note": "AI video generation and editing",
+  "final": "https://runway.com/",
+  "site_title": "Runway | Building Real-World Intelligence",
+  "site_desc": "Runway is building foundational Real-World Intelligence that can understand, simulate and act in the world. We offer products and services built on-top of this intelligence to empower individuals and organizations to do ",
+  "code": "200",
+  "status": "moved"
+ },
+ {
+  "title": "HeyGen",
+  "url": "https://www.heygen.com",
+  "note": "AI presenter videos and translation",
+  "final": "https://www.heygen.com/",
+  "site_title": "HeyGen: Create AI Videos with Your Personal Avatar",
+  "site_desc": "Be your best self, every time. Create clear, confident AI videos with your Personal Avatar—your face and voice, without filming every video. Try it free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ElevenLabs",
+  "url": "https://elevenlabs.io",
+  "note": "Natural-sounding AI voices",
+  "final": "https://elevenlabs.io/",
+  "site_title": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
+  "site_desc": "Create lifelike speech with our AI voice generator and voice agents platform. Access 5,000+ voices in 90+ languages with secure APIs and SDKs.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Suno",
+  "url": "https://suno.com",
+  "note": "Make songs from a text description",
+  "final": "https://suno.com/",
+  "site_title": "Suno | AI Music Generator",
+  "site_desc": "Create stunning original music for free in seconds using our AI generator. Make your own masterpieces, share with friends, and discover music from artists worldwide.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Synthesia",
+  "url": "https://www.synthesia.io",
+  "note": "Training and explainer videos with AI presenters",
+  "final": "https://www.synthesia.io/",
+  "site_title": "Synthesia: #1 AI Video Platform for Business",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "CapCut",
+  "url": "https://www.capcut.com",
+  "note": "Free video editor with auto captions and AI effects",
+  "final": "https://www.capcut.com/",
+  "site_title": "CapCut AI Video Editor: Smart Online Video Editing with Advanced AI Tools",
+  "site_desc": "Edit YouTube and Instagram videos with CapCut's AI-powered video editor, smart templates, and creative effects. Download CapCut on desktop, mobile, or edit online.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Pika",
+  "url": "https://pika.art",
+  "note": "Make short videos from text or images",
+  "final": "https://pika.art/",
+  "site_title": "Pika",
+  "site_desc": "AI creative tools. Built for Creatives.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Luma Dream Machine",
+  "url": "https://lumalabs.ai",
+  "note": "Realistic AI video from text or images",
+  "final": "https://lumalabs.ai/",
+  "site_title": "Luma | AI Agents for Creative Work",
+  "site_desc": "Luma AI is the creative AI platform for video generation and image creation. Powered by the world's leading video generation models, Ray and Uni, and creative agents handling end-to-end workflows. Trusted by leading agen",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Kling AI",
+  "url": "https://kling.ai",
+  "note": "AI video generation from text and images",
+  "final": "https://kling.ai/",
+  "site_title": "Kling AI: Next-Gen AI Video & Image Generator",
+  "site_desc": "Create high-quality AI videos and images with Kling AI. Turn text, images, and references into multimodal creative content in one studio.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "OpusClip",
+  "url": "https://www.opus.pro",
+  "note": "Turns long videos into short clips for social media",
+  "final": "https://www.opus.pro/",
+  "site_title": "OpusClip: #1 AI video clipping and editing tool",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "VEED",
+  "url": "https://www.veed.io",
+  "note": "Online video editor with AI subtitles",
+  "final": "https://www.veed.io/",
+  "site_title": "VEED – AI Video Creation Platform | Idea to Video Workflow",
+  "site_desc": "Generate and edit in one workflow. Create talking heads, edit with AI, dub videos, and add subtitles — all in VEED. Built for marketers and solopreneurs",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Udio",
+  "url": "https://www.udio.com",
+  "note": "Create music and songs with AI",
+  "final": "https://www.udio.com/",
+  "site_title": "Udio | AI Music Generator - Official Website",
+  "site_desc": "Discover, create, and share music with the world. Use the latest technology to create AI music in seconds.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Adobe Podcast",
+  "url": "https://podcast.adobe.com",
+  "note": "Makes voice recordings sound studio-quality",
+  "final": "https://podcast.adobe.com/",
+  "site_title": "Adobe Podcast | AI audio recording and editing, all on the web",
+  "site_desc": "Next generation audio from Adobe is here. Record, transcribe, edit, share. Crisp and clear, every time.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Murf",
+  "url": "https://murf.ai",
+  "note": "AI voiceovers for videos and presentations",
+  "final": "https://murf.ai/",
+  "site_title": "Leading AI Voice & Conversational Agent Platform - Murf AI",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Krisp",
+  "url": "https://krisp.ai",
+  "note": "Removes background noise from calls",
+  "final": "https://krisp.ai/",
+  "site_title": "Voice AI for Meetings: Noise Cancellation & AI Note Taker | Krisp",
+  "site_desc": "Clear calls, smarter meetings—powered by #1 noise cancellation. Krisp brings Voice AI with an AI Note Taker, Accent AI, and Call Center AI.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Otter.ai",
+  "url": "https://otter.ai",
+  "note": "Meeting transcripts and summaries",
+  "final": "https://otter.ai/",
+  "site_title": "Otter Meeting Agent - AI Notetaker, Transcription, Insights",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fireflies.ai",
+  "url": "https://www.fireflies.ai",
+  "note": "Records and summarises calls",
+  "final": "https://fireflies.ai/",
+  "site_title": "Fireflies.ai | #1 AI Teammate for Meetings, Email, Chat & CRM",
+  "site_desc": "Fireflies takes notes, manages tasks, and automates workflows across meetings, email, chat, CRM, and your apps. Build a searchable knowledge base of your team’s work in one place.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Gamma",
+  "url": "https://gamma.app",
+  "note": "Make slide decks from a prompt",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://gamma.app/"
+ },
+ {
+  "title": "Zapier",
+  "url": "https://zapier.com",
+  "note": "Connect apps and automate tasks, with AI steps",
+  "final": "https://zapier.com/",
+  "site_title": "Zapier: Automate AI Workflows, Agents, and Apps",
+  "site_desc": "Build and scale AI workflows and agents across 9,000+ apps with Zapier—the most connected AI orchestration platform. Trusted by 3 million+ businesses.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Make",
+  "url": "https://www.make.com",
+  "note": "Visual automation builder",
+  "final": "https://www.make.com/",
+  "site_title": "AI Workflow Automation Software & Tools | Make",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "tl;dv",
+  "url": "https://tldv.io",
+  "note": "Records Zoom, Meet and Teams calls and writes notes",
+  "final": "https://tldv.io/",
+  "site_title": "tl;dv - AI Meeting Notetaker for Zoom, Google Meet & Teams",
+  "site_desc": "AI meeting notes — record, transcribe, and summarize meetings automatically. tl;dv turns Zoom, Google Meet, and Microsoft Teams calls into actionable insights with AI-powered summaries.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Fathom",
+  "url": "https://www.fathom.ai",
+  "note": "Free AI meeting notetaker",
+  "final": "https://www.fathom.ai/",
+  "site_title": "Fathom AI Notetaker - Never Take Notes Again",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Granola",
+  "url": "https://www.granola.ai",
+  "note": "AI notepad that improves your own meeting notes",
+  "final": "https://www.granola.ai/",
+  "site_title": "Granola — The AI Notepad for back-to-back meetings",
+  "site_desc": "The AI notepad for back-to-back meetings. Notes, actions and memory. Without a meeting bot.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Motion",
+  "url": "https://www.usemotion.com",
+  "note": "AI planner that schedules your tasks for you",
+  "final": "https://www.usemotion.com/",
+  "site_title": "The AI Powered SuperApp for Work | Motion",
+  "site_desc": "Motion is the #1 Rated Productivity Platform for the AI Era. AI Projects, AI Tasks, AI Calendar, AI Meetings, AI Docs, AI Notes, AI Reports, AI Workflows, and more.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Reclaim",
+  "url": "https://reclaim.ai",
+  "note": "Smart calendar that protects time for tasks and habits",
+  "final": "https://reclaim.ai/",
+  "site_title": "Reclaim – AI Calendar for Work & Life",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Beautiful.ai",
+  "url": "https://www.beautiful.ai",
+  "note": "Presentations that design themselves",
+  "final": "https://www.beautiful.ai/",
+  "site_title": "AI Presentation Software for Teams",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "ClickUp",
+  "url": "https://clickup.com",
+  "note": "Project management with an AI assistant",
+  "final": "https://clickup.com/",
+  "site_title": "ClickUp™ | Maximize productivity • Software, AI, and humans converge",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Taskade",
+  "url": "https://www.taskade.com",
+  "note": "Tasks, notes and AI agents for teams",
+  "final": "https://www.taskade.com/",
+  "site_title": "AI Apps, Agents & Workflows - Run Your Business | Taskade",
+  "site_desc": "Turn business processes into live apps. Build and run CRMs, dashboards, and client portals that use AI agents and automated workflows, all with Taskade Genesis.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Mem",
+  "url": "https://mem.ai",
+  "note": "AI notes app that organises itself",
+  "final": "https://mem.ai/",
+  "site_title": "Mem",
+  "site_desc": "Let AI organize your team",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Durable",
+  "url": "https://www.durable.co",
+  "note": "AI website builder for small businesses",
+  "final": "https://durable.com/",
+  "site_title": "Durable – AI Business Builder | Launch in minutes",
+  "site_desc": "Build your business with Durable. Create a website with AI, get discovered with SEO and GEO, manage customers and grow faster with AI marketing tools. All with one app.",
+  "code": "200",
+  "status": "moved"
+ },
+ {
+  "title": "Framer",
+  "url": "https://framer.com",
+  "note": "Design and publish good-looking websites",
+  "final": "https://www.framer.com/",
+  "site_title": "Framer: AI design agent",
+  "site_desc": "Go from idea to launch with an agent that designs and builds on the canvas. Keep each change editable, with hosting, security, analytics, CMS, and SEO built in.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Typeform",
+  "url": "https://www.typeform.com",
+  "note": "Forms and surveys",
+  "final": "https://www.typeform.com/",
+  "site_title": "Form Builder with AI Automation | Typeform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Tidio",
+  "url": "https://www.tidio.com",
+  "note": "Customer chat with an AI helper for small shops",
+  "final": "https://www.tidio.com/",
+  "site_title": "AI Customer Service That Turns Chats Into Revenue | Tidio",
+  "site_desc": "See what your customer conversations earn. Lyro resolves questions instantly and turns the rest into sales, leads, and bookings you can attribute.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Intercom Fin",
+  "url": "https://www.intercom.com/fin",
+  "note": "AI customer support agent",
+  "final": "https://fin.ai/",
+  "site_title": "",
+  "site_desc": "",
+  "code": "200",
+  "status": "redirected"
+ },
+ {
+  "title": "Wix",
+  "url": "https://www.wix.com",
+  "note": "Website builder with an AI site creator",
+  "final": "https://www.wix.com/",
+  "site_title": "Website Builder - Create a Free Website In Minutes | Wix.com",
+  "site_desc": "Get everything you need to build a website your way. Wix’s free, easy-to-use website builder offers 2,000+ templates, built-in AI tools and a custom domain.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Squarespace",
+  "url": "https://www.squarespace.com",
+  "note": "Good-looking websites and online stores",
+  "final": "https://www.squarespace.com/",
+  "site_title": "Website Builder – Easily Create Your Own Website — Squarespace",
+  "site_desc": "Create a website and grow your business with a free Squarespace trial. Start with customizable website templates, AI website builder tools, or a domain name.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Hostinger AI Website Builder",
+  "url": "https://www.hostinger.com/ai-website-builder",
+  "note": "Low-cost AI website builder with hosting",
+  "final": "https://www.hostinger.com/ai-website-builder",
+  "site_title": "AI Website Builder | Launch your dream site in seconds",
+  "site_desc": "Build a professional website in minutes with Hostinger",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Shopify Magic",
+  "url": "https://www.shopify.com/magic",
+  "note": "AI tools built into Shopify stores",
+  "final": "https://www.shopify.com/sidekick",
+  "site_title": "AI-enabled commerce assistant, Sidekick, designed to make it easier for you to start, run, and grow your business on Shopify. - Shopify",
+  "site_desc": "Use Sidekick to help build your Shopify store and grow your business.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Jotform",
+  "url": "https://www.jotform.com",
+  "note": "Online forms with AI agents",
+  "final": "https://www.jotform.com/",
+  "site_title": "Unsupported Browser | Jotform",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Chatbase",
+  "url": "https://www.chatbase.co",
+  "note": "Build an AI support chatbot from your website",
+  "final": "https://www.chatbase.co/",
+  "site_title": "AI Agents for Customer Experience & Support | Chatbase",
+  "site_desc": "Chatbase is the AI customer experience platform. Its AI agents resolve complex queries and reduce ticket volume in every channel for over 10,000 businesses.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Namelix",
+  "url": "https://namelix.com",
+  "note": "AI business name generator",
+  "final": "https://namelix.com/",
+  "site_title": "Business Name Generator - free AI-powered naming tool - Namelix",
+  "site_desc": "Namelix uses generative AI to create a short, brandable business name. Search for domain availability, and instantly generate a logo for your new business",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "HubSpot AI",
+  "url": "https://www.hubspot.com/products/artificial-intelligence",
+  "note": "AI for marketing, sales and customer service",
+  "final": "https://www.hubspot.com/products/artificial-intelligence",
+  "site_title": "Run, Build, and Manage Your AI Agents | Agent Hub",
+  "site_desc": "HubSpot",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Lovable",
+  "url": "https://lovable.dev",
+  "note": "Build web apps by chatting",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://lovable.dev/"
+ },
+ {
+  "title": "Bolt",
+  "url": "https://bolt.new",
+  "note": "Prompt, run and deploy web apps in the browser",
+  "final": "https://bolt.new/",
+  "site_title": "Bolt AI builder: Websites, apps & prototypes",
+  "site_desc": "Build and scale high-performing websites & apps using your words. Join millions and start building today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "v0",
+  "url": "https://v0.app",
+  "note": "Vercel's AI app and UI builder",
+  "final": "https://v0.app/",
+  "site_title": "v0 by Vercel - Build Full-Stack Web Apps with AI",
+  "site_desc": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Replit",
+  "url": "https://replit.com",
+  "note": "Build and host apps with an AI agent",
+  "final": "https://replit.com/",
+  "site_title": "AI App and Website Builder | Replit",
+  "site_desc": "Describe what you want. Replit builds it. Get a working app or website in minutes. No coding required.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Bubble",
+  "url": "https://bubble.io",
+  "note": "No-code platform for full web apps",
+  "final": "https://bubble.io/",
+  "site_title": "Bubble: Build web & mobile apps with the only no-code AI app builder",
+  "site_desc": "Build with AI when you want speed, edit visually when you want precision — design, database, logic, and privacy rules. Go from idea to launched app fast.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Glide",
+  "url": "https://www.glideapps.com",
+  "note": "Turn spreadsheets into apps",
+  "final": "https://www.glideapps.com/",
+  "site_title": "AI app builder for internal business apps | Glide",
+  "site_desc": "Build custom business apps & agents with AI from a spreadsheet or a prompt. Ready in minutes, not months. Start free.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Softr",
+  "url": "https://www.softr.io",
+  "note": "Build portals and internal tools without code",
+  "final": "https://www.softr.io/",
+  "site_title": "Build Secure Custom Portals and Internal Tools | Softr",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Base44",
+  "url": "https://base44.com",
+  "note": "Build apps by describing them",
+  "final": "https://base44.com/",
+  "site_title": "Turn an Idea Into a Working App or Website with AI | Base44",
+  "site_desc": "Base44 is a no-code AI development platform that turns builders’ ideas into fully functional apps and websites — no coding required.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Firebase Studio",
+  "url": "https://firebase.studio",
+  "note": "Google's AI workspace for building apps",
+  "final": "https://firebase.studio/",
+  "site_title": "Firebase Studio",
+  "site_desc": "Firebase Studio is an entirely web-based workspace for full-stack application development, complete with the latest generative AI from Gemini, and full-fidelity app previews, powered by cloud emulators.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Google AI Studio",
+  "url": "https://aistudio.google.com",
+  "note": "Try Gemini models and build AI apps",
+  "final": "https://aistudio.google.com/welcome",
+  "site_title": "Google AI Studio",
+  "site_desc": "The fastest path from prompt to production with Gemini",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Adalo",
+  "url": "https://www.adalo.com",
+  "note": "Build mobile apps without code",
+  "final": "https://www.adalo.com/",
+  "site_title": "Adalo | No-Code App Builder with AI & Visual Canvas",
+  "site_desc": "One project. Three platforms. Build and publish iOS, Android, and web apps with AI — no code required. Free to start.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "FlutterFlow",
+  "url": "https://flutterflow.io",
+  "note": "Visual builder for mobile and web apps",
+  "final": "https://flutterflow.io/",
+  "site_title": "FlutterFlow - Build Beautiful, Modern Apps",
+  "site_desc": "FlutterFlow is a visual development platform that lets you build high-quality mobile, web, and desktop applications faster than ever.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Cursor",
+  "url": "https://cursor.com",
+  "note": "AI code editor",
+  "final": "https://cursor.com/",
+  "site_title": "AI Coding Agent for Building Ambitious Software | Cursor",
+  "site_desc": "Built to make you extraordinarily productive, agents turn ideas into code. Accelerate development by handing off tasks to Cursor.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "GitHub Copilot",
+  "url": "https://github.com/features/copilot",
+  "note": "AI pair programmer in your editor",
+  "final": "https://github.com/features/copilot",
+  "site_title": "GitHub Copilot · Your AI coding agent · GitHub · GitHub",
+  "site_desc": "GitHub Copilot works every step of the way, from an open issue to reviewing and merging a pull request. Use it in your editor, the terminal, on your desktop, and on GitHub.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Claude Code",
+  "url": "https://claude.com/product/claude-code",
+  "note": "Anthropic's AI coding agent for the terminal and IDE",
+  "final": "https://claude.com/product/claude-code",
+  "site_title": "Claude Code by Anthropic | AI Coding Agent, Terminal, IDE",
+  "site_desc": "Anthropic's agentic coding tool for developers. Claude Code understands your codebase, edits files, runs commands, and helps you ship faster.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "OpenAI Codex",
+  "url": "https://openai.com/codex",
+  "note": "OpenAI's AI coding agent",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://openai.com/codex"
+ },
+ {
+  "title": "Gemini CLI",
+  "url": "https://github.com/google-gemini/gemini-cli",
+  "note": "Google's open-source AI agent for the terminal",
+  "final": "https://github.com/google-gemini/gemini-cli",
+  "site_title": "GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal. · GitHub",
+  "site_desc": "An open-source AI agent that brings the power of Gemini directly into your terminal. - google-gemini/gemini-cli",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Amp",
+  "url": "https://ampcode.com",
+  "note": "AI coding agent from Sourcegraph",
+  "final": "https://ampcode.com/",
+  "site_title": "Amp: Coding agent and dev environment built for the frontier",
+  "site_desc": "Amp is a coding agent and development environment built for the frontier. You can build anything in Amp, in orbs that let you run the agent without supervision from anywhere, or on your own machine with our CLI and runne",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Cline",
+  "url": "https://cline.bot",
+  "note": "Open-source AI coding agent for VS Code",
+  "final": "https://cline.bot/",
+  "site_title": "Cline - AI Coding, Open Source and Open Choice",
+  "site_desc": "Open-source AI coding agent with Plan/Act modes, MCP integration, and terminal-first workflows. Trusted by 11M+ developers worldwide.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Aider",
+  "url": "https://aider.chat",
+  "note": "AI pair programming in your terminal",
+  "final": "https://aider.chat/",
+  "site_title": "Aider - AI Pair Programming in Your Terminal",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Zed",
+  "url": "https://zed.dev",
+  "note": "Fast code editor with AI built in",
+  "final": "https://zed.dev/",
+  "site_title": "Zed — Your last next editor",
+  "site_desc": "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "JetBrains AI",
+  "url": "https://www.jetbrains.com/ai/",
+  "note": "AI assistant for IntelliJ, PyCharm and other JetBrains IDEs",
+  "final": "https://www.jetbrains.com/air/",
+  "site_title": "JetBrains Air: One system for building software with agents",
+  "site_desc": "JetBrains Air is one system for building software with agents. Works with the agents you already use and any ACP-compatible agent.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Warp",
+  "url": "https://www.warp.dev",
+  "note": "AI-powered terminal",
+  "final": "https://www.warp.dev/",
+  "site_title": "Warp — Open Infrastructure for Cloud Software Factories",
+  "site_desc": "Build your software factory on Warp: factories as code, any model or harness, with evals, benchmarks, and self-improvement built in.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "CodeRabbit",
+  "url": "https://www.coderabbit.ai",
+  "note": "AI code reviews on pull requests",
+  "final": "https://www.coderabbit.ai/",
+  "site_title": "CodeRabbit | Governance & Control for Agentic Development",
+  "site_desc": "Ship more software, faster, with code you trust. Independent AI code review, PR triage, change explanations, and continuous security monitoring.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "NotebookLM",
+  "url": "https://notebooklm.google.com",
+  "note": "Upload documents and ask questions about them",
+  "final": "https://notebook.google.com/",
+  "site_title": "Gemini Notebook",
+  "site_desc": "Use the power of AI for quick summarization and note taking, Gemini Notebook is your powerful virtual research assistant rooted in information you can trust.",
+  "code": "200",
+  "status": "mismatch"
+ },
+ {
+  "title": "Elicit",
+  "url": "https://www.elicit.com",
+  "note": "Finds and summarises research papers",
+  "final": "https://elicit.com/",
+  "site_title": "Elicit: AI for research & decision-making",
+  "site_desc": "Elicit helps you synthesize evidence, understand the landscape, design programs and experiments, draft proposals, and weigh tradeoffs. Trusted by over 7 million researchers and 8 of the top 20 pharmaceutical companies",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Consensus",
+  "url": "https://consensus.app",
+  "note": "Answers questions using scientific studies",
+  "final": "https://consensus.app/",
+  "site_title": "Consensus: AI for Research",
+  "site_desc": "Consensus is an AI academic search engine for peer-reviewed literature—your research OS for finding, organizing, and analyzing science 10x faster.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Khanmigo",
+  "url": "https://www.khanmigo.ai",
+  "note": "Khan Academy's AI tutor",
+  "final": "https://www.khanmigo.ai/",
+  "site_title": "Meet Khanmigo: Khan Academy's AI-powered teaching assistant & tutor",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Duolingo",
+  "url": "https://www.duolingo.com",
+  "note": "Learn languages, with AI conversation practice",
+  "final": "https://www.duolingo.com/",
+  "site_title": "Duolingo",
+  "site_desc": "Learn languages by playing a game. It",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Quizlet",
+  "url": "https://quizlet.com",
+  "note": "Flashcards and AI study help",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://quizlet.com/"
+ },
+ {
+  "title": "Brainly",
+  "url": "https://brainly.com",
+  "note": "Homework help with AI explanations",
+  "status": "blocked",
+  "code": "403",
+  "final": "https://brainly.com/"
+ },
+ {
+  "title": "Coursera",
+  "url": "https://www.coursera.org",
+  "note": "Online courses with an AI coach",
+  "final": "https://www.coursera.org/",
+  "site_title": "Coursera | Online Courses, Certificates, & Degrees",
+  "site_desc": "Learn job-ready skills with online courses, Professional Certificates, Specializations, and degrees from Google, Meta, Anthropic, DeepLearning.AI, Stanford, and more. Start learning today.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Speak",
+  "url": "https://www.speak.com",
+  "note": "Learn to speak a language with an AI tutor",
+  "final": "https://www.speak.com/",
+  "site_title": "Speak - The language learning app that gets you speaking",
+  "site_desc": "",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Scite",
+  "url": "https://scite.ai",
+  "note": "Shows how research papers have been cited",
+  "final": "https://scite.ai/",
+  "site_title": "AI for Research | Scite",
+  "site_desc": "Scite searches 300M+ scholarly articles to give you citation-backed answers and show you how every claim is supported or disputed.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Semantic Scholar",
+  "url": "https://www.semanticscholar.org",
+  "note": "Free AI-powered search for research papers",
+  "final": "https://www.semanticscholar.org/",
+  "site_title": "Semantic Scholar | AI-Powered Research Tool",
+  "site_desc": "Semantic Scholar uses groundbreaking AI and engineering to understand the semantics of scientific literature to help Scholars discover relevant research.",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "SciSpace",
+  "url": "https://scispace.com",
+  "note": "Read and understand research papers with AI",
+  "status": "blocked",
+  "code": "202",
+  "final": "https://scispace.com/"
+ },
+ {
+  "title": "Wolfram|Alpha",
+  "url": "https://www.wolframalpha.com",
+  "note": "Computes answers for maths, science and data",
+  "final": "https://www.wolframalpha.com/",
+  "site_title": "Wolfram|Alpha: Computational Intelligence",
+  "site_desc": "Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports,",
+  "code": "200",
+  "status": "ok"
+ },
+ {
+  "title": "Photomath",
+  "url": "https://photomath.com",
+  "note": "Snap a maths problem, see step-by-step solutions",
+  "final": "https://photomath.com/",
+  "site_title": "Photomath - The Ultimate Math Help App | Math Explained",
+  "site_desc": "Solve even complex math problems with Photomath, the top-rated math camera solver app. Download now and understand your math homework step-by-step.",
+  "code": "200",
+  "status": "ok"
+ }
+]

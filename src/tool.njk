@@ -1,0 +1,56 @@
+---
+layout: base.njk
+pagination:
+  data: tools
+  size: 1
+  alias: tool
+  addAllPagesToCollections: true
+permalink: "/tool/{{ tool.slug }}/"
+eleventyComputed:
+  title: "{{ tool.title | safe }}: What It Does & Alternatives"
+  description: "{{ tool.title | safe }}: {{ tool.note | safe }}. See what it does and {{ tool.alternatives | length }} alternatives in {{ tool.cat.name | safe }}, checked by 123ofnet.com."
+  crumbs: [{name: "Home", url: "/"}, {name: "AI Directory", url: "/directory/"}, {name: "{{ tool.cat.name | safe }}", url: "/directory/{{ tool.cat.slug }}/"}, {name: "{{ tool.title | safe }}", url: "/tool/{{ tool.slug }}/"}]
+---
+<div class="content">
+  <p class="small"><a href="/">Home</a> &raquo; <a href="/directory/">AI Directory</a> &raquo; <a href="/directory/{{ tool.cat.slug }}/">{{ tool.cat.name }}</a> &raquo; {{ tool.title }}</p>
+  <h1>{{ tool.title }}</h1>
+  <p style="font-size:18px">{{ tool.note }}.</p>
+  <p><a class="btn hot" href="{{ tool.url }}" rel="noopener{% if tool.aff %} sponsored{% endif %}">Visit {{ tool.title }} &raquo;</a>
+    <span class="url">{{ tool.url | replace("https://", "") | replace("www.", "") }}</span>{% if tool.featured %} <span class="tag">FEATURED</span>{% endif %}</p>
+
+  <table class="plans" style="margin-top:12px">
+    <tr><th colspan="2">{{ tool.title }} at a glance</th></tr>
+    <tr><td class="feat"><b>What it does</b></td><td class="feat">{{ tool.note }}</td></tr>
+    <tr><td class="feat"><b>Category</b></td><td class="feat"><a href="/directory/{{ tool.cat.slug }}/">{{ tool.cat.name }}</a></td></tr>
+    <tr><td class="feat"><b>Website</b></td><td class="feat"><a href="{{ tool.url }}" rel="noopener">{{ tool.url | replace("https://", "") }}</a></td></tr>
+    <tr><td class="feat"><b>Checked</b></td><td class="feat">Website working when last checked ({{ site.dataUpdated }})</td></tr>
+  </table>
+
+  {% if tool.siteDesc %}
+  <h2>In their own words</h2>
+  <blockquote class="note" style="font-size:15px">&ldquo;{{ tool.siteDesc }}&rdquo;<br><span class="small">&mdash; from the {{ tool.title }} website</span></blockquote>
+  {% endif %}
+
+  <h2>{{ tool.alternatives | length }} alternatives to {{ tool.title }}</h2>
+  <p>Other {{ tool.cat.name | lower }} tools that do similar things:</p>
+  {% for a in tool.alternatives %}
+  <div class="listing">
+    <h3><a href="/tool/{{ a.slug }}/">{{ a.title }}</a></h3>
+    <p>{{ a.note }}</p>
+  </div>
+  {% endfor %}
+  <p><a href="/directory/{{ tool.cat.slug }}/">See all {{ tool.cat.name }} tools &raquo;</a></p>
+
+  {% set guide = guides[tool.cat.slug] %}
+  {% if guide %}
+  <h2>How to choose</h2>
+  <ol>{% for tip in guide.howTo | batch(3) | first %}<li>{{ tip }}</li>{% endfor %}</ol>
+  <p class="small"><a href="/directory/{{ tool.cat.slug }}/">Full guide to choosing {{ tool.cat.name | lower }} tools &raquo;</a></p>
+  {% endif %}
+
+  <p class="note small">Is this your tool? <a href="/submit/">Get it featured</a> at the top of its category. Something wrong on this page? <a href="mailto:{{ site.contactEmail }}?subject={{ ('Correction: ' + tool.title) | urlencode }}">Tell us</a>.</p>
+
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"SoftwareApplication","name":{{ tool.title | dump | safe }},"url":{{ tool.url | dump | safe }},"description":{{ tool.note | dump | safe }},"applicationCategory":{{ tool.cat.name | dump | safe }},"operatingSystem":"Web"}
+  </script>
+</div>

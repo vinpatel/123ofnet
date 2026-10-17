@@ -9,11 +9,15 @@ Read `BUSINESS.md` (how it makes money), `PLAN.md` (build checklist) and `DESIGN
 archive/raw/          Raw Wayback captures. READ-ONLY. Never edit or reformat.
 archive/screenshots/  Screenshots of original pages (the visual spec).
 src/                  Eleventy source for the modern-but-retro site.
-  _data/directory.json  Human-curated AI tool directory (the core product).
+  _data/directory.js    Loads data/directory.json via lib/catalog.js (adds tool slugs).
+  _data/tools.js        Flat tool list for /tool/<slug>/ pages (slug, site description, alternatives).
   _data/site.json       Prices, Stripe Payment Links, newsletter form, contact email.
   _data/museum.js       Lists archived screenshots for the /1999/ page.
   _includes/            Layouts and partials.
   assets/retro/         GIFs, buttons, counter digits.
+data/directory.json   THE tool directory (source of truth; edit this, or use scripts/merge-tools.py).
+lib/catalog.js        Shared loader: slugs, website descriptions from archive/research/, alternatives.
+archive/research/     Verifier reports (what each tool's website said when checked).
 worker/               Cloudflare Worker (api.123ofnet.com): counter, guestbook, chat, webring.
 scripts/              Utility scripts (e.g. fetch-wayback.sh).
 ```

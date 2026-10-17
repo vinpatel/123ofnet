@@ -2,12 +2,30 @@
   "assistants": {
     "intro": "An AI assistant is the place most people start: you type a question or task in plain English and it answers, writes, explains or plans. They all do the basics well, so the right one depends on what you use every day and what you need most.",
     "picks": [
-      { "need": "Writing, editing and long documents", "tool": "Claude" },
-      { "need": "All-round everyday help", "tool": "ChatGPT" },
-      { "need": "You live in Gmail, Docs and Android", "tool": "Gemini" },
-      { "need": "You use Windows, Word and Outlook", "tool": "Microsoft Copilot" },
-      { "need": "Answers with sources you can check", "tool": "Perplexity" },
-      { "need": "Trying many AI models in one place", "tool": "Poe" }
+      {
+        "need": "Writing, editing and long documents",
+        "tool": "Claude"
+      },
+      {
+        "need": "All-round everyday help",
+        "tool": "ChatGPT"
+      },
+      {
+        "need": "You live in Gmail, Docs and Android",
+        "tool": "Gemini"
+      },
+      {
+        "need": "You use Windows, Word and Outlook",
+        "tool": "Microsoft Copilot"
+      },
+      {
+        "need": "Answers with sources you can check",
+        "tool": "Perplexity"
+      },
+      {
+        "need": "Trying many AI models in one place",
+        "tool": "Poe"
+      }
     ],
     "howTo": [
       "Start with the assistant that fits the apps you already use. Built-in beats switching apps.",
@@ -17,20 +35,73 @@
       "Use the free plan for a week before paying. Upgrade only if you keep hitting the limits."
     ],
     "faq": [
-      { "q": "Which AI assistant is the best?", "a": "There's no single best. ChatGPT, Claude and Gemini are all strong all-rounders. Pick the one that fits the apps you already use, then test it on a few real tasks from your week." },
-      { "q": "Are AI assistants free?", "a": "Most have a free plan that's enough for everyday use. Paid plans add higher limits, newer models and extra features." },
-      { "q": "Can I trust what an AI assistant tells me?", "a": "Treat answers like advice from a smart friend: usually helpful, sometimes wrong. Check anything important, especially facts, numbers, medical, legal or money questions." }
+      {
+        "q": "Which AI assistant is the best?",
+        "a": "There's no single best. ChatGPT, Claude and Gemini are all strong all-rounders. Pick the one that fits the apps you already use, then test it on a few real tasks from your week."
+      },
+      {
+        "q": "Are AI assistants free?",
+        "a": "Most have a free plan that's enough for everyday use. Paid plans add higher limits, newer models and extra features."
+      },
+      {
+        "q": "Can I trust what an AI assistant tells me?",
+        "a": "Treat answers like advice from a smart friend: usually helpful, sometimes wrong. Check anything important, especially facts, numbers, medical, legal or money questions."
+      }
+    ],
+    "chips": [
+      {
+        "label": "AI search",
+        "q": "search"
+      },
+      {
+        "label": "Browser & extensions",
+        "q": "browser"
+      },
+      {
+        "label": "Agents that do tasks",
+        "q": "agent"
+      },
+      {
+        "label": "Voice",
+        "q": "voice"
+      },
+      {
+        "label": "Run privately / open source",
+        "q": "open-source"
+      },
+      {
+        "label": "Many models in one",
+        "q": "models"
+      }
     ]
   },
   "writing": {
     "intro": "AI writing tools range from simple grammar checkers to full writers that draft emails, posts and articles. Most people need one checker that fixes their own writing, and maybe one assistant for first drafts.",
     "picks": [
-      { "need": "Fixing grammar and tone as you type", "tool": "Grammarly" },
-      { "need": "Rewriting a sentence that sounds wrong", "tool": "Wordtune" },
-      { "need": "Writing in more than one language", "tool": "LanguageTool" },
-      { "need": "Making writing short and clear", "tool": "Hemingway Editor" },
-      { "need": "Marketing copy and sales emails", "tool": "Copy.ai" },
-      { "need": "Fiction and creative writing", "tool": "Sudowrite" }
+      {
+        "need": "Fixing grammar and tone as you type",
+        "tool": "Grammarly"
+      },
+      {
+        "need": "Rewriting a sentence that sounds wrong",
+        "tool": "Wordtune"
+      },
+      {
+        "need": "Writing in more than one language",
+        "tool": "LanguageTool"
+      },
+      {
+        "need": "Making writing short and clear",
+        "tool": "Hemingway Editor"
+      },
+      {
+        "need": "Marketing copy and sales emails",
+        "tool": "Copy.ai"
+      },
+      {
+        "need": "Fiction and creative writing",
+        "tool": "Sudowrite"
+      }
     ],
     "howTo": [
       "Decide if you want help fixing your own words (a checker) or someone to draft for you (a writer). They're different tools.",
@@ -40,20 +111,73 @@
       "If you write in more than one language, test each language before paying."
     ],
     "faq": [
-      { "q": "What is the best AI tool for writing emails?", "a": "For fixing your own emails, Grammarly or Wordtune. For drafting emails from scratch, a general assistant such as ChatGPT or Claude works well. Superhuman builds AI writing into the email app itself." },
-      { "q": "Can teachers or readers tell if writing is AI-generated?", "a": "Often, yes. AI drafts tend to sound generic. Use AI for a first draft or for polishing, then add your own words, examples and opinions." },
-      { "q": "Is a grammar checker enough?", "a": "For most people, yes. A good checker fixes mistakes and unclear sentences without changing your voice." }
+      {
+        "q": "What is the best AI tool for writing emails?",
+        "a": "For fixing your own emails, Grammarly or Wordtune. For drafting emails from scratch, a general assistant such as ChatGPT or Claude works well. Superhuman builds AI writing into the email app itself."
+      },
+      {
+        "q": "Can teachers or readers tell if writing is AI-generated?",
+        "a": "Often, yes. AI drafts tend to sound generic. Use AI for a first draft or for polishing, then add your own words, examples and opinions."
+      },
+      {
+        "q": "Is a grammar checker enough?",
+        "a": "For most people, yes. A good checker fixes mistakes and unclear sentences without changing your voice."
+      }
+    ],
+    "chips": [
+      {
+        "label": "Grammar & spelling",
+        "q": "grammar"
+      },
+      {
+        "label": "Translation",
+        "q": "transla"
+      },
+      {
+        "label": "Email",
+        "q": "email"
+      },
+      {
+        "label": "Blog & SEO",
+        "q": "blog"
+      },
+      {
+        "label": "Social & LinkedIn",
+        "q": "linkedin"
+      },
+      {
+        "label": "Marketing copy",
+        "q": "marketing"
+      }
     ]
   },
   "career": {
     "intro": "AI career tools help with the three hardest parts of job hunting: a resume that gets past screening software, a cover letter that matches the job, and practice before the interview.",
     "picks": [
-      { "need": "Matching your resume to a job ad", "tool": "Jobscan" },
-      { "need": "Building a resume from scratch", "tool": "Kickresume" },
-      { "need": "Tracking many job applications", "tool": "Teal" },
-      { "need": "Scoring your resume and LinkedIn", "tool": "Resume Worded" },
-      { "need": "Free interview practice", "tool": "Interview Warmup" },
-      { "need": "Speaking and presentation coaching", "tool": "Yoodli" }
+      {
+        "need": "Matching your resume to a job ad",
+        "tool": "Jobscan"
+      },
+      {
+        "need": "Building a resume from scratch",
+        "tool": "Kickresume"
+      },
+      {
+        "need": "Tracking many job applications",
+        "tool": "Teal"
+      },
+      {
+        "need": "Scoring your resume and LinkedIn",
+        "tool": "Resume Worded"
+      },
+      {
+        "need": "Free interview practice",
+        "tool": "Interview Warmup"
+      },
+      {
+        "need": "Speaking and presentation coaching",
+        "tool": "Yoodli"
+      }
     ],
     "howTo": [
       "Fix the resume first. Use a matching tool to compare it against each job ad and add the missing skills you really have.",
@@ -63,20 +187,73 @@
       "Use a tracker once you're applying to more than a few jobs, so nothing slips."
     ],
     "faq": [
-      { "q": "Do AI resume builders really help you get interviews?", "a": "They help most with format and keywords, so applicant tracking systems can read your resume. The content still has to be true and specific to you." },
-      { "q": "What is an applicant tracking system (ATS)?", "a": "Software that companies use to sort and filter resumes before a person reads them. Clear formatting and the right keywords from the job ad help your resume get through." },
-      { "q": "Is it OK to use AI for a cover letter?", "a": "Yes, as a starting draft. Then rewrite it in your own words with real examples, so it doesn't sound generic." }
+      {
+        "q": "Do AI resume builders really help you get interviews?",
+        "a": "They help most with format and keywords, so applicant tracking systems can read your resume. The content still has to be true and specific to you."
+      },
+      {
+        "q": "What is an applicant tracking system (ATS)?",
+        "a": "Software that companies use to sort and filter resumes before a person reads them. Clear formatting and the right keywords from the job ad help your resume get through."
+      },
+      {
+        "q": "Is it OK to use AI for a cover letter?",
+        "a": "Yes, as a starting draft. Then rewrite it in your own words with real examples, so it doesn't sound generic."
+      }
+    ],
+    "chips": [
+      {
+        "label": "Resume builders",
+        "q": "resume"
+      },
+      {
+        "label": "Cover letters",
+        "q": "cover"
+      },
+      {
+        "label": "Interview practice",
+        "q": "interview"
+      },
+      {
+        "label": "Job search",
+        "q": "search"
+      },
+      {
+        "label": "Hiring & recruiting",
+        "q": "hiring"
+      },
+      {
+        "label": "Assessments",
+        "q": "assessment"
+      }
     ]
   },
   "design": {
     "intro": "AI design tools can make images from a sentence, clean up photos, and produce logos and social posts in minutes. The right tool depends on whether you need art, business graphics or photo fixes.",
     "picks": [
-      { "need": "Social posts, flyers and slides", "tool": "Canva" },
-      { "need": "Artistic, high-quality images", "tool": "Midjourney" },
-      { "need": "Images with readable text in them", "tool": "Ideogram" },
-      { "need": "Images that are safer for business use", "tool": "Adobe Firefly" },
-      { "need": "A logo and brand kit", "tool": "Looka" },
-      { "need": "Product photos and backgrounds", "tool": "Photoroom" }
+      {
+        "need": "Social posts, flyers and slides",
+        "tool": "Canva"
+      },
+      {
+        "need": "Artistic, high-quality images",
+        "tool": "Midjourney"
+      },
+      {
+        "need": "Images with readable text in them",
+        "tool": "Ideogram"
+      },
+      {
+        "need": "Images that are safer for business use",
+        "tool": "Adobe Firefly"
+      },
+      {
+        "need": "A logo and brand kit",
+        "tool": "Looka"
+      },
+      {
+        "need": "Product photos and backgrounds",
+        "tool": "Photoroom"
+      }
     ],
     "howTo": [
       "Decide what you're making: a picture (image generator), a design (Canva-style editor) or a photo fix (editing tool).",
@@ -86,20 +263,77 @@
       "Check hands, faces and text in AI images before you publish. Mistakes are common."
     ],
     "faq": [
-      { "q": "Can I use AI images for my business?", "a": "Often yes, but it depends on the tool's terms and your plan. Adobe Firefly is designed with commercial use in mind. Always check the license before using images in ads or products." },
-      { "q": "What is the easiest AI design tool for beginners?", "a": "Canva. It has templates for almost everything and AI features built in, so you don't start from a blank page." },
-      { "q": "Can AI make a good logo?", "a": "AI logo makers are good for quick, simple logos and ideas. For a brand you'll use for years, consider having a designer refine the result." }
+      {
+        "q": "Can I use AI images for my business?",
+        "a": "Often yes, but it depends on the tool's terms and your plan. Adobe Firefly is designed with commercial use in mind. Always check the license before using images in ads or products."
+      },
+      {
+        "q": "What is the easiest AI design tool for beginners?",
+        "a": "Canva. It has templates for almost everything and AI features built in, so you don't start from a blank page."
+      },
+      {
+        "q": "Can AI make a good logo?",
+        "a": "AI logo makers are good for quick, simple logos and ideas. For a brand you'll use for years, consider having a designer refine the result."
+      }
+    ],
+    "chips": [
+      {
+        "label": "Image generators",
+        "q": "generat"
+      },
+      {
+        "label": "Photo editing",
+        "q": "photo"
+      },
+      {
+        "label": "Logos",
+        "q": "logo"
+      },
+      {
+        "label": "Headshots",
+        "q": "headshot"
+      },
+      {
+        "label": "Remove background",
+        "q": "background"
+      },
+      {
+        "label": "Interior & architecture",
+        "q": "interior"
+      },
+      {
+        "label": "Product photos",
+        "q": "product"
+      }
     ]
   },
   "video": {
     "intro": "AI video and audio tools can edit video by editing text, add captions automatically, generate clips from a description, and create natural voices and music. Most people only need one editor plus one specialist tool.",
     "picks": [
-      { "need": "Editing talking videos and podcasts", "tool": "Descript" },
-      { "need": "Free editing with auto captions", "tool": "CapCut" },
-      { "need": "Turning long videos into short clips", "tool": "OpusClip" },
-      { "need": "Videos with an AI presenter", "tool": "HeyGen" },
-      { "need": "Natural AI voiceovers", "tool": "ElevenLabs" },
-      { "need": "Making songs from a description", "tool": "Suno" }
+      {
+        "need": "Editing talking videos and podcasts",
+        "tool": "Descript"
+      },
+      {
+        "need": "Free editing with auto captions",
+        "tool": "CapCut"
+      },
+      {
+        "need": "Turning long videos into short clips",
+        "tool": "OpusClip"
+      },
+      {
+        "need": "Videos with an AI presenter",
+        "tool": "HeyGen"
+      },
+      {
+        "need": "Natural AI voiceovers",
+        "tool": "ElevenLabs"
+      },
+      {
+        "need": "Making songs from a description",
+        "tool": "Suno"
+      }
     ],
     "howTo": [
       "Start from your goal: editing your own footage, generating new video, or making voice and music.",
@@ -109,20 +343,77 @@
       "Check the license before using AI music or voices in videos you earn money from."
     ],
     "faq": [
-      { "q": "What is the easiest AI video editor?", "a": "CapCut and Descript are both beginner-friendly. Descript is especially easy for talking videos, because you edit the video by editing the transcript." },
-      { "q": "Can AI make a full video from text?", "a": "Tools like Runway, Pika and Luma can generate short clips from text or images. For complete videos with a presenter, tools like Synthesia and HeyGen work better." },
-      { "q": "Is it legal to use AI voices and music?", "a": "It depends on the tool's license and on consent. Use voices you have rights to, and check the music license before commercial use." }
+      {
+        "q": "What is the easiest AI video editor?",
+        "a": "CapCut and Descript are both beginner-friendly. Descript is especially easy for talking videos, because you edit the video by editing the transcript."
+      },
+      {
+        "q": "Can AI make a full video from text?",
+        "a": "Tools like Runway, Pika and Luma can generate short clips from text or images. For complete videos with a presenter, tools like Synthesia and HeyGen work better."
+      },
+      {
+        "q": "Is it legal to use AI voices and music?",
+        "a": "It depends on the tool's license and on consent. Use voices you have rights to, and check the music license before commercial use."
+      }
+    ],
+    "chips": [
+      {
+        "label": "Video generators",
+        "q": "generat"
+      },
+      {
+        "label": "Video editors",
+        "q": "editor"
+      },
+      {
+        "label": "Captions & subtitles",
+        "q": "caption"
+      },
+      {
+        "label": "Voices & text-to-speech",
+        "q": "voice"
+      },
+      {
+        "label": "Music & songs",
+        "q": "music"
+      },
+      {
+        "label": "Short clips for social",
+        "q": "clip"
+      },
+      {
+        "label": "Podcasts",
+        "q": "podcast"
+      }
     ]
   },
   "work": {
     "intro": "AI work tools take care of the busywork: meeting notes, scheduling, slides and repetitive tasks between apps. One good notetaker and one automation tool can save hours every week.",
     "picks": [
-      { "need": "Automatic meeting notes", "tool": "Otter.ai" },
-      { "need": "A free meeting notetaker", "tool": "Fathom" },
-      { "need": "Improving your own meeting notes", "tool": "Granola" },
-      { "need": "Slides from a short prompt", "tool": "Gamma" },
-      { "need": "Planning your day automatically", "tool": "Motion" },
-      { "need": "Connecting apps without code", "tool": "Zapier" }
+      {
+        "need": "Automatic meeting notes",
+        "tool": "Otter.ai"
+      },
+      {
+        "need": "A free meeting notetaker",
+        "tool": "Fathom"
+      },
+      {
+        "need": "Improving your own meeting notes",
+        "tool": "Granola"
+      },
+      {
+        "need": "Slides from a short prompt",
+        "tool": "Gamma"
+      },
+      {
+        "need": "Planning your day automatically",
+        "tool": "Motion"
+      },
+      {
+        "need": "Connecting apps without code",
+        "tool": "Zapier"
+      }
     ],
     "howTo": [
       "Start with your biggest time-waster this week (meetings, scheduling or copying data between apps) and fix that one first.",
@@ -132,20 +423,77 @@
       "Review AI meeting summaries before sending them to others."
     ],
     "faq": [
-      { "q": "What is the best AI notetaker for meetings?", "a": "Otter.ai, Fireflies.ai, Fathom and tl;dv all record and summarise calls. Pick the one that works with your meeting app and fits your budget." },
-      { "q": "Is it OK to record meetings with AI?", "a": "Only with the other people's knowledge. Many tools announce themselves, but you should still tell people, and some places legally require consent." },
-      { "q": "Zapier or Make: which is easier?", "a": "Zapier is usually easier for beginners. Make gives more control over complex, multi-step automations." }
+      {
+        "q": "What is the best AI notetaker for meetings?",
+        "a": "Otter.ai, Fireflies.ai, Fathom and tl;dv all record and summarise calls. Pick the one that works with your meeting app and fits your budget."
+      },
+      {
+        "q": "Is it OK to record meetings with AI?",
+        "a": "Only with the other people's knowledge. Many tools announce themselves, but you should still tell people, and some places legally require consent."
+      },
+      {
+        "q": "Zapier or Make: which is easier?",
+        "a": "Zapier is usually easier for beginners. Make gives more control over complex, multi-step automations."
+      }
+    ],
+    "chips": [
+      {
+        "label": "Meeting notes",
+        "q": "meeting"
+      },
+      {
+        "label": "Slides & presentations",
+        "q": "present"
+      },
+      {
+        "label": "Calendar & scheduling",
+        "q": "calendar"
+      },
+      {
+        "label": "Email & inbox",
+        "q": "email"
+      },
+      {
+        "label": "Automation",
+        "q": "automat"
+      },
+      {
+        "label": "Spreadsheets & data",
+        "q": "data"
+      },
+      {
+        "label": "Notes & docs",
+        "q": "notes"
+      }
     ]
   },
   "business": {
     "intro": "AI tools for small businesses help you get a website live, answer customers around the clock, and run marketing without a big team. Start with the one that brings in customers or saves the most time.",
     "picks": [
-      { "need": "A small-business website, fast", "tool": "Durable" },
-      { "need": "A flexible site with lots of templates", "tool": "Wix" },
-      { "need": "A polished site or online store", "tool": "Squarespace" },
-      { "need": "Selling products online", "tool": "Shopify Magic" },
-      { "need": "A support chatbot trained on your site", "tool": "Chatbase" },
-      { "need": "Ideas for a business name", "tool": "Namelix" }
+      {
+        "need": "A small-business website, fast",
+        "tool": "Durable"
+      },
+      {
+        "need": "A flexible site with lots of templates",
+        "tool": "Wix"
+      },
+      {
+        "need": "A polished site or online store",
+        "tool": "Squarespace"
+      },
+      {
+        "need": "Selling products online",
+        "tool": "Shopify Magic"
+      },
+      {
+        "need": "A support chatbot trained on your site",
+        "tool": "Chatbase"
+      },
+      {
+        "need": "Ideas for a business name",
+        "tool": "Namelix"
+      }
     ],
     "howTo": [
       "Get the basics right first: a clear website with your services, prices, location and contact details.",
@@ -155,20 +503,81 @@
       "Check that AI search tools can find and describe your business correctly. Ask ChatGPT or Perplexity about your business and see what comes back."
     ],
     "faq": [
-      { "q": "Can AI build a website for my business?", "a": "Yes. Durable, Wix and Hostinger can generate a first version in minutes from a short description. You should still edit the text and add real photos." },
-      { "q": "Should my small business use an AI chatbot?", "a": "If you get lots of repeat questions, yes. Train it on your own website and FAQ, and make sure customers can easily reach a person." },
-      { "q": "How do I get ChatGPT to recommend my business?", "a": "Have a clear website that explains what you do and where, consistent business details across the web, and real reviews. AI assistants rely on the same public information people do." }
+      {
+        "q": "Can AI build a website for my business?",
+        "a": "Yes. Durable, Wix and Hostinger can generate a first version in minutes from a short description. You should still edit the text and add real photos."
+      },
+      {
+        "q": "Should my small business use an AI chatbot?",
+        "a": "If you get lots of repeat questions, yes. Train it on your own website and FAQ, and make sure customers can easily reach a person."
+      },
+      {
+        "q": "How do I get ChatGPT to recommend my business?",
+        "a": "Have a clear website that explains what you do and where, consistent business details across the web, and real reviews. AI assistants rely on the same public information people do."
+      }
+    ],
+    "chips": [
+      {
+        "label": "Website builders",
+        "q": "website"
+      },
+      {
+        "label": "Customer support",
+        "q": "customer"
+      },
+      {
+        "label": "Phone & receptionist",
+        "q": "phone"
+      },
+      {
+        "label": "Marketing",
+        "q": "marketing"
+      },
+      {
+        "label": "Social media",
+        "q": "social"
+      },
+      {
+        "label": "Online stores",
+        "q": "store"
+      },
+      {
+        "label": "Sales",
+        "q": "sales"
+      },
+      {
+        "label": "Reviews",
+        "q": "review"
+      }
     ]
   },
   "build": {
     "intro": "No-code AI builders let you describe an app in plain English and get a working version, without being a programmer. They're great for prototypes, internal tools and simple products.",
     "picks": [
-      { "need": "A web app from a chat description", "tool": "Lovable" },
-      { "need": "Prompting and deploying in the browser", "tool": "Bolt" },
-      { "need": "Building and hosting with an AI agent", "tool": "Replit" },
-      { "need": "Turning a spreadsheet into an app", "tool": "Glide" },
-      { "need": "A complex web app without code", "tool": "Bubble" },
-      { "need": "A mobile app", "tool": "FlutterFlow" }
+      {
+        "need": "A web app from a chat description",
+        "tool": "Lovable"
+      },
+      {
+        "need": "Prompting and deploying in the browser",
+        "tool": "Bolt"
+      },
+      {
+        "need": "Building and hosting with an AI agent",
+        "tool": "Replit"
+      },
+      {
+        "need": "Turning a spreadsheet into an app",
+        "tool": "Glide"
+      },
+      {
+        "need": "A complex web app without code",
+        "tool": "Bubble"
+      },
+      {
+        "need": "A mobile app",
+        "tool": "FlutterFlow"
+      }
     ],
     "howTo": [
       "Write down what the app must do in 5 to 10 plain sentences before you start. Clear instructions give better apps.",
@@ -178,20 +587,73 @@
       "Watch usage-based pricing. Costs can grow as you use more AI credits."
     ],
     "faq": [
-      { "q": "Can I really build an app without coding?", "a": "Yes, for many simple apps, prototypes and internal tools. Complex apps with lots of users or sensitive data usually still need a developer." },
-      { "q": "Lovable, Bolt or Replit: which should I try first?", "a": "All three build working apps from a description. Try the same small idea in each for an hour and keep the one whose result you like best." },
-      { "q": "Do I own the app I build?", "a": "Usually yes, but check each tool's terms, and whether you can export your code or data if you leave." }
+      {
+        "q": "Can I really build an app without coding?",
+        "a": "Yes, for many simple apps, prototypes and internal tools. Complex apps with lots of users or sensitive data usually still need a developer."
+      },
+      {
+        "q": "Lovable, Bolt or Replit: which should I try first?",
+        "a": "All three build working apps from a description. Try the same small idea in each for an hour and keep the one whose result you like best."
+      },
+      {
+        "q": "Do I own the app I build?",
+        "a": "Usually yes, but check each tool's terms, and whether you can export your code or data if you leave."
+      }
+    ],
+    "chips": [
+      {
+        "label": "No-code app builders",
+        "q": "no-code"
+      },
+      {
+        "label": "Mobile apps",
+        "q": "mobile"
+      },
+      {
+        "label": "AI agents & chatbots",
+        "q": "agent"
+      },
+      {
+        "label": "Internal tools",
+        "q": "internal"
+      },
+      {
+        "label": "Games",
+        "q": "game"
+      },
+      {
+        "label": "Databases & backends",
+        "q": "database"
+      }
     ]
   },
   "developer": {
     "intro": "AI coding tools range from autocomplete in your editor to agents that plan changes, edit many files and run tests. Most developers use one in-editor assistant plus one agent for bigger tasks.",
     "picks": [
-      { "need": "An AI-first code editor", "tool": "Cursor" },
-      { "need": "Autocomplete inside your current editor", "tool": "GitHub Copilot" },
-      { "need": "An agent in your terminal", "tool": "Claude Code" },
-      { "need": "Open source, bring your own model", "tool": "Cline" },
-      { "need": "AI reviews on pull requests", "tool": "CodeRabbit" },
-      { "need": "If you use IntelliJ or PyCharm", "tool": "JetBrains AI" }
+      {
+        "need": "An AI-first code editor",
+        "tool": "Cursor"
+      },
+      {
+        "need": "Autocomplete inside your current editor",
+        "tool": "GitHub Copilot"
+      },
+      {
+        "need": "An agent in your terminal",
+        "tool": "Claude Code"
+      },
+      {
+        "need": "Open source, bring your own model",
+        "tool": "Cline"
+      },
+      {
+        "need": "AI reviews on pull requests",
+        "tool": "CodeRabbit"
+      },
+      {
+        "need": "If you use IntelliJ or PyCharm",
+        "tool": "JetBrains AI"
+      }
     ],
     "howTo": [
       "Try it on your real codebase, not a demo. Results vary a lot by language and project size.",
@@ -201,20 +663,81 @@
       "Compare total cost per developer, including usage-based charges for agents."
     ],
     "faq": [
-      { "q": "What is the best AI coding assistant?", "a": "It depends on your editor and workflow. Cursor and GitHub Copilot are popular in-editor choices, and Claude Code, Codex and Gemini CLI are popular coding agents." },
-      { "q": "Is AI-written code safe to use?", "a": "Only after review. Treat it like code from a new team member: read it, test it, and check for security issues." },
-      { "q": "Will my code be used to train AI models?", "a": "It depends on the tool and plan. Business plans usually offer stronger privacy terms. Check the settings and terms before using AI on private code." }
+      {
+        "q": "What is the best AI coding assistant?",
+        "a": "It depends on your editor and workflow. Cursor and GitHub Copilot are popular in-editor choices, and Claude Code, Codex and Gemini CLI are popular coding agents."
+      },
+      {
+        "q": "Is AI-written code safe to use?",
+        "a": "Only after review. Treat it like code from a new team member: read it, test it, and check for security issues."
+      },
+      {
+        "q": "Will my code be used to train AI models?",
+        "a": "It depends on the tool and plan. Business plans usually offer stronger privacy terms. Check the settings and terms before using AI on private code."
+      }
+    ],
+    "chips": [
+      {
+        "label": "Coding agents",
+        "q": "coding"
+      },
+      {
+        "label": "Code review",
+        "q": "review"
+      },
+      {
+        "label": "Testing",
+        "q": "test"
+      },
+      {
+        "label": "Open source",
+        "q": "open-source"
+      },
+      {
+        "label": "Observability & evals",
+        "q": "observab"
+      },
+      {
+        "label": "Vector databases",
+        "q": "vector"
+      },
+      {
+        "label": "Security",
+        "q": "security"
+      },
+      {
+        "label": "Model hosting",
+        "q": "inference"
+      }
     ]
   },
   "learn": {
     "intro": "AI learning tools explain hard topics simply, help you study and practise, and find and summarise research. Used well, they're like a patient tutor that's always available.",
     "picks": [
-      { "need": "Asking questions about your own documents", "tool": "Gemini Notebook (NotebookLM)" },
-      { "need": "Finding research papers", "tool": "Elicit" },
-      { "need": "What the science says on a question", "tool": "Consensus" },
-      { "need": "Flashcards and studying", "tool": "Quizlet" },
-      { "need": "A tutor for school subjects", "tool": "Khanmigo" },
-      { "need": "Speaking practice in a new language", "tool": "Speak" }
+      {
+        "need": "Asking questions about your own documents",
+        "tool": "Gemini Notebook (NotebookLM)"
+      },
+      {
+        "need": "Finding research papers",
+        "tool": "Elicit"
+      },
+      {
+        "need": "What the science says on a question",
+        "tool": "Consensus"
+      },
+      {
+        "need": "Flashcards and studying",
+        "tool": "Quizlet"
+      },
+      {
+        "need": "A tutor for school subjects",
+        "tool": "Khanmigo"
+      },
+      {
+        "need": "Speaking practice in a new language",
+        "tool": "Speak"
+      }
     ],
     "howTo": [
       "Use AI to explain and quiz you, not to do the work for you. You remember what you practise.",
@@ -224,9 +747,48 @@
       "For languages, practise speaking out loud. Conversation practice builds confidence fastest."
     ],
     "faq": [
-      { "q": "What is the best AI tool for studying?", "a": "Gemini Notebook (formerly NotebookLM) is great for studying your own notes and readings. Quizlet is good for flashcards, and Khanmigo works as a tutor for school subjects." },
-      { "q": "Can AI find real research papers?", "a": "Yes. Elicit, Consensus, Semantic Scholar and Scite search real academic papers. Always open the paper itself before citing it." },
-      { "q": "Is using AI for homework cheating?", "a": "It depends on the rules of your class. Using AI to explain ideas or quiz yourself is usually fine. Handing in AI-written work as your own usually isn't." }
+      {
+        "q": "What is the best AI tool for studying?",
+        "a": "Gemini Notebook (formerly NotebookLM) is great for studying your own notes and readings. Quizlet is good for flashcards, and Khanmigo works as a tutor for school subjects."
+      },
+      {
+        "q": "Can AI find real research papers?",
+        "a": "Yes. Elicit, Consensus, Semantic Scholar and Scite search real academic papers. Always open the paper itself before citing it."
+      },
+      {
+        "q": "Is using AI for homework cheating?",
+        "a": "It depends on the rules of your class. Using AI to explain ideas or quiz yourself is usually fine. Handing in AI-written work as your own usually isn't."
+      }
+    ],
+    "chips": [
+      {
+        "label": "Tutors",
+        "q": "tutor"
+      },
+      {
+        "label": "Languages",
+        "q": "language"
+      },
+      {
+        "label": "Flashcards & quizzes",
+        "q": "quiz"
+      },
+      {
+        "label": "Research papers",
+        "q": "paper"
+      },
+      {
+        "label": "For teachers",
+        "q": "teacher"
+      },
+      {
+        "label": "Maths",
+        "q": "math"
+      },
+      {
+        "label": "Courses",
+        "q": "course"
+      }
     ]
   }
 }

@@ -153,6 +153,9 @@ form.mini input[type=email] { width: 100%; padding: 4px; border: 2px inset #C0C0
 .copy { text-align: center; font-size: 11px; color: #555; }
 
 mark { background: var(--lemon); }
+.chips { line-height: 2.2; }
+.chip { display: inline-block; background: var(--cream); border: 1px outset #C0C0C0; padding: 0 8px; color: #000099; text-decoration: none; white-space: nowrap; }
+.chip:hover { background: var(--lemon); }
 [hidden] { display: none !important; }
 
 @media (max-width: 860px) {
