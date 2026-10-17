@@ -8,10 +8,11 @@ layout: base.njk
     <section class="box">
       <h2 class="c-peach">What's NEW</h2>
       <div class="in"><ul>
-        <li><b>Oct 2026:</b> 123ofnet.com is back after 20 years! <span class="new">NEW!</span></li>
-        <li><a href="/directory/">{{ total }} checked AI tools</a></li>
-        <li><a href="/tools/">Free AI tools</a> coming soon</li>
-        <li><a href="/1999/">See the original 2001 site</a></li>
+        <li><a href="/directory/">{{ total }} checked AI tools</a> in {{ directory.categories | length }} categories <span class="new">NEW!</span></li>
+        <li><b>Just added:</b></li>
+        {% for cat in directory.categories | batch(6) | first %}{% set l = cat.links | last %}<li>&raquo; <a href="/tool/{{ l.slug }}/">{{ l.title }}</a> <span class="small">({{ cat.name }})</span></li>
+        {% endfor %}
+        <li><b>Oct 2026:</b> 123ofnet.com is back after 20 years! <a href="/1999/">See the original site</a></li>
       </ul></div>
     </section>
     {% for cat in directory.categories | batch(5) | first %}
