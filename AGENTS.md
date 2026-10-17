@@ -19,7 +19,8 @@ data/directory.json   THE tool directory (source of truth; edit this, or use scr
 lib/catalog.js        Shared loader: slugs, website descriptions from archive/research/, alternatives.
 archive/research/     Verifier reports (what each tool's website said when checked).
 worker/               Cloudflare Worker (api.123ofnet.com): counter, guestbook, chat, webring.
-scripts/              Utility scripts (e.g. fetch-wayback.sh).
+scripts/              verify-tools.py, merge-tools.py, link-report.py, indexnow.sh, fetch-wayback.sh.
+  (data/link-check-reviewed.json = flagged tools a person checked and kept)
 ```
 
 ## Commands

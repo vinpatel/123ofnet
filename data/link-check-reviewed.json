@@ -1,0 +1,94 @@
+{
+  "https://alexa.amazon.com": {
+    "note": "Amazon redirect loop for bots; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://www.atlassian.com/software/rovo-dev": {
+    "note": "Loads normally; blocks datacenter IPs",
+    "reviewed": "2026-10-17"
+  },
+  "https://www.babbel.com": {
+    "note": "Redirect loop for bots; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://bold.pro": {
+    "note": "Bold LLC sites time out for bots; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://clipdrop.co": {
+    "note": "Loads normally; blocks datacenter IPs",
+    "reviewed": "2026-10-17"
+  },
+  "https://deepwiki.com": {
+    "note": "Vercel bot checkpoint; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://www.livecareer.com": {
+    "note": "Bold LLC; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://milvus.io": {
+    "note": "Redirect loop for bots; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://www.myperfectresume.com": {
+    "note": "Bold LLC; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://quickbooks.intuit.com": {
+    "note": "Times out for bots; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://www.resume-now.com": {
+    "note": "Bold LLC; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://resumelab.com": {
+    "note": "Bold LLC; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://secta.ai": {
+    "note": "Loads normally; blocks datacenter IPs",
+    "reviewed": "2026-10-17"
+  },
+  "https://www.soundstripe.com": {
+    "note": "406 for bots; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://superwhisper.com": {
+    "note": "Loads normally; blocks datacenter IPs",
+    "reviewed": "2026-10-17"
+  },
+  "https://zety.com": {
+    "note": "Bold LLC; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://playground.allenai.org": {
+    "note": "JS app with no readable text; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://leoforce.com": {
+    "note": "Arya is Leoforce's product; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://fin.ai": {
+    "note": "Fin by Intercom; page says 'Fin'",
+    "reviewed": "2026-10-17"
+  },
+  "https://xinghuo.xfyun.cn": {
+    "note": "Chinese-language page; live",
+    "reviewed": "2026-10-17"
+  },
+  "https://authors.ai": {
+    "note": "Marlowe is Authors A.I.'s product",
+    "reviewed": "2026-10-17"
+  },
+  "https://github.com/modelcontextprotocol/inspector": {
+    "note": "Official repo",
+    "reviewed": "2026-10-17"
+  },
+  "https://chatglm.cn": {
+    "note": "Chinese-language page; live",
+    "reviewed": "2026-10-17"
+  }
+}
