@@ -90,5 +90,13 @@
   "https://chatglm.cn": {
     "note": "Chinese-language page; live",
     "reviewed": "2026-10-17"
+  },
+  "https://www.d5render.com": {
+    "note": "Loads normally; times out from datacenter IPs",
+    "reviewed": "2026-10-17"
+  },
+  "https://apex.oracle.com": {
+    "note": "Oracle bot protection (403); live",
+    "reviewed": "2026-10-17"
   }
 }
