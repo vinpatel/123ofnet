@@ -1,0 +1,6 @@
+{
+  "_note": "Sites whose owners asked to be removed. merge-tools.py skips these domains.",
+  "domains": [
+    "hedra.com"
+  ]
+}

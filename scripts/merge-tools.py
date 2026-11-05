@@ -12,6 +12,7 @@ import json, os, re, sys
 from urllib.parse import urlparse, urlunparse
 
 DIR = os.path.join(os.path.dirname(__file__), "..", "data", "directory.json")
+EXCLUDED = os.path.join(os.path.dirname(__file__), "..", "data", "excluded.json")  # owner removal requests
 ACCEPT = {"ok", "moved", "blocked"}
 
 
@@ -35,6 +36,7 @@ def main():
     cats = {c["slug"]: c for c in d["categories"]}
     seen_url = {key_url(l["url"]) for c in d["categories"] for l in c["links"]}
     seen_name = {key_name(l["title"]) for c in d["categories"] for l in c["links"]}
+    excluded = set(json.load(open(EXCLUDED))["domains"]) if os.path.exists(EXCLUDED) else set()
     for path in sys.argv[1:]:
         slug = os.path.splitext(os.path.basename(path))[0]
         cat, added, skipped = cats[slug], 0, {}
@@ -44,6 +46,9 @@ def main():
                 continue
             url = clean_url(r["final"] if r["status"] == "moved" else r["url"])
             ku, kn = key_url(url), key_name(r["title"])
+            if any(ku[0] == x or ku[0].endswith("." + x) for x in excluded):
+                skipped["excluded"] = skipped.get("excluded", 0) + 1
+                continue
             if ku in seen_url or kn in seen_name:
                 skipped["duplicate"] = skipped.get("duplicate", 0) + 1
                 continue
