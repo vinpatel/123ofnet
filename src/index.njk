@@ -1,8 +1,53 @@
 ---
 layout: base.njk
+title: "AI Tools Directory: 2,600+ Checked AI Tools"
 ---
 {% set total = directory.categories | totalLinks %}
 <div class="portal">
+
+  <div class="col center">
+    <section class="hero">
+      <h1>Find the right <em>AI tool</em> for anything</h1>
+      <p>Thousands of AI tools launch every month. We check them and list the ones that work,
+      sorted by what you want to get done.</p>
+      <p class="small" style="text-align:left">123ofnet.com is a free directory of {{ total }} AI tools in {{ directory.categories | length }} categories,
+      for normal people and small businesses. Every tool's website is checked before it's listed and again every week,
+      and our quick picks are chosen by a person (<a href="/how-we-check/">how we check</a>). We started in {{ site.established }} as a
+      student-built web portal, "An easy solution to the Net !!!", and came back in 2026 to do the same for AI.</p>
+      <form action="/directory/" method="get" role="search">
+        <label for="q2" class="sr">Search AI tools</label>
+        <input id="q2" name="q" type="search" placeholder="e.g. write my resume" style="width:70%;padding:5px;border:2px inset #C0C0C0;font:15px Verdana,sans-serif">
+        <button type="submit">Go</button>
+      </form>
+    </section>
+
+    <section class="box">
+      <h2 class="c-blue">Categories</h2>
+      <div class="cats">
+        {% for cat in directory.categories %}
+        <div>
+          <a class="cat" href="/directory/{{ cat.slug }}/">{{ cat.name }}</a> <span class="small">({{ cat.links | length }})</span><br>
+          <span class="sub">{% for l in cat.links | batch(3) | first %}<a href="/directory/{{ cat.slug }}/">{{ l.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</span>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="box">
+      <h2 class="c-news">Free AI Tools from 123ofnet</h2>
+      <div class="in" style="font-size:14px">
+        <p>Just like we gave away free email and 20 MEGS of webspace in 2001, we're building free AI tools:</p>
+        <ul>
+          <li>&raquo; <b>AI Email Writer</b>: polite replies, complaints, follow-ups</li>
+          <li>&raquo; <b>Resume &amp; Cover Letter Fixer</b></li>
+          <li>&raquo; <b>eGreetings</b>: the perfect birthday or thank-you message</li>
+          <li>&raquo; <b>Business Name Finder</b> with domain check</li>
+          <li>&raquo; <b>Make A Website For Free Today</b>: your homepage in 60 seconds</li>
+        </ul>
+        <p class="center"><a class="btn" href="/tools/">See the free tools &raquo;</a></p>
+      </div>
+    </section>
+  </div>
 
   <aside class="col left">
     <section class="box">
@@ -25,46 +70,6 @@ layout: base.njk
     </section>
     {% endfor %}
   </aside>
-
-  <div class="col center">
-    <section class="hero">
-      <h1>Find the right <em>AI tool</em> for anything</h1>
-      <p>Thousands of AI tools launch every month. We check them and list the ones that work,
-      sorted by what you want to get done.</p>
-      <form action="/directory/" method="get" role="search">
-        <label for="q2" class="sr">Search AI tools</label>
-        <input id="q2" name="q" type="search" placeholder="e.g. write my resume, remove photo background" style="width:70%;padding:5px;border:2px inset #C0C0C0;font:15px Verdana,sans-serif">
-        <button type="submit">Go</button>
-      </form>
-    </section>
-
-    <section class="box">
-      <h2 class="c-blue">Categories</h2>
-      <div class="cats">
-        {% for cat in directory.categories %}
-        <div>
-          <a class="cat" href="/directory/{{ cat.slug }}/">{{ cat.name }}</a> <span class="small">({{ cat.links | length }})</span><br>
-          <span class="sub">{% for l in cat.links | batch(3) | first %}<a href="/directory/{{ cat.slug }}/">{{ l.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}...</span>
-        </div>
-        {% endfor %}
-      </div>
-    </section>
-
-    <section class="box">
-      <h2 class="c-news">Free AI Tools from 123ofnet</h2>
-      <div class="in" style="font-size:14px">
-        <p>Just like we gave away free email and 20 MEGS of webspace in 2001, we're building free AI tools:</p>
-        <ul>
-          <li>&raquo; <b>AI Email Writer</b>: polite replies, complaints, follow-ups</li>
-          <li>&raquo; <b>Resume &amp; Cover Letter Fixer</b></li>
-          <li>&raquo; <b>eGreetings</b>: the perfect birthday or thank-you message</li>
-          <li>&raquo; <b>Business Name Finder</b> with domain check</li>
-          <li>&raquo; <b>Make A Website For Free Today</b>: your homepage in 60 seconds</li>
-        </ul>
-        <p class="center"><a class="btn" href="/tools/">See the free tools &raquo;</a></p>
-      </div>
-    </section>
-  </div>
 
   <aside class="col right">
     <section class="box">

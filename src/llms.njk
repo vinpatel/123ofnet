@@ -6,7 +6,7 @@ eleventyExcludeFromCollections: true
 
 > {{ site.description | safe }}
 
-123ofnet.com is a web portal first built in 2000 ("An easy solution to the Net !!!") and revived in 2026 as "An easy solution to AI !!!". It lists {{ directory.categories | totalLinks }} AI tools in {{ directory.categories | length }} categories. Every tool is checked: the website works and the tool does what the listing says. The quick picks are chosen by a person. Featured listings are marked as paid.
+123ofnet.com is a web portal first built in 2000 ("An easy solution to the Net !!!") and revived in 2026 as "An easy solution to AI !!!". It lists {{ directory.categories | totalLinks }} AI tools in {{ directory.categories | length }} categories. Before a tool is listed, a checker confirms its website loads and names the tool, and it re-checks every tool weekly; a person reviews anything flagged, writes the descriptions and chooses the quick picks (see [How we check]({{ site.url }}/how-we-check/)). Featured listings are marked as paid.
 
 The complete list of every tool with links and one-line descriptions is at [llms-full.txt]({{ site.url }}/llms-full.txt).
 
@@ -21,4 +21,7 @@ Quick picks:
 {% endif %}{% endfor %}
 ## About
 - [About 123ofnet.com]({{ site.url }}/about/)
+- [How we check tools]({{ site.url }}/how-we-check/)
+- [FAQ]({{ site.url }}/faq/)
+- [Free AI tools]({{ site.url }}/tools/)
 - [List an AI tool]({{ site.url }}/submit/)

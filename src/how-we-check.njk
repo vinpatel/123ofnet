@@ -1,0 +1,44 @@
+---
+layout: base.njk
+title: "How We Check AI Tools"
+permalink: /how-we-check/
+description: "How 123ofnet.com checks the AI tools it lists: an automatic website check before listing and every week, plus a person for anything flagged."
+crumbs: [{name: "Home", url: "/"}, {name: "How We Check", url: "/how-we-check/"}]
+---
+<div class="content">
+  <h1>How we <em>check</em> AI tools</h1>
+  <p>Every tool page on 123ofnet.com has a <b>Checked</b> line. Here is exactly what it means, and what it doesn't.</p>
+
+  <h2>1. Before a tool is listed</h2>
+  <p>Our checker visits the tool's website, like a browser would, and records what it finds:</p>
+  <ul>
+    <li>Does the page load?</li>
+    <li>Does it name the tool?</li>
+    <li>Is the domain parked or for sale?</li>
+    <li>Does it send you to a different website?</li>
+  </ul>
+  <p>Only tools that pass are added. A tool that moved to a new address is listed at the new one. A person writes the one-line description.</p>
+
+  <h2>2. Every week</h2>
+  <p>Every Monday the checker visits all {{ directory.categories | totalLinks }} tools again and writes a report of anything that changed. Nothing is removed automatically, because sites go down for an hour and come back. A person looks at the report and fixes, updates or removes listings.</p>
+
+  <h2>3. Sites that block checkers</h2>
+  <p>Some big sites block automatic visitors. The checker can't tell whether those load, so their page says so. When a person has opened the site and confirmed it works, the page says <i>"A person checked the website works"</i>, with the month.</p>
+
+  <h2>What the Checked line means</h2>
+  <table class="plans">
+    <tr><th>It says</th><th>Meaning</th></tr>
+    <tr><td class="feat">Website loaded and named the tool</td><td class="feat">The checker loaded the site and found the tool's name on it.</td></tr>
+    <tr><td class="feat">A person checked the website works</td><td class="feat">The checker couldn't tell, so a person opened it.</td></tr>
+    <tr><td class="feat">Website blocks automatic checkers</td><td class="feat">The site turned the checker away. Most of these are big, well-known sites that work fine.</td></tr>
+    <tr><td class="feat">Our checker flagged this site</td><td class="feat">Something looked wrong. A person will review it.</td></tr>
+  </table>
+
+  <h2>What we don't check</h2>
+  <p>We don't test every feature, and we don't track prices; they change too often. We don't review a tool's privacy or security. Read a tool's own terms before you sign up.</p>
+
+  <h2>Paid listings</h2>
+  <p>Paid <b>Featured</b> listings are always marked FEATURED, and affiliate links are marked "(aff)". Paying never skips the check. See the <a href="/faq/">FAQ</a>.</p>
+
+  <p class="note">Spotted a broken link or a wrong description? <a href="mailto:{{ site.contactEmail }}?subject=Correction">Tell us</a> and we'll fix it.</p>
+</div>

@@ -10093,7 +10093,8 @@
           "url": "https://www.retable.io",
           "note": "Online spreadsheet-database for building team tools"
         }
-      ]
+      ],
+      "forName": "Building Apps (No Code)"
     },
     {
       "name": "Developer",
@@ -11931,7 +11932,8 @@
           "url": "https://www.thesys.dev",
           "note": "Generative UI API for AI agents"
         }
-      ]
+      ],
+      "forName": "Developers"
     },
     {
       "name": "Learning & Research",

@@ -1,4 +1,6 @@
 // Lists archived screenshots for the /1999/ museum page, grouped by site.
+// Thumbnails (400px wide JPEGs) live in src/assets/1999/; regenerate them with
+// scripts/museum-thumbs.sh after adding screenshots. The originals are never changed.
 import fs from "node:fs";
 
 const ROOT = "archive/screenshots";
@@ -17,8 +19,13 @@ export default function () {
     const dir = `${ROOT}/${site}`;
     const shots = !fs.existsSync(dir) ? [] : fs.readdirSync(dir).filter((f) => f.endsWith(".png")).sort().map((file) => {
       const [, ts, rest] = file.match(/^(\d{8})-(.*)\.png$/) || [];
+      // PNG width/height live at bytes 16-23 of the file (IHDR chunk)
+      const head = Buffer.alloc(24);
+      const fd = fs.openSync(`${dir}/${file}`, "r"); fs.readSync(fd, head, 0, 24, 0); fs.closeSync(fd);
+      const w = head.readUInt32BE(16), h = head.readUInt32BE(20);
       return {
         file: `${site}/${file}`, ts,
+        thumb: `${site}/${file.replace(/\.png$/, ".jpg")}`, tw: 400, th: Math.round((h * 400) / w),
         url: `http://${site}/`,
         page: pageName(rest || "", site),
         date: ts ? `${MONTHS[+ts.slice(4, 6) - 1]} ${ts.slice(0, 4)}` : "",

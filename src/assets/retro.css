@@ -77,6 +77,9 @@ button:active, .btn:active { border-style: inset; }
 
 /* ---------- 3-column portal ---------- */
 .portal { display: grid; grid-template-columns: 200px minmax(0, 1fr) 230px; gap: 0 10px; padding: 8px 6px; }
+/* The centre column comes first in the HTML (H1 first for readers and search engines)
+   but sits in the middle on wide screens. */
+.portal .left { grid-column: 1; grid-row: 1; } .portal .center { grid-column: 2; grid-row: 1; } .portal .right { grid-column: 3; grid-row: 1; }
 .col { min-width: 0; }
 
 .box { margin: 0 0 12px; }
@@ -92,9 +95,11 @@ button:active, .btn:active { border-style: inset; }
 .c-lilac { background: var(--lilac); } .c-pink { background: var(--pink); }
 .c-lemon { background: var(--lemon); } .c-sky { background: var(--sky); }
 .c-cream { background: var(--cream); }
-.c-news { background: var(--red-orange); color: var(--lemon) !important; }
-.c-blue { background: #0099FF; color: var(--lemon) !important; }
-.c-green { background: #66CC99; color: var(--lemon) !important; }
+/* Strong bars with yellow text: the 2001 colours (#FF6633, #0099FF, #66CC99) darkened
+   just enough for WCAG AA with #FFFF99 text (DESIGN.md section 4). */
+.c-news { background: #CC3300; color: var(--lemon) !important; }
+.c-blue { background: #006BD6; color: var(--lemon) !important; }
+.c-green { background: #1E7A4E; color: var(--lemon) !important; }
 
 .hero {
   background: var(--cream); border: 1px solid #CCCC99; padding: 10px 14px; margin: 0 0 12px; text-align: center;
@@ -106,7 +111,7 @@ button:active, .btn:active { border-style: inset; }
 /* DMOZ-style category grid */
 .cats { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px 16px; padding: 8px 4px; }
 .cats a.cat { font: bold 16px Verdana, Arial, sans-serif; }
-.cats .sub { font-size: 12px; }
+.cats .sub { font-size: 13px; }
 .cats .sub a { color: var(--link); }
 
 /* tool listings */
@@ -116,7 +121,7 @@ button:active, .btn:active { border-style: inset; }
 .listing p { margin: 2px 0 0; font-size: 14px; }
 .listing .url { color: #008000; font-size: 12px; }
 .listing.featured { background: var(--lemon); border: 2px solid var(--orange); padding: 8px; }
-.tag { font: bold 10px Verdana, sans-serif; color: #FFF; background: var(--hot); padding: 1px 4px; vertical-align: middle; }
+.tag { font: bold 10px Verdana, sans-serif; color: #FFF; background: #CC0052; padding: 1px 4px; vertical-align: middle; }
 .new { color: #FF0000; font: bold 10px Verdana, sans-serif; animation: blink 1s steps(1) infinite; }
 @keyframes blink { 50% { visibility: hidden; } }
 
@@ -134,6 +139,7 @@ table.plans td.feat { text-align: left; }
 
 .note { background: var(--cream); border: 1px dashed #999; padding: 8px 10px; font-size: 13px; }
 .small { font-size: 12px; }
+@media (max-width: 520px) { .small, .cats .sub, .listing .url { font-size: 13px; } .footbar, .copy { font-size: 12px; } }
 .center { text-align: center; }
 
 form.mini input[type=email] { width: 100%; padding: 4px; border: 2px inset #C0C0C0; font: 13px Verdana, sans-serif; margin: 4px 0; }
@@ -160,7 +166,12 @@ mark { background: var(--lemon); }
 
 @media (max-width: 860px) {
   .portal { grid-template-columns: 1fr; }
-  .portal .left { order: 2; } .portal .center { order: 1; } .portal .right { order: 3; }
+  .portal .left, .portal .center, .portal .right { grid-column: 1; grid-row: auto; }
+  /* Bigger tap targets on touch screens; same look. */
+  .navstrip { line-height: 1; padding: 6px 8px; }
+  .navstrip a, .footbar a { display: inline-block; padding: 10px 2px; }
+  .box li a, .listing h3 a, .cats a, .small a, a.small, td a, .chip { display: inline-block; min-height: 24px; padding: 3px 0; }
+  .chip { padding: 6px 10px; }
 }
 @media (max-width: 520px) {
   .logo { font-size: 32px; }

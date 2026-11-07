@@ -6,14 +6,10 @@ pagination:
   alias: tool
   addAllPagesToCollections: true
 permalink: "/tool/{{ tool.slug }}/"
-eleventyComputed:
-  title: "{{ tool.title | safe }}: What It Does & Alternatives"
-  description: "{{ tool.title | safe }}: {{ tool.note | safe }}. See what it does and {{ tool.alternatives | length }} alternatives in {{ tool.cat.name | safe }}, checked by 123ofnet.com."
-  crumbs: [{name: "Home", url: "/"}, {name: "AI Directory", url: "/directory/"}, {name: "{{ tool.cat.name | safe }}", url: "/directory/{{ tool.cat.slug }}/"}, {name: "{{ tool.title | safe }}", url: "/tool/{{ tool.slug }}/"}]
 ---
 <div class="content">
   <p class="small"><a href="/">Home</a> &raquo; <a href="/directory/">AI Directory</a> &raquo; <a href="/directory/{{ tool.cat.slug }}/">{{ tool.cat.name }}</a> &raquo; {{ tool.title }}</p>
-  <h1>{{ tool.title }}</h1>
+  <h1>{{ tool.title }}: what it does &amp; alternatives</h1>
   <p style="font-size:18px">{{ tool.note }}.</p>
   <p><a class="btn hot" href="{{ tool.url }}" rel="noopener{% if tool.aff %} sponsored{% endif %}">Visit {{ tool.title }} &raquo;</a>
     <span class="url">{{ tool.url | replace("https://", "") | replace("www.", "") }}</span>{% if tool.featured %} <span class="tag">FEATURED</span>{% endif %}</p>
@@ -21,9 +17,9 @@ eleventyComputed:
   <table class="plans" style="margin-top:12px">
     <tr><th colspan="2">{{ tool.title }} at a glance</th></tr>
     <tr><td class="feat"><b>What it does</b></td><td class="feat">{{ tool.note }}</td></tr>
-    <tr><td class="feat"><b>Category</b></td><td class="feat"><a href="/directory/{{ tool.cat.slug }}/">{{ tool.cat.name }}</a></td></tr>
+    <tr><td class="feat"><b>Category</b></td><td class="feat"><a href="/directory/{{ tool.cat.slug }}/">{{ tool.cat.name }}</a>{% for s in tool.subPages %} &middot; <a href="/directory/{{ tool.cat.slug }}/{{ s.slug }}/">{{ s.label }}</a>{% endfor %}</td></tr>
     <tr><td class="feat"><b>Website</b></td><td class="feat"><a href="{{ tool.url }}" rel="noopener">{{ tool.url | replace("https://", "") }}</a></td></tr>
-    <tr><td class="feat"><b>Checked</b></td><td class="feat">Website working when last checked ({{ site.dataUpdated }})</td></tr>
+    <tr><td class="feat"><b>Checked</b></td><td class="feat">{{ tool.check.text }}{% if tool.check.date %} ({{ tool.check.date | monthYear }}){% endif %}. <a href="/how-we-check/">How we check</a></td></tr>
   </table>
 
   {% if tool.siteDesc %}
@@ -51,6 +47,6 @@ eleventyComputed:
   <p class="note small">Is this your tool? <a href="/submit/">Get it featured</a> at the top of its category. Something wrong on this page? <a href="mailto:{{ site.contactEmail }}?subject={{ ('Correction: ' + tool.title) | urlencode }}">Tell us</a>.</p>
 
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"SoftwareApplication","name":{{ tool.title | dump | safe }},"url":{{ tool.url | dump | safe }},"description":{{ tool.note | dump | safe }},"applicationCategory":{{ tool.cat.name | dump | safe }},"operatingSystem":"Web"}
+  {"@context":"https://schema.org","@type":"SoftwareApplication","@id":"{{ site.url }}/tool/{{ tool.slug }}/#app","name":{{ tool.title | dump | safe }},"url":{{ tool.url | dump | safe }},"description":{{ tool.note | dump | safe }},"applicationCategory":{{ tool.cat.slug | appCategory | dump | safe }},"applicationSubCategory":{{ tool.cat.name | dump | safe }},"operatingSystem":"Web","subjectOf":{"@id":"{{ site.url }}/tool/{{ tool.slug }}/"}{% if tool.alternatives | length %},"isSimilarTo":[{% for a in tool.alternatives %}{"@type":"SoftwareApplication","name":{{ a.title | dump | safe }},"url":"{{ site.url }}/tool/{{ a.slug }}/"}{% if not loop.last %},{% endif %}{% endfor %}]{% endif %}}
   </script>
 </div>

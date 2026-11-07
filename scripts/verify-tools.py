@@ -11,7 +11,7 @@ For each {"title","url","note"} it fetches the page and records:
   site_title / site_desc   what the site says about itself (for human review)
 Only "ok", "moved" and "blocked" entries are safe to add; "mismatch" needs a human look.
 """
-import json, re, sys, html, subprocess, tempfile, os, concurrent.futures as cf
+import json, re, sys, html, subprocess, tempfile, os, datetime, concurrent.futures as cf
 from urllib.parse import urlparse
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140 Safari/537.36"
@@ -32,7 +32,7 @@ def norm(s):
 
 def check(item):
     url = item["url"]
-    out = dict(item)
+    out = dict(item, checked=datetime.date.today().isoformat())
     with tempfile.NamedTemporaryFile(delete=False) as tmp:
         path = tmp.name
     try:

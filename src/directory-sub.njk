@@ -1,0 +1,38 @@
+---
+layout: base.njk
+pagination:
+  data: subcats
+  size: 1
+  alias: sub
+  addAllPagesToCollections: true
+permalink: "/directory/{{ sub.cat.slug }}/{{ sub.slug }}/"
+---
+<div class="content">
+  <p class="small"><a href="/">Home</a> &raquo; <a href="/directory/">AI Directory</a> &raquo; <a href="/directory/{{ sub.cat.slug }}/">{{ sub.cat.name }}</a> &raquo; {{ sub.label }}</p>
+  <h1>Best <em>AI {{ sub.label | lower }}</em></h1>
+  <p>{{ sub.tools | length }} AI tools for {{ sub.label | lower }}, from our {{ sub.cat.name }} list. Each one's website is checked before it's listed and again every week (<a href="/how-we-check/">how we check</a>). Featured listings are paid and marked.</p>
+  {% set picks = sub.picks %}
+  {% if picks | length %}
+  <h2>Our quick picks</h2>
+  <table class="plans">
+    <tr><th>If you need...</th><th>Try</th></tr>
+    {% for p in picks %}<tr><td class="feat">{{ p.need }}</td><td class="feat"><a href="/tool/{{ p.t.slug }}/">{{ p.t.title }}</a></td></tr>{% endfor %}
+  </table>
+  {% endif %}
+
+  <h2 id="all">All {{ sub.tools | length }} {{ sub.label | lower }} tools</h2>
+  <section style="border-top:4px solid {{ sub.cat.color }}">
+    {% for l in sub.tools | sort(true, false, "featured") %}{% include "listing.njk" %}{% endfor %}
+  </section>
+  <p class="small center"><a href="#all">Back to the top of the list &uarr;</a></p>
+
+  {% set others = [] %}{% for c in directory.categories %}{% if c.slug == sub.cat.slug %}{% set others = c.subs %}{% endif %}{% endfor %}
+  <h2>More in {{ sub.cat.name }}</h2>
+  <p class="chips small">{% for s in others %}{% if s.slug != sub.slug %}<a class="chip" href="/directory/{{ sub.cat.slug }}/{{ s.slug }}/">{{ s.label }} ({{ s.count }})</a> {% endif %}{% endfor %}
+    <a class="chip" href="/directory/{{ sub.cat.slug }}/">All {{ sub.cat.name }}</a></p>
+
+  <p class="note">Made an AI tool for {{ sub.label | lower }}? <a href="/submit/">Get listed</a>.</p>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"ItemList","name":{{ ("Best AI " + sub.label | lower) | dump | safe }},"numberOfItems":{{ sub.tools | length }},"itemListElement":[{% for l in sub.tools %}{"@type":"ListItem","position":{{ loop.index }},"name":{{ l.title | dump | safe }},"url":"{{ site.url }}/tool/{{ l.slug }}/"}{% if not loop.last %},{% endif %}{% endfor %}]}
+  </script>
+</div>

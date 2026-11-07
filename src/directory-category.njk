@@ -6,14 +6,10 @@ pagination:
   alias: cat
   addAllPagesToCollections: true
 permalink: "/directory/{{ cat.slug }}/"
-eleventyComputed:
-  title: "Best AI Tools for {{ cat.name | safe }} (2026)"
-  description: "The best AI tools for {{ cat.name | lower | safe }}, checked to make sure they work: {% for l in cat.links | batch(4) | first %}{{ l.title | safe }}{% if not loop.last %}, {% endif %}{% endfor %} and more. {{ cat.blurb | safe }}."
-  crumbs: [{name: "Home", url: "/"}, {name: "AI Directory", url: "/directory/"}, {name: "{{ cat.name | safe }}", url: "/directory/{{ cat.slug }}/"}]
 ---
 <div class="content">
   <p class="small"><a href="/">Home</a> &raquo; <a href="/directory/">AI Directory</a> &raquo; {{ cat.name }}</p>
-  <h1>Best <em>AI tools</em> for {{ cat.name }}</h1>
+  <h1>Best <em>AI tools</em> for {{ cat.forName or cat.name }}</h1>
   {% set guide = guides[cat.slug] %}
   <p>{{ guide.intro if guide else cat.blurb }}</p>
 
@@ -30,13 +26,13 @@ eleventyComputed:
   <h2 id="all">All {{ cat.links | length }} tools for {{ cat.name }}</h2>
   <p class="center"><label for="cf" class="sr">Filter {{ cat.name }} tools</label>
   <input id="cf" type="search" data-filter placeholder="Filter these {{ cat.links | length }} tools..." autocomplete="off" style="width:80%;padding:5px;border:2px inset #C0C0C0;font:15px Verdana,sans-serif"></p>
-  {% if guide and guide.chips %}<p class="chips center small">Show only:
-    {% for ch in guide.chips %}<a class="chip" href="?q={{ ch.q | urlencode }}#all" data-chip="{{ ch.q }}">{{ ch.label }}</a> {% endfor %}
-    <a class="chip" href="?#all" data-chip="">All</a></p>{% endif %}
+  {% if cat.subs | length %}<p class="chips center small">Show only:
+    {% for s in cat.subs %}<a class="chip" href="/directory/{{ cat.slug }}/{{ s.slug }}/">{{ s.label }}</a> {% endfor %}</p>{% endif %}
   <p class="small center" data-count aria-live="polite"></p>
   <section style="border-top:4px solid {{ cat.color }}">
     {% for l in cat.links | sort(true, false, "featured") %}{% include "listing.njk" %}{% endfor %}
   </section>
+  <p class="small center"><a href="#all">Back to the top of the list &uarr;</a></p>
 
   {% if guide %}
   <h2>How to choose an AI tool for {{ cat.name | lower }}</h2>
@@ -56,6 +52,6 @@ eleventyComputed:
 
   <p class="note">Your AI tool belongs in <b>{{ cat.name }}</b>? <a href="/submit/">Get listed</a>. Featured spots go at the top of this page.</p>
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"ItemList","name":"Best AI tools for {{ cat.name }}","itemListElement":[{% for l in cat.links %}{"@type":"ListItem","position":{{ loop.index }},"item":{"@type":"SoftwareApplication","name":"{{ l.title }}","url":"{{ l.url }}","description":"{{ l.note }}","applicationCategory":"{{ cat.name }}"}}{% if not loop.last %},{% endif %}{% endfor %}]}
+  {"@context":"https://schema.org","@type":"ItemList","name":{{ ("Best AI tools for " + (cat.forName or cat.name)) | dump | safe }},"numberOfItems":{{ cat.links | length }},"itemListElement":[{% for l in cat.links %}{"@type":"ListItem","position":{{ loop.index }},"name":{{ l.title | dump | safe }},"url":"{{ site.url }}/tool/{{ l.slug }}/"}{% if not loop.last %},{% endif %}{% endfor %}]}
   </script>
 </div>

@@ -8,5 +8,5 @@ eleventyExcludeFromCollections: true
 {% for cat in directory.categories %}
 ## {{ cat.name | safe }} ({{ cat.links | length }} tools)
 Page: {{ site.url }}/directory/{{ cat.slug }}/
-{% for l in cat.links %}- [{{ l.title | safe }}]({{ l.url | safe }}): {{ l.note | safe }}{% if l.featured %} (featured, paid){% endif %}
+{% for l in cat.links %}- [{{ l.title | safe }}]({{ l.url | safe }}): {{ l.note | safe }}{% if l.featured %} (featured, paid){% endif %}. Details and alternatives: {{ site.url }}/tool/{{ l.slug }}/
 {% endfor %}{% endfor %}

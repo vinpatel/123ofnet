@@ -20,15 +20,6 @@
     };
     if (q) local.value = q;
     local.addEventListener("input", runLocal);
-    document.querySelectorAll("[data-chip]").forEach(function (chip) {
-      chip.addEventListener("click", function (e) {
-        e.preventDefault();
-        local.value = chip.getAttribute("data-chip");
-        history.replaceState(null, "", local.value ? "?q=" + encodeURIComponent(local.value) + "#all" : location.pathname);
-        runLocal();
-        document.getElementById("all").scrollIntoView({ behavior: "smooth" });
-      });
-    });
     runLocal();
   }
 

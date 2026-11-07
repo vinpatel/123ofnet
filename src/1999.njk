@@ -13,7 +13,7 @@ crumbs: [{name: "Home", url: "/"}, {name: "The Original Site", url: "/1999/"}]
   <h2>{{ group.site }}{% if group.site == "123ofnet.hypermart.net" %} (our free-host home, before the .com launch on 1 Nov 2000){% endif %}</h2>
   <div class="shots">
     {% for s in group.shots %}
-    <figure><a href="/1999/shots/{{ s.file }}"><img src="/1999/shots/{{ s.file }}" alt="{{ group.site }} {{ s.page }} page, {{ s.date }}" loading="lazy"></a>
+    <figure><a href="/1999/shots/{{ s.file }}"><img src="/assets/1999/{{ s.thumb }}" width="{{ s.tw }}" height="{{ s.th }}" alt="Screenshot of the {{ s.page }} page of {{ group.site }}, archived {{ s.date }}" loading="lazy"></a>
     <figcaption><b>{{ s.page }}</b><br>{{ s.date }} &middot; <a href="https://web.archive.org/web/{{ s.ts }}/{{ s.url }}">archive</a></figcaption></figure>
     {% endfor %}
   </div>
