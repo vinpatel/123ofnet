@@ -751,5 +751,1325 @@
   "reviewed": "2026-11-23",
   "verdict": "approved",
   "reviewNote": "All claims match the homepage/FAQ (Spanish/French, reservations scenario, pronunciation feedback, business role plays, free trial, iOS/Android)."
+ },
+ "deep-dream-generator": {
+  "bestFor": "Best for hobbyists and artists who want to make AI pictures or videos from a text prompt or an existing photo.",
+  "useCases": [
+   "Type a description and get an AI-made picture",
+   "Turn a still photo into an AI video",
+   "Reuse a prompt you liked from the community gallery"
+  ],
+  "goodToKnow": "You can start making images without signing up; free users get a limited amount of 'energy' to spend on generations.",
+  "sources": [
+   "https://deepdreamgenerator.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site calls the free allowance 'energy', not credits; clip length isn't stated, so dropped 'short'."
+ },
+ "resume-io": {
+  "bestFor": "Best for job seekers who want a guided way to build a resume and matching cover letter from templates.",
+  "useCases": [
+   "Build a resume step by step with suggested wording",
+   "Write a cover letter from a job link and your resume",
+   "Upload an old resume file and improve it"
+  ],
+  "goodToKnow": "Resumes download as Word or PDF. There's no direct Google Docs export, but some .docx downloads can be opened in Google Drive.",
+  "sources": [
+   "https://resume.io"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "FAQ says only 'certain resumes' can be downloaded as .docx for Google Docs; softened the claim."
+ },
+ "clipchamp": {
+  "bestFor": "Best for beginners making videos for work, school or social media who want editing plus AI voiceovers and captions.",
+  "useCases": [
+   "Add automatic subtitles to a video",
+   "Record your screen and webcam for a how-to clip",
+   "Make a social post from a ready-made video template"
+  ],
+  "goodToKnow": "Runs in a web browser with no download, and there is also a Windows app; some premium features need Microsoft 365.",
+  "sources": [
+   "https://clipchamp.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match the site. The Microsoft 365 note appears under the desktop app section."
+ },
+ "huggingchat": {
+  "bestFor": "Best for curious users who want to chat with open-source AI models and switch between many of them.",
+  "useCases": [
+   "Ask questions and let it pick a suitable model for you",
+   "Pick a specific open-source model and chat with it",
+   "Explore ML papers and datasets with the ML Intern mode"
+  ],
+  "goodToKnow": "An automatic mode called Omni chooses which open-source model answers each request.",
+  "sources": [
+   "https://huggingface.co/chat/"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Side-by-side model comparison isn't on the page; the papers/datasets use case only shows up as the 'ML Intern' mode listing."
+ },
+ "ginger": {
+  "bestFor": "Best for everyday writers and students who want grammar, spelling and rewording help wherever they type.",
+  "useCases": [
+   "Fix spelling and grammar in an email before sending",
+   "Reword a clunky or wordy sentence",
+   "Look up synonyms for a word while writing"
+  ],
+  "goodToKnow": "Available as Chrome and Edge extensions, a Word add-in, a desktop app, and iOS and Android apps.",
+  "sources": [
+   "https://www.gingersoftware.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Page doesn't mention English learners (it mentions students/education). It shows rephrasing for wordy sentences, not a 'shorter' option. The apps and Word add-in are confirmed."
+ },
+ "lingvanex": {
+  "bestFor": "Best for businesses that need to translate text, documents or websites, including on their own servers.",
+  "useCases": [
+   "Translate business documents into another language",
+   "Add automatic translation to a website",
+   "Transcribe recorded speech into text"
+  ],
+  "goodToKnow": "Translator apps cover desktop, mobile, browser extensions and Slack; businesses can ask for a demo.",
+  "sources": [
+   "https://lingvanex.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "'Free trial' appears only in a link URL; the visible text says 'Demo'."
+ },
+ "pixlr": {
+  "bestFor": "Best for beginners and creators who want quick photo edits and AI images in the browser, with no install.",
+  "useCases": [
+   "Remove the background from a product photo",
+   "Erase an unwanted object from a picture",
+   "Make a photo collage for social media"
+  ],
+  "goodToKnow": "Works in a web browser with no install, with mobile apps too; there is a free version and free plans for education.",
+  "sources": [
+   "https://pixlr.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "'Small businesses' was only in a customer testimonial, not an official claim."
+ },
+ "kilo": {
+  "bestFor": "Best for developers who want an open-source AI coding agent inside their editor, terminal or a desktop app.",
+  "useCases": [
+   "Ask an AI agent to write or fix code in your project",
+   "Plan a feature before coding it",
+   "Get an AI review of code changes"
+  ],
+  "goodToKnow": "Works in VS Code, JetBrains IDEs and the command line; you can use your own API keys or local models.",
+  "sources": [
+   "https://kilo.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match kilo.ai (VS Code, JetBrains, CLI, desktop, plan agent, code reviewer, own keys, local models)."
+ },
+ "haystack": {
+  "bestFor": "Best for developers building AI apps like chatbots, agents or retrieval (RAG) pipelines with an open-source Python framework.",
+  "useCases": [
+   "Build a chatbot that answers from your own documents",
+   "Connect an AI model to a search database",
+   "Set up an AI agent that uses tools"
+  ],
+  "goodToKnow": "The core framework is open source and installs with pip; it connects to providers like OpenAI, Anthropic and Hugging Face.",
+  "sources": [
+   "https://haystack.deepset.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "The site talks about RAG pipelines rather than 'document search'; reworded."
+ },
+ "bluedot": {
+  "bestFor": "Best for teams and professionals who want meeting notes and summaries without a bot joining the call.",
+  "useCases": [
+   "Record a Zoom or Google Meet call and get a summary",
+   "Upload an audio file and get a transcript",
+   "Ask questions across notes from past meetings"
+  ],
+  "goodToKnow": "Has a Chrome extension plus desktop and mobile apps, and can sync notes to your CRM, Notion and other tools.",
+  "sources": [
+   "https://www.bluedothq.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "The sync text names 'your CRM, Notion, Claude and more'; HubSpot and Slack appear only as logos."
+ },
+ "hubspot-ai": {
+  "bestFor": "Best for businesses already on HubSpot that want AI agents to help with marketing, sales and customer service.",
+  "useCases": [
+   "Have an AI agent answer customer questions",
+   "Draft blog posts and social content in your brand voice",
+   "Send automatic payment reminders on unpaid invoices"
+  ],
+  "goodToKnow": "Agent Hub comes with HubSpot Starter, Professional and Enterprise editions; many AI features use HubSpot Credits.",
+  "sources": [
+   "https://www.hubspot.com/products/artificial-intelligence"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Page doesn't say the content agent drafts from CRM data; replaced it with what the Content Agent is described as doing. Product is now called 'Agent Hub'."
+ },
+ "goose": {
+  "bestFor": "Best for developers and tinkerers who want an open-source AI agent that can write, run and test code on their computer.",
+  "useCases": [
+   "Have an agent edit and test code in your project",
+   "Automate a repetitive task on your computer",
+   "Connect your own tools to an AI agent through MCP"
+  ],
+  "goodToKnow": "Available as a desktop app and a command-line tool, and works with many model providers or local models.",
+  "sources": [
+   "https://github.com/aaif-goose/goose"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Repo now shows as aaif-goose/goose (Agentic AI Foundation); updated the source. All claims match."
+ },
+ "librechat": {
+  "bestFor": "Best for teams and tech-savvy users who want one chat app, installed on their own setup, for many AI models.",
+  "useCases": [
+   "Chat with models from several AI providers in one place",
+   "Search through your past AI conversations",
+   "Build an assistant that works with your own files"
+  ],
+  "goodToKnow": "It is open source and you install it yourself; a live demo is available to try first.",
+  "sources": [
+   "https://www.librechat.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "The page never says 'self-hosted' but links local and remote install guides; reworded."
+ },
+ "codesignal": {
+  "bestFor": "Best for hiring teams and recruiters who want to test job candidates' skills with assessments and AI interviews.",
+  "useCases": [
+   "Give a job candidate a hands-on technical skills test",
+   "Screen applicants with an AI interviewer",
+   "Find skill gaps in your team"
+  ],
+  "goodToKnow": "There is also a learning side, CodeSignal Learn, with an AI tutor for individual learners.",
+  "sources": [
+   "https://codesignal.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "The homepage never names 'coding assessments'; it describes technical assessments in a shared workspace. The AI Interviewer is confirmed."
+ },
+ "talkpal": {
+  "bestFor": "Best for language learners who want speaking practice with an AI tutor instead of a human partner.",
+  "useCases": [
+   "Practise a spoken conversation in a new language",
+   "Get feedback on your pronunciation and grammar",
+   "Role-play a real situation like ordering food"
+  ],
+  "goodToKnow": "Works on the web, iOS and Android, and there is a free plan with limited features.",
+  "sources": [
+   "https://talkpal.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match talkpal.ai."
+ },
+ "mokker": {
+  "bestFor": "Best for online sellers and small shops who want product photos with new AI-made backgrounds.",
+  "useCases": [
+   "Put a product photo on a new AI-made background",
+   "Resize a product image for a banner or story",
+   "Match image colours to your brand"
+  ],
+  "goodToKnow": "You can test it free on a limited number of photos, and the site has an API page for developers.",
+  "sources": [
+   "https://mokker.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "'Studio-style' backgrounds aren't on the page. Free use is a one-time test, not a plan. The API shows up only as a nav link."
+ },
+ "tadabase": {
+  "bestFor": "Best for small businesses and teams that want custom database apps or client portals without writing code.",
+  "useCases": [
+   "Replace a messy spreadsheet with a simple database app",
+   "Set up a portal where clients log in and see their info",
+   "Automate a repetitive step in a team workflow"
+  ],
+  "goodToKnow": "Offers a 14-day free trial with no card needed, and connects through Zapier, webhooks and its API.",
+  "sources": [
+   "https://tadabase.io"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "The page mentions workflow automation but not approvals."
+ },
+ "opencode": {
+  "bestFor": "Best for developers who want an open-source AI coding agent in the terminal that works with many model providers.",
+  "useCases": [
+   "Ask an AI agent to change code in your project",
+   "Undo an AI edit you don't like",
+   "Run coding tasks from a script or CI job"
+  ],
+  "goodToKnow": "You can start with free models without an account; there are also desktop and mobile apps.",
+  "sources": [
+   "https://opencode.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match opencode.ai. Scripts/CI use comes from the SDK description."
+ },
+ "contentbot": {
+  "bestFor": "Best for marketers, bloggers and online sellers who want AI help drafting blog posts and marketing copy.",
+  "useCases": [
+   "Draft a full blog post with links from sources you pick",
+   "Write product descriptions and ad copy for a shop",
+   "Ask questions about a PDF and get quick answers"
+  ],
+  "goodToKnow": "Works in a web dashboard, plus a Chrome extension and a WordPress plugin.",
+  "sources": [
+   "https://contentbot.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "pixelcut": {
+  "bestFor": "Best for small sellers and brands who need clean product photos and simple marketing images without a designer.",
+  "useCases": [
+   "Remove the background from a product photo",
+   "Upscale a small image so it looks sharp",
+   "Edit a batch of product photos in one go"
+  ],
+  "goodToKnow": "You can start for free on the web, and there are iPhone and Android apps.",
+  "sources": [
+   "https://www.pixelcut.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "hootsuite": {
+  "bestFor": "Best for businesses and social media managers who want to plan, post and track social accounts from one place.",
+  "useCases": [
+   "Schedule a month of social posts on one calendar",
+   "Answer comments and messages from one social inbox",
+   "See which posts got the most engagement"
+  ],
+  "goodToKnow": "Offers a free trial, and an AI assistant helps draft posts and answer questions about your data.",
+  "sources": [
+   "https://www.hootsuite.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Review: Changed 'shared inbox' and 'DMs' to what the homepage says: a social inbox and customer care. Everything else checks out."
+ },
+ "qodo": {
+  "bestFor": "Best for software teams who want AI to review pull requests and check code against their own coding rules.",
+  "useCases": [
+   "Get an automatic first review on each pull request",
+   "Turn team coding standards into rules that get checked",
+   "Spot changes that could break code in another repo"
+  ],
+  "goodToKnow": "Works with GitHub, GitLab, Bitbucket and Azure DevOps, plus VS Code and JetBrains IDEs.",
+  "sources": [
+   "https://www.qodo.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "together-ai": {
+  "bestFor": "Best for developers and companies building AI products on open-source models through an API.",
+  "useCases": [
+   "Run an open-source chat model in your app via an API",
+   "Fine-tune an open model on your own data",
+   "Rent GPU clusters for training or heavy workloads"
+  ],
+  "goodToKnow": "Made for developers: you use it through an API and code, with docs and cookbooks to help you start.",
+  "sources": [
+   "https://www.together.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Review: The homepage doesn't say there is no consumer app. Replaced that with the API, docs and cookbooks, which the page does show."
+ },
+ "writesonic": {
+  "bestFor": "Best for marketing teams and agencies who want to see and improve how their brand shows up in AI chatbot answers.",
+  "useCases": [
+   "Check how ChatGPT and Gemini mention your brand",
+   "Get a list of page fixes to show up in more AI answers",
+   "See which AI answers mention competitors instead of you"
+  ],
+  "goodToKnow": "Offers a free trial and connects with Google Search Console, Google Analytics and WordPress.",
+  "sources": [
+   "https://writesonic.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site now presents Writesonic as an AI search visibility (GEO/AEO) platform rather than a blog writer; directory note may need updating. Review: The homepage talks about AI answers that feature competitors, not other websites, so use case 3 now says that. Kept the reviewNote about the switch to GEO/AEO."
+ },
+ "circleback": {
+  "bestFor": "Best for busy professionals who want meeting notes and action items written for them after every call.",
+  "useCases": [
+   "Get notes and to-dos after a Zoom or Teams call",
+   "Record an in-person meeting and get a summary",
+   "Search past meetings to find what was agreed"
+  ],
+  "goodToKnow": "Has a free plan, plus desktop and mobile apps; it can record with or without a bot joining the call.",
+  "sources": [
+   "https://circleback.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "notta": {
+  "bestFor": "Best for teams, researchers and teachers who want meetings, interviews or recordings turned into transcripts and summaries.",
+  "useCases": [
+   "Transcribe an uploaded interview recording",
+   "Get a summary and action items after a team call",
+   "Translate a meeting live while it happens"
+  ],
+  "goodToKnow": "Has a free plan, and runs on the web, phones, desktop and as a Chrome extension.",
+  "sources": [
+   "https://www.notta.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "knack": {
+  "bestFor": "Best for small businesses and operations teams who want custom online databases, portals or internal tools without coding.",
+  "useCases": [
+   "Build a customer portal where clients log in",
+   "Turn a messy spreadsheet into a shared online database",
+   "Automate approval emails when a record changes"
+  ],
+  "goodToKnow": "Offers a free trial with no credit card, and connects to tools like QuickBooks, Stripe, Slack and Zapier.",
+  "sources": [
+   "https://www.knack.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "youlearn": {
+  "bestFor": "Best for students and self-learners who want PDFs, lecture recordings and YouTube videos turned into study material.",
+  "useCases": [
+   "Get a summary and notes from a long PDF",
+   "Make a practice quiz from a lecture recording",
+   "Ask an AI tutor to explain a hard topic simply"
+  ],
+  "goodToKnow": "It can also turn your material into a podcast-style audio version to listen to.",
+  "sources": [
+   "https://www.youlearn.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "writecream": {
+  "bestFor": "Best for small businesses who want a set of AI helpers to handle blogging, outreach and reviews for their website.",
+  "useCases": [
+   "Have AI write regular blog posts for your website",
+   "Send cold emails to possible customers from your mailbox",
+   "Draft replies to new customer reviews"
+  ],
+  "goodToKnow": "Has a free trial. Once connected, blog posts and emails go out by themselves; social posts and review replies are left ready for you to post.",
+  "sources": [
+   "https://www.writecream.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site now presents Writecream as a crew of AI marketing agents rather than a single AI writer; directory note may need updating. Review: The homepage doesn't back 'your approval before any agent acts'. It says blog posts and emails go out on their own and only social posts and review replies wait for you. Kept the reviewNote about the switch to AI agents."
+ },
+ "jobright": {
+  "bestFor": "Best for job seekers who want AI to find matching jobs and speed up resumes and applications.",
+  "useCases": [
+   "Get job matches based on your skills",
+   "Tailor your resume to a specific job posting",
+   "Autofill long online job applications"
+  ],
+  "goodToKnow": "You can try it for free, and it includes an AI career assistant for interview prep.",
+  "sources": [
+   "https://jobright.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "vizard": {
+  "bestFor": "Best for creators, podcasters and marketers who want long videos cut into short clips for social media.",
+  "useCases": [
+   "Turn a podcast episode into short vertical clips",
+   "Add captions to a video automatically",
+   "Trim a video by deleting lines from its transcript"
+  ],
+  "goodToKnow": "You can try it free without signing up, and clips can be published straight to social platforms.",
+  "sources": [
+   "https://vizard.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "tl-dv": {
+  "bestFor": "Best for sales, hiring and business teams who want Zoom, Meet and Teams calls recorded, transcribed and summarized.",
+  "useCases": [
+   "Record a sales call and get notes sent to your CRM",
+   "Get a summary of a job interview",
+   "Ask questions across all your past meetings"
+  ],
+  "goodToKnow": "Has a free plan, and can also record in-person meetings with its mobile app.",
+  "sources": [
+   "https://tldv.io"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Review: all claims checked against the live homepage on 2026-11-23."
+ },
+ "jamie": {
+  "bestFor": "Best for professionals in sensitive fields who want meeting notes without a bot joining the call.",
+  "useCases": [
+   "Get notes from a Zoom or Teams call with no bot",
+   "Capture an in-person meeting from your laptop or phone",
+   "Ask what was decided across past meetings"
+  ],
+  "goodToKnow": "The site says meeting data is hosted in the EU, and notes can be sent on to tools you already use.",
+  "sources": [
+   "https://www.meetjamie.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Review: Removed the OS list, which came from download buttons and isn't allowed. 'The web' wasn't backed by the page either. Kept EU hosting, which is supported."
+ },
+ "augment-code": {
+  "bestFor": "Best for engineering teams who want AI agents to take on code review, ticket work and other routine dev tasks.",
+  "useCases": [
+   "Get a first-pass review on each pull request",
+   "Turn a ticket into a reviewed pull request",
+   "Have an agent draft a patch for a security issue"
+  ],
+  "goodToKnow": "Agents can be started from GitHub, GitLab, Slack, Linear or Jira.",
+  "sources": [
+   "https://www.augmentcode.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Homepage now centers on its Cosmos platform for engineering organizations. Review: The site says 'assign a ticket, merge a reviewed PR'. It doesn't say the change is 'tested', so I changed use case 2."
+ },
+ "fireworks-ai": {
+  "bestFor": "Best for developers and companies who want to run or fine-tune open AI models for their own apps.",
+  "useCases": [
+   "Run an open AI model in your app through an API",
+   "Train a model on your own company data",
+   "Send different tasks to different models"
+  ],
+  "goodToKnow": "Used through an API, and it can run on Fireworks' cloud or on your own.",
+  "sources": [
+   "https://fireworks.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Review: The homepage doesn't mention an SDK or command-line tool, so I removed them. The API and 'your cloud or ours' are supported."
+ },
+ "semantic-scholar": {
+  "bestFor": "Best for students and researchers looking for scientific papers on any topic.",
+  "useCases": [
+   "Search for research papers on a topic or by author",
+   "Read a paper with extra context in its reader",
+   "Build a research app using its API"
+  ],
+  "goodToKnow": "Free to use on the web, and built by Ai2; developers can also use its API.",
+  "sources": [
+   "https://www.semanticscholar.org"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Review: The homepage doesn't say Ai2 is a non-profit, so I removed that. It does say the tool is free and based at Ai2."
+ },
+ "koala-ai": {
+  "bestFor": "Best for bloggers, local businesses and agencies who want AI to write and publish search-friendly articles.",
+  "useCases": [
+   "Write a blog article from a single keyword",
+   "Rewrite a blog post you already published",
+   "Publish finished articles straight to WordPress"
+  ],
+  "goodToKnow": "Free to start with no credit card, and publishes to WordPress, Shopify, Webflow and Ghost.",
+  "sources": [
+   "https://koala.sh"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Review: The site mentions 'rewrites of posts you already have' but doesn't say they make posts 'up to date', so I changed use case 2."
+ },
+ "resumaker-ai": {
+  "bestFor": "Best for job seekers at any career stage who want a clean resume and a cover letter without starting from a blank page.",
+  "useCases": [
+   "Pick a resume template and change its colors to suit your style",
+   "Upload your existing CV as a starting point for a new resume",
+   "Write a cover letter with the help of ready-made cover letter templates"
+  ],
+  "goodToKnow": "You can start for free, and the site is available in about 20 languages including Spanish, German and French.",
+  "sources": [
+   "https://resumaker.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "'Matching' cover letter and cover-letter 'examples' not on site (examples are for resumes/CVs); CV upload only shown as an 'Upload CV' button, so softened. 19 languages listed in footer, 'about 20' kept."
+ },
+ "fliki": {
+  "bestFor": "Best for creators, marketers and training teams who want to turn written scripts or blog posts into narrated videos without filming.",
+  "useCases": [
+   "Turn a blog post into a short video with voiceover and subtitles",
+   "Make faceless clips for TikTok, Reels or YouTube Shorts",
+   "Convert a PowerPoint deck into a narrated training video"
+  ],
+  "goodToKnow": "There is a free plan that needs no credit card, and finished videos can be published straight to TikTok, Instagram and YouTube.",
+  "sources": [
+   "https://fliki.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site does not mention teachers; it lists creators, marketing and training/L&D, so audience adjusted."
+ },
+ "ecrett-music": {
+  "bestFor": "Best for video makers, podcasters and game creators who need background music without having to compose it themselves.",
+  "useCases": [
+   "Make a background track by picking a scene, mood and genre",
+   "Swap the drums or bass on a track to better fit your video",
+   "Upload your video to check whether a track suits it"
+  ],
+  "goodToKnow": "It runs in a web browser; you can create music on a phone or tablet, but downloads must be done from a computer.",
+  "sources": [
+   "https://ecrettmusic.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "'Know nothing about composing' was an overstatement; reworded. All other claims match the site."
+ },
+ "presentations-ai": {
+  "bestFor": "Best for founders, sales teams and marketers who need a slide deck fast from notes, a document or a web page.",
+  "useCases": [
+   "Turn a PDF or Word document into a ready-to-edit slide deck",
+   "Paste your website link to apply your logo, fonts and colors",
+   "Build an investor pitch deck from a short written prompt"
+  ],
+  "goodToKnow": "You can try it for free, and decks download as .pptx files that open in PowerPoint or Google Slides.",
+  "sources": [
+   "https://www.presentations.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site names founders, sales teams and marketers, not freelancers. No 'Starter plan' on the page, only 'Try for free'. Pitch deck tool is investor-focused."
+ },
+ "dust": {
+  "bestFor": "Best for company teams that want to build shared AI agents that can draw on their own docs and work tools.",
+  "useCases": [
+   "Draft support replies grounded in your own help docs",
+   "Brief a sales rep on an account before a call",
+   "Share a ready-made agent so the whole team can reuse it"
+  ],
+  "goodToKnow": "It connects to tools such as Slack, Notion, Google Drive, GitHub and Zendesk, you can try it for free, and it has a Chrome extension.",
+  "sources": [
+   "https://dust.tt"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "No 'free trial' wording (site says 'Try for free'); use cases changed to ones the site lists (Draft Responses, Account Research)."
+ },
+ "emergent": {
+  "bestFor": "Best for beginners and non-programmers who want a working website or app by describing it in plain words.",
+  "useCases": [
+   "Build a sign-up form or survey and collect the answers",
+   "Create a simple customer list (CRM) for a small business",
+   "Build a landing page and put it online with built-in hosting"
+  ],
+  "goodToKnow": "No coding is required, and you can download the code it writes or connect it to GitHub.",
+  "sources": [
+   "https://emergent.sh"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site says it is for everyone from complete beginners; 'small business owners' and 'booking form' were not on the page."
+ },
+ "openhands": {
+  "bestFor": "Best for software developers who want to run AI coding agents on their own projects, either locally or in the cloud.",
+  "useCases": [
+   "Have an agent fix failed CI checks and open a pull request",
+   "Start agent work from GitHub, Slack, Jira or Linear",
+   "Add agent-driven coding to your own tools through the SDK"
+  ],
+  "goodToKnow": "It is open source under the MIT license with code on GitHub; you can run it on your laptop, self-host it, or use the cloud version.",
+  "sources": [
+   "https://www.openhands.dev"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site does not mention a terminal/CLI workflow or the name 'OpenHands Cloud'; replaced with features the page lists (CI fixes, triggers, MIT, self-host)."
+ },
+ "litellm": {
+  "bestFor": "Best for engineering teams that want one place to give developers access to many AI models while keeping spending in check.",
+  "useCases": [
+   "Call models from many AI providers through one OpenAI-style API",
+   "Set spending caps per team or key so AI bills don't run away",
+   "Log AI requests to tools like Langfuse for later review"
+  ],
+  "goodToKnow": "The open-source version is free and self-hosted with Docker; an Enterprise edition adds SSO and audit logs.",
+  "sources": [
+   "https://www.litellm.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match the site."
+ },
+ "helicone": {
+  "bestFor": "Best for developers building AI apps who want to see, debug and track the requests their app sends to AI models.",
+  "useCases": [
+   "Track every AI request your app makes and spot errors",
+   "Manage and test prompts in a playground before shipping them",
+   "Set alerts and rate limits for your app's AI usage"
+  ],
+  "goodToKnow": "It works with OpenAI, Anthropic, Azure, OpenRouter and others, has a 7-day free trial, and is now part of Experiential Labs.",
+  "sources": [
+   "https://www.helicone.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Homepage does not say 'open source'; removed. Added the Experiential Labs ownership note from the site."
+ },
+ "magicschool": {
+  "bestFor": "Best for teachers and schools who want AI help with lesson plans, quizzes, rubrics and other classroom materials.",
+  "useCases": [
+   "Draft a lesson plan or multiple-choice quiz for tomorrow's class",
+   "Create a grading rubric for an assignment",
+   "Make a worksheet or slide presentation for a lesson"
+  ],
+  "goodToKnow": "Teachers can sign up for free, and it works with Google Docs, Google Classroom and Canvas.",
+  "sources": [
+   "https://www.magicschool.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "K-12, report card comments and parent emails were not on the page; replaced with tools the site lists (rubric, worksheet, presentation generators)."
+ },
+ "wonsulting-ai": {
+  "bestFor": "Best for job seekers sending lots of applications with few replies who want help with resumes, outreach and interview practice.",
+  "useCases": [
+   "Rewrite job duties on your resume as clear accomplishments",
+   "Draft a LinkedIn or email message to someone at a target company",
+   "Practice a mock interview with role-specific questions"
+  ],
+  "goodToKnow": "There is a free Starter plan with limited generations, and it works on the web as well as in mobile apps.",
+  "sources": [
+   "https://www.wonsulting.com/wonsultingai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Named iPhone/Android app platforms (download-button OS) removed per rules; rest matches the site."
+ },
+ "interviewer-ai": {
+  "bestFor": "Best for hiring teams, recruiting agencies and universities that want to screen candidates with recorded or AI-led video interviews.",
+  "useCases": [
+   "Send candidates a video interview they can do on their own time",
+   "Compare candidates side by side using AI summaries",
+   "Let students practice a mock interview and get feedback"
+  ],
+  "goodToKnow": "Candidates can interview on a computer or phone, and it connects with applicant tracking systems; a free trial is offered.",
+  "sources": [
+   "https://interviewer.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match the site."
+ },
+ "glider-ai": {
+  "bestFor": "Best for companies and staffing firms that hire at volume and want AI help screening candidates and checking their skills.",
+  "useCases": [
+   "Run AI phone screens for hourly or frontline job applicants",
+   "Test a candidate's technical skills before an interview",
+   "Verify a candidate's identity during remote hiring"
+  ],
+  "goodToKnow": "Glider AI is now part of Findem; access starts by booking a demo.",
+  "sources": [
+   "https://glider.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Greenhouse, Lever, Workday and iCIMS are not named on the homepage; removed. Added the Findem acquisition the site announces."
+ },
+ "remove-bg": {
+  "bestFor": "Best for online sellers, photographers and anyone who needs a photo's background removed quickly and automatically.",
+  "useCases": [
+   "Put a product photo on a clean white background for your shop",
+   "Make a transparent PNG of your logo",
+   "Clean up a headshot for a profile or website"
+  ],
+  "goodToKnow": "Besides the website, it offers desktop and mobile apps, a Photoshop extension and an API.",
+  "sources": [
+   "https://www.remove.bg"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Removed the named Android app (download-button OS) per rules; rest matches the site."
+ },
+ "pebblely": {
+  "bestFor": "Best for online shops and Etsy sellers who want styled product photos without a photo shoot or Photoshop skills.",
+  "useCases": [
+   "Place a product photo in a styled scene, like on a wooden table",
+   "Turn one product image into social posts and email banners",
+   "Make a batch of listing photos with matching backgrounds"
+  ],
+  "goodToKnow": "Images are made for marketplaces and social sites such as Amazon, Etsy, Shopify, Instagram and Pinterest.",
+  "sources": [
+   "https://pebblely.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match the site (marketplace logos shown under \"Suitable for all marketplaces\")."
+ },
+ "voicemaker": {
+  "bestFor": "Best for course makers, video creators and businesses who need a voiceover read aloud from a written script.",
+  "useCases": [
+   "Turn a course script into a voiceover for a training video",
+   "Make a voiceover in another language for a short video",
+   "Export subtitles for your audio as an .srt file"
+  ],
+  "goodToKnow": "Standard voices can be used for free, and audio downloads as MP3, WAV, OGG and other formats.",
+  "sources": [
+   "https://voicemaker.in"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "It is text-to-speech, so 'record an ad read' was wrong; teachers not mentioned on site. Formats confirmed (MP3, WAV, OGG, AAC, Opus)."
+ },
+ "soundraw": {
+  "bestFor": "Best for video makers, podcasters and musicians who want custom background music or beats without composing from scratch.",
+  "useCases": [
+   "Create a background track for a YouTube video",
+   "Make a short intro tune for your podcast",
+   "Mix two genres and switch instruments on or off to fit a scene"
+  ],
+  "goodToKnow": "You can try it for free; paid plans include commercial use, and some include downloadable stems.",
+  "sources": [
+   "https://soundraw.io"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match the site."
+ },
+ "mubert": {
+  "bestFor": "Best for video makers, podcasters and streamers who need original background music they can use without licensing worries.",
+  "useCases": [
+   "Make a background track to fit a video's mood and length",
+   "Describe a song in chat and tweak it until it fits",
+   "Check if a song might trigger a copyright claim before posting"
+  ],
+  "goodToKnow": "Besides music, it has podcast cleanup, a vocal remover and stem splitter, plus an API for adding music to apps and games.",
+  "sources": [
+   "https://mubert.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "All claims match mubert.com (Chat to Music, Copyright Checker, Cast podcast tool, Vocal Remover, Stem Splitter, API for apps/games, streamer music)."
+ },
+ "parseur": {
+  "bestFor": "Best for small offices that retype data from emails, PDFs or scans and want it sent straight to a spreadsheet or app.",
+  "useCases": [
+   "Pull invoice totals and dates from PDFs into Google Sheets",
+   "Turn incoming lead emails into rows in a spreadsheet or CRM",
+   "Read scanned forms or photos of documents with built-in OCR"
+  ],
+  "goodToKnow": "There is a free plan; it connects to Zapier, Make, Google Sheets, Excel, Airtable and Salesforce, and exports to CSV or Excel.",
+  "sources": [
+   "https://parseur.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches parseur.com: invoices/emails/scans/images, OCR, free plan, Zapier/Make/Sheets/Excel/Airtable/Salesforce, CSV/Excel export."
+ },
+ "amazon-q-developer": {
+  "bestFor": "Best for developers working with AWS who want coding help, tests and code reviews inside their usual editor.",
+  "useCases": [
+   "Get code suggestions and chat about code inside VS Code or JetBrains",
+   "Write unit tests and scan code for security issues",
+   "Ask about AWS resources from Slack or Microsoft Teams"
+  ],
+  "goodToKnow": "AWS says support for the Q Developer IDE plugins ends April 30, 2027, and it points users to Kiro instead. A free tier exists.",
+  "sources": [
+   "https://aws.amazon.com/q/developer/"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches AWS page: VS Code/JetBrains, unit tests, vulnerability scanning, Slack/Teams, free tier, Apr 30 2027 IDE plugin discontinuation pointing to Kiro. Drafter's flag stands: consider noting the wind-down on the listing."
+ },
+ "corgea": {
+  "bestFor": "Best for software teams that want security problems in their code found, sorted by risk and fixed with suggested patches.",
+  "useCases": [
+   "Scan a code repository for security holes and get suggested fixes",
+   "Check third-party packages and containers for known risks",
+   "Spot passwords or API keys accidentally left in code"
+  ],
+  "goodToKnow": "Works with GitHub, GitLab, Bitbucket and Azure DevOps, plus editors like VS Code and Cursor; you can start a trial without a card.",
+  "sources": [
+   "https://corgea.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches corgea.com: SAST with fixes, dependency/container/secrets scanning, GitHub/GitLab/Bitbucket/Azure DevOps, VS Code/Cursor, trial with no credit card."
+ },
+ "junia-ai": {
+  "bestFor": "Best for bloggers and small businesses that want help researching keywords and writing long blog posts for search.",
+  "useCases": [
+   "Write a full blog post from a single keyword or topic",
+   "Find keywords worth writing about for your site",
+   "Schedule articles to publish automatically to your blog"
+  ],
+  "goodToKnow": "There is a free tier, and it can publish directly to WordPress, Shopify, Webflow, Wix and Blogger.",
+  "sources": [
+   "https://www.junia.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches junia.ai: article from keyword/topic, keyword research, scheduled auto-publishing, free start, WordPress/Shopify/Webflow/Wix/Blogger."
+ },
+ "testlify": {
+  "bestFor": "Best for hiring teams that want to test candidates' skills and run scored AI interviews before choosing who to meet.",
+  "useCases": [
+   "Build a skills test for a role from its job description",
+   "Send one test link to all applicants and see a ranked list",
+   "Run structured AI interviews that score answers automatically"
+  ],
+  "goodToKnow": "Offers a 7-day free trial with no card, and connects to applicant tracking systems like Greenhouse, Lever, Workday and BambooHR.",
+  "sources": [
+   "https://testlify.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "curl got HTTP 429; checked via WebFetch: tests from job description, one share link, ranked leaderboard, scored AI interviews, 7-day trial no card, Greenhouse/Lever/Workday/BambooHR."
+ },
+ "hailuo-ai": {
+  "bestFor": "Best for creators and marketers who want to turn photos or text prompts into short AI videos and images.",
+  "useCases": [
+   "Turn a still photo into a short video clip",
+   "Make a quick video ad from a ready-made template",
+   "Create images or art from a text description"
+  ],
+  "goodToKnow": "Runs on MiniMax video and image models and has templates for ads, pet videos and style changes. The site labels its output as AI-generated.",
+  "sources": [
+   "https://hailuoai.video"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Page names MiniMax only as the model (H3), not as the company behind the site, so 'Made by MiniMax' was softened to 'Runs on MiniMax models'. 'Style Switch' template is not described as photo-only, so 'photo style changes' became 'style changes'. Image-to-video, text-to-video, Ads/PetPal templates, image creation and the AI-generated footer label all confirmed."
+ },
+ "kapwing": {
+  "bestFor": "Best for marketers, teachers and creators who want to edit videos in the browser and add subtitles without pro software.",
+  "useCases": [
+   "Add automatic subtitles to a video and translate them",
+   "Resize one video for different social media formats",
+   "Cut long recordings into short clips and remove silences"
+  ],
+  "goodToKnow": "Runs in your web browser, lets team members edit and comment on the same project, and offers a free way to try it.",
+  "sources": [
+   "https://www.kapwing.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches kapwing.com: subtitles, translation, resize, clip maker, silence removal, browser-based, collaborative feedback, 'Try Kapwing Free'."
+ },
+ "make": {
+  "bestFor": "Best for small teams that want to connect their apps and automate repetitive tasks by dragging steps together, no code needed.",
+  "useCases": [
+   "Copy new form responses into a spreadsheet and send a Slack alert",
+   "Build a simple AI agent that handles a routine task",
+   "Connect two apps that have no built-in link between them"
+  ],
+  "goodToKnow": "There is a free plan with no time limit and no card needed; any service with an API can be added as a custom connection.",
+  "sources": [
+   "https://www.make.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches make.com: drag-and-drop, AI agents, free plan with no time limit and no card, custom integrations to anything with an API."
+ },
+ "strikingly": {
+  "bestFor": "Best for small businesses and creatives who want a simple website, store or blog without coding or design skills.",
+  "useCases": [
+   "Start a website with the AI site builder and edit it by clicking",
+   "Sell products or digital goods through PayPal or Stripe",
+   "Add a blog, contact form and newsletter sign-up to your site"
+  ],
+  "goodToKnow": "There is a phone app for picking a template, editing and publishing on the go, and every site comes with HTTPS at no extra cost.",
+  "sources": [
+   "https://www.strikingly.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "goodToKnow reworded: 'all sites get HTTPS automatically' was nearly word for word from the page ('All websites get HTTPS automatically'). Other claims (AI Site Builder, click to edit, Simple Store with PayPal/Stripe and digital goods, blog, forms, newsletters, iPhone app) confirmed."
+ },
+ "gemini-cli": {
+  "bestFor": "Best for developers at companies with Gemini Code Assist on Google Cloud who want an AI agent in the terminal.",
+  "useCases": [
+   "Ask questions about a large codebase and make edits from the terminal",
+   "Debug errors by describing the problem in plain English",
+   "Automate chores like checking pull requests or handling rebases"
+  ],
+  "goodToKnow": "Open source (Apache 2.0). The page says free individual access moved to Google's Antigravity CLI on June 18, 2026.",
+  "sources": [
+   "https://github.com/google-gemini/gemini-cli"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches README: enterprise Code Assist focus, free individual access moved to Antigravity CLI on June 18, 2026, Apache 2.0, codebase query/edit, debugging, PR/rebase automation. Drafter's flag stands."
+ },
+ "flowith": {
+  "bestFor": "Best for creators and marketers who want to write, make images and produce videos side by side on one shared AI canvas.",
+  "useCases": [
+   "Ask several AI models the same question and compare answers",
+   "Turn a one-line idea into a storyboard and short video",
+   "Draft ad copy, emails or landing page text with your team"
+  ],
+  "goodToKnow": "Lets you choose from many text, image and video models, and teams can share live canvases and a library of characters.",
+  "sources": [
+   "https://flowith.io"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches flowith.io: one canvas for writing/images/film, same prompt across models, one line to storyboard/film, ads/emails/landing copy, team shared canvases and character library."
+ },
+ "aced": {
+  "bestFor": "Best for job seekers preparing for tech, product or data interviews who want lessons, real questions and practice.",
+  "useCases": [
+   "Practice answering out loud with an AI interviewer that grades you",
+   "Browse real interview questions by company and role",
+   "Book a coach for a mock interview or resume review"
+  ],
+  "goodToKnow": "A free account includes sample lessons, browsing interview questions and the community, with no credit card needed.",
+  "sources": [
+   "https://www.aced.io"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches aced.io: AI interviewer grading out loud, real questions by company and role, coaching/mock interviews, resume review, free tier with sample lessons, questions, community, no card."
+ },
+ "hirevue": {
+  "bestFor": "Best for larger hiring teams that want video interviews, skills assessments and scheduling handled in one system.",
+  "useCases": [
+   "Screen applicants with automated interview conversations",
+   "Give candidates job-related skills tests or simulations",
+   "Schedule interviews and get notes from Zoom or Teams calls"
+  ],
+  "goodToKnow": "Connects with applicant tracking, HR and learning systems, and the site says recruiters keep the final hiring decision.",
+  "sources": [
+   "https://www.hirevue.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches hirevue.com: AI screening interviews, assessments/simulations, scheduling, co-pilot notes on Zoom/Teams, ATS/HRIS/LMS integrations, recruiters keep final decisions."
+ },
+ "photoleap": {
+  "bestFor": "Best for people who want to edit photos on their phone and make AI art, headshots or social posts without design skills.",
+  "useCases": [
+   "Remove unwanted objects or swap the background in a photo",
+   "Make a profile picture, collage or greeting card",
+   "Turn a photo into a cartoon, painting or short video"
+  ],
+  "goodToKnow": "The site says the app is available for iOS only and offers a 7-day free trial.",
+  "sources": [
+   "https://www.photoleapapp.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Matches photoleapapp.com: object removal, background swap, headshots, profile pictures, collages, card makers, cartoon/painting, image-to-video; page explicitly states '*Available for iOS only' and a 7-day free trial (explicit text, not inferred from a download button). WebFetch failed; fetched via curl."
+ },
+ "meshy": {
+  "bestFor": "Best for hobbyists, game makers and designers who want 3D models made from a text description or a picture.",
+  "useCases": [
+   "Turn a photo or sketch into a 3D model",
+   "Make a printable model and check it before 3D printing",
+   "Add textures or animation to a character model for a game"
+  ],
+  "goodToKnow": "You can start free without a card; plugins exist for Blender, Unity, Unreal and Roblox Studio, plus several 3D printer slicers.",
+  "sources": [
+   "https://www.meshy.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "curl got 403; checked via WebFetch: photo/sketch to 3D, printability check, slicer export, PBR texturing, auto-rigging/animation, game use, no credit card, Blender/Unity/Unreal/Roblox Studio and slicer plugins."
+ },
+ "wondercraft": {
+  "bestFor": "Best for training, L&D and marketing teams who want to make business videos, podcasts and audio ads with AI voices and avatars.",
+  "useCases": [
+   "Turn a slide deck or PDF into a short training video",
+   "Make a podcast episode or audio ad from a written script",
+   "Add captions and branding to existing footage"
+  ],
+  "goodToKnow": "You can start for free with no credit card, and the site says your data is not used to train models.",
+  "sources": [
+   "https://www.wondercraft.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site names L&D, training and creative teams, not HR specifically; 'runs in your browser' was not stated, replaced with the no-training data note."
+ },
+ "lindy": {
+  "bestFor": "Best for agencies and small teams who want an AI assistant to answer leads, build client reports and chase unpaid invoices.",
+  "useCases": [
+   "Chase overdue invoices and retainers by email and phone",
+   "Build a weekly client report from Google Ads and Meta data",
+   "Reply to new leads after hours and book a call"
+  ],
+  "goodToKnow": "Works in Slack, email, text and your calendar.",
+  "sources": [
+   "https://www.lindy.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Meeting notes/follow-up emails and named Gmail/Google Calendar integrations were not on the page; use cases rewritten to what the homepage shows."
+ },
+ "docsumo": {
+  "bestFor": "Best for operations teams in lending, insurance and accounts payable who need to pull data out of piles of business documents.",
+  "useCases": [
+   "Extract fields and tables from bank statements",
+   "Cross-check all documents in a loan application for mismatches",
+   "Send extracted invoice data to your own systems by API"
+  ],
+  "goodToKnow": "There is a free trial with a page limit; documents can come in by email, upload or API.",
+  "sources": [
+   "https://www.docsumo.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Lending, insurance, AP, bank statements, loan file cross-checks, email/upload/API intake and a page-limited free trial all confirmed."
+ },
+ "gorgias": {
+  "bestFor": "Best for online stores, especially on Shopify, that want an AI agent and a shared inbox for customer support.",
+  "useCases": [
+   "Answer order and shipping questions automatically",
+   "Handle email, chat, SMS and social messages in one inbox",
+   "Cancel orders or apply discounts without leaving a ticket"
+  ],
+  "goodToKnow": "Works closely with Shopify and connects to apps like Klaviyo, Recharge, Yotpo and Loop.",
+  "sources": [
+   "https://www.gorgias.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Shopify focus, AI Agent, email/chat/SMS/social inbox, cancel/discount in conversation and Klaviyo/Recharge/Yotpo/Loop all confirmed."
+ },
+ "appy-pie": {
+  "bestFor": "Best for small businesses and non-coders who want a phone app for Android and iPhone built from a plain-English description.",
+  "useCases": [
+   "Build a booking or ordering app for a restaurant",
+   "Add a loyalty tab or change colors by asking in chat",
+   "Send push notifications to your Android app's users"
+  ],
+  "goodToKnow": "A free plan lets you build and preview apps; publishing to the app stores needs a paid plan and your own developer accounts.",
+  "sources": [
+   "https://www.appypie.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Push notifications are Android-only per the site; salon example not on page."
+ },
+ "ellipsis": {
+  "bestFor": "Best for software teams that want to run AI coding agents such as Claude Code, Codex or Gemini CLI in the cloud with set permissions.",
+  "useCases": [
+   "Have an agent fix a Sentry error and open a pull request",
+   "Triage a Linear issue and suggest a fix in a comment",
+   "Start an agent from Slack, GitHub, an API call or a schedule"
+  ],
+  "goodToKnow": "New customers get free starting credit with no credit card; agent sessions can be started from Slack, Linear, GitHub or Sentry.",
+  "sources": [
+   "https://www.ellipsis.dev"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "AI code review on PRs and Jira were not on the page; replaced with examples the page shows. Page has embedded agent instructions; ignored."
+ },
+ "bito": {
+  "bestFor": "Best for engineering teams using coding agents who want to send each request to a suitably sized AI model to control spending.",
+  "useCases": [
+   "Route simple coding requests to cheaper models",
+   "Give coding agents a map of relevant files in your codebase",
+   "Set spending budgets per team or API key"
+  ],
+  "goodToKnow": "Works with Claude Code, Cursor, Codex and GitHub Copilot by changing one base URL, and can use your own model keys.",
+  "sources": [
+   "https://bito.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Governor routing, code map for agents, per-team/per-key budgets, one base URL and own provider keys all confirmed."
+ },
+ "langotalk": {
+  "bestFor": "Best for language learners who want to practice real conversations with an AI tutor that remembers their mistakes and adapts.",
+  "useCases": [
+   "Practice a conversation in Spanish before a trip",
+   "Get feedback on grammar and pronunciation as you speak",
+   "Keep revisiting your repeated mistakes until the fix sticks"
+  ],
+  "goodToKnow": "You can start for free, and it covers over 20 languages including French, Japanese and Arabic.",
+  "sources": [
+   "https://langotalk.org"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "'Nervous beginners' was only a testimonial/FAQ heading, not a stated claim; reworded third use case for clarity."
+ },
+ "talkio-ai": {
+  "bestFor": "Best for language learners who want to practice speaking out loud with AI tutors and get feedback on pronunciation.",
+  "useCases": [
+   "Hold a spoken practice chat in a new language",
+   "Save new words to a wordbook for review",
+   "Check your pronunciation word by word"
+  ],
+  "goodToKnow": "Works in a web browser and has iPhone and Android apps, with one account synced across devices; a free trial is offered.",
+  "sources": [
+   "https://www.talkio.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Voice tutors, pronunciation word-by-word, wordbook, browser plus iPhone/Android apps with shared account, free trial all confirmed."
+ },
+ "chatwise": {
+  "bestFor": "Best for people who use several AI models and want one desktop chat app that keeps their chats stored on their own computer.",
+  "useCases": [
+   "Chat with Claude, Gemini or DeepSeek from one app",
+   "Ask questions about a PDF or image you drop in",
+   "Search the web from inside a chat"
+  ],
+  "goodToKnow": "You can use your own API keys or existing subscriptions such as GitHub Copilot or Claude Pro.",
+  "sources": [
+   "https://chatwise.app"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Local storage, multi-model, PDF/image chat, web search, own API keys and Copilot/Claude Pro subscriptions all confirmed."
+ },
+ "prowritingaid": {
+  "bestFor": "Best for novelists and long-form writers who want help planning, checking grammar and style, and getting feedback on a manuscript.",
+  "useCases": [
+   "Check a chapter for grammar, spelling and punctuation",
+   "Plan a story's plot and characters",
+   "Get story critique on a draft before sharing it"
+  ],
+  "goodToKnow": "Works inside Microsoft Word, Google Docs and Scrivener, plus browser extensions for Chrome, Firefox and Edge.",
+  "sources": [
+   "https://prowritingaid.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Page lists grammar, spelling, punctuation (not 'style'); integrations Word, Google Docs, Scrivener, Chrome/Firefox/Edge confirmed via logos."
+ },
+ "scalenut": {
+  "bestFor": "Best for businesses that want to plan and write blog content and track how often AI search tools mention their brand.",
+  "useCases": [
+   "Plan keywords and topics for your blog",
+   "Draft and optimize a blog article",
+   "See how AI search engines mention your brand"
+  ],
+  "goodToKnow": "Offers both self-serve software and a done-for-you service run by human strategists; a free audit and free tools are available.",
+  "sources": [
+   "https://www.scalenut.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "ChatGPT and Perplexity are not named on the page; it says 'AI engines'."
+ },
+ "veed": {
+  "bestFor": "Best for marketers and solo business owners who want to make, edit, subtitle and translate videos online in one place.",
+  "useCases": [
+   "Add automatic subtitles to a social video",
+   "Dub or translate a product demo into another language",
+   "Remove background noise from a recorded video"
+  ],
+  "goodToKnow": "A Brand Kit lets you reuse your colors, fonts and logo across videos.",
+  "sources": [
+   "https://www.veed.io"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Subtitles, translation/dubbing, noise removal, browser editing and reusable colors/fonts/logos all confirmed."
+ },
+ "typecast": {
+  "bestFor": "Best for creators who need expressive AI voiceovers for videos, ads, training or audiobooks.",
+  "useCases": [
+   "Turn a video script into a voiceover",
+   "Clone your own voice from a short recording",
+   "Narrate a training presentation in another language"
+  ],
+  "goodToKnow": "There is a free plan that requires attribution, plus iOS and Android apps and an API that connects to Zapier, Make and n8n.",
+  "sources": [
+   "https://typecast.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "approved",
+  "reviewNote": "Voiceovers, voice cloning, 35+ languages, training/presentations, free plan with attribution, iOS/Android, Zapier/Make/n8n confirmed."
+ },
+ "beatoven-ai": {
+  "bestFor": "Best for YouTubers, podcasters and filmmakers who need royalty-free background music made to fit their content.",
+  "useCases": [
+   "Make background music for a YouTube video",
+   "Create a short track for a podcast intro",
+   "Generate sound effects from a text description"
+  ],
+  "goodToKnow": "A license comes with each download, but tracks can't be released on Spotify or Apple Music.",
+  "sources": [
+   "https://www.beatoven.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "'Small businesses' not on page; filmmakers are. Spotify/Apple Music restriction and per-download license confirmed."
+ },
+ "gumloop": {
+  "bestFor": "Best for business teams, including non-technical staff, who want to build and share AI agents that work across company apps.",
+  "useCases": [
+   "Draft personalized sales outreach into your Gmail drafts",
+   "Scan support tickets for frustrated customers",
+   "Summarize call notes after a meeting ends"
+  ],
+  "goodToKnow": "Connects to Slack, Gmail, Salesforce, HubSpot and Notion, and admins can require approval before an agent uses a tool.",
+  "sources": [
+   "https://www.gumloop.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Chrome extension, scheduled Sheets reports and meeting briefings were not on the current homepage (now an enterprise agent platform)."
+ },
+ "fin-by-intercom": {
+  "bestFor": "Best for businesses that want an AI agent to answer customer questions by chat, email and voice, on Intercom or another helpdesk.",
+  "useCases": [
+   "Answer common support questions by chat or email",
+   "Look up and update records in Shopify or Stripe",
+   "Help online shoppers find the right product"
+  ],
+  "goodToKnow": "Works with Intercom, Zendesk, Salesforce, HubSpot and Freshdesk; a free trial and demo are offered.",
+  "sources": [
+   "https://fin.ai"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "'Around the clock' and refund processing were not stated on the page; replaced with the read/write connector claim."
+ },
+ "jimdo": {
+  "bestFor": "Best for self-employed people and small businesses who want an AI-built website with bookings, a shop and invoices.",
+  "useCases": [
+   "Build a website for your business with Jimdo's AI",
+   "Let customers book appointments online",
+   "Sell products and send invoices with payment links"
+  ],
+  "goodToKnow": "You can start free with no credit card, and the site is hosted in the EU.",
+  "sources": [
+   "https://www.jimdo.com"
+  ],
+  "reviewed": "2026-11-23",
+  "verdict": "fixed",
+  "reviewNote": "Site says the website is built with AI in minutes, not 'from a few details'."
  }
 }
