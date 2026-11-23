@@ -54,6 +54,8 @@ let r = `# Awesome AI Tools by 123ofnet
 This list is generated from the directory at **[123ofnet.com](${URL})**, where every tool has its own page with what it does, who it's for and its closest alternatives.
 Search all of them at [123ofnet.com/directory](${URL}/directory/).
 
+**Status:** ✅ ${total.toLocaleString("en-US")} tools · every website checked weekly · last updated ${site.dataUpdated} · data as [JSON](data/tools.json) and [CSV](data/tools.csv) · [what changed](CHANGELOG.md)
+
 **Legend:** quick picks are chosen by a person. "Details & alternatives" opens the tool's page on 123ofnet.com.
 
 ## Contents
@@ -75,6 +77,35 @@ for (const c of cats) {
 r += `## Contributing\n\nSuggest a tool at [123ofnet.com/submit](${URL}/submit/) or open an issue. See [CONTRIBUTING.md](CONTRIBUTING.md).\n\n${footer}`;
 
 fs.mkdirSync(path.join(out, "categories"), { recursive: true });
+fs.mkdirSync(path.join(out, "data"), { recursive: true });
+
+// Machine-readable copies of the list, for apps, spreadsheets and AI agents.
+const rows = cats.flatMap((c) => [...c.list].sort((a, b) => a.title.localeCompare(b.title)).map((t) => ({
+  name: t.title, url: t.url, category: c.cat.name, description: t.note,
+  page: `${URL}/tool/${t.slug}/`, lastChecked: t.check.date || "",
+})));
+const jsonPath = path.join(out, "data", "tools.json");
+const before = fs.existsSync(jsonPath) ? JSON.parse(fs.readFileSync(jsonPath, "utf8")).tools : null;
+fs.writeFileSync(jsonPath, JSON.stringify({ source: URL, license: "CC BY 4.0 (credit and link to 123ofnet.com)", updated: site.dataUpdated, count: rows.length, tools: rows }, null, 1) + "\n");
+const csv = (v) => /[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v;
+const cols = ["name", "url", "category", "description", "page", "lastChecked"];
+fs.writeFileSync(path.join(out, "data", "tools.csv"), [cols.join(","), ...rows.map((r) => cols.map((k) => csv(String(r[k]))).join(","))].join("\n") + "\n");
+
+// Changelog: what was added or removed since the last build in this folder.
+const logPath = path.join(out, "CHANGELOG.md");
+const log = fs.existsSync(logPath) ? fs.readFileSync(logPath, "utf8").replace(/^# Changelog\n+/, "") : "";
+let entry = "";
+if (!before) entry = `## ${site.dataUpdated}\n\nFirst version of the list: ${rows.length} tools in ${cats.length} categories.\n\n`;
+else {
+  const was = new Map(before.map((t) => [t.url, t])), now = new Map(rows.map((t) => [t.url, t]));
+  const added = rows.filter((t) => !was.has(t.url)), removed = before.filter((t) => !now.has(t.url));
+  if (added.length || removed.length) {
+    entry = `## ${new Date().toISOString().slice(0, 10)}\n\n**+${added.length} added, -${removed.length} removed** (now ${rows.length} tools)\n\n`;
+    if (added.length) entry += `Added:\n${added.map((t) => `- [${md(t.name)}](${t.page}) (${t.category})`).join("\n")}\n\n`;
+    if (removed.length) entry += `Removed (shut down, broken or at the owner's request):\n${removed.map((t) => `- ${md(t.name)} (${t.category})`).join("\n")}\n\n`;
+  }
+}
+if (entry || !log) fs.writeFileSync(logPath, `# Changelog\n\n${entry}${log}`);
 fs.writeFileSync(path.join(out, "README.md"), r);
 
 // One full file per category, alphabetical.
@@ -128,7 +159,7 @@ jobs:
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A README.md CONTRIBUTING.md LICENSE categories .github
+          git add -A README.md CONTRIBUTING.md LICENSE CHANGELOG.md categories data .github
           git diff --cached --quiet || (git commit -m "Update list from 123ofnet.com" && git push)
 `);
 
