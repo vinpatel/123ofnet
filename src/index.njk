@@ -27,7 +27,7 @@ title: "AI Tools Directory: 2,600+ Checked AI Tools"
         {% for cat in directory.categories %}
         <div>
           <a class="cat" href="/directory/{{ cat.slug }}/">{{ cat.name }}</a> <span class="small">({{ cat.links | length }})</span><br>
-          <span class="sub">{% for l in cat.links | batch(3) | first %}<a href="/directory/{{ cat.slug }}/">{{ l.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</span>
+          <span class="sub">{% if guides[cat.slug] %}{% for p in guides[cat.slug].picks | batch(3) | first %}{% for l in cat.links %}{% if l.title == p.tool %}<a href="/tool/{{ l.slug }}/">{{ l.title }}</a>{% endif %}{% endfor %}{% if not loop.last %}, {% endif %}{% endfor %}{% else %}{% for l in cat.links | batch(3) | first %}<a href="/tool/{{ l.slug }}/">{{ l.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}</span>
         </div>
         {% endfor %}
       </div>

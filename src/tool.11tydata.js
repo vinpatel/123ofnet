@@ -13,7 +13,11 @@ export default {
         `${tool.title}: ${tool.note}. Plus ${n} alternatives.`,
         `${tool.title}: ${tool.note}.`);
     },
-    lastmod: ({ tool }) => tool.check.date || undefined,
+    // Last real change to what the page says: the check, its own content, or the shared template.
+    lastmod: ({ tool, site }) => [tool.check.date, tool.content && tool.content.reviewed, site.toolPageUpdated].filter(Boolean).sort().pop(),
+    // Keep pages with nothing of their own (no website description, no written content) out of
+    // search indexes until they have some; they stay on the site and in the directory.
+    noindex: ({ tool }) => !tool.siteDesc && !tool.content,
     crumbs: ({ tool }) => [
       { name: "Home", url: "/" },
       { name: "AI Directory", url: "/directory/" },

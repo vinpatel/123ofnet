@@ -22,7 +22,7 @@ crumbs: [{name: "Home", url: "/"}, {name: "AI Directory", url: "/directory/"}]
     <h2 id="{{ cat.slug }}" style="background:{{ cat.color }}"><a href="/directory/{{ cat.slug }}/" style="color:#000">{{ cat.name }}</a> <span class="small">({{ cat.links | length }} tools)</span></h2>
     <p>{{ guides[cat.slug].intro if guides[cat.slug] else cat.blurb }}</p>
     {% if guides[cat.slug] %}<p class="small"><b>Quick picks:</b>
-      {% for p in guides[cat.slug].picks %}{% for l in cat.links %}{% if l.title == p.tool %}<a href="{{ l.url }}" rel="noopener">{{ l.title }}</a> ({{ p.need | lower }}){% endif %}{% endfor %}{% if not loop.last %} &middot; {% endif %}{% endfor %}</p>{% endif %}
+      {% for p in guides[cat.slug].picks %}{% for l in cat.links %}{% if l.title == p.tool %}<a href="/tool/{{ l.slug }}/">{{ l.title }}</a> ({{ p.need | lower }}){% endif %}{% endfor %}{% if not loop.last %} &middot; {% endif %}{% endfor %}</p>{% endif %}
     <p><a class="btn" href="/directory/{{ cat.slug }}/">See all {{ cat.links | length }} {{ cat.name }} tools &raquo;</a></p>
   </section>
   {% endfor %}

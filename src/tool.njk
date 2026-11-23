@@ -22,6 +22,17 @@ permalink: "/tool/{{ tool.slug }}/"
     <tr><td class="feat"><b>Checked</b></td><td class="feat">{{ tool.check.text }}{% if tool.check.date %} ({{ tool.check.date | monthYear }}){% endif %}. <a href="/how-we-check/">How we check</a></td></tr>
   </table>
 
+  {% if tool.content %}
+  <h2>Who {{ tool.title }} is for</h2>
+  <p><b>{{ tool.content.bestFor }}</b></p>
+  <p>Things you can do with it:</p>
+  <ul>{% for u in tool.content.useCases %}<li>{{ u }}</li>{% endfor %}</ul>
+  {% if tool.content.goodToKnow %}<p><b>Good to know:</b> {{ tool.content.goodToKnow }}</p>{% endif %}
+  <p class="small"><span class="tag">AI-WRITTEN</span> This section was written by AI from what the {{ tool.title }} website said
+    ({{ tool.content.reviewed | monthYear }}), then checked against the website by a second AI pass. It may be out of date;
+    check the website before you sign up. <a href="mailto:{{ site.contactEmail }}?subject={{ ('Correction: ' + tool.title) | urlencode }}">Spot a mistake?</a></p>
+  {% endif %}
+
   {% if tool.siteDesc %}
   <h2>In their own words</h2>
   <blockquote class="note" style="font-size:15px">&ldquo;{{ tool.siteDesc }}&rdquo;<br><span class="small">&mdash; from the {{ tool.title }} website</span></blockquote>
@@ -39,8 +50,6 @@ permalink: "/tool/{{ tool.slug }}/"
 
   {% set guide = guides[tool.cat.slug] %}
   {% if guide %}
-  <h2>How to choose</h2>
-  <ol>{% for tip in guide.howTo | batch(3) | first %}<li>{{ tip }}</li>{% endfor %}</ol>
   <p class="small"><a href="/directory/{{ tool.cat.slug }}/">Full guide to choosing {{ tool.cat.name | lower }} tools &raquo;</a></p>
   {% endif %}
 
