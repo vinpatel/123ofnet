@@ -1048,7 +1048,7 @@
         {
           "title": "Writesonic",
           "url": "https://writesonic.com",
-          "note": "AI writer for blog posts and SEO content"
+          "note": "Tracks and improves how your brand shows up in AI chatbot answers"
         },
         {
           "title": "Hemingway Editor",
@@ -1163,7 +1163,7 @@
         {
           "title": "Writecream",
           "url": "https://www.writecream.com",
-          "note": "AI writer for cold emails, blogs and marketing copy"
+          "note": "AI helpers that handle blogging, email outreach and review replies"
         },
         {
           "title": "ClosersCopy",
@@ -2162,11 +2162,6 @@
           "title": "Yoodli",
           "url": "https://yoodli.ai",
           "note": "AI speech coach for interviews and presentations"
-        },
-        {
-          "title": "Interview Warmup",
-          "url": "https://grow.google/certificates/interview-warmup/",
-          "note": "Google's free interview practice tool"
         },
         {
           "title": "Careerflow",
@@ -5285,11 +5280,6 @@
           "note": "Makes songs instantly with AI and lets you release them"
         },
         {
-          "title": "Soundful",
-          "url": "https://soundful.com",
-          "note": "Generates royalty-free music tracks by genre"
-        },
-        {
           "title": "Loudly",
           "url": "https://www.loudly.com",
           "note": "AI music generator and royalty-free music library"
@@ -7613,7 +7603,7 @@
         {
           "title": "HubSpot AI",
           "url": "https://www.hubspot.com/products/artificial-intelligence",
-          "note": "AI for marketing, sales and customer service"
+          "note": "HubSpot Agent Hub: AI agents for marketing, sales and customer service"
         },
         {
           "title": "10Web AI Website Builder",
@@ -10170,7 +10160,7 @@
         {
           "title": "Augment Code",
           "url": "https://www.augmentcode.com",
-          "note": "AI coding assistant and agent with deep context of large codebases"
+          "note": "AI coding agents for code review, tickets and routine dev tasks"
         },
         {
           "title": "Qodo",
@@ -10221,11 +10211,6 @@
           "title": "Amazon Q Developer",
           "url": "https://aws.amazon.com/q/developer/",
           "note": "AWS AI assistant for coding, testing, and cloud operations"
-        },
-        {
-          "title": "Gemini Code Assist",
-          "url": "https://codeassist.google",
-          "note": "Google AI coding assistant for IDEs and code review"
         },
         {
           "title": "Trae",
@@ -10280,7 +10265,7 @@
         {
           "title": "Bito",
           "url": "https://bito.ai",
-          "note": "AI code review and model routing for coding agents"
+          "note": "Sends coding-agent requests to the right-sized AI model to control costs"
         },
         {
           "title": "Korbit",
@@ -10551,11 +10536,6 @@
           "title": "Dagger",
           "url": "https://dagger.io",
           "note": "Programmable CI/CD engine with AI agent support"
-        },
-        {
-          "title": "Vanna",
-          "url": "https://vanna.ai",
-          "note": "Open-source text-to-SQL framework using RAG"
         },
         {
           "title": "Supabase",
