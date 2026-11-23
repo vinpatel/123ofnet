@@ -1,0 +1,9 @@
+{
+  "_note": "Tools removed from the directory because they shut down or stopped working, with a short public reason. Shown as the 'AI Tool Graveyard' in the GitHub list. Do NOT add tools removed at the owner's request (those go in excluded.json only).",
+  "tools": [
+    {"name": "Soundful", "category": "Video & Audio", "removed": "2026-11-23", "reason": "Website says the product is no longer available to the public"},
+    {"name": "Gemini Code Assist (individual edition)", "category": "Developer", "removed": "2026-11-23", "reason": "Google shut down the individual edition on June 18, 2026"},
+    {"name": "Vanna (hosted service)", "category": "Developer", "removed": "2026-11-23", "reason": "Hosted service shut down; the open-source library lives on"},
+    {"name": "Interview Warmup", "category": "Career & Jobs", "removed": "2026-11-23", "reason": "Its link now redirects to a general interview-tips article"}
+  ]
+}

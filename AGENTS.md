@@ -21,6 +21,9 @@ archive/research/     Verifier reports (what each tool's website said when check
 worker/               Cloudflare Worker (api.123ofnet.com): counter, guestbook, chat, webring.
 scripts/              verify-tools.py, merge-tools.py, link-report.py, indexnow.sh, fetch-wayback.sh.
   (data/link-check-reviewed.json = flagged tools a person checked and kept)
+  (data/removed.json = dead tools removed, with a public reason; shown as the GitHub list's Graveyard.
+   Owner opt-outs go in data/excluded.json only, never in removed.json)
+  (scripts/build-awesome.mjs builds github.com/vinpatel/awesome-ai-tools; that repo rebuilds itself weekly)
 ```
 
 ## Commands

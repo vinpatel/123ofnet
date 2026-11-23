@@ -10,6 +10,7 @@ screen.
 - **Roadmap:** [PLAN.md](PLAN.md)
 - **Look & feel:** [DESIGN.md](DESIGN.md)
 - **For AI agents/contributors:** [AGENTS.md](AGENTS.md)
+- **The directory as an open list:** [vinpatel/awesome-ai-tools](https://github.com/vinpatel/awesome-ai-tools) (built weekly by `scripts/build-awesome.mjs`; removed tools with reasons go in `data/removed.json`)
 
 ## Stack
 - Static site: Eleventy → GitHub Pages (`123ofnet.com`)
