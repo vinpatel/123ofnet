@@ -1,0 +1,47 @@
+---
+layout: base.njk
+title: "Remove Your Tool (Opt-Out)"
+permalink: /opt-out/
+description: "Own an AI tool listed on 123ofnet.com and want it taken down? Removal is free, needs no reason, and is usually done within 5 business days."
+crumbs: [{name: "Home", url: "/"}, {name: "Remove Your Tool", url: "/opt-out/"}]
+---
+<div class="content">
+  <h1>Remove your tool from 123ofnet.com</h1>
+  <p>123ofnet.com is an independent directory. We list AI tools we think are useful, and we don't need the maker's
+  permission to do that. But if you own a listed tool and don't want to be here, <b>we'll take it down.
+  It's free, and you don't have to give a reason.</b></p>
+
+  <h2>How to opt out</h2>
+  <ol>
+    <li>Email <a href="mailto:{{ site.contactEmail }}?subject={{ 'Opt-out request' | urlencode }}&body={{ 'Tool name:\nTool website:\nLink to the 123ofnet.com page:\nYour name and role:\n\n(Please send this from an email address at the tool\'s own domain.)' | urlencode }}">{{ site.contactEmail }}</a>
+      with the subject <b>Opt-out request</b>.</li>
+    <li>Tell us the tool's name and website. A link to its page here helps.</li>
+    <li><b>Send it from an email address at the tool's own domain</b> (for example, <i>you@yourtool.com</i>).
+      That's how we know the request really comes from the owner.</li>
+  </ol>
+  <p class="small">Can't email from your domain? Tell us, and we'll give you a short code to put in a DNS TXT record
+  or on a page of your website instead.</p>
+
+  <h2>What happens next</h2>
+  <ul>
+    <li>We remove the listing, its tool page, and any mention in our quick picks, usually <b>within 5 business days</b>.</li>
+    <li>We add your domain to our <b>do-not-list file</b>, so it won't come back when we add new tools.</li>
+    <li>The removal also takes it out of our sitemap, site search, <a href="/llms.txt">llms.txt</a>, and the Webmaster chat bot.
+      We ask search engines to re-check the old page, but we can't control how fast they drop it.</li>
+    <li>We email you when it's done.</li>
+  </ul>
+
+  <h2>Would a fix be better?</h2>
+  <p>If the listing is just out of date, wrong, or in the wrong category, we'll fix it instead.
+  Email <a href="mailto:{{ site.contactEmail }}?subject={{ 'Correction request' | urlencode }}">{{ site.contactEmail }}</a>
+  with what's wrong. Corrections are free too.</p>
+
+  <h2>Good to know</h2>
+  <ul>
+    <li>Removal is free. We never charge to take a listing down or to fix one.</li>
+    <li>If you paid for Fast Track or Featured and ask us to remove your tool, see the refund rules in our <a href="/terms/#paid">Terms of Use</a>.</li>
+    <li>Copies kept by other websites (for example, web archives or search engine caches) are outside our control.</li>
+    <li>Want to be listed again later? Just <a href="/submit/">submit your tool</a> and we'll take you off the do-not-list file.</li>
+  </ul>
+  <p>Not the owner, but think a listing is harmful or breaks the law? See <a href="/terms/#complaints">complaints &amp; takedowns</a>.</p>
+</div>
